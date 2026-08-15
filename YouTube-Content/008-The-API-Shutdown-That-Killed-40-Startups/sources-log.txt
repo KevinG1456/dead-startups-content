@@ -1,0 +1,169 @@
+Sources Log — Package 008: Meerkat (Twitter) / Viddy (Facebook)
+Filled in: 2026-08-13
+
+WHY THIS FILE EXISTS
+This title was originally a structural framework built around an unsourced "40 startups
+in one day" claim — the package's own README explicitly warned not to record that
+figure without a citation. Research (multiple targeted searches, see below) found no
+real, citable count of "40 startups" killed by any single API/platform event, and no
+named, VC-funded startup casualty tied to either the 2018 Google Maps Platform pricing
+change or the 2023 Twitter API paywall. What research DID find: two real, independently
+verified, VC-funded startups — Meerkat and Viddy — each killed or crippled by a platform
+decision, on two different platforms, through two structurally different mechanisms
+(a deliberate access cutoff vs. an incidental algorithm change). This package is now
+built as a matched pair around those two verified cases instead of an invented number.
+
+---
+
+MEERKAT (Twitter)
+
+COMPANY / FOUNDER
+- Meerkat — live video-streaming app, made by Life On Air, Inc.
+- Founder/CEO: Ben Rubin.
+Source: TechCrunch, CNN Money.
+
+FUNDING
+- $14M raised, announced March 26, 2015. Led by Greylock Partners (partner Josh Elman
+  joined the board). Other investors: Aleph, Broadway Video Ventures, CAA Ventures,
+  Comcast Ventures, Entree Capital, Raine Ventures, Sherpa, Slow Ventures, Sound
+  Ventures, Universal Music Group, UTA, Vayner/RSE, WME.
+- IMPORTANT SEQUENCE DETAIL: this $14M closed AFTER the Twitter API cutoff below, not
+  before — investors funded Meerkat roughly two weeks after Twitter had already choked
+  off its access. Do not imply in the script that Twitter cut off a startup that hadn't
+  yet proven it could raise money; the raise happened despite/because of the public
+  drama, not before it.
+Source: TechCrunch ("Greylock Confirms Its Rumored Investment In Meerkat," Mar 26 2015,
+techcrunch.com/2015/03/26/greylock-confirms-its-rumored-investment-in-meerkat/), CNN
+Money (money.cnn.com/2015/03/26/technology/meerkat-funding/index.html).
+
+THE API CUTOFF
+- Friday, March 13, 2015: Twitter cut off Meerkat's access to Twitter's social graph
+  (the feature that let Meerkat users automatically find their Twitter friends already
+  using the app). Same day: Twitter announced it was acquiring Meerkat's direct
+  livestreaming rival, Periscope. Same day: SXSW 2015 began — the festival where
+  Meerkat had just broken out as the buzziest app in tech.
+Source: VentureBeat (venturebeat.com/2015/03/13/twitter-cripples-meerkat-by-cutting-off-
+access-to-its-social-graph/), TechCrunch (techcrunch.com/2015/03/13/twitter-starts-
+breaking-meerkat-features-by-limiting-social-graph-access/), BuzzFeed News
+(buzzfeednews.com/article/mathonan/twitter-chokes-off-meerkats-access-to-its-social-
+graph), Engadget (engadget.com/2015/03/14/meerkat-cut-off-from-twitter/).
+
+THE OUTCOME
+- Meerkat kept operating for another 18 months after the cutoff.
+- October 4, 2016: Meerkat app officially removed/killed; Life On Air pivoted the team
+  and company to a new product, Houseparty.
+Source: TechCrunch ("Meerkat, Star Of 2015, Is Officially Dead," Sep 30 2016,
+techcrunch.com/2016/09/30/meerkat-star-of-2015-is-officially-dead/).
+
+THE FORENSIC TWIST — founder's own account complicates the popular narrative
+- Ben Rubin told TechCrunch the decision to pivot away from Meerkat was made roughly
+  six months after launch, and attributed it primarily to the livestreaming/broadcast
+  category itself never becoming "a daily habit" for users — not primarily to Twitter's
+  API cutoff.
+  [FLAG: this is a single-sourced founder quote, not independently corroborated by a
+  second outlet. Present it clearly as "Rubin's own account," not as an independently
+  confirmed cause — and note that a founder explaining a shutdown after the fact has
+  an obvious incentive to downplay a competitor's role in it. Both readings (API
+  cutoff mattered a lot / founder says it wasn't the main reason) should be presented,
+  not resolved into a single confident claim.]
+Source: TechCrunch (same Sep 30 2016 piece cited above).
+
+---
+
+VIDDY (Facebook)
+
+COMPANY / FOUNDERS
+- Viddy — social video-sharing app ("Instagram for video").
+Source: TechCrunch, Recode.
+
+FUNDING
+- $2.8M seed: New Enterprise Associates (NEA), Battery Ventures.
+- $6M Series A: February 2012.
+- $30M Series B: confirmed May 11, 2012. Investors: NEA, Goldman Sachs, Khosla
+  Ventures, Battery Ventures. Valued Viddy at $370M.
+- Total lifetime funding: reported as roughly $36M–$39.3M across sources — figures
+  are inconsistent between outlets. [VERIFY exact total before stating one precise
+  lifetime figure on screen; safe to say "more than $36M" without a false-precision
+  single number.]
+Source: TechCrunch ("Viddy Officially Closes $30M Series B... At A $370M Valuation,"
+May 11 2012, techcrunch.com/2012/05/11/viddy-30m-confirmed).
+
+THE MECHANISM — an algorithm/visibility change, NOT an API access revocation
+- Viddy grew by riding Facebook's frictionless-sharing Open Graph integration, reaching
+  27M+ registered members via automatic Facebook Timeline posts.
+- May 31, 2012: Facebook introduced a "10-second rule" crackdown on auto-sharing spam
+  (a policy/algorithm change affecting how visible auto-shared Open Graph posts were in
+  the News Feed), reducing the visibility of Viddy's (and similar apps') automated
+  shares.
+  [IMPORTANT DISTINCTION FOR THIS SCRIPT: this was Facebook changing News Feed
+  visibility/ranking rules broadly, not Facebook revoking Viddy's API keys or blocking
+  Viddy's access outright the way Twitter did to Meerkat. Do not describe this as an
+  "API shutdown" in the literal sense — the title's contrast between Meerkat (hard
+  access cutoff) and Viddy (visibility/algorithm change) is the actual point being
+  made, and collapsing that distinction would misstate what happened.]
+Source: TechCrunch ("Facebook Finally Cracks Down On Auto-Sharing Spam With '10-Second
+Rule'," May 31 2012, techcrunch.com/2012/05/31/facebook-auto-sharing/).
+
+THE COLLAPSE — real numbers
+- Daily active users: ~5M (late April 2012) fell to ~1M (end of May 2012) — a drop of
+  more than 80% in about a month.
+Source: Los Angeles Business Journal ("Video App Lost Facebook, Focus,"
+labusinessjournal.com/media/video-app-lost-facebook-focus/).
+- February 25, 2013: Viddy cut 12 staff — more than a third of headcount — following a
+  CEO departure.
+Source: TechCrunch ("After CEO Departure, Mobile Video Startup Viddy Cuts Staff By More
+Than A Third," techcrunch.com/2013/02/25/viddy-cuts-deep).
+
+THE OUTCOME
+- Rebranded as "Supernova," acquired by Fullscreen for $20M, announced January 15,
+  2014 — down from the $370M valuation just 20 months earlier.
+Source: Recode (recode.net/2014/1/15/11622370/viddy-the-instagram-for-video-that-wasnt-
+acquired-by-web-video), Variety (variety.com/2014/digital/news/fullscreen-buys-
+supernova-mobile-video-startup-formerly-known-as-viddy-1201059711/).
+- Final shutdown: December 15, 2014, under Fullscreen ownership.
+Source: TechCrunch ("Viddy, Once Touted As 'The Instagram For Video,' Will Shut Down On
+December 15," techcrunch.com/2014/11/04/viddy-once-touted-as-the-instagram-for-video-
+will-shut-down-on-december-15).
+
+---
+
+CANDIDATES CHECKED AND DELIBERATELY NOT USED
+
+- Socialcam: same Facebook frictionless-sharing ecosystem, but this is NOT a platform-
+  kill story — Socialcam sold to Autodesk for $60M (deal completed Aug 1, 2012, per SEC
+  filings) while it was still the #1 Facebook app, then ran three more years under
+  Autodesk before shutting down Oct 28, 2015 for unrelated strategic reasons. Do not
+  present Socialcam as a casualty of the same mechanism that hit Viddy — if referenced
+  at all, use only as a one-line contrast ("the one that cashed out before the
+  crackdown caught it").
+- Google Maps Platform pricing overhaul (announced May 2018, effective July 16, 2018):
+  real, well-documented pricing shock (free tier cut from 25,000 to ~933 map-loads/day;
+  some accounts saw effective price increases reported up to ~9,000%), but no specific,
+  named, VC-funded startup was found in reliable press whose death is directly
+  attributed to it — coverage is diffuse "many small businesses/developers affected."
+  Do not use as a primary case; usable only as one-line background context on the
+  broader theme if needed.
+- 2023 Twitter API paywall (third-party API access blocked ~Jan 12-13, 2023 without
+  warning; formalized Feb 2023 with $100–$42,000/month paid tiers): real casualties
+  (Tweetbot/Tapbots, Twitterrific/Iconfactory, Echofon, Fenix, Talon) are all small
+  indie/bootstrapped developer apps, not VC-funded startups — doesn't fit this
+  channel's "funded company" niche. The widely-repeated "25+ third-party clients
+  killed overnight" figure traces to a single X/Twitter post (Aakash Gupta), not
+  primary journalism — do not cite that count as confirmed.
+
+---
+
+BEFORE RECORDING
+1. Do not state the Viddy lifetime funding total as one precise figure — sources
+   split between roughly $36M and $39.3M. Say "more than $36M" or similar.
+2. Present Ben Rubin's "it wasn't really the API cutoff" account as his own stated
+   view, not as an independently confirmed fact — pair it with the plainly documented
+   timeline (API cutoff same day as the Periscope deal and SXSW) and let the
+   contradiction between the two be part of the point, not resolved for the viewer.
+3. Keep the Meerkat/Viddy mechanism distinction precise on screen: Twitter's action
+   was a direct, targeted access cutoff; Facebook's was a broad anti-spam algorithm
+   change that hit Viddy (and others) as a side effect, not a decision aimed at Viddy
+   specifically. Do not flatten both into "an API shutdown" in the literal sense for
+   Viddy.
+4. Do not use "40 startups" or any other unsourced casualty count anywhere in this
+   package.

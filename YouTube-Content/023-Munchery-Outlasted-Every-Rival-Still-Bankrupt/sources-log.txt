@@ -1,0 +1,168 @@
+Sources Log — Package 023: Munchery
+Filled in: 2026-08-14
+
+WHY THIS FILE EXISTS
+Munchery came up twice in prior research on this channel but was never deep-verified
+or built into its own package. During the 001 (Sprig) pass it was checked as an
+alternative anchor and rejected — "no clean, multiply-sourced ARR figure comparable
+to Sprig's founder-confirmed run rate," numbers "messier and less quotable." During
+the 015 (shutdown letters) pass, its January 2019 shutdown announcement was included
+in the real letter corpus ("with a heavy heart," gratitude-heavy, no cause named on
+screen). This package is the full, deep treatment.
+
+---
+
+FOUNDING
+
+- Founded 2010 (idea stage), launched publicly May 2011, San Francisco.
+- Founders: Tri Tran (CEO) and Conrad Chu (a former colleague from GetActive/Convio).
+- Tri Tran: MIT-educated (BS/MEng, EECS), previously Director of Engineering at
+  Convio/GetActive. His personal background as a Vietnamese refugee is covered in
+  depth in a Bloomberg feature ("How a Vietnamese Refugee Is Rethinking Food
+  Delivery in America," Jan 2016) and an Inc. profile — usable human-interest
+  material for a founder-portrait beat, not core to the financial narrative.
+- Pitch: gourmet, chef-prepared meals with a rotating daily menu, delivered same-day
+  — explicitly positioned against restaurant-marketplace delivery (the model
+  DoorDash/Grubhub use) and against meal-kit companies (Blue Apron).
+Source: Wikipedia, VatorNews, Inc.com, Bloomberg.
+
+---
+
+FUNDING — mostly reconciled, one disputed figure flagged
+
+- Seed: $210K (2012, private investors).
+- Series A: $4M (September 2013, Menlo Ventures, Sherpa Ventures).
+- Series B: $28M (April 2014, led by Sherpa Ventures; e.ventures and Menlo
+  participating).
+- Major round: $85M, announced May 2015, led by Menlo Ventures and Sherpa Ventures,
+  with NorthGate Capital, 137 Ventures, Mousse Partners, e.ventures, and Greycroft
+  participating. Valued Munchery at approximately $300M. Brought cumulative funding
+  to $117.2M at that point. [This round is labeled inconsistently across sources —
+  "Series C" per TechCrunch, "Series D" per other aggregators. Present as "a major
+  2015 round" rather than asserting one specific series letter as fact.]
+- 2017 down-round/recap attempt: reported effort to raise $15M via a convertible
+  note capped at an $80M valuation — roughly a quarter of the 2015 peak.
+  *** DISPUTED: Munchery publicly pushed back on this characterization at the time,
+  stating existing investors could all participate and that there was no
+  valuation/note cap as described. Present BOTH the reported terms AND Munchery's
+  own denial — do not state the $80M cap as uncontested fact. ***
+- Total lifetime funding: reported inconsistently across sources — "$100M+,"
+  "$117.2M," "$120M+," "$124M across 5 rounds/16 investors," and "$125M" all
+  appear. Use "over $120M, commonly cited around $125M" rather than one precise
+  figure.
+Source: TechCrunch (funding-round coverage), Crunchbase-style aggregation, the 2017
+TechCrunch piece specifically covering the disputed down-round ("It sounds like
+Munchery's early investors are screwed," March 2017).
+
+---
+
+BUSINESS MODEL
+
+- Vertically integrated: large industrial/commissary kitchens, in-house "Resident
+  Chefs" plus outside "Chef Partners," and Munchery's own delivery drivers —
+  structurally similar to Sprig's owned-kitchen model (already covered in this
+  channel's package 001), a useful direct comparison point for the script.
+- Peak markets: San Francisco, New York, Los Angeles, and Seattle.
+- Reportedly served 5,000+ meals a day in a single city at peak.
+- Peak headcount: not confirmed in this research pass — do not state a specific
+  number on screen without further sourcing.
+Source: Bloomberg, TechCrunch, general contemporaneous coverage.
+
+---
+
+THE FINANCIAL DISTRESS
+
+- Bloomberg reported Munchery losing up to $5M a month, wasting approximately 16%
+  of the food it prepared, and routinely pressuring cooks to cut ingredient costs —
+  this reporting clustered around November 2016, alongside the CEO change below.
+- November 2016: co-founder/CEO Tri Tran steps down, moving to Chief Strategy
+  Officer (he later departed the company entirely). James Beriker is installed as
+  President/CEO.
+- January 2017: approximately 30% of headquarters staff laid off, described in
+  coverage as following "founder departures" — this happened one week after a
+  competitor (Zesty)'s own layoffs. This is a real, dateable downsizing event
+  distinct from the final 2019 shutdown — do not conflate the two.
+- May 2018: Munchery shuts down its Los Angeles, New York, and Seattle operations
+  entirely, retreating to San Francisco only — a full year of retrenchment before
+  the final collapse.
+Source: Bloomberg, Mattermark, TechCrunch.
+
+---
+
+THE SHUTDOWN — precisely dated
+
+- January 21, 2019: Munchery abruptly ceases operations, notifying customers by
+  email the same day. Employees were reportedly left in the dark about the timing;
+  vendors were reportedly NOT notified at all.
+- 257 employees laid off.
+- Damning, script-worthy detail: Munchery continued actively marketing gift cards
+  to customers in December 2018 — weeks before the shutdown.
+- February 28, 2019: Chapter 11 bankruptcy filing. In the filing, CEO James Beriker
+  cited "increased competition, over-funding, aggressive expansion efforts, and
+  Blue Apron's failed IPO" as reasons for the collapse. THIS IS A RARE, ON-RECORD,
+  COURT-FILED CAUSAL STATEMENT — stronger sourcing than most founder retrospective
+  quotes, since it's part of an official bankruptcy filing, not a press interview.
+- Debts: $28.5M in secured debt to lenders; $6M in unsecured debt, split roughly
+  evenly between 230 vendors/suppliers and thousands of customers holding
+  unfulfilled gift cards.
+Source: TechCrunch, contemporaneous press coverage of the shutdown and bankruptcy
+filing.
+
+WARN ACT LAWSUIT
+- A WARN Act class action was filed January 25/28, 2019, by former facilities
+  worker Joshua Philips on behalf of approximately 250 employees, seeking 60 days'
+  wages under the federal WARN Act and California Labor Code — Munchery gave no
+  advance notice of the shutdown.
+- The case reportedly settled in 2020, with final court approval around 2021. One
+  source (warnlawyers.com) cites a $475,000 settlement figure — SINGLE-SOURCED,
+  flag as such rather than stating it as confirmed fact.
+Source: warnlawyers.com (single source for the settlement figure — corroborate
+further before stating the exact dollar amount on screen with full confidence).
+
+---
+
+CATEGORY COMPARISON — Munchery outlasted both of this channel's other prepared-meal
+casualties
+
+Munchery is the last and most heavily-funded survivor of the vertically-integrated
+"on-demand meal" category this channel has now covered three times:
+- SpoonRocket ($13.5M raised) collapsed March 2016.
+- Sprig ($56.7M raised, covered in this channel's package 001) collapsed May 2017.
+- Munchery ($120M+ raised) held on until January 2019 — nearly three years after
+  the category's first casualty (SpoonRocket) and about 20 months after Sprig.
+This "outlasted everyone, still lost" framing is a strong, sourced angle distinct
+from Sprig's story — more capital and more time did not solve the same underlying
+structural problem (vertically-integrated meal production at thin margins).
+Source: cross-referenced against this channel's own package 001 sources-log for the
+Sprig/SpoonRocket dates.
+
+---
+
+FOUNDER AFTERMATH
+
+- No on-record quote was found in this research pass of Tri Tran reflecting on
+  Munchery's collapse or stating lessons learned — do not invent one.
+- Post-Munchery, Tran is described in later profiles as an entrepreneur/consultant/
+  angel investor; a low-confidence LinkedIn-sourced detail associates him with
+  Assisting Hands, a home care franchise, at some later point. This is thin,
+  single-sourced information — flag clearly if used at all, don't build a narrative
+  beat on it.
+Source: LinkedIn-derived aggregation (low confidence, single-sourced).
+
+---
+
+BEFORE RECORDING
+1. Do not state the $80M valuation cap on the 2017 note as uncontested fact —
+   present both the reported terms and Munchery's own public denial.
+2. Do not state one precise total lifetime funding figure — use "over $120M,
+   commonly cited around $125M."
+3. Do not conflate the January 2017 layoffs (30% of HQ staff) with the January
+   2019 final shutdown — these are two distinct, separately-dated events.
+4. Flag the $475,000 WARN settlement figure as single-sourced if used.
+5. Do not state a specific peak headcount figure — not confirmed in this pass.
+6. The gift-card-marketing-in-December detail and the bankruptcy filing's own
+   stated causes are the two strongest, most verifiable dramatic beats — lead with
+   these rather than any invented framing.
+7. Keep the Tri Tran aftermath material clearly flagged as low-confidence if used
+   at all — do not build a founder-redemption or founder-accountability narrative
+   beat that the sourcing doesn't support.

@@ -1,0 +1,165 @@
+Sources Log — Package 027: 23andMe
+Filled in: 2026-08-15
+
+WHY THIS FILE EXISTS
+23andMe is a genuinely different failure shape from every other package on this
+channel: not primarily a burn-rate, unit-economics, or platform-risk story, but a
+company whose core asset — genetic data belonging to over 15 million real people —
+became a liability after a catastrophic breach, which then collapsed shareholder
+and board confidence, which then triggered the bankruptcy. It also went public via
+SPAC (like 025/Sonder) and involves a still-living, non-charged founder attempting
+a comeback (structurally close to 026/WeWork's Neumann arc, though the details are
+very different) — worth cross-referencing both packages on screen.
+
+---
+
+FOUNDING
+- Founded 2006 by Anne Wojcicki, Linda Avey, and Paul Cusenza.
+- Business: direct-to-consumer genetic testing (saliva-sample DNA kits) providing
+  ancestry and health-risk information; later built a research/pharma data-
+  licensing business on top of its accumulated genetic database.
+Source: Caproasia bankruptcy-filing summary; multiple corroborating company-history
+aggregator pages (Wikipedia-style summaries).
+
+FUNDING AND SPAC IPO
+- Total funding raised prior to going public: reported as "just under $900
+  million," including an $85 million Series F round announced shortly before the
+  SPAC announcement (as of the Feb 2021 SPAC deal announcement). *** Treat as an
+  approximate pre-IPO figure, not a single precise all-time total — consistent
+  with this channel's standard hedge for messy aggregator figures (see 025's
+  Sonder funding note for the same pattern). ***
+- February 2021: 23andMe announced it would go public via a SPAC merger with VG
+  Acquisition Corp., a SPAC backed by Sir Richard Branson's Virgin Group. The
+  deal was expected to give 23andMe roughly $984 million in cash at close and
+  valued the company at approximately $3.5 billion.
+- After the merger closed (2021), 23andMe's market value briefly crossed $6
+  billion at listing — the headline "peak" figure for this package (note:
+  distinct from the $3.5B deal-announcement valuation; the higher figure reflects
+  where the stock actually traded shortly after listing, not the deal terms
+  themselves — state which figure is being used when citing either one).
+- Anne Wojcicki became a self-made billionaire on paper as a result of the SPAC
+  deal (June 2021 reporting).
+Source: Forbes ("23andMe's Anne Wojcicki Becomes Newest Self-Made Billionaire",
+Jun 17 2021); Built In SF (SPAC announcement coverage); Caproasia (bankruptcy
+summary citing the post-listing $6B peak market value).
+
+THE 2023 DATA BREACH — precisely detailed, handle with care (real people, real
+sensitive data, an incident that specifically targeted people by ethnicity)
+- Attack method: a credential-stuffing attack (reusing usernames/passwords leaked
+  from OTHER, unrelated prior breaches to log into 23andMe accounts that reused
+  the same credentials) — NOT a breach of 23andMe's own systems/database directly.
+  Began approximately April 29, 2023, continued for about five months.
+- Approximately 14,000 individual user accounts were directly compromised via
+  credential stuffing. Because of 23andMe's "DNA Relative" family-matching
+  feature, compromising those 14,000 accounts exposed data belonging to
+  approximately 6.9 million total users (the feature shows genetic-relative
+  connections across the platform, so compromising one account exposes
+  information about people connected to it).
+- 23andMe did not require two-factor authentication at the time, and its
+  password policy required only a minimum of eight characters with minimal
+  complexity requirements — contributing factors cited in subsequent security
+  analysis (HIPAA Journal, Dark Reading, and a joint Canada/UK privacy-regulator
+  investigation).
+- The breach was publicly revealed October 6, 2023, after a hacker using the
+  pseudonym "Golem" posted a database on BreachForums (a cybercriminal forum)
+  labeled "Ashkenazi DNA Data of Celebrities," and separately claimed to possess
+  data belonging to 350,000 users of Chinese heritage, offering both datasets for
+  sale. *** This is a real, well-documented, and serious detail — the breach was
+  specifically marketed by the attacker as targeting people of Ashkenazi Jewish
+  and Chinese ancestry. Present factually and soberly, attributed to the
+  reporting (JTA, Forward, Times of Israel, Jerusalem Post all covered this
+  specific detail), without sensationalizing — this is a legitimate, necessary
+  part of the story (it directly shaped the resulting lawsuits and regulatory
+  response), not an optional shock beat. ***
+- September 2024: 23andMe agreed to a $30 million settlement of the resulting
+  class-action lawsuit covering the roughly 6.9 million affected users. (One
+  source, HIPAA Journal, later references a revised $50 million settlement figure
+  in bankruptcy-court proceedings — *** flag as [VERIFY]: the $30M figure is the
+  more widely and consistently reported number as of the original Sept 2024
+  settlement; a later, larger figure may reflect a bankruptcy-court revision —
+  do not state one precise final settlement number without rechecking closer to
+  recording. ***)
+- A joint investigation by Canada's Privacy Commissioner and the UK's Information
+  Commissioner's Office later concluded and publicly criticized 23andMe's
+  security practices in connection with this breach (June 2025 report).
+Source: Security.org breach summary; HIPAA Journal; Dark Reading; JTA, Forward,
+Times of Israel, Jerusalem Post (Ashkenazi/Chinese targeting + $30M settlement,
+all Sept 2024); Office of the Privacy Commissioner of Canada (joint regulatory
+findings, 2025).
+
+THE BOARD COLLAPSE AND BANKRUPTCY — precisely dated
+- Throughout 2024, Anne Wojcicki repeatedly proposed taking 23andMe private,
+  submitting multiple proposals to the board's special committee.
+- September 17, 2024: all seven independent directors resigned from the board on
+  the same day — Roelof Botha, Patrick Chung, Sandra Hernández, Neal Mohan,
+  Valerie Montgomery Rice, Richard Scheller, and Peter Taylor. Their resignation
+  letter stated Wojcicki had not delivered "a fully financed, fully diligenced,
+  actionable proposal that is in the best interests of the non-affiliated
+  shareholders," despite months of engagement. *** This is a rare, on-record,
+  board-level statement of no confidence — comparable in strength to the
+  bankruptcy-filing causal statements this channel has used before (e.g., James
+  Beriker's court-filed statement in 023/Munchery) — use it directly rather than
+  a paraphrase. ***
+- November 2024: 23andMe cut over 200 employees (about 40% of remaining
+  workforce) and discontinued its therapeutics/cancer-research division as an
+  emergency cost-cutting measure following the board exodus.
+- March 23-24, 2025: 23andMe filed for Chapter 11 bankruptcy in Delaware. Anne
+  Wojcicki resigned as CEO effective immediately (remaining only as a board
+  member), citing declining stock value, the fallout from the 2023 breach,
+  workforce cuts, and the board collapse as the converging causes.
+- A two-stage bankruptcy auction followed, contested between Regeneron
+  Pharmaceuticals and Anne Wojcicki herself (bidding through TTAM Research
+  Institute, a nonprofit she founded specifically to try to reacquire the
+  company's assets). The bankruptcy court approved a $305 million sale to TTAM
+  Research Institute — meaning Wojcicki ultimately did regain control of the
+  company's assets, including the genetic data of more than 15 million
+  customers, but only after the public-company structure itself had been wiped
+  out through bankruptcy. *** This TTAM outcome is a genuinely unusual ending —
+  worth an explicit on-screen note that the founder ended up back in control of
+  the core asset (the data), just via a nonprofit vehicle and a much smaller sum
+  than the company's SPAC-era peak valuation. ***
+Source: CNBC (Sept 17 2024 board-resignation coverage, includes CEO memo); Fortune
+(Oct 17 2024 and Nov 12 2024, board fallout and layoffs); CNBC (Mar 24 2025,
+bankruptcy filing + CEO resignation); Yale Daily News (Mar 27 2025); Al Jazeera
+(Mar 24 2025); elevenflo.com ("23andMe: From $6B Unicorn to $305M Nonprofit Sale
+in Chapter 11" — TTAM sale summary, corroborated by multiple bankruptcy-court news
+outlets).
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- Like package 025 (Sonder) and package 026 (WeWork), 23andMe reached a public
+  listing (via SPAC) before ultimately collapsing — worth a brief on-screen note
+  that this channel has now covered three separate SPAC-to-bankruptcy stories,
+  each with a different proximate cause (Sonder: a partner's contract
+  termination; WeWork: chronic unprofitability plus a second market crash;
+  23andMe: a data breach's fallout compounding into a board revolt).
+- Like package 026 (WeWork/Neumann), 23andMe's founder is NOT charged with any
+  crime and ends the story still in control of a version of the company (via
+  TTAM) — a distinct "founder survives, company doesn't" pattern worth
+  contrasting with 029 (Ozy Media), where the founder faces the opposite outcome
+  (a real criminal conviction).
+
+---
+
+BEFORE RECORDING
+1. The 2023 breach was a CREDENTIAL-STUFFING attack (reused passwords from OTHER
+   breaches), not a direct breach of 23andMe's own systems — state this precisely,
+   it changes where responsibility/negligence discussion should focus (weak
+   password policy and no mandatory 2FA at the time, not a hacked database).
+2. Present the Ashkenazi Jewish/Chinese-ancestry targeting factually and
+   soberly, attributed to the specific reporting that covered it — this is a real
+   and legitimate part of the story, not a detail to sensationalize or to omit.
+3. Settlement figure: use $30 million as the primary, best-corroborated figure;
+   flag the later-referenced $50 million bankruptcy-court figure as [VERIFY] if
+   used, don't state one number as final without rechecking.
+4. Distinguish the $3.5B SPAC-deal-announcement valuation from the ~$6B peak
+   market value the stock actually reached shortly after listing — these are two
+   different, both-real numbers.
+5. Anne Wojcicki has not been charged with any crime — frame her story as
+   governance/crisis-management, not wrongdoing. No "fraud/scam/lied" language
+   applies to her personally.
+6. The TTAM Research Institute outcome means Wojcicki ultimately reacquired the
+   core assets — present this clearly as the actual ending, not a simple "company
+   died" story; it's closer in spirit to 020's "where dead companies' data
+   actually goes" theme, applied to the founder herself regaining control.

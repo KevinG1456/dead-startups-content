@@ -1,0 +1,132 @@
+Sources Log — Package 003: Garmin/TomTom (Google Maps Navigation) / Picturelife (free cloud storage)
+Filled in: 2026-08-13
+
+WHY THIS FILE EXISTS
+This title was originally a "platform risk, told 5 ways" structural framework with 5
+unverified candidate segments (cloud photo backup, web analytics, cloud storage, maps/
+navigation, email tools), each marked [VERIFY]. Research checked all 5 categories
+against real, dated, causally-direct sourcing. Only 1 of 5 (maps/navigation) turned up
+ironclad, multi-sourced direct causation — and it's a story about public hardware
+companies (Garmin, TomTom), not funded startups. A second category (cloud photo
+backup) turned up a real funded-startup casualty (Picturelife), but the causal story
+is multi-platform (Google + Apple + Amazon collectively), not Google-specific. The
+other three categories (web analytics, cloud storage, email tools) had NO defensible
+named casualty in reliable press and are dropped entirely. This package now ships as
+a 2-segment video instead of the originally planned 5, each segment's fit compromise
+disclosed explicitly on screen rather than glossed over.
+
+---
+
+SEGMENT 1: GARMIN / TOMTOM — the single clean, ironclad case
+
+THE EVENT
+- October 28, 2009: Google announced free, built-in turn-by-turn navigation for Android
+  phones (Google Maps Navigation), eliminating the need for a standalone GPS device or
+  a paid navigation app for most consumers.
+- Same day: TomTom's stock fell approximately 20-21%. Garmin's stock fell approximately
+  16%, wiping out roughly $1.2 billion of Garmin's market capitalization in a single
+  trading session.
+Source: Fast Company, Bloomberg, TechCrunch, Gizmodo (all covered the announcement and
+same-day stock reaction contemporaneously).
+
+THE FIT PROBLEM — disclose explicitly, do not gloss over
+- Garmin and TomTom are publicly-traded hardware companies, not VC-funded startups —
+  this does not match the channel's usual "funded software company" subject. This
+  package deliberately includes it anyway because it is the single cleanest, most
+  quantifiable, most directly-caused real-world example of "a giant platform launches
+  a free version and a market gets crushed the same day" — the literal mechanism the
+  original title promised — even though the company type is an exception to format.
+  Say so on screen, don't present it as if it were a funded-startup story.
+
+CANDIDATE CHECKED AND REJECTED: Dash Navigation
+- A VC-funded navigation-device startup ($41M raised from Kleiner Perkins, Sequoia)
+  that would have been a much better niche fit than Garmin/TomTom.
+- REJECTED — wrong timeline: RIM acquired Dash Navigation in June 2009, four months
+  BEFORE Google's October 2009 free-navigation announcement. Its layoffs and decline
+  predate the event entirely and cannot be attributed to it.
+
+---
+
+SEGMENT 2: PICTURELIFE — the real funded startup, multi-platform causation
+
+COMPANY / FOUNDER
+- Picturelife — cloud photo backup and organization app.
+- Founder: Charles Forman (also founder of OMGPOP).
+- Funding: $4.6M raised. Investors: Spark Capital, SV Angel, Chris Dixon, Founder
+  Collective, High Line Venture Partners, plus 7+ additional investors.
+Source: Crunchbase-style funding reporting, contemporaneous tech press.
+
+TIMELINE
+- Acquired by Streamnation in early 2015.
+- Shut down August 22, 2016.
+Source: Imaging Resource, Techmeme (contemporaneous shutdown coverage).
+
+THE CAUSAL STORY — multi-platform, not Google-specific
+- The company's own stated reason for shutting down, per Imaging Resource/Techmeme
+  coverage: "a challenging economic environment and a decreasing quality of service" —
+  vague corporate language, not a specific causal attribution to any one platform.
+- A secondary retrospective source (Sunset.hq — NOT primary journalism, could not be
+  directly fetched/verified in full during this research pass) suggests Picturelife
+  struggled to convert free users into paying customers while Google, Apple, AND
+  Amazon all simultaneously offered free or cheap cloud photo/file storage.
+  [FLAG: this secondary source could not be independently verified in this research
+  pass — treat its specific framing as a plausible but not fully confirmed account of
+  the mechanism. The funding, acquisition, and shutdown facts above ARE independently
+  confirmed; the precise causal narrative is the weaker-sourced part.]
+- IMPORTANT: do not say "Google killed Picturelife." The accurate claim is that
+  Picturelife couldn't survive in a market where cloud storage became free across
+  multiple major platforms simultaneously — Google was one of at least three, not the
+  sole or even clearly primary cause.
+
+---
+
+CANDIDATES CHECKED AND REJECTED (across all 5 original categories)
+
+Cloud photo backup:
+- Loom.com (photo/video backup app, unrelated to the current screen-recording Loom) —
+  REJECTED, wrong timeline: acquired by Dropbox April 2014 (had raised only $1.3M,
+  Google Ventures among its investors), migrated/shut down into Carousel by May 2014 —
+  over a year BEFORE Google Photos' free-unlimited launch (May 2015). Cannot be caused
+  by an event that hadn't happened yet.
+- Everpix — REJECTED, wrong timeline: shut down 2013, also predates Google Photos 2015.
+
+Web analytics vs. Google Analytics going free (2005):
+- ClickTracks — REJECTED: merged with J.L. Halsey/Lyris in 2006 and continued as a
+  rebranded product (Lyris HQ) for years afterward. Not a Google-caused death.
+- No other named, funded analytics startup with a direct, sourced causal link to GA's
+  free launch was found — only general "the analytics market dried up" commentary,
+  never one company's documented story. Category dropped entirely.
+
+Cloud file storage vs. Google Drive's free-tier moves:
+- Bitcasa — REJECTED: its confirmed cause of death (TechCrunch, Data Center Knowledge)
+  was self-inflicted unit economics — its own "unlimited" plan was being abused (one
+  user stored 82TB, costing Bitcasa $3-4k/month for that single account) — explicitly
+  NOT attributed to Google Drive or the 2014 cloud-storage price war by any source
+  found. Same mistake pattern as package 008's rejected Socialcam candidate.
+- The real 2014 "cloud storage price war" (Google cut prices ~80% in March 2014,
+  alongside Amazon/Microsoft/Dropbox) is well documented as an industry-wide event, but
+  no specific startup casualty tied primarily to Google's move specifically (rather
+  than the multi-competitor collapse generally) was found. Category dropped entirely.
+
+Email productivity tools vs. Gmail shipping features natively:
+- Mailbox (Dropbox-owned) — checked: shut down Feb 2016, timing roughly coincides with
+  Gmail/Inbox shipping a snooze feature, but Dropbox's and the Mailbox team's own
+  stated reason was a strategic refocus toward Dropbox Paper. No source ties the
+  shutdown to Gmail specifically. Category dropped entirely — flagged from the start
+  as the vaguest of the 5 original candidates, and that held up.
+
+---
+
+BEFORE RECORDING
+1. Do not claim "9 companies died" or force a 5-segment structure — this package ships
+   as 2 segments, both with their fit compromises stated on screen, not 5.
+2. Segment 1 (Garmin/TomTom): explicitly flag as public hardware companies, a
+   deliberate one-time exception to the channel's usual funded-startup format, included
+   because the causal mechanism is uniquely clean and quantifiable.
+3. Segment 2 (Picturelife): do not say "Google killed" it — say it couldn't survive
+   free storage from Google, Apple, and Amazon collectively. Flag the Sunset.hq-sourced
+   causal detail as secondary/not independently confirmed; keep the funding/acquisition/
+   shutdown facts (which are confirmed) clearly separated from the causal narrative
+   (which is weaker-sourced).
+4. Do not resurrect the web analytics, cloud storage, or email-tools categories without
+   new, better sourcing than what this pass found.

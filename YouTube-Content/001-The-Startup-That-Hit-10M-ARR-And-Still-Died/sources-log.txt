@@ -1,0 +1,157 @@
+Sources Log — Package 001: Sprig
+Filled in: 2026-08-13
+
+WHY THIS FILE EXISTS
+This title was a structural framework with two unverified candidates flagged in the
+package's own README: Fast and Stay Alfred. Research checked both against the actual
+premise of the title (a company with genuinely meaningful revenue, roughly $10M+ ARR,
+that still died from a real unit-economics failure, not just "ran out of money").
+Fast is disqualified outright — its real revenue never came close to $10M. Stay Alfred
+tells a real, teachable story but at 10x the revenue scale the title implies. Sprig is
+the anchor: a founder-confirmed ~$21-22M run rate, genuinely broken unit economics
+(owned kitchens, CAC > LTV), and an unusually candid, on-record founder retrospective
+across two separate interviews.
+
+---
+
+FAST — REJECTED, does not meet the title's premise
+
+- 2021 revenue: approximately $600,000, per The Information (syndicated via Morning
+  Brew/NPR). TechCrunch independently describes it as "six-figure revenue" — two
+  independent characterizations agree it was nowhere near $10M.
+- Burn: up to $10M/month.
+- Funding: $124.5M total, including a $102M Series B led by Stripe. PitchBook-reported
+  valuation approximately $580M post-money.
+- Shutdown: April 5, 2022, approximately 450 employees affected.
+Source: TechCrunch (techcrunch.com/2022/04/05/fast-shuts-doors-after-slow-growth-high-
+burn-precluded-fundraising-options/).
+CONCLUSION: Fast's real revenue directly contradicts this title's "$10M ARR" premise.
+It's a "$600K revenue at a $580M valuation" story, not a "$10M ARR, still died" story —
+a different, still-tellable title, but not this one. Not used.
+
+---
+
+STAY ALFRED — real story, wrong scale for this title, reserved for a future package
+
+- Revenue: $100M in FY2019, independently confirmed by CB Insights and Bisnow
+  ("on track to generate $100 million in revenue this year," pre-COVID). Founder
+  Jordan Allen, to the Spokane Journal: "amazing to think that a $100 million
+  company... could be wiped out by a virus from Wuhan, China."
+- Funding: reported as $47M (Series B, Oct 2018, Nine Four Ventures) to $62M total
+  (CB Insights) — sources vary; treat as "over $47M."
+- Model: master-lease arbitrage — Stay Alfred paid landlords fixed rent regardless of
+  occupancy, then re-let units as short-term rentals. Allen himself called this
+  structure a "foundational crack."
+- Collapse: temporarily closed March 2020; permanently closed May 20, 2020, after a
+  rescue financing round (~$30M) fell through.
+Source: CB Insights (cbinsights.com/company/stay-alfred/financials), Bisnow
+(bisnow.com/national/news/hotel/short-term-rentals-not-all-recovery-107308).
+CONCLUSION: a real, well-documented, teachable unit-economics story (fixed-lease
+obligations vs. variable revenue, COVID as the acute trigger revealing a structural
+flaw) — but its $100M revenue is roughly 10x this title's "$10M ARR" framing. Using it
+here would look like undershooting the real number to a fact-check-heavy audience.
+Flagged as a strong candidate for a SEPARATE, differently-titled future package (e.g.
+built around "$100M in Revenue, One Bad Lease Structure, Gone in 90 Days"). Not used
+here.
+
+---
+
+SPRIG — the anchor for this package
+
+COMPANY / FOUNDER
+- Sprig — on-demand meal delivery startup, founded 2013, owned and operated its own
+  kitchens (vertically integrated, not a marketplace of restaurants).
+- Co-founder and CEO: Gagan Biyani.
+Source: Mixergy interview, TechCrunch.
+
+FUNDING
+- $10M Series A, March 2014 (Greylock Partners).
+- $45M round, April 2015, led by Social+Capital and Greylock, with Battery Ventures
+  and Accel participating — cumulative funding to date at that point reported around
+  $55M by TechCrunch.
+- Total lifetime funding: reported as $56.7M (Crunchbase, via Failory, 4 rounds, 26
+  investors) to $57M (Wikipedia) to "more than $56 million" (Fortune) — treat as
+  "roughly $56-58M" rather than one single precise figure, since sources cluster
+  tightly but don't agree to the dollar.
+Source: TechCrunch (Series A and Series B coverage), Failory/Crunchbase, Wikipedia,
+Fortune.
+
+REVENUE — the title's core number, founder-confirmed
+- Gagan Biyani, on the record, Mixergy interview (mixergy.com/interviews/sprig-with-
+  gagan-biyani/), describing the company's status around February 2016: "we were on a
+  run rate of $22 million, so or 21, or something like that."
+  [Present as "roughly $21-22M run rate," per Biyani's own words — a primary-source,
+  on-the-record figure, not a false-precision single number.]
+- Secondary retrospectives (aggregators, not primary journalism) cite "$20M revenue,"
+  consistent with Biyani's own figure.
+Source: Mixergy (primary interview).
+
+THE MECHANISM — genuinely broken unit economics, not just "ran out of money"
+- Sprig built and owned its own kitchens rather than partnering with existing
+  restaurants — meaning it bore the full cost of food production and delivery
+  directly, with no restaurant partner absorbing any of that cost or risk.
+- Biyani, describing the margin dynamics as growth reversed: "when your business is
+  declining... your gross margin gets harder and harder... their margins are already
+  so thin, that overhead is cutting a greater percentage."
+- Bloomberg (cited via Fortune): Sprig was losing approximately $850,000 per month.
+- Customer acquisition cost consistently outpaced customer lifetime value — the
+  company could not produce and deliver a meal for less than it cost to make,
+  especially once growth slowed and fixed kitchen/overhead costs had to be spread
+  across fewer orders.
+Source: Mixergy interview, Bloomberg (via Fortune).
+
+THE TRIGGER — a precisely dated inflection point
+- Uber Eats' third major product iteration launched around February 2016, directly
+  competing for the same on-demand meal-delivery customers.
+- Biyani: "instead of going up by 2%, we were going down by 2%" — describing the
+  immediate shift in Sprig's own weekly growth rate around this launch.
+Source: Mixergy interview.
+
+SHUTDOWN
+- May 26, 2017: Sprig shuts down.
+- Approximately 200 staff affected at the time of shutdown, per Fortune.
+- Peak headcount reported as "over 1,300" per Wikipedia — this appears to refer to
+  Sprig's full historical operational headcount (including kitchen and delivery
+  staff at its peak scale), not the final shutdown headcount. [Present these as two
+  different measures — peak operational scale vs. final shutdown headcount — do not
+  conflate them as contradictory figures.]
+- Approximately $8M returned to investors out of roughly $56-58M raised; commonly
+  summarized as "roughly $50M lost."
+Source: Fortune, Wikipedia.
+
+FOUNDER'S OWN HINDSIGHT — strong, quotable, on-record
+- Biyani, reflecting afterward: "I would have shut it down within three months of
+  launching" [referring to the period once the negative unit-economics trend was
+  clear, not literally three months after Sprig's original 2013 launch — present this
+  quote with that context, not as a literal timeline claim].
+Source: Mixergy interview.
+
+SECOND SOURCE — a distinct, compounding causal thread
+- A separate interview (The Full Ratchet, fullratchet.net/what-killed-sprig/) covers
+  product-quality decline as a compounding factor alongside the unit-economics
+  problem: food arriving cold, declining presentation/taste, and resulting churn.
+  This gives the video a second, distinct thread beyond pure unit economics if useful
+  for pacing/depth.
+Source: The Full Ratchet (fullratchet.net/what-killed-sprig/).
+
+MUNCHERY — checked, not used as a second anchor
+- Real financial distress (losing up to $5M/month per Bloomberg, valuation cut from
+  $300M to an $80M-capped convertible note by 2017, 16% food waste reported) but no
+  clean, multiply-sourced ARR figure comparable to Sprig's founder-confirmed run rate.
+  Usable only as a one-line "Sprig wasn't alone" comparison, not as a second full
+  segment or anchor.
+
+---
+
+BEFORE RECORDING
+1. Do not use Fast for this title — its real revenue (~$600K) directly contradicts
+   the "$10M+ ARR" premise.
+2. Do not use Stay Alfred's $100M figure under this title — reserve Stay Alfred for a
+   separate, correctly-scaled future package.
+3. State Sprig's revenue as "roughly $21-22M run rate" per Biyani's own words, not as
+   one false-precision number.
+4. Keep the "over 1,300" peak headcount and "~200 affected by the shutdown" figures
+   clearly distinguished as two different measures, not conflated.
+5. Present "I would have shut it down within three months" with its actual context
+   (once the negative trend was clear), not as a literal claim about Sprig's 2013
+   launch date.

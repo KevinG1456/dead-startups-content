@@ -1,0 +1,233 @@
+Sources Log — Package 015: Real Startup Shutdown Letter Corpus
+Filled in: 2026-08-13
+
+WHY THIS FILE EXISTS
+This title required an actual compiled corpus of real, public shutdown communications
+before any frequency claim ("X% used phrase Y") could be stated as fact — the
+package's own README was explicit about this. Research compiled 27 real,
+independently verified entries: 23 genuine founder/company shutdown letters (Tier A)
+plus 4 modern bankruptcy-related PR statements kept as a separate, distinct genre for
+contrast (Tier B). This falls short of the originally-envisioned "50" — per this
+channel's own established precedent (005, 017, 001, 008, 003, 007 all shipped with
+honestly-achieved real numbers instead of a forced target), the video ships with the
+real count (23, or 27 including the contrast tier) rather than padding with
+unverifiable or borderline entries. The real finding this corpus supports — that
+"sunset" is essentially a myth and "wind down" is the actual dominant term — is a
+stronger hook than a padded 50-letter count would have been anyway.
+
+---
+
+TIER A — GENUINE FOUNDER/COMPANY SHUTDOWN LETTERS (23)
+
+1. SECRET (anonymous-sharing app) — David Byttow, April 29, 2015.
+   Quote: "This has been the hardest decision of my life."
+   Cause: named loosely (product vision / anonymity misuse), not precisely.
+   Source: TechCrunch, NBC News, Forbes. [Already cross-verified against package
+   014's Secret research — user/timeline figures there, not this letter's text.]
+
+2. QUIBI (short-form streaming) — Jeffrey Katzenberg & Meg Whitman, October 2020.
+   Quote: "incredibly heavy heart"; "we've considered and exhausted every option
+   available to us"; explicitly states the real cause is uncertain — "we suspect
+   it's been a combination of the two" (content vs. timing/COVID).
+   Source: Deadline, Variety.
+
+3. YIK YAK (anonymous social app) — Tyler Droll & Brooks Buffington, April 2017.
+   Tone: casual, breezy, an outlier — "so long for summer to y'all too."
+   Source: official company blog post (widely covered contemporaneously).
+
+4. SIDECAR (ride-hailing) — Sunil Paul & Adam Khanna, December 2015.
+   Quote: "a turning point... by no means the end of the journey" — reframes shutdown
+   as a pivot rather than an ending.
+   Source: official "The End of the Ride" blog post.
+
+5. JUICERO (juice press) — September 2017.
+   Framing: says it needs "an acquirer," never uses the word "shutting down" directly.
+   Source: contemporaneous tech press coverage of the official statement.
+
+6. MUNCHERY (meal delivery) — January 2019.
+   Quote: "with a heavy heart"; gratitude-heavy tone; no specific cause named.
+   Source: official shutdown announcement.
+
+7. TAKE EAT EASY (European food delivery) — founder Adrien Roose, July 2016.
+   Quote: "desperately tried... none of them materialised"; "no plan B" — unusually
+   candid, contains no softening euphemism.
+   Source: founder's open letter (widely covered in European tech press).
+
+8. DOPPLER LABS / HERE ONE (smart earbuds) — November 2017.
+   Quote: "sad to say... wind down"; names a failed capital-raise specifically as
+   the cause.
+   Source: official shutdown letter.
+
+9. BRANDLESS (DTC consumer goods) — February 2020.
+   Quote: "fiercely competitive... unsustainable for our current business model" —
+   names a cause, but generically.
+   Source: official shutdown statement.
+
+10. VINE (short video, owned by Twitter) — October 2016.
+    Tone: pure thank-you register, "discontinuing," no cause given, no apology.
+    Source: official Twitter/Vine announcement.
+
+11. KATERRA (construction tech) — June 2021.
+    Quote: "wind down... effective immediately"; cites vague "strategic business
+    alternatives"; the shutdown was delivered internally to staff first.
+    Source: official internal memo, reported via contemporaneous press.
+
+12. SPOONROCKET (meal delivery) — CEO Steven Hsiao, March 2016.
+    Unusually specific: names competitor Sprig directly and cites "a tightening
+    funding environment" as the cause, rather than staying vague.
+    Source: official shutdown statement.
+
+13. HOMEJOY (home cleaning marketplace) — CEO Adora Cheung, July 2015.
+    Public quote: "difficult decision"; vague "unresolved challenges." Privately,
+    Cheung told press that pending worker-misclassification lawsuits were the
+    deciding factor — a real, documented gap between the public letter's vagueness
+    and the private explanation given to journalists. [Cross-verify against package
+    004's Homejoy research for the lawsuit details.]
+    Source: official company statement + contemporaneous press interviews.
+
+14. ZIRTUAL (virtual assistant staffing) — CEO Maren Kate Donovan, August 2015.
+    Quote: "incredibly heavy heart"; unusually transparent — includes a legally-
+    mandated explanation of the payroll/W-2 mechanics that triggered the crisis.
+    [Already verified in package 006's sources.]
+    Source: official company email, widely covered.
+
+15. BEEPI (used-car marketplace) — Alejandro Resnik & Ale Vivanco/Owen Savir,
+    December 2016.
+    Quote: "We take full responsibility for letting our investors... down" — a
+    rare, explicit accountability framing not present in most of the corpus.
+    [Cross-verify against package 016's Beepi research.]
+    Source: official shutdown statement.
+
+16. FAST (one-click checkout) — Domm Holland, April 2022.
+    Quote: "difficult decision to close our doors"; "trailblazers don't make it all
+    the way to the mountain top" — a notably grandiose reframing.
+    Source: founder's public statement, widely covered.
+
+17. OZY MEDIA (media company) — Carlos Watson, October 2021.
+    Tone: gratitude-only; zero mention of the fraud allegations that were the actual
+    proximate cause of the shutdown — notable specifically for what it omits.
+    Source: official company statement, contrasted against contemporaneous press
+    investigation coverage of the fraud allegations.
+
+18. JOSEPHINE (home-cooking marketplace) — Charley Wang & Tal Safran/Matt Jorgensen,
+    February 2018.
+    Quote: "run out of emotional and financial resources" — names a specific failed
+    $500K wire transfer and a legal subpoena directly, unusually concrete.
+    Source: official shutdown post.
+
+19. MAPLE (NYC food delivery) — David Merkl & Akshay Navle, May 2017.
+    Framing: presents the shutdown as "joining" Deliveroo (its tech was acquired),
+    avoiding "shut down" language entirely.
+    Source: official announcement.
+
+20. AIRWARE (commercial drone software) — September 2018.
+    Quote: "heavy heart"; unusually self-aware — "history has taught us how hard it
+    can be to call the timing of a market transition."
+    Source: official shutdown blog post.
+
+21. MOVIEPASS (subscription movie ticketing) — CEO Mitch Lowe, August 2018 (service
+    suspension) and September 2019 (final shutdown).
+    Tone: apology-heavy both times — "it pains us to inform you."
+    Source: official company statements, both dates.
+
+22. KARHOO (ride-hailing marketplace) — November 2016.
+    Tone: flat, legalistic, no emotional language at all — "no longer financially
+    viable." Founder went silent and declined further comment. A genuine outlier
+    for tonal contrast against the "heavy heart" cluster.
+    Source: official shutdown statement, contemporaneous press.
+
+23. CONVOY (freight brokerage) — CEO Dan Lewis, October 2023. [Already fully
+    verified in package 017's sources-log — reused here, not re-derived.]
+    Quote: "We hoped this day would never come." Names the real causes with
+    unusual precision: "an unprecedented freight market collapse" combined with
+    "dramatic monetary tightening."
+    Source: CNBC (full memo text), cross-referenced with package 017's sources-log.
+
+---
+
+TIER B — MODERN BANKRUPTCY/PR STATEMENTS (4)
+Kept as a distinct genre for on-screen contrast, NOT folded into Tier A's frequency
+counts — these are corporate bankruptcy-filing statements, not founder farewell
+letters, and their euphemism patterns are structurally different (minimizing the
+event rather than mourning it).
+
+24. WEWORK — November 2023. Statement explicitly denies the plain meaning of its own
+    bankruptcy filing: "no change to the way we operate."
+    Source: official company statement accompanying Chapter 11 filing.
+
+25. BIRD (micromobility) — December 2023. Reframes bankruptcy as "a significant
+    milestone in Bird's transformation."
+    Source: official company statement accompanying Chapter 11 filing.
+
+26. 23ANDME — CEO Anne Wojcicki, March 2025. "I equally take accountability," paired
+    in the same statement with "my belief in the company... is unwavering."
+    [Recent — verify current status again closer to recording, given how fast this
+    situation was still developing as of the research date.]
+    Source: official company statement accompanying Chapter 11 filing.
+
+27. MANAGED BY Q — March 2020. WEAKEST FIT IN THE CORPUS — this was a post-
+    acquisition mass layoff/wind-down under WeWork ownership, not really a "farewell
+    letter" in the same genre as the rest. Flagged as borderline; consider cutting
+    from the on-screen list if the video needs to tighten, rather than using it to
+    pad the count.
+    Source: contemporaneous press coverage of the layoffs.
+
+---
+
+CHECKED AND EXPLICITLY NOT INCLUDED
+
+- Sprig: package 001's research already covers founder Gagan Biyani's detailed
+  retrospective (Mixergy, The Full Ratchet interviews) — but those are LATER
+  interviews, not a day-of shutdown announcement letter. Different genre; do not
+  conflate the two or double-count Sprig as a "shutdown letter" entry here.
+
+---
+
+REAL TALLIED FINDINGS — from Tier A's 23 letters only, not assumption, not Tier B
+
+- "Heavy heart" (the exact phrase): 4 of 23 ≈ 17% (Quibi, Munchery, Zirtual, Airware).
+- "Difficult decision" or a direct variant: 3 of 23 ≈ 13% (Homejoy, Fast, and
+  Secret's "hardest decision of my life" counted as a variant).
+- Literal "sunset": 0 of 23. Despite being the most commonly ASSUMED shutdown
+  euphemism (including in this package's own original README), it did not appear
+  even once in the real corpus. THIS IS THE VIDEO'S ACTUAL HEADLINE FINDING —
+  correct the README's illustrative assumption on screen rather than quietly
+  dropping it.
+- "Wind down" (verb): 3 of 23 ≈ 13% (Katerra, Airware, Doppler Labs) — the real
+  dominant term, in place of "sunset."
+- "Explored/exhausted every option" or a direct variant: 3 of 23 ≈ 13%.
+- Names a specific, real, internal cause (not just vague "market conditions"):
+  7 of 23 ≈ 30% (SpoonRocket, Josephine, Convoy, Doppler Labs, Brandless,
+  Take Eat Easy, and Homejoy's PRIVATE explanation — its public letter itself
+  stayed vague, see entry 13).
+- Stays vague/generic about the cause: 9 of 23 ≈ 39%.
+- Addresses investors/employees/customers as genuinely distinct audiences with
+  different messages, rather than one generic message to everyone: only 2 of 23
+  ≈ 9% (Zirtual, Convoy) — rarer than the package's original framework assumed.
+- Reframes the shutdown as not really an ending (a pivot, "joining" an acquirer,
+  "the next chapter"): 5 of 23 ≈ 22% (Sidecar, Juicero, Maple, and to a lesser
+  extent Quibi's and Fast's grandiose framings).
+
+---
+
+BEFORE RECORDING
+1. Do not claim "50 letters" — the real, honestly-achieved corpus is 23 (Tier A)
+   or 27 including the distinct Tier B bankruptcy-statement contrast set. State
+   the real number on screen.
+2. Lead with the corrected finding: "sunset" does not actually appear in this real
+   corpus (0/23) — "wind down" is the real dominant term. This corrects the
+   package's own original illustrative assumption; say so explicitly rather than
+   silently updating it.
+3. Keep Tier B (WeWork, Bird, 23andMe, Managed by Q) visually and narratively
+   separate from Tier A's percentages — they're a different genre (bankruptcy PR,
+   not founder farewell letters) and folding them into the Tier A tallies would
+   misrepresent the real numbers above.
+4. Flag Managed by Q as the weakest-fit entry — consider cutting it rather than
+   using it to pad the total if the video needs to tighten its list.
+5. Re-verify 23andMe's status closer to recording — it was a fast-moving situation
+   as of this research pass (March 2025 bankruptcy filing).
+6. Do not present Homejoy's private lawsuit explanation as if it were IN the public
+   letter — the public letter stayed vague; the specific cause only came out in
+   separate press interviews. Keep that distinction explicit on screen, since it's
+   itself a good example of the video's own thesis (what the letter says publicly
+   vs. what actually happened).

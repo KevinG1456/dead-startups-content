@@ -1,0 +1,91 @@
+Your AI YouTube Production Stack
+
+1. Claude Code → Content Intelligence
+
+Research framework
+Viral topic analysis
+Titles
+Hooks
+3 script variations
+Story structure
+Retention strategy
+SEO keywords
+Tags
+Descriptions
+Chapters
+Shorts
+Community posts
+A/B testing ideas
+
+2. HeyGen → Video Production
+
+Avatar V presenter
+Voice/performance
+Presenter scenes
+Avatar + B-roll structure
+Long-form videos
+Shorts
+
+I would actually make ChatGPT generate the thumbnail before producing the video.
+
+Your workflow becomes:
+
+TITLE → Claude Code → Viral Concept → Thumbnail Concepts → ChatGPT Thumbnail → HeyGen Video → Editing → YouTube
+
+The thumbnail should influence the opening of the video, because the thumbnail + title + first 30 seconds need to tell the same story.
+
+
+## Thumbnail Intelligence
+
+### Winning Concept
+- Core visual:
+- Main subject:
+- Facial expression:
+- Emotion:
+- Background:
+- Lighting:
+- Camera angle:
+- Composition:
+- Props:
+- Thumbnail text:
+- Text placement:
+- Color strategy:
+- Contrast strategy:
+
+### Thumbnail Variations
+
+#### Version A — Curiosity
+...
+
+#### Version B — Shock
+...
+
+#### Version C — Emotional
+...
+
+#### Version D — Authority
+...
+
+#### Version E — Mystery
+...
+
+### ChatGPT Image Generation Prompts
+
+#### Prompt A
+...
+
+#### Prompt B
+...
+
+#### Prompt C
+...
+
+### A/B Testing
+
+| Version | Emotion | CTR Strategy | Best Audience |
+|---|---|---|---|
+| A | Curiosity | ... | ... |
+| B | Shock | ... | ... |
+| C | Emotional | ... | ... |
+| D | Authority | ... | ... |
+| E | Mystery | ... | ... |

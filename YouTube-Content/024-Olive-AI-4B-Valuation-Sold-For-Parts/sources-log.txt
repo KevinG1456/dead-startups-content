@@ -1,0 +1,199 @@
+Sources Log — Package 024: Olive AI
+Filled in: 2026-08-14
+
+WHY THIS FILE EXISTS
+Olive AI is a brand-new topic for this channel, researched from scratch this session
+(not a candidate flagged during an earlier package's research, unlike 021/022/023).
+It is a distinct failure archetype from everything already on the channel: not a
+sudden collapse (022/Fast, 6 days) and not a single bankruptcy filing naming causes
+on the record (023/Munchery) — Olive wound down in stages over about 18 months,
+selling off its own business units piece by piece before the shell finally closed.
+That "sold for parts, not a single dramatic ending" shape is the core differentiator
+and should anchor the framing.
+
+---
+
+FOUNDING
+
+- Founded 2012 in Columbus, Ohio, originally as CrossChx, by CEO Sean Lane and CTO
+  Jeremy Yoder.
+- Sean Lane: former U.S. Air Force intelligence officer with a cybersecurity
+  background; sold a prior company, Baltimore-based BTS Software, in 2011. Multiple
+  profiles describe him returning to his hometown region (Gallipolis, southeast
+  Ohio) during the opioid crisis, embedding with Holzer Health System, and observing
+  fragmented patient records and disjointed hospital business processes as the
+  origin of CrossChx.
+- CrossChx originally focused on patient identity verification/matching for
+  hospitals — not automation or AI.
+- Rebranded to Olive in 2017, repositioning around healthcare process automation,
+  marketed by Lane as building the "AI workforce for healthcare" / "Internet of
+  Healthcare" — automating administrative and revenue-cycle tasks (prior
+  authorization, claims processing, eligibility checks, scheduling) for hospitals
+  and payers.
+Source: Columbus CEO (Columbus Dispatch business brief, Feb 2018), MedCity News
+(Mar 2019), multiple retrospective profiles (Dinsmore Substack "Unicorn Follies:
+Olive," Startup Obituary). Founding year/founders/pivot story corroborated across
+at least 3 independent sources.
+
+---
+
+FUNDING — two headline rounds primary-sourced directly; lifetime total is
+aggregator-sourced and should be presented as an approximation
+
+- December 1, 2020: $225.5M round, valuing Olive at $1.5B, led by Tiger Global and
+  General Catalyst; existing investors Drive Capital and Silicon Valley Bank
+  participated alongside new investors GV, Sequoia Capital Global Equities,
+  Dragoneer Investment Group, and Transformation Capital Partners. Sean Lane's own
+  quote from the release: "For every dollar Olive makes, healthcare saves five."
+  *** This exact ratio claim ("$1 to Olive = $5 saved") is Olive's own marketing
+  framing, not an independently verified figure — attribute it explicitly to Lane/
+  Olive if used, don't present it as a confirmed, audited result. ***
+  Source: PRNewswire release, Dec 1 2020 (primary/company-issued).
+- July 1, 2021: $400M round, valuing Olive at $4 BILLION — Olive's peak valuation —
+  led by Vista Equity Partners, with Base10 Partners Advancement Initiative also
+  participating. Lane quote from the release: "Olive is the leading force for rapid
+  product development to better empower the humans in healthcare."
+  Source: Vista Equity Partners' own press release, Jul 1 2021 (primary/company-
+  issued) — this is the strongest-sourced number in the whole package; use it as
+  the anchor valuation figure.
+- Total lifetime funding: funding-data aggregators (Tracxn) report $902M raised
+  across roughly 10 rounds (2 early-stage, 6 late-stage, 2 debt). This is NOT a
+  single company-disclosed lifetime total — Olive's own Dec 2020 release stated
+  cumulative funding of $448M since the 2012 founding at that point in time (with
+  $385M of that raised in the 9 months immediately before the Dec 2020 round),
+  which is consistent with, but not identical to, the $902M aggregator figure once
+  the Dec 2020 ($225.5M) and Jul 2021 ($400M) rounds are added on top.
+  *** Use "raised close to $900M over its lifetime" rather than stating $902M as a
+  precise, company-confirmed figure. ***
+Source: PRNewswire (Dec 2020), Vista Equity Partners (Jul 2021), Tracxn funding
+aggregation (lifetime total, secondary/aggregator-sourced).
+
+---
+
+THE PRODUCT AND THE CENTRAL CONTROVERSY — "AI" vs. rules-based automation
+
+- Olive marketed itself explicitly as an AI company — "the AI workforce for health
+  care" — selling hospitals and payers on automated handling of administrative and
+  revenue-cycle work.
+- April 2022: Axios published an investigation (reporter Erin Brodwin) titled
+  "$4 billion health tech startup Olive overpromises and underdelivers," reporting
+  that Olive inflated its capabilities and that in multiple cases its actual
+  delivered savings for hospital customers fell well short of what was promised,
+  and that Olive's own savings calculations relied on rough estimations rather than
+  audited figures.
+  *** IMPORTANT: this channel's research pass could not retrieve the full original
+  Axios article text (paywalled/blocked). The findings above are drawn from
+  multiple independent secondary summaries of the piece, not the primary text
+  directly. Do not invent specific customer names, dollar figures, or direct
+  quotes attributed to this investigation beyond what's stated here — the general
+  finding ("overpromised savings, relied on rough estimates") is corroborated
+  across multiple secondary sources, but exact figures/quotes from the original
+  piece are not confirmed in this research pass. ***
+- Multiple later retrospective analyses (RevCycleAI's vendor deep-dive, independent
+  Substack post-mortems) characterize Olive's underlying technology as substantially
+  rules-based process automation (RPA) requiring significant ongoing human
+  correction, marketed under an "AI" label broader than the technology's actual
+  autonomous capability. *** This characterization comes from retrospective
+  industry analysis and commentary, not from a single authoritative on-record
+  admission (unlike Munchery's bankruptcy filing in package 023) — present it as
+  "widely characterized by industry analysts" rather than settled, company-admitted
+  fact. Olive itself never publicly conceded this framing on the record in any
+  source found during this pass. ***
+- This is the core honesty line for the whole package: Olive overpromised what its
+  technology could do and did not deliver commercial results matching its
+  valuation — that is well-supported. It is NOT documented as fraud, and Sean Lane
+  has not been charged or convicted of anything. Keep the framing to "overhyped and
+  underdelivered," not "lied" or "scammed."
+Source: Axios (Apr 2022, via secondary summaries — flagged above), RevCycleAI,
+Dinsmore Substack, Unbiased Ventures failure-analysis writeup.
+
+---
+
+THE DECLINE — dated where possible, ranges flagged where sources disagree
+
+- July 2022: Olive lays off approximately 450 employees — reported as roughly 35%
+  of its workforce. CEO Sean Lane's on-record statement (widely quoted across
+  coverage) attributed the cuts to "fast-paced growth and lack of focus" straining
+  the company's resources, alongside broader tough economic/funding conditions.
+- February 2023: a second layoff round — sources disagree on the exact headcount,
+  reporting either roughly 200 or roughly 215 employees cut. *** Present as
+  "roughly 200" or "200-plus," not a single precise number. *** Reporting again
+  cites "lack of focus" as a stated internal reason.
+- April 2023: Olive sells its utilization management tools business to Availity.
+- Later in 2023 (exact date not confirmed in this research pass): Olive sells its
+  clearinghouse business and its patient access business — described in coverage
+  as "the heart of Olive's business" — to Waystar and Humata Health respectively.
+  *** Flag: exact sale date(s) not pinned down in this pass; present as "in the
+  months before the October 2023 shutdown" rather than an exact date. ***
+- Reported annual burn rate exceeding $100M/year appears in secondary/aggregator
+  coverage but was not corroborated against a primary source in this pass — *** flag
+  as reported-but-thinly-sourced if used; do not present as a confirmed audited
+  figure. ***
+- October 31, 2023: Olive AI announces it is winding down its remaining operations
+  entirely, having already sold off its core business lines. This is the "shutdown"
+  date — by this point the company had already divested the businesses that
+  generated most of its revenue, meaning the October 31 announcement was closer to
+  a formal end-of-shell than a single dramatic collapse event.
+- Broader market context: digital-health startup funding fell sharply industry-wide
+  through this period — one source cites Q3 2023 digital-health funding at $2.5B
+  versus $29B in 2021 — relevant as backdrop, not as a standalone cause specific to
+  Olive.
+Source: Healthcare Dive, Sunset HQ, FierceHealthcare (headline/summary level —
+original FierceHealthcare and Becker's Hospital Review timeline pieces returned
+403/blocked on direct fetch in this pass; facts above are corroborated across at
+least 2-3 independent secondary sources each unless flagged otherwise).
+
+---
+
+WHAT MAKES THIS DIFFERENT FROM THIS CHANNEL'S OTHER "AT PEAK VALUATION" STORIES
+
+- Unlike 022 (Fast): no single dramatic week. Olive's decline unfolded over roughly
+  18 months (Apr 2022 investigation → Jul 2022 layoffs → Feb 2023 layoffs → Apr
+  2023 first sale → later-2023 core-business sales → Oct 31 2023 final wind-down).
+- Unlike 023 (Munchery): no single on-record document (like a bankruptcy filing)
+  naming the causes in one place — the causes here are pieced together across
+  multiple separate reports over the 18-month window, which is itself worth stating
+  on screen rather than presenting as if there were one clean smoking-gun document.
+- The distinguishing structural detail: Olive was sold off in pieces to competitors
+  and industry buyers (Availity, Waystar, Humata Health) BEFORE the final shutdown
+  announcement — the company effectively liquidated its own valuable parts while
+  still operating, rather than collapsing all at once. This "sold for parts" shape
+  is the strongest, most differentiated hook for this package.
+
+---
+
+FOUNDER AFTERMATH
+
+- No confirmed, sourced information was found in this research pass about Sean
+  Lane's activities after the October 2023 shutdown. *** Do not state or imply
+  anything about what he did next — leave it out of the script entirely rather than
+  guessing or inferring from unconfirmed sources. ***
+
+---
+
+BEFORE RECORDING
+1. Use "raised close to $900M over its lifetime" — do not state $902M as a precise,
+   company-confirmed figure; it's an aggregator estimate.
+2. $4 billion valuation (July 2021, Vista Equity Partners-led $400M round) is the
+   strongest, most solidly primary-sourced number in this package — anchor on it.
+3. Present the February 2023 layoff headcount as "roughly 200" or "200-plus," not
+   one precise number — sources disagree (200 vs. 215).
+4. Do NOT present specific dollar figures, customer names, or direct quotes from
+   the April 2022 Axios investigation beyond what's stated in this file — the
+   original article could not be retrieved directly in this pass; only its
+   findings as reported by multiple secondary sources are confirmed.
+5. Present the "Olive's AI was mostly rules-based automation" characterization as
+   the view of retrospective industry analysis, not as something Olive or Sean Lane
+   ever admitted on the record.
+6. Do not state one exact date for the Waystar/Humata Health business sales — not
+   confirmed in this pass; describe as occurring in the months before the October
+   31, 2023 wind-down announcement.
+7. Do not present the reported >$100M/year burn rate as a confirmed, audited
+   figure — thinly sourced.
+8. This is an overhype-and-burn-rate story, not a fraud story. Sean Lane has not
+   been charged or convicted of anything. Attribute every claim about overpromising
+   to its source (Axios, retrospective analysts) and use their careful language,
+   not a sharper secondhand paraphrase. Do not use words like "scam," "fraud," or
+   "lied" anywhere in this package.
+9. Do not state anything about what Sean Lane did after the shutdown — not
+   confirmed in this research pass.

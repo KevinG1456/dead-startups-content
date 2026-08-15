@@ -1,0 +1,607 @@
+Fact-Check Reminder — Packages 001-030
+Last full audit: 2026-08-15 (026-030 added same session as 025; 024 added, 021/022/
+023 added earlier, on 2026-08-14; 001-020 last audited 2026-08-13)
+
+WHAT THIS IS
+Every package in /YouTube-Content (001-030) has been fact-checked against outside
+sources (news coverage, court/bankruptcy filings, SEC filings, primary company
+statements) for real-world claims: funding amounts, dates, named investors/execs,
+quotes, deal structure, and legal citations. Confirmed errors were corrected
+directly in the package files. This log is the record of what was checked, what
+was wrong, and what's still open — so nothing gets re-litigated from scratch, and
+so nothing still-unsourced accidentally gets recorded as if it were confirmed.
+
+---
+
+FILLED IN (moved from placeholder framework to real, sourced content) — MOST RECENT
+
+030 - MoviePass (NEW TITLE) -> "MoviePass Charged $9.95 a Month for Unlimited
+  Movies. It Lost Money on Almost Every Ticket. Then Its Fired Founder Bought It
+  Back and Fixed It." Founded 2011 by Stacy Spikes; Helios and Matheson bought a
+  51% stake for $25M in 2017 and FIRED Spikes in Jan 2018 after he disputed their
+  pricing plan — critical distinction kept throughout: Spikes was gone before the
+  $9.95 unlimited plan (launched Aug 2017 under new owners) ran the company into
+  the ground. Peak ~3M subscribers; Helios and Matheson reported a $329.2M net
+  loss; subscribers collapsed to ~225K by Apr 2019 as the company throttled heavy
+  users by changing their passwords. Shut down Sept 14 2019; parent Helios and
+  Matheson filed Chapter 7 Jan 28 2020. Executives Ted Farnsworth and Mitch Lowe
+  (NOT Spikes) were criminally charged Nov 2022; Lowe pleaded guilty to securities
+  fraud conspiracy in 2024 — [VERIFY] final sentencing for both before recording,
+  this pass confirmed the plea but not sentencing outcomes. Twist ending: Spikes
+  bought MoviePass's brand/assets out of bankruptcy in 2021, relaunched Sept 2022
+  with a non-unlimited tiered model, and per the most recent reporting found
+  (early 2024) posted its first profitable year in 2023 ($14M ARR). Cross-
+  references 025 (Lyric/Black Swan Holdings) as the channel's other, less-complete
+  brand-survives-the-company story. Full source map: see
+  `030-MoviePass-9.95-Burn-Rate-Collapse/sources-log.txt`.
+
+029 - Ozy Media / Carlos Watson (NEW TITLE) -> "His Co-Founder Impersonated a
+  YouTube Executive on a Call With Goldman Sachs. He Was Convicted of Fraud. His
+  Sentence Was Commuted." DIFFERENT SENSITIVITY PROFILE THAN 022/024: those
+  packages require "not charged or convicted" caution; this one is the opposite —
+  Carlos Watson WAS criminally convicted, so "fraud" language is factually
+  accurate here, same as 005/HeadSpin. Founded 2013 by Carlos Watson + Samir Rao,
+  raised $70M+. Sept 26 2021: NYT revealed Rao (not Watson — keep this
+  distinction explicit; a single-sourced, disputed former-employee claim suggests
+  it might have been Watson, flag as disputed if used) impersonated a YouTube
+  exec on a call with Goldman Sachs trying to secure a $40M investment; Goldman
+  verified with Google and pulled out. Ozy announced shutting down Oct 2021 but
+  didn't — kept operating under Watson for 16 more months. Feb 23 2023: Watson
+  arrested/indicted; Ozy actually shut down. SEC alleged ~$50M raised from
+  investors via fraudulent misrepresentations (keep distinct from the $70M+
+  total lifetime figure). July 2024: Brooklyn jury convicted Watson of
+  conspiracy to commit securities fraud, wire fraud conspiracy, and aggravated
+  identity theft. Dec 2024: sentenced to 116 months + ~$96M restitution. March 28
+  2025: President Trump commuted the sentence, voiding the restitution too —
+  every file states this with strict neutrality (who/what/when only, zero
+  motive speculation, zero political framing), including Shorts/social/community
+  posts where comment-bait framing was explicitly guarded against. Cross-
+  references 005 (HeadSpin) as the channel's other real-conviction fraud story.
+  NOTE: caught and fixed a factual ambiguity in this package's own README title
+  during the build (original phrasing could be read as Watson doing the
+  impersonation himself) — corrected to name "his co-founder" explicitly. Full
+  source map: see
+  `029-Ozy-Media-Carlos-Watson-Fraud-Conviction/sources-log.txt`.
+
+028 - Bird (NEW TITLE) -> "Bird Went Public at $2.3 Billion. Its Own Accounting
+  Was Wrong. It Sold Itself to Its Own Lenders." This channel's first HARDWARE
+  unit-economics autopsy (physical scooter fleet vs. software/leasing). Founded
+  Sept 2017 by Travis VanderZanden (ex-Lyft COO, ex-Uber); raised roughly $700M+
+  in venture funding before a Nov 2021 SPAC merger valuing it up to $2.3-2.5B —
+  total lifetime funding has no single reconciled figure across aggregators
+  ($765M-$1.1B), use the hedged "$700M+ before going public" phrasing. Market
+  value fell to ~$70M within about a year. Nov 2022: Bird's own audit committee
+  disclosed 2.5 years (Q1 2020-Q2 2022) of overstated revenue from counting
+  unpaid rides — a self-reported SEC filing, NOT a fraud charge; no individual
+  was criminally charged for it in this research pass, "fraud" language does
+  NOT apply to this event. NYSE delisted Sept 25 2023; Chapter 11 filed Dec 20
+  2023; assets sold Apr 5 2024 for ~$145M to Third Lane Mobility — Bird's OWN
+  lenders (led by an Apollo affiliate) converting debt to ownership, not an
+  outside acquirer. Cross-references 017 (Convoy) as the channel's other
+  lender-takeover ending. One judgment call flagged by the build agent: sources-
+  log.txt had no real per-scooter cost figures, so the "cost of one scooter"
+  breakdown used throughout is explicitly labeled as an illustrative, category-
+  only framework (mirroring how 017/Convoy handled an illustrative covenant
+  figure) rather than inventing numbers — worth a real per-unit sourcing pass if
+  more precision is wanted before recording. Full source map: see
+  `028-Bird-Scooter-SPAC-To-Bankruptcy/sources-log.txt`.
+
+027 - 23andMe (NEW TITLE) -> "23andMe Hit a $6 Billion Valuation. A Data Breach
+  and a Board Revolt Ended It." A different failure shape than everything else
+  on this channel: not burn-rate/platform-risk, but a security incident that
+  cascaded into a board collapse that cascaded into bankruptcy. Founded 2006 by
+  Anne Wojcicki, Linda Avey, Paul Cusenza; raised just under $900M pre-IPO; went
+  public via SPAC with Richard Branson's VG Acquisition Corp in 2021 ($3.5B deal
+  valuation, stock later briefly crossed $6B market value — keep these two
+  numbers distinct). Oct 2023: a 5-month credential-stuffing attack (reused
+  passwords from OTHER breaches, not a hack of 23andMe's own systems) directly
+  compromised ~14,000 accounts, exposing data on ~6.9M users via the "DNA
+  Relative" feature. The attacker specifically marketed stolen data by ancestry
+  (a database labeled "Ashkenazi DNA Data of Celebrities," plus a claimed
+  350,000 Chinese-heritage records) — handled factually and soberly, attributed
+  to sourced reporting, throughout every file, including a dedicated Shorts note
+  guarding against sensationalized treatment. $30M class-action settlement Sept
+  2024 (a later-referenced $50M bankruptcy-court figure flagged [VERIFY], not
+  stated as settled). Sept 17 2024: all 7 independent board directors resigned
+  same day, citing Wojcicki's failure to deliver a financed take-private
+  proposal — a rare, on-record, board-level no-confidence statement, used
+  directly. Nov 2024: 200+ layoffs, cancer-research division cut. Mar 23-24
+  2025: Chapter 11 filed, Wojcicki resigned as CEO same day. Twist ending: in
+  the bankruptcy auction, Wojcicki (via nonprofit TTAM Research Institute) beat
+  Regeneron and won back the core assets — 15M+ customers' genetic data — for
+  $305M. No "fraud/scam/lied" language for Wojcicki, not charged with any crime.
+  Cross-references 025 (Sonder) and 026 (WeWork) as the channel's other SPAC-to-
+  bankruptcy stories. Full source map: see
+  `027-23andMe-6B-To-Bankruptcy-Data-Breach/sources-log.txt`.
+
+026 - WeWork (NEW TITLE) -> "WeWork Hit a $47 Billion Valuation. Its Founder Got
+  a $1.7 Billion Exit Package. The Company Still Filed for Bankruptcy." The
+  definitive overhype/governance-collapse story in this genre — already name-
+  checked as a direct comparison in this channel's own 025 (Sonder) research
+  (an analyst called Sonder "the WeWork of apartments"). Founded 2010 by Adam
+  Neumann + Miguel McKelvey; raised ~$13B lifetime, hit a $47B valuation in
+  2019 — the highest of any company on this channel. Aug 2019 S-1 collapsed
+  within six weeks under scrutiny of Neumann's control structure, related-party
+  deals, and the self-invented "community-adjusted EBITDA" metric. Neumann
+  resigned Sept 24 2019 with an exit package reported up to $1.7B; SoftBank
+  rescued with ~$9.5B. Keep SoftBank's total exposure (~$18.5B) distinct from
+  its reported loss (~$16B) — two different numbers, never merged. Oct 2021:
+  SPAC merger (BowX) valued WeWork at $9B, an 80% discount from its private
+  peak. Nov 6 2023: Chapter 11 filed ($18.6B liabilities vs. $15B assets) — a
+  REORGANIZATION, not a liquidation, kept explicit throughout (unlike 023/025's
+  liquidations). Emerged June 11 2024 (~$4B debt eliminated, new ownership:
+  Cupar Grimmond/Yardi 60%, SoftBank 20%, other lenders 20%), still operating
+  today at ~$750M valuation. Coda: Neumann's new company Flow, backed by
+  Andreessen Horowitz, reportedly worth $2.5B by 2025 — presented neutrally
+  throughout, not as vindication or condemnation. No "fraud/scam/lied" language;
+  Neumann has not been charged with any crime. Full source map: see
+  `026-WeWork-47B-To-Bankruptcy/sources-log.txt`.
+
+025 - Sonder, with Lyric and Zeus Living as companions (NEW TITLE) -> "Sonder Hit a
+  $1.6 Billion Deficit, Went Public Anyway — and Was Bankrupt Within a Week." Picked
+  up from the "good next candidate" lead flagged in Come Back Later.txt during the
+  021 (Stay Alfred) pass: Sonder/Lyric/Zeus Living as short-term/flexible-rental
+  master-lease comparators. Same 3-company-arc structure as 023 (Munchery): anchored
+  on whichever company raised the most and lasted longest.
+  Sonder (anchor): founded 2014 Montreal (as Flatbook) by Francis Davidson, Lucas
+  Pellan, Martin Picard; relocated SF. Raised $550M+ in private funding before going
+  public via SPAC (Gores Metropoulos II) on Nasdaq, Jan 2022 — the only company in
+  this category, and one of very few on this whole channel, to reach a public
+  listing. Never profitable since founding; combined 2023-2024 net losses of $240M
+  pushed cumulative deficit to $1.6B by end of 2024 (the package's strongest,
+  best-sourced headline number) despite strong 2024 occupancy (80.9%) and rates
+  ($196/night) — revenue $621M vs. costs $803M. Aug 2024 Marriott Bonvoy licensing
+  deal (10,500+ rooms) was covered as a legitimacy win; Marriott terminated it Nov 7
+  2025 citing default (public announcement Nov 9 — two distinct real dates, not one).
+  Sonder ceased operations Nov 10; filed Chapter 7 liquidation (not Chapter 11 —
+  notable contrast to most of this channel's bankruptcy stories) Nov 14 2025, Case
+  No. 25-12040 (KBO), District of Delaware. Total lifetime funding has NO single
+  reconciled figure across aggregators ($594M-$857.6M) — package uses "$550M+
+  raised before going public," never one lifetime total.
+  HIGH SENSITIVITY, SAME STANDARD AS 022/024: Marriott's bankruptcy-court filing
+  alleges Sonder threatened to "shut down hotel systems and leave thousands of
+  guests locked out" unless Marriott funded the wind-down ($28M then $14.3M
+  requests, both declined) and used the phrase "leverage guest safety as a
+  bargaining chip." This is Marriott's characterization in litigation, NOT
+  adjudicated fact and NOT Sonder's own account — every file that uses it attributes
+  it explicitly ("according to Marriott's court filing") and pairs it with Sonder's
+  own softer explanation ("unanticipated delays and costs of its integration with
+  Marriott"). Analyst Daniel Lesser's counterpoint (bankruptcy was baked in before
+  Marriott, WeWork comparison) included for balance. Shorts and social posts
+  deliberately restricted to ironclad facts only (funding, IPO date, bankruptcy
+  date/type, the $1.6B figure) — the court-filing material stays out of short-form,
+  same pattern as 022.
+  Companions: Lyric ($185M raised, Airbnb-led $160M round) — killed almost
+  instantly by COVID (Feb/Mar 2020 layoffs, down to skeleton crew by Jul 2020) but
+  NOT a clean death: pricing-software arm spun out and survives independently as
+  Wheelhouse (Apr 2022, $16M raised), and the Lyric brand itself was later bought
+  and revived by an unrelated firm, Black Swan Holdings, in Jun 2023 — presented
+  explicitly as a twist, not flattened to "died in 2020." Zeus Living ($150M
+  raised, also Airbnb-backed) — survived the COVID shock that killed Lyric, then
+  died slowly: landlord payments fell behind for months, staff cuts in 2020 and
+  again 2022, quiet Nov 2023 hand-off of its book of business to competitor
+  Blueground, no fire sale. Founding year is [VERIFY] (2015 vs. 2016 across
+  sources) — package uses "founded around 2015-2016."
+  Explicitly cross-references package 021 (Stay Alfred) throughout — same
+  guaranteed-rent master-lease mechanic, different trigger (COVID demand shock for
+  Stay Alfred's 13-day collapse vs. one partner's exit for Sonder's ~1-week one).
+  Full source map: see
+  `025-Sonder-1.6B-Lost-Bankrupt-In-A-Week/sources-log.txt`.
+
+---
+
+FIXED (had real errors, now corrected in the package files)
+
+002 - Quibi
+  Roku deal was a [VERIFY] placeholder. Resolved: Roku acquired Quibi's ~75-show
+  content library (not "assets") for a reported price under $100M, announced
+  January 2021.
+
+008 - The API Shutdown That Killed 40 Startups
+  Google Maps Platform pricing overhaul was dated "June 2018." Corrected to:
+  announced May 2018, effective July 16, 2018.
+  Still open: no single platform/event/company has been committed yet — this
+  needs a real decision + sourcing pass before recording.
+
+009 - Clinkle
+  Called a "$25M Series A" — it was actually a SEED round (reportedly the
+  largest seed round in Silicon Valley history at the time, structured as
+  convertible debt so the founder could avoid a board seat). Fixed everywhere.
+  Layoffs were described as one 2015 event — actually two waves: ~25% cut
+  December 2013, then a leadership-crisis exodus in May 2015, quiet wind-down
+  by 2016. Fixed.
+
+010 - The Startup Acquired for $1
+  Digg's 2012 breakup was flattened into one "hundreds of thousands of dollars"
+  figure. Corrected to the real three-deal breakdown: Betaworks ~$500K for
+  brand/site/tech, LinkedIn ~$4M for patents, 15 staff to The Washington Post
+  (undisclosed terms).
+  Bebo's chain of custody skipped a step. Corrected: AOL sold Bebo to Criterion
+  Capital Partners for ~$10M in 2010; Criterion (not AOL) sold it to founder
+  Michael Birch for $1M in 2013.
+
+014 - The Freemium Trap
+  Headline numbers were wrong. Title said "2M users, dead in 18 months" —
+  real Secret figures are ~15M users and ~15 months (Jan 30 2014 launch to
+  Apr 29 2015 shutdown). Fixed across all 15 files that carried the number:
+  title, thumbnails, hooks, script, HeyGen scenes, all description variants,
+  Shorts, community posts, social posts, full email sequence, blog article.
+
+016 - Beepi
+  "Assets acquired by Fair.com shortly after shutdown" implied a clean
+  acquisition. Corrected: a planned Beepi/Fair.com merger fell through;
+  Beepi's assets went through an Assignment for the Benefit of Creditors
+  liquidation; Fair.com later picked up some tech assets through that
+  liquidation "for pennies on the dollar," not via direct acquisition.
+
+019 - The Open-Source Project That Killed Its Own Commercial Company
+  Dropped "Rupert Murdoch's Cyrte Investments" — Murdoch invested personally,
+  but Cyrte Investments is an unrelated Amsterdam family office with no
+  documented Cyanogen connection.
+  Docker/Mirantis (Nov 2019) sale terms were described as "reported to be a
+  fraction of peak valuation" — actually undisclosed/confidential. Corrected,
+  and added the real detail that Docker raised $35M concurrently (Benchmark,
+  Insight Partners).
+  Kirt McMaster's "take Android away from Google" quote was misdated to 2013
+  (company founding year) — actually said January 2015. Fixed.
+
+020 - Where Dead Startups' Code, Data, and Customers Actually Go
+  Sidecar/GM was called a "patent portfolio sale to a buyer with no connection
+  to ride-sharing" — actually a patent LICENSE (Sidecar kept ownership) plus
+  an acqui-hire, and GM made the deal two weeks after its $500M Lyft
+  investment (not an unconnected buyer). Rewritten across 9 files.
+  Privacy-ombudsman citation was "11 U.S.C. §363(b)(1)(A)" alone — the
+  ombudsman role itself is created by §332. Fixed.
+  Cambridge Analytica's FTC action was presented as the same mechanism as
+  RadioShack's bankruptcy-sale review — it wasn't (separate FTC Section 5
+  enforcement, not a §363 sale review). Now explicitly distinguished.
+
+---
+
+FILLED IN (moved from placeholder framework to real, sourced content)
+
+024 - Olive AI (NEW TITLE — first entirely from-scratch topic, not carried over from
+  another package's research, unlike 021/022/023) -> "This 'AI' Company Was Worth
+  $4 Billion. It Sold Itself For Parts."
+  Founded 2012 Columbus OH as CrossChx (patient identity verification) by CEO Sean
+  Lane + CTO Jeremy Yoder; rebranded to Olive in 2017 around "the AI workforce for
+  healthcare" (admin/revenue-cycle automation for hospitals). Two primary-sourced
+  funding rounds anchor the numbers: $225.5M round Dec 1 2020 at a $1.5B valuation
+  (PRNewswire release), then $400M round Jul 1 2021 at a $4B valuation led by Vista
+  Equity Partners (Vista's own release) — this is Olive's peak and the strongest-
+  sourced figure in the package. Lifetime funding is aggregator-reported at $902M
+  (Tracxn) but presented as "close to $900M," not a precise company-confirmed
+  total. Apr 2022: Axios investigation (Erin Brodwin) reported Olive overpromising
+  savings/relying on rough estimates — original article was blocked/paywalled in
+  this research pass, so its findings are sourced via multiple independent
+  secondary summaries only, not the primary text; don't invent quotes or figures
+  beyond what sources-log.txt states. Distinguishing shape vs. 022/Fast (6-day
+  collapse) and 023/Munchery (one bankruptcy filing naming causes): Olive's ending
+  took ~18 months and left no single smoking-gun document — Jul 2022 layoffs
+  (~450, ~35% of staff, CEO Sean Lane cited "fast-paced growth and lack of focus"),
+  Feb 2023 layoffs (~200, sources disagree 200 vs 215), then the company sold
+  itself off in pieces WHILE STILL OPERATING: utilization management tools to
+  Availity (Apr 2023), then clearinghouse + patient access businesses ("the heart
+  of Olive's business") to Waystar and Humata Health (exact date unconfirmed,
+  sometime later in 2023), before formally winding down Oct 31 2023. Never filed
+  for bankruptcy.
+  Flagged, not stated as settled fact: the "AI was mostly rules-based automation"
+  characterization comes from retrospective industry analysis, not an on-record
+  Olive admission — present as analysts' view only. Reported >$100M/year burn rate
+  is thinly sourced (one secondary mention, no primary corroboration) — flag if
+  used. No confirmed info found on what Sean Lane did after the Oct 2023 shutdown
+  — do not state or imply anything here.
+  Sensitivity note: Sean Lane has NOT been charged or convicted of anything — this
+  is an overhype/burn-rate story, not fraud. Never use "scam," "fraud," or "lied"
+  anywhere in this package; attribute every overpromising claim to its source
+  (Axios / retrospective analysts) using their own careful language.
+  Full source map: see
+  `024-Olive-AI-4B-Valuation-Sold-For-Parts/sources-log.txt`.
+
+023 - Munchery (NEW TITLE) -> "Munchery Outlasted Every Rival In Its Category. It
+  Still Went Bankrupt."
+  Picked up from two prior leads: checked-and-rejected as a 001/Sprig anchor
+  candidate ("numbers messier and less quotable"), and briefly included as one of
+  the 23 real letters in the 015 shutdown-letter corpus. This is the full deep
+  treatment. Founded 2011 SF by CEO Tri Tran + Conrad Chu. Raised over $120M
+  (commonly cited ~$125M, figure inconsistent across sources) incl. an $85M 2015
+  round at a ~$300M valuation. Vertically-integrated owned-kitchen model, same
+  structural type as Sprig (001). Explicit 3-company category arc this channel has
+  now told in full: SpoonRocket ($13.5M raised) collapsed Mar 2016 -> Sprig ($56.7M,
+  package 001) collapsed May 2017 -> Munchery ($120M+, most capital, most time)
+  didn't collapse until Jan 2019. Late 2016: Bloomberg reported losing up to $5M/
+  month, ~16% food waste; CEO Tri Tran steps down (James Beriker takes over); Jan
+  2017 ~30% HQ layoffs (SEPARATE event from the 2019 shutdown, don't conflate); May
+  2018 retreats from LA/NY/Seattle to SF-only. Shutdown Jan 21 2019 — vendors
+  reportedly got NO notice, and the company had been actively marketing gift cards
+  the month before (Dec 2018). Filed Chapter 11 Feb 28 2019; rare strength — CEO
+  James Beriker named causes ON THE RECORD IN THE COURT FILING ITSELF: "increased
+  competition, over-funding, aggressive expansion efforts, and Blue Apron's failed
+  IPO." $28.5M secured debt + $6M unsecured split between ~230 vendors and
+  thousands of gift-card-holding customers.
+  Disputed detail, present both sides: a reported 2017 note capped at an $80M
+  valuation was publicly DENIED by Munchery at the time (said existing investors
+  could all participate, no such cap existed as described) — do not state the $80M
+  cap as settled fact. Also flagged: total lifetime funding has no single agreed
+  figure (use "over $120M, ~$125M commonly cited"); the $475K WARN settlement
+  figure is single-sourced; peak headcount is unconfirmed.
+  Cross-references package 001 (Sprig) explicitly throughout as the direct
+  companion piece — same category, same structural flaw, different ending details.
+  Full source map: see
+  `023-Munchery-Outlasted-Every-Rival-Still-Bankrupt/sources-log.txt`.
+
+022 - Fast (NEW TITLE) -> "Fast Raised $124M at a $580M Valuation. Its Real Revenue
+  Was $600,000."
+  *** HIGHEST SENSITIVITY PACKAGE ON THIS CHANNEL — READ THE FULL sources-log.txt
+  BEFORE TOUCHING ANY FILE IN THIS PACKAGE, EVEN FOR MINOR EDITS. ***
+  Identified during the 001 (Sprig) pass and rejected there because Fast's real
+  revenue (~$600K) contradicted "$10M ARR" — flagged as "a different, still-tellable
+  title" on its own. This is that package: the inverse of Sprig/021 — not real
+  revenue that still wasn't enough, but a huge valuation on almost no revenue.
+  Founded Mar 2019 SF by CEO Domm Holland + COO Allison Barr Allen (3rd co-founder
+  Joshua Abulafia reportedly pushed out ~1yr in). Raised $124.5M total ($20M Series A
+  + $102M Series B, BOTH led by Stripe, Jan 2021) at ~$580M valuation. Real 2021
+  revenue ~$600K (vs. rival Bolt's reported ~$40M same period); burn ~$10M/month;
+  reportedly paid The Chainsmokers $1M for one show (~1.7x annual revenue). Collapsed
+  fast: lowered-valuation raise attempt Mar 30 2022 -> hired Morgan Stanley to find a
+  buyer Mar 31 -> total shutdown Apr 5 2022, ~450 laid off, most with ~1 hour notice.
+  UNLIKE 005/HeadSpin (founder convicted, court record exists), Fast's founder Domm
+  Holland has NOT been charged or convicted of anything. Several serious personal-
+  history claims (Nigerian engineers dispute, Tow.com.au collapse, Qant.as domain)
+  trace to ONE NPR investigation (Feb 17 2022) — widely syndicated but not
+  independently re-corroborated. Package explicitly bans two framings the research
+  flagged as unsupported/misleading: the word "extorted" (re: Qant.as — NPR's own
+  language is far more careful) and "boys' club" (not sourced anywhere). Balancing
+  detail preserved throughout (do not cut for pacing): a Fast spokesperson said the
+  Tow.com.au history "was revealed to investors at every round," and 2 of 3 named
+  investor reactions in NPR's reporting were NOT deterred by it — this is not a
+  simple "investors were fooled" story. Every file in this package (script, blog,
+  descriptions) carries explicit on-screen/in-text attribution for the NPR-sourced
+  material; Shorts and social posts deliberately exclude the founder-history thread
+  entirely, using only the ironclad financial facts.
+  Total funding also has an unreconciled discrepancy: $124.5M (primary, multi-
+  sourced) vs. $168M (single later Australian source) — use $124.5M.
+  Full source map and required cautions: see
+  `022-Fast-580M-Valuation-600K-Revenue/sources-log.txt`.
+
+021 - Stay Alfred (NEW TITLE — first added since the original 001-020 set) -> "Stay
+  Alfred Hit $100M a Year. It Announced Reopening. 13 Days Later, It Was Gone."
+  Not a rewrite of an existing placeholder — this is a brand-new package. Stay Alfred
+  was first identified as a real, well-documented candidate during the 001 (Sprig)
+  sourcing pass and deliberately set aside as "a strong candidate for a separate,
+  differently-scaled future package" (its ~$100M revenue was ~10x too large for
+  001's "$10M ARR" framing). This is that package.
+  Founded ~2011 (operations began 2012) by CEO Jordan Allen (former U.S. Army Ranger
+  Captain) and Conrad Manfred ("Alfred" = portmanteau of Allen + Manfred), Spokane WA.
+  Raised $62M total ($15M Series A [exact month needs final check, Jan 2017 vs Jan
+  2018 Crunchbase artifact — year/amount solid] + $47M Series B Oct 2018 led by Nine
+  Four Ventures). Hit ~$100M revenue FY2019 (confirmed independently by CB Insights
+  and Bisnow). Master-lease model: guaranteed landlords fixed rent regardless of
+  occupancy, ~2,000-2,500 units across ~30 cities (peak figures vary by source/date,
+  presented as a range). COVID collapsed demand March 2020; a rescue raise of up to
+  $30M fell through at the last minute; temporarily closed March 26 2020; publicly
+  announced reopening plan May 7 2020; reversed and permanently closed May 20 2020 —
+  13 days later. Allen: "amazing to think that a $100 million company in Spokane,
+  Washington, could be wiped out by a virus from Wuhan, China." Later called the
+  master-lease structure itself a "foundational crack."
+  Honest complications included: a Pennsylvania tenant-eviction dispute (framed by
+  the company as compliance with a state order, not predation) and a since-dismissed
+  landlord lawsuit over unpaid rent — presented as messy edge cases, not corporate
+  villainy. Founder's next venture (Ruumr/Doorsey) noted with [VERIFY] on exact
+  rebrand date.
+  Full source map: see `021-Stay-Alfred-100M-Revenue-Gone-In-90-Days/sources-log.txt`.
+
+015 - What the Shutdown Email Never Says -> "I Read 23 Real Startup Shutdown Letters.
+  Nobody Actually Said 'Sunset.'" (23-letter real corpus)
+  Required a different research approach than any other package: compiling and
+  verifying an actual corpus of real shutdown communications, not anchoring on one
+  company. Original target was 50 letters; only 23 real, independently verifiable
+  ones were achievable (plus 4 modern bankruptcy-statement letters kept in a
+  separate Tier B, since bankruptcy PR is a structurally different genre) — shipped
+  with the honest count rather than padding, per this channel's established
+  precedent. Reused already-verified quotes from this channel's own prior sourcing
+  passes where applicable: Convoy's Dan Lewis memo (017), Homejoy (004), Zirtual
+  (006), Beepi (016) — cross-checked, not re-derived from scratch.
+  Full Tier A corpus (23): Secret (2015), Quibi (2020), Yik Yak (2017), Sidecar
+  (2015), Juicero (2017), Munchery (2019), Take Eat Easy (2016), Doppler Labs
+  (2017), Brandless (2020), Vine (2016), Katerra (2021), SpoonRocket (2016),
+  Homejoy (2015), Zirtual (2015), Beepi (2016), Fast (2022), Ozy Media (2021),
+  Josephine (2018), Maple (2017), Airware (2018), MoviePass (2018-2019), Karhoo
+  (2016), Convoy (2023). Tier B (4, kept separate): WeWork, Bird, 23andMe, and
+  Managed by Q (flagged as the weakest-fit entry, borderline for cutting).
+  The real headline finding, corrected from the package's own original
+  illustrative assumption: "sunset" appears 0/23 times in the real corpus —
+  "wind down" is the actual dominant term (3/23). Other real tallies: "heavy
+  heart" 4/23 (17%), names a specific real cause 7/23 (30%), stays vague 9/23
+  (39%), addresses investors/employees/customers as genuinely distinct audiences
+  only 2/23 (9% — Zirtual and Convoy).
+  Important honesty flag: Homejoy's public letter stayed vague ("unresolved
+  challenges") — the worker-misclassification-lawsuits explanation was given
+  privately to press, NOT stated in the public letter itself; kept explicit,
+  not conflated.
+  Full source map with citations for every quote: see
+  `015-What-The-Shutdown-Email-Never-Says/sources-log.txt`.
+
+007 - Why 9/10 YC Companies Are Gone -> "I Audited All 11 Companies From a Real YC
+  Batch. Here's What '9 Out of 10 Gone' Actually Means." (YC Summer 2006 batch)
+  This package required a different research approach than the others: a full,
+  individual company-by-company audit rather than a single anchor. Deliberately used
+  YC's Summer 2006 (S06) batch, NOT YC's famous first batch (Summer 2005: Reddit,
+  Kiko, etc.) — using S05 would have been exactly the "known for one mega-success"
+  cherry-picking the package's own original README warned against. S06 has 11
+  companies, small enough to fully and individually verify (vs. 60-200+ in batches
+  closer to the original "8-15 years prior to filming" suggestion) — full-audit
+  integrity was weighted above hitting that exact recency window.
+  Full roster and status: Jamglue, Jumpchat, Likebetter, Pollground, Shoutfit,
+  Talkito, Thinkature all shut down outright (confirmed via TechCrunch's Nov 9 2006
+  batch coverage + YCDB). OMGPOP (pivoted from dating site "i'minlikewithyou" to
+  casual gaming, CEO Dan Porter, made Draw Something) sold to Zynga for a reported
+  $180-200M (figures conflict) in March 2012, shut down by Zynga ~14 months later
+  (Jun-Aug 2013) — team reportedly tried to buy it back, refused. Xobni (Outlook
+  plugin/email analytics, founders Adam Smith & Matt Brezina) sold to Yahoo for a
+  reported $30-60M+ (figures conflict) July 2013, shut down by Yahoo ~1 year later
+  (July 2014) — same acquire-then-kill pattern, smaller scale. Scribd (pitched 2006
+  as "Social Documents," founders Trip Adler/Tikhon Bernstam/Jared Friedman, $105M
+  raised total) is the sole survivor, still independently operating, CEO transition
+  to Tony Grimminck Oct 2023. Zanbazaar flagged [VERIFY] — shut down per YCDB only,
+  single-sourced, not independently corroborated.
+  The real ratio is reported as TWO honest numbers, not one, per the package's own
+  "don't conflate acquired with died" requirement: 10/11 (~91%, counting OMGPOP and
+  Xobni as gone since the products were discontinued) vs. 8/11 (~73%, counting their
+  acquisitions as real founder/investor successes regardless of the product's later
+  fate). "9 out of 10" is presented as holding up only under the first definition,
+  explicitly stated as such on screen rather than picking one number.
+  Full source map: see `007-Why-9-of-10-YC-Companies-Are-Gone/sources-log.txt`.
+
+001 - $10M ARR Autopsy -> "Sprig Hit a $22M Run Rate. It Still Lost $850K a Month.
+  Here's the Math." (Sprig)
+  Original candidates Fast and Stay Alfred both checked and rejected for this specific
+  title: Fast's real 2021 revenue was ~$600K (The Information/TechCrunch), directly
+  contradicting the "$10M+ ARR" premise — flagged as a different, still-tellable
+  title, not this one. Stay Alfred's story is real and well-documented ($100M FY2019
+  revenue confirmed by CB Insights and Bisnow, master-lease arbitrage model, collapsed
+  May 2020) but at 10x this title's revenue scale — reserved for a separate, correctly
+  -scaled future package rather than forced in here.
+  Anchored on Sprig instead: founded 2013 by CEO Gagan Biyani, raised ~$56-58M
+  (Greylock $10M Series A Mar 2014; $45M round Apr 2015 led by Social+Capital/Greylock
+  with Battery Ventures/Accel), hit a run rate Biyani himself called "$22 million, so
+  or 21, or something like that" (Mixergy interview, ~Feb 2016) while losing ~$850K/
+  month per Bloomberg — real, broken unit economics (owned kitchens bearing full food-
+  production cost, not a marketplace model) rather than just a cash crunch. Uber Eats'
+  relaunch (~Feb 2016) is a precisely-dated trigger, Biyani: "instead of going up by
+  2%, we were going down by 2%." Shut down May 26 2017; ~$8M returned to investors of
+  the ~$56-58M raised. Unusually well-sourced case: founder gave two separate on-record
+  interviews (Mixergy, The Full Ratchet) explaining the failure himself, including "I
+  would have shut it down within three months" (of the trend becoming clear, not
+  literally 3 months after the 2013 launch — kept in context). Wikipedia's "1,300+
+  peak headcount" and Fortune's "~200 affected by the shutdown" are two different
+  measures (peak operational scale vs. final headcount), not a contradiction.
+  Full source map: see
+  `001-The-Startup-That-Hit-10M-ARR-And-Still-Died/sources-log.txt`.
+
+003 - The Company Google Killed, Platform Risk 5 Ways -> "Google Erased $1.2 Billion
+  In One Afternoon. A Startup Died Slower — To Google and Two Others." (Garmin/TomTom
+  + Picturelife)
+  Original plan was 5 segments; only 2 survived real sourcing. Rejected: web analytics
+  (no named funded casualty tied specifically to free Google Analytics, 2005), cloud
+  storage (Bitcasa's death is documented as self-inflicted unlimited-plan abuse, not
+  Google Drive pricing), email tools (Mailbox's shutdown was Dropbox's own stated
+  strategic pivot, not tied to Gmail). Also rejected on wrong-timeline grounds: Loom.com
+  and Everpix (both shut down before Google Photos' 2015 free-unlimited launch) and
+  Dash Navigation, the funded-startup candidate for the maps segment (acquired by RIM
+  June 2009, four months before Google's Oct 28 2009 free-navigation announcement).
+  Ships as 2 segments, each with a disclosed fit compromise: Garmin/TomTom (Oct 28
+  2009, TomTom stock fell ~20-21%, Garmin ~16%, ~$1.2B wiped off Garmin's market cap
+  same day — ironclad, multi-sourced, but these are public hardware companies, not
+  funded startups, flagged explicitly on screen as a deliberate exception) and
+  Picturelife ($4.6M raised, founder Charles Forman of OMGPOP, shut down Aug 22 2016
+  — real funded-startup casualty, but the causal story is honestly multi-platform,
+  Google + Apple + Amazon collectively, not Google alone; the specific "three giants"
+  causal narrative traces to a secondary source that couldn't be fully independently
+  verified, flagged as such rather than stated as confirmed fact).
+  Full source map: see
+  `003-The-Company-Google-Killed-Platform-Risk-5-Ways/sources-log.txt`.
+
+008 - The API Shutdown That Killed 40 Startups -> "Twitter Cut One Startup Off On
+  Purpose. Facebook Buried Another By Accident." (Meerkat + Viddy)
+  No sourceable "40 startups" figure exists anywhere — dropped entirely rather than
+  guessed at, per the package's own original caveat. Research also checked and
+  explicitly rejected as primary anchors: Socialcam (cashed out via Autodesk
+  acquisition before any crackdown hit it — not a platform-kill story), the 2018
+  Google Maps Platform pricing change (real event, but no named funded-startup
+  casualty found in reliable press), and the 2023 Twitter API paywall (casualties
+  found — Tweetbot, Twitterrific, etc. — are indie/bootstrapped apps, not VC-funded
+  startups, so don't fit this channel's niche).
+  All 17 files rewritten around two independently verified, VC-funded cases:
+  Meerkat (raised $14M led by Greylock, announced Mar 26 2015; Twitter cut off its
+  Twitter social-graph access Mar 13 2015, the same day Twitter announced acquiring
+  Meerkat's rival Periscope and the same day SXSW 2015 began; Meerkat shut down
+  Oct 2016, pivoting to Houseparty) and Viddy ($30M Series B, May 11 2012, at a
+  $370M valuation — NEA, Goldman Sachs, Khosla Ventures, Battery Ventures; Facebook's
+  May 31 2012 "10-second rule" anti-spam algorithm change cut its News Feed visibility;
+  DAUs fell ~5M to ~1M in about a month; fire-sold to Fullscreen for $20M Jan 2014;
+  fully shut down Dec 2014).
+  Deliberately preserved distinction: Twitter's action against Meerkat was a targeted
+  access revocation; Facebook's action that hurt Viddy was a broad policy change not
+  aimed at Viddy specifically — the package explicitly avoids calling Viddy's collapse
+  an "API shutdown" in the literal sense.
+  Two items flagged, not resolved, rather than stated as fact: Meerkat founder Ben
+  Rubin's own account (told TechCrunch the API cutoff wasn't the real cause of the
+  shutdown) is single-sourced and presented as his stated view, not confirmed fact;
+  Viddy's total lifetime funding is reported inconsistently across sources ($36M-
+  $39.3M) and is stated as "more than $36M" rather than one precise figure.
+  Full source map with citations for every figure: see
+  `008-The-API-Shutdown-That-Killed-40-Startups/sources-log.txt`.
+
+005 - SaaS Fake ARR -> "How HeadSpin Faked $54M in Revenue (And Got Caught)"
+  All 17 files rewritten around the verified HeadSpin / Manish Lachwani case:
+  claimed $54M ARR in 2019 fundraising vs. board-determined actual ~$10M; fake
+  invoices and phantom customers (including invented Apple/Amex business);
+  no CFO, no HR, never audited; caught via employee whistleblower to the board
+  in early 2020. SEC civil charges Aug 26 2021; guilty plea April 23 2023
+  (2 counts wire fraud, 1 count securities fraud, N.D. Cal.); sentenced April
+  2024 to 18 months + $1M fine. Company later sold to PartnerOne for $28.2M
+  in July 2024 against a ~$1.1B peak valuation.
+  Two details still flagged [VERIFY] before recording: exact sentencing date
+  (sources split April 19 vs. April 22, 2024) and final restitution figure
+  (pending the July 31 2024 hearing). Full source map with citations for
+  every figure: see `005-The-SaaS-That-Raised-On-Fake-ARR/sources-log.txt`.
+  This is a fraud story about a real, convicted, named individual — recheck
+  the two open items against the court docket before recording, and put the
+  actual SEC/DOJ citation URLs on screen per the package's own requirement.
+
+017 - Ran Out of Money With $8M in the Bank -> anchored on Convoy
+  The original "$8M" figure was never sourced to a real case (per the package's
+  own instructions) and was dropped rather than guessed at. All 17 files
+  rewritten around Convoy (Seattle freight brokerage, founded 2015 by Dan Lewis
+  and Grant Goodale): raised $260M at a $3.8B valuation in April 2022 ($160M
+  equity + $100M secured venture debt from Hercules Capital, plus a separate
+  $150M J.P. Morgan credit line). Freight market collapsed 2022-2023; shut down
+  October 19, 2023; Hercules Capital foreclosed on Convoy's tech/IP/receivables
+  and took effective control of the wind-down. Flexport acquired the tech stack
+  in November 2023. Recommended title: "It Raised $260M at a $3.8B Valuation.
+  18 Months Later, Its Lender Took What Was Left."
+  Left as [VERIFY]: the Flexport sale price (Wikipedia says ~$16M, other
+  outlets say undisclosed) — do not state a specific figure without rechecking.
+  Also explicitly NOT claimed as confirmed: which specific covenant was
+  breached, the breach date, or Convoy's cash balance at the moment of
+  foreclosure — none of that is public record. The general venture-debt
+  covenant mechanics (minimum-cash covenants, MAC clauses, blanket liens) are
+  sourced separately and generically (Kruze Consulting, Foley Hoag, SEC-filed
+  Hercules loan agreement templates) and kept clearly labeled as general
+  practice, not Convoy-specific fact. Full source map: see
+  `017-Ran-Out-Of-Money-With-8M-In-The-Bank/sources-log.txt`.
+
+---
+
+CLEAN — CHECKED, NO ERRORS FOUND
+
+004 - Homejoy (funding, investors, "four lawsuits" framing, shutdown date — all confirmed)
+006 - Zirtual (Maren Kate Donovan, ~400 laid off Aug 10 2015, W-2 conversion cash crunch — confirmed)
+011 - The Argleton Effect (GT Advanced/Apple timeline and bankruptcy date confirmed; exact
+      Apple revenue-% is genuinely unconfirmable and correctly left as [VERIFY])
+012 - The Pivot Graveyard (Fab.com, Jawbone, Color Labs, Quixey all confirmed; Quixey's
+      funding figure is inconsistently reported across sources — correctly left as [VERIFY])
+013 - Founder Divorce (Reggie Brown/Snapchat $157.5M and Winklevoss/Facebook $65M both
+      confirmed exact. Minor optional polish, not applied: the Snapchat settlement amount
+      was confidential until Snap's 2017 IPO filing and was paid in two installments — worth
+      a clarifying parenthetical if this segment gets used, but not a factual error as written)
+018 - Down Rounds (Klarna $45.6B->$6.7B ~85% cut, Instacart $39B->$10B IPO markdown — both
+      confirmed exact)
+
+---
+
+STRUCTURALLY FINE BUT STILL NEEDS A REAL ANCHOR / SOURCING PASS BEFORE RECORDING
+
+None. All 20 packages (001-020) are now sourced and recording-ready, subject only to
+the narrow inline [VERIFY] flags noted throughout this log (single-sourced details,
+figures that vary across outlets, etc. — each deliberately left imprecise rather than
+guessed at). (001, 003, 007, 008, and 015 moved out of this section on 2026-08-13 —
+see FILLED IN above.)
+
+---
+
+If more titles get added later, repeat this process: read README.md + script.md for
+each new package, verify every named-company claim against outside sources, fix
+confirmed errors everywhere the claim repeats (grep the whole folder — claims tend
+to echo across README/script/blog/description/social/email), and log the result here.

@@ -1,0 +1,34 @@
+1. Niche name: Forensic documentaries on funded software companies that died — reconstructed from their own metrics, pitch decks, Crunchbase trails, shutdown letters, and post-mortems.
+
+2. Target audience: Founders, indie hackers, product managers, VCs and angels, startup employees evaluating offers, B2B sales/marketing professionals. Global (startup ecosystems in every region), English-first, high income, and — critically — buyers of software by profession.
+
+
+
+Check out this list of YouTube content titles I want to create. Feel free to add more title suggestions if you think there are better opportunities.
+
+Your mission is to help me write powerful Claude Code prompts that will automatically generate high-performing YouTube content for each title.
+
+For every YouTube title, the prompt should generate:
+
+* A complete viral YouTube script optimized for audience retention.
+* 3 different high-CTR script variations, each with a unique angle.
+* 3 high-converting thumbnail concepts with compelling thumbnail text.
+* SEO-optimized YouTube title variations.
+* A complete SEO-optimized video description.
+* High-ranking keyword tags.
+* Relevant hashtags.
+* Hook variations for the first 30 seconds.
+* Chapter/timestamp suggestions (when appropriate).
+* A strong call-to-action (CTA) for subscribers, comments, and shares.
+* Viral optimization recommendations based on current YouTube best practices.
+
+Content Titles:
+
+1 - The startup that hit $10M ARR and still died (unit economics autopsy)
+2 - Quibi: $1.75B, 6 months, zero pivots — the fastest burn in history
+3 - The company Google killed by launching a free version (platform risk, told 5 ways)
+
+4 - Homejoy: how misclassified labor lawsuits ended a rocket ship
+5 - The SaaS that raised on fake ARR — reconstructing the real numbers
+6 - Zirtual: the payroll email that laid off 400 people overnight
+

@@ -1,0 +1,213 @@
+Sources Log — Package 021: Stay Alfred
+Filled in: 2026-08-14
+
+WHY THIS FILE EXISTS
+Stay Alfred was first identified as a candidate during the 001 (Sprig) sourcing pass —
+a real, well-documented "meaningful revenue, still died" case — but was explicitly not
+used there because its ~$100M revenue was roughly 10x too large for that title's "$10M
+ARR" framing. It was flagged as "a strong candidate for a separate, differently-scaled
+future package." This is that package. A dedicated research pass deepened and
+reconciled the facts below.
+
+---
+
+FOUNDING
+
+- Co-founded by Jordan Allen (CEO) and Conrad Manfred. Sources split on the exact
+  year: Bisnow/CREtech say "co-founded in 2011"; GeekWire's 2016 profile says
+  "began operations in 2012." Present as "founded 2011, began operations 2012" —
+  do not state one single precise founding year.
+- "Alfred" is a portmanteau of the two founders' surnames (Allen + Manfred),
+  confirmed directly in GeekWire's original reporting. Manfred left the company
+  early ("eventually moved on to other ventures") — no further verified detail on
+  him found; do not speculate beyond this.
+- Jordan Allen: former U.S. Army Airborne Ranger and Captain, 8 years of service
+  including deployments to Iraq and Afghanistan (including a 15-month special-forces
+  outpost deployment), Bronze Star and Combat Action Badge recipient. Founded the
+  company at age 28.
+- Headquartered in Spokane, WA (one source specifies Spokane Valley specifically).
+- Bootstrapped from the start; Allen only began seriously considering outside
+  fundraising around 2016, per GeekWire.
+Source: Bisnow ("Beyond The Bio: 16 Questions With Stay Alfred Co-Founder/CEO Jordan
+Allen," bisnow.com/national/news/hotel/beyond-the-bio-16-questions-with-stay-alfred-
+co-founderceo-jordan-allen-98950), GeekWire (geekwire.com/2016/stay-alfred-biggest-
+short-term-rental-startup-youve-never-heard-track-25m-revenue-year), Spokesman-Review.
+
+EARLY COLOR (usable for founder-portrait beats, not core to the financial narrative)
+- Allen's own account of selling a dynamic-pricing system to RealPage as his "first
+  real experience with mergers and acquisitions."
+- The "Click Clack Futon incident": Allen ordered furniture without properly vetting
+  it, the futons broke, guest experience suffered — an early, formative lesson on
+  product/vendor validation.
+- Hiring first full-time employee Keari Sager was, per Allen, "the biggest risk to
+  date" — she reportedly "ran out and bought a car" on the strength of the job offer.
+- Notable in hindsight: Allen has said his team rejected advice to avoid growing
+  "too quickly" — a detail worth using for dramatic irony given how the story ends.
+- Original 2016 positioning quote, strong for contrasting Stay Alfred's model against
+  Airbnb-style marketplaces: "Control of the entire guest experience is a major
+  advantage for us. At the end of the day, most of our 'competitors' are marketplaces
+  for someone else's widget. We're the marketplace AND the widget."
+Source: Bisnow, GeekWire (as above).
+
+---
+
+FUNDING — fully reconciled, no remaining discrepancy
+
+- Series A: $15M. Crunchbase lists a closing date of January 17, 2018
+  (crunchbase.com/funding_round/stay-alfred-series-a--ab057bea); a VRM Intel
+  headline suggests activity around January 2017. [VERIFY exact month — Jan 2017
+  vs. Jan 2018 — before stating a specific month on screen; the year/amount are
+  solid, the exact month needs a final check.]
+- Series B: $47M, announced October 4-5, 2018. Led by Nine Four Ventures (a Chicago
+  real-estate-tech fund) with Concentric Equity Partners participating. Nine Four
+  GP Kurt Ramirez: "Stay Alfred is leading the emerging wave of companies driving
+  the evolution of the real estate industry and defining a new hospitality segment."
+- The "$47M vs. $62M" figures reported in earlier, shallower research are NOT in
+  conflict — $15M (Series A) + $47M (Series B) = $62M cumulative total. VRM Intel's
+  own headline states this explicitly: "Stay Alfred Raises $47M, Bringing Total
+  Funding to $62M." Use $62M as the confirmed lifetime total.
+- At the time of the Series B (Oct 2018): "nearly 2,000 travel apartments across 28
+  markets," a 230-person company.
+Source: HousingWire, GeekWire, PR Newswire, Nine Four Ventures' own blog
+(ninefour.vc/2018/10/05/travel-apartment-pioneer-stay-alfred-raises-47-million-in-
+series-b-funding/), VRM Intel, Crunchbase.
+
+---
+
+BUSINESS MODEL — master-lease arbitrage, precisely
+
+- Stay Alfred used four lease structures: individual-unit leases, partial-building
+  leases, full-building leases, and national developer partnerships — several
+  including exclusivity clauses preventing other short-term-rental operators from
+  the same building.
+- The fatal mechanism: Stay Alfred bore the FULL fixed lease obligation to
+  landlords regardless of its own occupancy — landlords got guaranteed rent no
+  matter what; Stay Alfred absorbed 100% of the vacancy/demand risk.
+- Allen's own pitch to landlords/developers (pre-collapse) framed this as
+  risk-REDUCING for the property owner: it "eliminat[es] vacancy loss for the
+  lease's duration and provid[es] profit by increasing net operating income (NOI)"
+  — i.e., the entire value proposition to landlords was that Stay Alfred, not them,
+  held the risk.
+- Scale trajectory (use for an on-screen growth graphic, note the approximation):
+  2016 — 13 cities, ~$13M revenue through mid-year, projecting >$25M for the full
+  year, 60 HQ + 6 remote staff. October 2018 (Series B) — ~2,000 units, 28 markets,
+  230 employees. Later/peak figures vary by source and snapshot date: Spokesman-
+  Review reports "2,500 apartments... in 33 cities"; a Bisnow bio separately cites
+  "30 downtown neighborhoods... 1.5M+ sq ft under management" and "32 U.S. cities."
+  [Present peak scale as an approximate range — "roughly 2,000-2,500 units, ~30
+  cities" — not a single precise peak figure, since sources disagree by a small
+  margin depending on exact date.]
+- Named competitors in the same master-lease category: Sonder (described as "the
+  next largest venture-backed firm" in this space, ahead of Stay Alfred), The Guild,
+  Domio, Lyric, Zeus Living.
+- Minor regulatory friction noted in passing: Seattle's short-term-rental tax rules
+  restricted entire-unit rentals, complicating hotel-style operations there — a
+  real but secondary headwind, not the core structural risk.
+Source: shorttermrentalz.com ("The Master Lease Model: Has The Bubble Burst?"),
+GeekWire, Bisnow, Spokesman-Review.
+
+---
+
+THE COVID COLLAPSE — precisely dated sequence
+
+1. Early March 2020 (before the shutdown): Allen and leadership were meeting with
+   investors to close a rescue round of up to $30M. Investors pulled the funding
+   "at the last minute."
+2. March 26, 2020: Stay Alfred temporarily closes properties nationwide.
+3. April 2020: Furloughs begin. Employee count immediately before furloughs: 221
+   total, 146 based in Spokane (down from 230+ pre-COVID). Workforce reduced to a
+   skeleton crew of roughly 50 to help wind down operations.
+4. May 7, 2020: Company PUBLICLY ANNOUNCES a plan to resume bookings August 1,
+   2020, with a smaller national footprint and reduced Spokane/central staff.
+   Company spokeswoman: "We intend to resume normal operations as quickly and
+   safely as possible."
+5. May 20, 2020 — just 13 days after that reopening announcement — Allen reverses
+   course entirely and announces PERMANENT closure. Quote, widely carried:
+   "amazing to think that a $100 million company in Spokane, Washington, could be
+   wiped out by a virus from Wuhan, China."
+   [THIS 13-DAY REVERSAL IS THE VIDEO'S STRONGEST, MOST UNDERUSED DRAMATIC BEAT —
+   the company publicly committed to reopening, then killed itself off less than
+   two weeks later. Lead the shutdown segment with this whiplash, not just the
+   final closure date.]
+Source: Spokesman-Review (multiple dated articles), Spokane Journal of Business.
+
+---
+
+FOUNDER'S OWN ACCOUNT
+
+- The "foundational crack" quote, in full context: Allen acknowledged the
+  master-lease structure itself was a "foundational crack," and said that in
+  hindsight he would have leaned more toward an OWNERSHIP-based model rather than
+  concentrating so heavily on master leases.
+- The "wiped out by a virus" quote (see above) directly underscores the video's
+  actual thesis: real scale ($100M revenue) does not equal resilience when the
+  underlying cost structure is fixed regardless of demand.
+Source: shorttermrentalz.com, Spokane Journal of Business.
+
+---
+
+AFTERMATH
+
+- Landlord litigation: Trammell Crow Residential (owner of the Alexan 20th Street
+  Station building) sued Stay Alfred in early May 2020 over $79,343 in unpaid April
+  rent — the case was later dismissed. Stay Alfred walked away entirely from
+  buildings it had fully controlled, including the 505 Tower in downtown Nashville
+  and 17 apartments in downtown Savannah under a master long-term lease.
+Source: creditorsrights101.com.
+- A separate, messier legal wrinkle in Pennsylvania: Stay Alfred attempted to
+  remove tenants from a unit during the state's COVID shutdown; the tenants (who'd
+  moved in March 20, contacted Stay Alfred April 2) argued they were now
+  sheltering-in-place residents entitled to eviction protections; a PA judge ruled
+  Stay Alfred could not oust them. Stay Alfred's spokesperson framed the removal
+  attempt as simply "trying to comply with the governor's order," not predation.
+  [Use as a brief complicating wrinkle showing the collapse's messy edge cases —
+  not as a core narrative beat, and not framed as corporate villainy given the
+  company's own stated compliance rationale.]
+Source: Law360 (law360.com/articles/1261844).
+- Founder's next act: Jordan Allen launched Ruumr Inc., an online residential
+  real-estate offer/bidding platform, live by June 2021 (first listing June 10,
+  2021, a three-bedroom Liberty Lake townhouse), reporting roughly $4M in "soft
+  commitments" from investors at that stage. Team included former OddJobbers CEO
+  Nick McLain and ex-Stay Alfred finance staffer Matt Melville. The company appears
+  to have later rebranded to Doorsey Inc. (WA Dept of Revenue filing, likely 2021 —
+  [VERIFY exact date] before stating on screen).
+Source: Spokane Journal of Business, Spokesman-Review.
+
+---
+
+COMPARABLE COMPANIES (brief context only — do not deep-dive on screen)
+
+- Lyric — raised $160M (spring 2019 round led by Airbnb); "all but shut down" late
+  June 2020 — a similarly fast COVID-driven collapse to Stay Alfred's.
+- Zeus Living — Airbnb-backed, raised $150M total; cut 60%+ of staff March-May 2020
+  but SURVIVED that shock, cut staff again in 2022 citing "market volatility," and
+  finally wound down in November 2023 — a much longer, slower decline than Stay
+  Alfred's.
+- Sonder — the largest venture-backed player in this category, went public via SPAC
+  and later faced layoffs and a stock-market delisting. [Timeline not deep-verified
+  in this research pass — flag for a closer check if a dedicated Sonder comparison
+  beat is built into the script; use only as a passing one-line mention otherwise.]
+- Usable framing: Stay Alfred and Lyric are "instant COVID casualties" in this
+  category; Zeus Living is "survived, then slowly died"; Sonder is "went public,
+  struggled anyway" — a clean three-way contrast if a brief "this wasn't unique to
+  Stay Alfred" beat is wanted, but keep it brief; this video's anchor is Stay
+  Alfred specifically.
+Source: shorttermrentalz.com, general contemporaneous press on each company.
+
+---
+
+BEFORE RECORDING
+1. Confirm the exact Series A month (Jan 2017 vs. a possible Jan 2018 Crunchbase
+   listing-date artifact) before stating a specific month on screen — the year and
+   amount ($15M) are solid regardless.
+2. Present peak scale (units/cities) as an approximate range, not one precise
+   number — sources vary by a small margin depending on snapshot date.
+3. Lead the collapse segment with the May 7 → May 20 reopening-then-reversal
+   whiplash, not just the final shutdown date — this is the strongest, most
+   underused dramatic beat in the whole case.
+4. Do not frame the Pennsylvania tenant-eviction dispute as corporate villainy —
+   present it as a messy edge case with the company's own compliance rationale
+   included.
+5. Verify Doorsey Inc.'s exact rebrand date before stating it as fact on screen.
+6. If a Sonder comparison beat is built out, verify its SPAC/delisting timeline
+   independently first — not yet deep-verified in this pass.

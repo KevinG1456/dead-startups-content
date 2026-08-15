@@ -1,0 +1,246 @@
+Come Back Later — Where This Project Stands
+Last updated: 2026-08-15
+
+WHAT THIS FILE IS
+A quick-reorientation doc. Read this first when you come back, before opening
+anything else. Everything referenced here (sources-log.txt files, Fact-Check
+Reminder.txt) is the actual detailed record — this file is just the map.
+
+---
+
+BIG PICTURE
+
+30 packages exist in /YouTube-Content, numbered 001-030. Every single one is
+fact-checked and production-ready as of this session. Nothing is blocked. If you
+want to record something tomorrow, pick any package and go — the README.md at the
+top of each folder tells you the real anchor story and flags anything still marked
+[VERIFY].
+
+001-020 were the original title set (from Niche name.txt + Content Titles V2-V4).
+021 (Stay Alfred), 022 (Fast), and 023 (Munchery) were new titles added a couple
+sessions ago, picked by finding real, well-sourced candidates that had been
+researched-but-set-aside during earlier sourcing passes rather than starting from
+scratch each time. 024 (Olive AI) was added the following session — the first
+title on the channel researched entirely cold, with no prior flagged lead. 025
+(Sonder, with Lyric and Zeus Living as companions) was added earlier THIS session —
+the "good next candidate" lead this file itself had flagged after the prior
+session. 026-030 (WeWork, 23andMe, Bird, Ozy Media, MoviePass) are also THIS
+session's additions — five well-documented, famous companies picked fresh (not
+from a prior flagged-lead list) once the 025 lead was used up. This is by far the
+largest single-session batch this channel has built.
+
+---
+
+WHAT HAPPENED THIS SESSION (2026-08-13 to 2026-08-14)
+
+Did a full sourcing pass on every package that was still a placeholder framework:
+- 008 -> Meerkat (Twitter) + Viddy (Facebook) — dropped the unsourced "40 startups" claim
+- 003 -> Garmin/TomTom + Picturelife — only 2 of 5 planned "platform risk" segments held up
+- 001 -> Sprig — Fast was checked and rejected here (wrong revenue scale), Stay Alfred too
+- 007 -> Full audit of YC's Summer 2006 batch (11 companies) — real ratio is 91% or 73%
+  depending on definition, not a flat "9 out of 10"
+- 015 -> Compiled 23 real shutdown letters (not the planned 50) — real finding: "sunset"
+  never appears once, "wind down" is the actual dominant word
+- 021 (NEW) -> Stay Alfred, the candidate set aside during 001's research. $100M
+  revenue, master-lease model, announced reopening then reversed 13 days later.
+- 022 (NEW) -> Fast, the candidate set aside during 001's research (the inverse story:
+  $580M valuation, only ~$600K real revenue). HIGH SENSITIVITY — see below.
+- 023 (NEW) -> Munchery, picked up from a lead in 001's research AND from the 015
+  shutdown-letter corpus. Third company in a "same category, same flaw" arc with
+  Sprig (001) and SpoonRocket — outlasted both, still went bankrupt.
+
+Every one of these has its own sources-log.txt in its package folder — that's the
+detailed citation map, not this file.
+
+---
+
+WHAT HAPPENED THE FOLLOWING SESSION (2026-08-14 to 2026-08-15)
+
+Built package 024 from scratch — the first title on the channel with no prior
+flagged lead to start from:
+- 024 (NEW) -> Olive AI, Columbus OH healthcare-automation startup (Sean Lane,
+  founded 2012 as CrossChx, rebranded 2017). $4B peak valuation (Jul 2021, the
+  best-sourced number in the package) on close to $900M raised lifetime. Distinct
+  failure shape from every other package: not a single dramatic week (022) or one
+  bankruptcy filing (023) but an ~18-month "sold for parts" wind-down — Apr 2022
+  Axios overpromise investigation, two rounds of layoffs, business units sold off
+  piecemeal (Availity, Waystar, Humata Health), then a formal wind-down Oct 31 2023
+  with no bankruptcy filed. Built via a background fork, then verified (grepped for
+  leaked unsourced figures and banned "fraud/scam/lied" language) before being
+  accepted — came back clean.
+
+---
+
+WHAT HAPPENED THIS SESSION (2026-08-15)
+
+Built package 025 from the Sonder/Lyric/Zeus Living lead flagged below (now
+removed from the candidates list, since it's built):
+- 025 (NEW) -> Sonder (anchor), with Lyric and Zeus Living as companions.
+  "Sonder Hit a $1.6 Billion Deficit, Went Public Anyway — and Was Bankrupt Within
+  a Week." Same 3-company-arc structure as 023 (Munchery/Sprig/SpoonRocket).
+  Sonder raised $550M+ before going public via SPAC on Nasdaq (Jan 2022) — the
+  only company in this category, and one of very few on this whole channel, to
+  reach a public listing — then still collapsed into Chapter 7 within about a
+  week of Marriott terminating a Bonvoy licensing deal (Nov 7 termination, Nov 9
+  public announcement, Nov 14 filing). $1.6B cumulative deficit by end of 2024 is
+  the package's strongest number. Explicitly cross-references 021 (Stay Alfred) —
+  same master-lease mechanic. Built via two background agent runs (first one — a
+  fork — silently produced no files and had to be redone from scratch as a fresh
+  agent; that fresh agent then dropped its connection partway through and was
+  resumed to finish the remaining files), then verified directly (grepped for
+  banned "fraud/scam/lied" language, unreconciled funding figures, and correct
+  Marriott-allegation attribution) before being accepted — came back clean.
+
+---
+
+WHAT ELSE HAPPENED THIS SESSION (2026-08-15, continued) — 026 through 030
+
+Once the 025 lead was used up, five fresh, well-documented, famous-company
+candidates were researched from scratch (no prior flagged-lead list to draw from)
+and built as full packages, in parallel via five background agents:
+- 026 (NEW) -> WeWork. The definitive overhype/governance-collapse story in the
+  genre, already name-checked as a comparison in 025's own research ("the WeWork
+  of apartments"). $47B peak valuation (highest of any company on this channel),
+  2019 IPO collapse, Neumann's up-to-$1.7B exit package, SoftBank's ~$9.5B
+  rescue, a second SPAC IPO in 2021 at $9B, then a real Nov 2023 Chapter 11 —
+  but a REORGANIZATION, not a liquidation; the company still operates today at
+  ~$750M. Coda: Neumann's new company Flow, backed by Andreessen Horowitz.
+- 027 (NEW) -> 23andMe. A different failure shape: a 2023 data breach (credential
+  stuffing, not a direct hack) that specifically targeted users by ancestry
+  (Ashkenazi Jewish, Chinese) cascaded into a Sept 2024 mass board resignation,
+  which cascaded into a March 2025 Chapter 11 filing. Twist ending: founder Anne
+  Wojcicki bought back the core data assets via a nonprofit (TTAM Research
+  Institute) for $305M in the bankruptcy auction.
+- 028 (NEW) -> Bird. This channel's first HARDWARE unit-economics story (a
+  physical scooter fleet, not software/leasing). SPAC IPO Nov 2021 at up to
+  $2.3-2.5B, a Nov 2022 self-reported accounting restatement (overstated revenue
+  from unpaid rides — not a fraud charge), NYSE delisting, Dec 2023 Chapter 11,
+  and an April 2024 sale of its own assets to its own lenders (Third Lane
+  Mobility) for ~$145M.
+- 029 (NEW) -> Ozy Media / Carlos Watson. This channel's second REAL-CONVICTION
+  fraud story (after 005/HeadSpin) — Watson was actually indicted, tried, and
+  convicted by a jury in July 2024. Highest-sensitivity of this batch: his
+  sentence was commuted by President Trump in March 2025, handled with strict
+  neutrality (who/what/when only, zero political framing) throughout.
+- 030 (NEW) -> MoviePass. The most viral unit-economics catastrophe in the genre
+  (the $9.95 unlimited plan), paired with a genuine redemption arc: founder
+  Stacy Spikes was fired BEFORE the reckless pricing decision, was never charged
+  with anything, and later bought the brand back out of bankruptcy and built a
+  real, profitable relaunch — a happier ending than almost anything else on this
+  channel.
+
+Build process for all five: sources-log.txt + README.md written directly (not
+delegated) for fact-critical accuracy, then the 16 remaining content files
+delegated to five parallel background agents. Two of the five (027 and 030) lost
+their connection partway through and had to be resumed to finish — same failure
+mode as 025's second build attempt, now clearly a recurring risk with long
+agent runs, not a one-off. All five were verified afterward (grepped for banned
+"fraud/scam/lied" language used accusatorially, hedged-figure discipline, and
+each package's own specific caution — the Ashkenazi/Chinese breach handling in
+027, the Rao-not-Watson attribution in 029, the Spikes/Farnsworth separation in
+030) before being accepted. One real accuracy bug was caught and fixed during
+verification: 029's own README title was originally ambiguous in a way that
+could be misread as Watson (not his co-founder Samir Rao) having done the
+YouTube impersonation — corrected to name "his co-founder" explicitly.
+
+---
+
+⚠️ THINGS TO KNOW BEFORE TOUCHING PACKAGE 022, 024, 025, 027, 028, OR 029 AGAIN
+
+022 (Fast) is the highest-sensitivity package on the channel. Its founder has NOT
+been charged or convicted of anything (unlike 005/HeadSpin, which has a real
+conviction). Several claims in that package trace to one NPR investigation and are
+handled with extra attribution care throughout every file. Read
+022-Fast-580M-Valuation-600K-Revenue/sources-log.txt in full before editing
+anything in that folder, even something that looks minor. There's also a standing
+memory note on this (ask me to recall it, or it'll surface automatically).
+
+024 (Olive AI) carries the same standard — founder Sean Lane not charged or
+convicted, framed strictly as overhype-and-burn-rate, never "fraud/scam/lied."
+It also has several individually-flagged uncertain figures (lifetime funding total,
+Feb 2023 layoff count, exact business-sale dates, burn-rate claim, the "mostly
+rules-based automation" characterization). Read
+024-Olive-AI-4B-Valuation-Sold-For-Parts/sources-log.txt in full before editing.
+
+025 (Sonder) carries a related but distinct standard: no founder here (Sonder's
+Francis Davidson, Lyric's or Zeus Living's founders) has been charged or convicted
+of anything either, BUT the sharpest material isn't about a founder's personal
+history — it's Marriott's bankruptcy-court filing alleging Sonder threatened to
+lock guests out of their rooms to force wind-down funding. That's one side's
+litigation characterization, not adjudicated fact, and not Sonder's own account
+(Sonder's own explanation is softer — "unanticipated delays and costs of
+integration"). Every file that uses the Marriott allegation attributes it
+explicitly and pairs it with Sonder's account; Shorts and social posts leave the
+allegation out entirely, ironclad-facts-only, same pattern as 022. Read
+025-Sonder-1.6B-Lost-Bankrupt-In-A-Week/sources-log.txt in full before editing.
+
+027 (23andMe) carries a data-sensitivity standard, not a founder standard: Anne
+Wojcicki is not charged with anything, but the 2023 breach specifically targeted
+users by ancestry (Ashkenazi Jewish, Chinese) — that detail must stay factual
+and soberly sourced everywhere it appears, never sensationalized, and Shorts has
+its own explicit guardrail note. Read
+027-23andMe-6B-To-Bankruptcy-Data-Breach/sources-log.txt before editing.
+
+028 (Bird) carries an accounting-specific caution: a real Nov 2022 SEC filing
+disclosed overstated revenue, but no individual was criminally charged for it in
+this research pass — "fraud" language does NOT apply to that event, only
+"self-reported accounting restatement." Read
+028-Bird-Scooter-SPAC-To-Bankruptcy/sources-log.txt before editing.
+
+029 (Ozy Media) is the highest-sensitivity package in this batch — the OPPOSITE
+profile from 022/024/025: Carlos Watson WAS criminally convicted, so "fraud"
+language IS accurate here, but his sentence was commuted by President Trump in
+March 2025. That fact must be stated with strict who/what/when neutrality only —
+zero speculation about motive, zero political framing — in every file, every
+time. Also keep Samir Rao (who did the YouTube impersonation) distinct from
+Watson (who was convicted) — don't let the two men blur together. Read
+029-Ozy-Media-Carlos-Watson-Fraud-Conviction/sources-log.txt in full before
+editing anything in that folder, even something that looks minor.
+
+030 (MoviePass) has no founder-sensitivity issue (Spikes was never charged) but
+has a critical PERSON-SEPARATION requirement instead: never let founder Stacy
+Spikes blur together with the later, fraud-charged executives (Farnsworth,
+Lowe, Itum) who ran the company after he was fired. Read
+030-MoviePass-9.95-Burn-Rate-Collapse/sources-log.txt before editing.
+
+---
+
+GOOD NEXT CANDIDATES (already partially researched, not yet built into packages)
+
+These turned up as real, sourced, but-not-used leads during other packages' research.
+Picking one of these next means less from-scratch research:
+- Whatever comes up next — check project_factcheck_status memory and each
+  package's own sources-log "checked and rejected" sections before researching a
+  new topic from scratch. Several packages have a "candidates checked and NOT
+  used" list buried in them (008, 003, 015, 023 all have one) — worth skimming for
+  leads.
+
+---
+
+STANDING RULES TO REMEMBER
+
+- Thumbnail prompts: one dominant idea, not the whole video crammed in.
+- Every package gets a sources-log.txt — that's where the real citations live, not
+  scattered across the 16 content files.
+- Long agent runs building a package's content files can lose their connection
+  partway through (happened to 025's rebuild, then 027 and 030 in the 026-030
+  batch) — always check which files actually landed on disk before assuming a
+  build finished, and just resume the same agent for the remainder rather than
+  restarting from scratch.
+- If a headline number can't be sourced, drop it — don't force the original framing
+  to match reality. Every pivot this session followed that rule (001, 003, 007,
+  008, 015 all dropped or adjusted their original placeholder numbers).
+- If a case involves serious claims about a living, non-convicted person (see 022),
+  attribute every such claim on screen every time, use the source's own careful
+  language rather than a sharper secondhand paraphrase, and keep short-form assets
+  (Shorts, social posts) restricted to the ironclad facts only.
+- Fact-Check Reminder.txt in this same root folder is the master log — every
+  package's entry is there, organized by FIXED / FILLED IN / CLEAN.
+
+---
+
+WHEN YOU'RE BACK
+
+Just tell me what you want next — a new package, a rewrite, a check on something
+specific — and reference this file if you want a running start. I'll pick up from
+here without needing the whole session re-explained.

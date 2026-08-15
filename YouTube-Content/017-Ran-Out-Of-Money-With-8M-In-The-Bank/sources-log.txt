@@ -1,0 +1,107 @@
+Sources Log — Package 017: Convoy / Hercules Capital
+Filled in: 2026-08-13
+
+WHY THIS FILE EXISTS
+This title was originally built around an invented "$8M in the bank" figure that the
+package's own README explicitly warned not to use without a real, sourced case. It's
+now anchored on Convoy, a real, extensively-covered case. This log is the citation
+map — check it before recording, and note the explicit split between what's
+Convoy-specific (sourced to news coverage) and what's general venture-debt mechanism
+explanation (sourced separately, to lending-practice references).
+
+---
+
+COMPANY / FOUNDERS
+- Convoy — Seattle-based digital freight brokerage marketplace ("Uber for trucking"),
+  founded 2015.
+- Founders: Dan Lewis (CEO) and Grant Goodale, both former Amazon executives.
+Source: GeekWire, Wikipedia.
+
+FUNDING HISTORY
+- Series C, September 2018: $185M raised, ~$1B valuation. New investors: T. Rowe Price,
+  Lone Pine Capital.
+- Series D, November 2019: $400M, co-led by Generation Investment Management and
+  T. Rowe Price, ~$2.75B valuation.
+- Series E, April 2022: $260M total — $160M in equity (led by Baillie Gifford and
+  T. Rowe Price) + $100M in secured venture debt from Hercules Capital. Separately,
+  a new $150M line of credit from J.P. Morgan. Valuation: $3.8B.
+- Early/notable investors across rounds: Jeff Bezos (personally, reportedly via
+  Bezos Expeditions), Bill Gates, Marc Benioff, Greylock, CapitalG.
+- Lifetime total funding reported as ~$1.1B (Forge Global) to ~$828M (Tracxn) —
+  sources vary; treat as "over $1B across its history" rather than citing one
+  precise lifetime total.
+Source: TechCrunch (Series C 2018, Series E April 2022), GeekWire (Series E, $3.8B
+valuation), BusinessWire (April 2022 press release with the $160M/$100M/$150M
+breakdown), CNBC (April 2022 valuation coverage), Tracxn/Forge Global (lifetime
+funding figures — flagged as inconsistent between sources).
+
+THE COLLAPSE
+- 2022–2023: historic freight-market downturn (falling freight rates, overcapacity)
+  hit Convoy's brokerage margins hard.
+- February 2023: restructuring and layoffs.
+- Headcount fell from a peak of ~1,500 (roughly a year before shutdown) to ~500 by
+  the October 2023 shutdown.
+- CEO Dan Lewis: the company spent 4+ months exhausting strategic options before
+  concluding shutdown was necessary.
+Source: TechCrunch (Feb 2023 restructuring coverage), CNBC (Oct 19 2023 shutdown
+coverage, includes headcount figures and Lewis's memo).
+
+THE SHUTDOWN AND FORECLOSURE
+- Shutdown date: October 19, 2023 (memo sent to employees that Thursday morning).
+- CEO Dan Lewis's memo: "We hoped this day would never come." Cites "an unprecedented
+  freight market collapse" combined with "dramatic monetary tightening" as
+  "the perfect storm" that "crushed our progress at the same time that it was
+  crushing our logical strategic acquirer."
+- Hercules Capital foreclosed on Convoy's assets — technology, IP, and accounts
+  receivable — and took effective control of the business, subsequently marketing
+  Convoy's technology to potential buyers.
+  [VERIFY: no specific numeric covenant breach, breach date, or Convoy's exact cash
+  balance at the time is documented in available reporting. Do not state a specific
+  dollar figure as Convoy's confirmed cash position — none is sourced.]
+Source: CNBC (Oct 19, 2023 — "Bezos-backed freight firm Convoy shuts down," includes
+full CEO memo), GeekWire (Convoy shutdown coverage), FreightWaves ("Death from
+overfunding: An obituary for Convoy," debt-structure analysis).
+
+THE OUTCOME
+- Flexport acquired Convoy's technology stack in November 2023, retaining roughly
+  50 former Convoy employees, including CEO Dan Lewis.
+- Flexport explicitly did not acquire Convoy the company or its liabilities — only
+  the technology and a subset of the team.
+- Reported sale price: ~$16M per Wikipedia's sourcing; other outlets (FreightWaves,
+  GeekWire, TechCrunch) describe the price as undisclosed.
+  [VERIFY exact figure/sourcing before citing a specific number on screen.]
+- Dan Lewis later left Flexport in late 2024 and joined Microsoft in early 2025.
+Source: GeekWire ("Flexport buys Convoy's tech..."), FreightWaves ("Flexport
+acquires Convoy technology stack for undisclosed sum"), Wikipedia (Convoy company
+page — cites the $16M figure, flagged above as needing independent confirmation).
+
+---
+
+GENERAL VENTURE DEBT MECHANISM (sourced separately — NOT specific to Convoy's case)
+- Minimum unrestricted-cash covenants: commonly structured around a percentage of
+  outstanding loan principal (illustrative range cited in secondary sources: roughly
+  35% after milestones, up to 50–70% before milestones are met), based on the
+  publicly-filed Hercules Technology Growth Capital loan agreement template
+  structure referenced across multiple borrower SEC 10-Q/8-K filings on EDGAR.
+- Material Adverse Change (MAC/MAE) clauses, cross-default provisions, and default
+  interest rates (commonly cited around +4-5%) are standard features of venture
+  debt agreements.
+- Secured venture debt is typically backed by a blanket lien on company assets,
+  sometimes including a tri-party control agreement with the company's bank that
+  gives the lender rights to take control of deposit accounts upon default.
+Source: Kruze Consulting (venture debt covenant/default educational content),
+Foley Hoag "10 Things to Know About Venture Debt," RBCx debt covenant guidance,
+SEC EDGAR-filed Hercules Technology Growth Capital loan agreement templates
+(general structure reference, not Convoy's own agreement, which is not public).
+
+---
+
+BEFORE RECORDING
+1. Confirm the Flexport/Convoy sale price ($16M vs. "undisclosed") against a
+   primary source before stating a specific figure on screen.
+2. Do not state a specific covenant, breach date, or cash balance for Convoy as
+   confirmed fact — these details are not in the public record. Keep the general
+   venture-debt-mechanism explanation clearly framed as general practice, separate
+   from Convoy's specific, sourced outcome (foreclosure, loss of control).
+3. Pull direct links to the CNBC, GeekWire, TechCrunch, and FreightWaves articles
+   cited above for on-screen citation, per the package's own production requirement.

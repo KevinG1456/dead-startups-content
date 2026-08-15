@@ -1,0 +1,170 @@
+Sources Log — Package 026: WeWork
+Filled in: 2026-08-15
+
+WHY THIS FILE EXISTS
+WeWork is the most famous overhype/governance-collapse story in this entire genre —
+already name-checked as a direct comparison point in this channel's own package 025
+research (Commercial Observer analyst Daniel Lesser called Sonder "the WeWork of
+apartments" when explaining Sonder's over-leased-inventory collapse). This is that
+story told in full for the first time on this channel. Distinct failure shape from
+everything else here: not a single company that quietly ran out of money, but a
+company that reached the single highest valuation on this channel ($47B), had its
+IPO publicly collapse in six weeks, got bailed out once by its own largest investor,
+went public again years later via SPAC at a fraction of that value, and STILL ended
+in Chapter 11 — then emerged from bankruptcy and continues operating today, smaller.
+Worth flagging: unlike every other package on this channel, WeWork's founder is
+alive, not charged with any crime related to WeWork specifically, and is currently
+running and successfully fundraising for a NEW company (Flow) — a genuinely
+different "where are they now" ending than any other package.
+
+---
+
+FOUNDING AND EARLY GROWTH
+- Founded 2010 by Adam Neumann and Miguel McKelvey. First location opened April
+  2011 on Grand Street, SoHo, Manhattan.
+- Business model: leases large blocks of commercial office space on long-term
+  leases, subdivides and redesigns it, then re-rents it to individuals and
+  companies on flexible, short-term membership terms — a fixed-long-term-
+  obligation-vs-flexible-short-term-revenue mismatch that is structurally similar
+  in shape (though a different industry) to the master-lease residential model
+  covered in this channel's packages 021 (Stay Alfred) and 025 (Sonder/Zeus
+  Living) — worth a brief on-screen comparison, though WeWork is commercial real
+  estate, not residential.
+Source: Britannica Money; 2727coworking.com company history summary.
+
+FUNDING AND VALUATION PEAK
+- Total lifetime funding raised is reported as approximately $13 billion across
+  its investment history (widely cited aggregate figure).
+- 2019: SoftBank led a Series H round investing $1 billion, part of a financing
+  history that valued WeWork at $47 billion at its peak — the highest valuation
+  reached by any company covered on this channel.
+- SoftBank's CUMULATIVE debt-and-equity exposure to WeWork over the years reached
+  approximately $18.5 billion; by 2023 SoftBank's reported cumulative LOSS on the
+  investment was approximately $16 billion (loss figure is smaller than total
+  exposure because SoftBank recovered some value / restructured some debt — these
+  are two different, both-real numbers, don't conflate "total invested" with
+  "total lost"). *** Use "SoftBank's exposure reached roughly $18.5 billion; its
+  reported loss was roughly $16 billion" — do not state one single number for
+  both concepts. ***
+Source: Britannica Money; Yahoo Finance ("How SoftBank bet and lost billions on
+WeWork"); Forbes (SoftBank rescue coverage).
+
+THE 2019 IPO COLLAPSE — precisely dated
+- August 2019: WeWork released its public S-1 IPO prospectus. It met immediate,
+  intense backlash — scrutiny fell on Neumann's outsized control (super-voting
+  shares), numerous related-party transactions (including WeWork paying Neumann
+  personally for the trademark rights to the word "We"), and the company's
+  self-invented non-GAAP metric ("community-adjusted EBITDA") that excluded most
+  of its actual operating costs.
+- Mid-October 2019: the IPO was shelved/put on hold indefinitely; formally
+  withdrawn shortly after.
+- September 24, 2019: Adam Neumann resigned as CEO under board pressure, amid the
+  IPO collapse.
+- Neumann's exit package was reported at up to $1.7 billion total, comprising:
+  up to $970 million for his shares, a $185 million "consulting fee," and $500
+  million in credit facilities to help him repay personal loans (personal loans
+  he had taken out partly against WeWork stock). *** This exit package, secured
+  in the same weeks the company's valuation collapsed and ordinary employees were
+  later laid off, is one of the strongest "who actually pays the price when a
+  hyped startup fails" beats on this whole channel — a useful contrast to
+  founders on this channel who walked away with nothing (e.g., Sprig, package
+  001) or who are conviction-facing (Ozy Media, package 029). ***
+- October 2019: SoftBank stepped in with a rescue package reported at roughly
+  $9.5 billion (a mix of new equity investment, debt financing, and an
+  accelerated warrant/tender offer to buy out existing shareholders), taking
+  effective control of the company.
+Source: idealsvdr.com IPO-failure summary; Britannica Money; 2727coworking.com;
+Al Jazeera (SoftBank rescue coverage, Oct 2019).
+
+THE FIRST PUBLIC LISTING — SPAC MERGER (2021)
+- October 20, 2021: WeWork completed a SPAC merger with BowX Acquisition Corp.,
+  beginning to trade on the NYSE under ticker "WE" at an enterprise value of
+  approximately $9 billion — already a roughly 80% discount from the 2019 peak
+  valuation, even before any further decline. The deal brought in about $1.3
+  billion in gross cash proceeds (a fully committed PIPE plus a Cushman &
+  Wakefield backstop facility).
+Source: SEC filings (BowX Acquisition Corp Form 425/S-4/424B3, 2021); Caproasia.
+
+THE SECOND COLLAPSE — CHAPTER 11 (2023), precisely dated
+- Class A common stock declined more than 98% over the course of 2023 alone.
+- November 6, 2023: WeWork Inc. and 517 affiliated entities filed for Chapter 11
+  bankruptcy, simultaneously entering a restructuring support agreement with
+  SoftBank and other major debt holders.
+- At filing: approximately $15 billion (some sources: $15.06 billion) in assets
+  against approximately $18.6 billion (some sources: $18.65 billion) in
+  liabilities, plus roughly $100 million in unpaid rent (U.S./Canada filings
+  only, not global).
+- Adam Neumann's public statement on the bankruptcy filing: he called it
+  "disappointing," a notably muted reaction from the company's own co-founder.
+Source: Orrick ("WeWork Bankruptcy: The Basics"); TechCrunch (Nov 6 2023); CNBC
+(Nov 7 2023); Forbes (Nov 7 2023, "WeWork's Rise to $47 Billion — And Fall to
+Bankruptcy: A Timeline").
+
+EMERGENCE FROM BANKRUPTCY
+- June 11, 2024: WeWork emerged from Chapter 11. Ownership restructured to: Yardi
+  Systems' affiliate Cupar Grimmond at approximately 60%, SoftBank at
+  approximately 20%, other lenders holding the remaining 20%. Approximately $4
+  billion in pre-petition debt was eliminated in the process.
+- Post-emergence valuation reported at roughly $750 million — a small fraction of
+  either the 2019 private-market peak ($47B) or even the 2021 SPAC valuation
+  ($9B). *** Use this three-point valuation arc ($47B private peak -> $9B SPAC ->
+  ~$750M post-bankruptcy) as the clearest single visual/graphic for the whole
+  package. ***
+- WeWork continues operating today as a smaller, private company under this new
+  ownership structure — NOT liquidated, a genuinely different ending than most of
+  this channel's other bankruptcy stories (compare: 023/Munchery liquidated for
+  parts, 025/Sonder Chapter 7 liquidation). WeWork's Chapter 11 was a
+  reorganization that let the company keep operating, which is worth stating
+  explicitly on screen as a real structural distinction.
+Source: Davis Polk ("WeWork emerges from chapter 11"); Caproasia (restructuring
+approval coverage); elevenflo.com ("WeWork: Debt-Free Emergence After Chapter
+11" — note this headline overstates the outcome; WeWork eliminated a large
+portion of pre-petition debt, it did not emerge completely debt-free in an
+absolute sense — present as "eliminated roughly $4 billion in debt," not as
+"emerged debt-free").
+
+ADAM NEUMANN'S AFTERMATH — THE CODA
+- After his 2019 exit (with the up-to-$1.7B package above), Neumann founded Flow,
+  a residential real-estate company built around shared-amenity rental housing —
+  conceptually similar in spirit to WeWork's community-focused pitch, applied to
+  apartments instead of offices.
+- Andreessen Horowitz invested in Flow at launch (2022) — a notable bet on
+  Neumann personally, just months after WeWork's SPAC-era stock was already
+  cratering (well before the Nov 2023 bankruptcy, but after the reputational
+  damage of the 2019 collapse was already fully public). As of 2025, Flow was
+  reportedly valued at approximately $2.5 billion.
+- *** Editorial framing note: this is a genuinely unusual ending for this
+  channel's genre — the founder most associated with the excess that sank the
+  company was, within about three years, backed by a top-tier VC firm to do a
+  similar thing again, and by most public reporting is still running that
+  company today. Present as the irony/coda beat, not as vindication or
+  condemnation either way — let the facts (the size of his exit package, the
+  timing, the new funding) carry the point. ***
+Source: Fortune ("Adam Neumann goes from flop to Flow", Aug 2022); Medium ("The
+Capital Review" analysis piece, secondary/opinion source — use only for the
+framing observation, not for any factual claim not corroborated elsewhere).
+
+---
+
+BEFORE RECORDING
+1. Do not conflate SoftBank's total debt-and-equity EXPOSURE to WeWork (~$18.5B)
+   with SoftBank's reported cumulative LOSS (~$16B) — these are two different
+   numbers describing two different things.
+2. Present the valuation arc as three distinct, correctly-labeled points: $47B
+   (2019 private peak) -> $9B (Oct 2021 SPAC enterprise value) -> ~$750M
+   (post-2024-bankruptcy-emergence) — never state one of these as "the" WeWork
+   valuation without the date/context attached.
+3. WeWork's 2023 Chapter 11 was a REORGANIZATION, not a liquidation — the company
+   continues operating today under new majority ownership (Cupar Grimmond/Yardi).
+   Do not describe this the same way as this channel's Chapter 7/full-liquidation
+   stories (e.g., 025/Sonder).
+4. Neumann has NOT been charged with any crime in connection with WeWork — frame
+   his story as governance/incentive-structure failure and personal enrichment
+   amid collapse, not wrongdoing. No "fraud/scam/lied" language applies here;
+   this is a different category of story than 005/HeadSpin or 029/Ozy Media.
+5. "Community-adjusted EBITDA" is a real, documented, widely-mocked metric from
+   WeWork's own 2019 S-1 — safe to use and explain on screen as a clear, concrete
+   example of the IPO's credibility problem.
+6. The Flow/Andreessen Horowitz coda is real and well-sourced but should be
+   presented neutrally — a factual "what happened next," not editorialized as
+   either a redemption arc or an indictment of Silicon Valley.

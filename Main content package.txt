@@ -1,0 +1,18 @@
+001-How-to-Build-an-AI-Agent/
+├── README.md                 # Main content package
+├── script.md
+├── titles.md
+├── thumbnails.md
+├── seo.md
+├── description.md
+├── tags.md
+├── hashtags.md
+├── shorts.md
+├── community-posts.md
+├── social-posts.md
+├── email-campaign.md
+├── blog.md
+├── editing-notes.md
+├── publishing-plan.md
+├── ai-image-prompts.md
+└── assets/

@@ -1,0 +1,112 @@
+
+
+For your specific workflow
+
+I would build the production pipeline like this:
+
+Claude Code → Script → HeyGen Avatar V → B-roll/AI visuals → Editing → YouTube
+
+Don't make the entire video just an avatar talking to the camera. That's likely to become visually repetitive.
+
+Instead:
+
+0:00–0:20 — Avatar V
+
+Extremely strong hook
+Presenter on screen
+Pattern interrupt
+
+0:20–1:00 — B-roll + narration
+
+Relevant images
+AI-generated visuals
+Screenshots
+Charts
+Text animations
+
+1:00–1:30 — Avatar V
+
+Introduce the next major point
+
+1:30–3:00 — B-roll / graphics / narration
+
+3:00–3:20 — Avatar V
+
+Emotional/curiosity moment
+
+And continue this pattern.
+
+This gives you the human connection of an AI presenter without making the video feel like a generic AI-avatar video.
+
+Why Avatar V fits your project
+
+Avatar V uses a short video reference to learn your movement, gestures, expressions, and mannerisms. HeyGen says a 15-second reference video can be used to create the digital twin, and it supports different looks, 
+settings, and camera angles while maintaining the learned motion.
+
+
+
+
+That's especially useful for the system we were designing because your Claude Code prompt can generate scripts with performance directions, rather than just plain narration.
+
+For example:
+
+[ENERGY: HIGH]
+
+[PAUSE]
+
+[LOOK DIRECTLY INTO CAMERA]
+
+[EMPHASIZE: "This changes everything"]
+
+[CURIOUS / LOWER VOICE]
+
+[HAND GESTURE]
+
+[TRANSITION TO B-ROLL]
+
+Then your production system can turn those directions into a HeyGen-ready script.
+
+
+
+
+## HeyGen Production
+
+### Avatar Model
+Avatar V
+
+### Presenter Performance
+- Energy level:
+- Speaking pace:
+- Emotional tone:
+- Facial expression:
+- Gesture style:
+- Camera presence:
+
+### Scene Breakdown
+
+Scene 01
+- Duration:
+- Avatar/B-roll:
+- Script:
+- Performance direction:
+- Visual direction:
+
+Scene 02
+- Duration:
+- Avatar/B-roll:
+- Script:
+- Performance direction:
+- Visual direction:
+
+Scene 03
+...
+
+
+
+
+
+You're asking it to create a complete production blueprint for HeyGen.
+
+Also, HeyGen's current guidance says Avatar V is the better choice when consistency and realistic human performance are priorities, while Avatar IV gives you more creative/custom prompting control.
+
+So for your main YouTube channels: Avatar V → primary. Avatar IV → secondary for special characters, visual storytelling, or experimental videos.

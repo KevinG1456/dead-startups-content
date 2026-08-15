@@ -1,0 +1,136 @@
+Sources Log — Package 028: Bird
+Filled in: 2026-08-15
+
+WHY THIS FILE EXISTS
+Bird is this channel's first HARDWARE unit-economics autopsy (every scooter is a
+physical asset that gets damaged, stolen, or vandalized — a fundamentally different
+cost structure than the software/leasing stories covered elsewhere on this channel).
+It's also this channel's fourth SPAC-to-bankruptcy story (after 025/Sonder,
+026/WeWork, 027/23andMe) but the only one where the company's OWN accounting was
+later found to be wrong — a genuine "the numbers investors saw were not real"
+beat, though this was an accounting restatement, not a fraud charge (no individual
+was criminally charged in connection with the restatement in the material found in
+this research pass — do not imply otherwise).
+
+---
+
+FOUNDING
+- Founded September 2017 in Santa Monica, California by Travis VanderZanden, a
+  former COO of Lyft and former Uber executive.
+- Business: dockless electric scooter rental — riders find and unlock a scooter
+  via app, ride, then leave it; Bird owned/managed a fleet of physical scooters
+  requiring nightly charging/redistribution and constant repair/replacement due
+  to damage, theft, and vandalism.
+Source: Multiple corroborating company-history summaries (TechCrunch/Wikipedia-
+style aggregation).
+
+FUNDING
+- Total funding figures are reported inconsistently across sources and periods:
+  approximately $700 million in cumulative venture funding as of October 2019;
+  a $700 million SERIES C round specifically closed April 28, 2021 (a separate,
+  later, and much larger single round than the cumulative 2019 figure — do not
+  conflate the two); aggregator totals across all funding rounds range from
+  approximately $765 million to $1.1 billion depending on source and cutoff
+  date. *** Use "raised roughly $700 million-plus in venture funding before going
+  public" as the safe, hedged pre-SPAC figure — consistent with this channel's
+  standard practice for messy aggregator totals (see 025/Sonder's identical
+  hedging pattern). Do not state one single precise lifetime total. ***
+- November 2021: Bird went public via SPAC merger (with Switchback II Corp),
+  reaching a reported market value as high as $2.3-2.5 billion around the deal.
+  The SPAC transaction itself brought in approximately $414 million in cash
+  proceeds. *** Combining pre-SPAC VC funding (~$700M+) with the SPAC's own
+  $414M cash proceeds gives a rough combined total north of $1 billion raised
+  across Bird's full history — present as an approximate combined figure, not a
+  single precise number. ***
+Source: Forbes (Bird's Oct 2019 $275M Series D coverage, cites ~$700M cumulative
+at that point); Fortune ("Bird...2.5 billion smash hit to roadkill in record
+time", Jan 2024); Tracxn/PitchBook aggregator profiles (flagged as inconsistent
+across each other).
+
+THE ACCOUNTING RESTATEMENT — precisely detailed
+- November 2022: Bird's own audit committee determined that its financial
+  reports covering Q1 2020 through Q2 2022 (roughly 2.5 years) "should no longer
+  be relied upon," per an 8-K filed with the SEC.
+- The specific issue: Bird had been recognizing revenue from UNPAID customer
+  rides — i.e., counting rides as revenue even when the rider was never actually
+  charged/didn't pay — which overstated top-line revenue.
+- The company initially planned to revise its first two quarters of 2022 alone
+  by $12.5 million, part of a total revision of $31.6 million across the full
+  2020-2022 restatement period.
+- *** No evidence found in this research pass of any individual executive being
+  criminally charged or personally sanctioned specifically in connection with
+  this accounting restatement — present as a disclosed, self-reported accounting
+  failure (an SEC filing Bird itself made), not as a fraud allegation. Do not use
+  "fraud" language for this specific event; it is accurately described as
+  overstated/misstated revenue recognition, self-disclosed via SEC filing. ***
+Source: TechCrunch/Yahoo News ("Bird tells SEC it overstated revenue for two
+years", Nov 2022); Tech Times; dot.LA.
+
+THE COLLAPSE — precisely dated
+- September 22, 2023: Bird received formal notice from the NYSE that its shares
+  would be delisted, effective at market open September 25, 2023, after Bird
+  failed to maintain the exchange's required minimum market capitalization
+  ($15 million for 30 consecutive trading days). Bird moved to OTC trading.
+- Bird's market value had fallen from its ~$2.3-2.5B SPAC-era peak to
+  approximately $70 million within about 12 months of the SPAC deal closing —
+  and continued falling from there before the eventual delisting roughly two
+  years after the SPAC.
+- December 20, 2023: Bird Global Inc. filed for Chapter 11 bankruptcy protection
+  in Florida federal bankruptcy court, seeking to sell the company.
+Source: SEC Form 8-K (Sept 22 2023, NYSE delisting notice); Morningstar/
+BusinessWire/Nasdaq (Sept 22 2023 press release republication); CNBC (Dec 20
+2023, bankruptcy filing); Bloomberg (Dec 20 2023); Engineering and Technology
+Magazine (Dec 21 2023).
+
+THE SALE — precisely dated
+- April 5, 2024: Bird Global's assets were sold, completing an approximately $145
+  million transaction, to Third Lane Mobility — a new private holding company
+  formed by a consortium of Bird's own first- and second-lien lenders, led by
+  MidCap Financial (an Apollo Global Management affiliate) and Obelysk. ***
+  Notable structural detail: this was Bird's OWN LENDERS buying the company out
+  of its own bankruptcy — a debt-for-ownership conversion, not an outside
+  strategic acquirer stepping in. Worth stating explicitly on screen, similar in
+  spirit to how this channel handled Convoy's lender-foreclosure ending (package
+  017). *** The $145M sale price is well above the ~$70M market value Bird held
+  as a public company a year earlier — this reflects the value of the underlying
+  operating business/fleet assets sold free of the public company's debt and
+  legal liabilities, not a "the company was actually worth more than the stock
+  market thought" claim — present carefully, don't imply the bankruptcy was
+  unnecessary.
+Source: Cassel Salpeter & Co. (deal advisor press release, Apr 2024); Dealroom.co
+("Bird's journey: from rapid rise to bankruptcy and revival under Third Lane
+Mobility"); MarketScreener.
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- Bird is this channel's first hardware-fleet unit-economics story — worth
+  contrasting explicitly with the channel's software/leasing autopsies. Every
+  individual scooter is a depreciating, damage-prone physical asset, unlike a
+  software subscription or a leased apartment — a genuinely different cost
+  structure worth a dedicated visual/graphic.
+- Fourth SPAC-to-bankruptcy story on this channel after 025 (Sonder), 026
+  (WeWork), and 027 (23andMe) — cross-reference briefly, note the SPAC boom of
+  2021 specifically (WeWork Oct 2021, Bird Nov 2021, 23andMe 2021 also) produced
+  multiple companies on this channel that later failed; useful "SPAC wave"
+  framing device across all four packages if a compilation/series video is ever
+  made.
+
+---
+
+BEFORE RECORDING
+1. Total lifetime funding has no single reconciled figure — use "roughly
+   $700 million-plus in venture funding before going public," and separately
+   note the SPAC's own $414M cash proceeds; do not state one all-inclusive total.
+2. Do not conflate the October 2019 "~$700M cumulative" figure with the April
+   2021 "$700M Series C" round — these are two different, coincidentally similar
+   -sounding numbers describing different things at different times.
+3. The accounting restatement is a disclosed, self-reported SEC filing about
+   overstated revenue from unpaid rides — NOT a fraud charge against any
+   individual. Do not use "fraud" language for this event specifically.
+4. The Third Lane Mobility sale was a lender-led debt-for-ownership transaction,
+   not an outside acquisition — state this structure explicitly on screen.
+5. No named Bird executive (including founder Travis VanderZanden) has been
+   charged with any crime in the material found in this research pass — frame
+   this package around unit economics and an accounting failure, not personal
+   wrongdoing, unless further research surfaces something not found here.

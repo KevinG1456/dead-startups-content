@@ -1,0 +1,69 @@
+Sources Log — Package 005: HeadSpin / Manish Lachwani
+Filled in: 2026-08-13
+
+WHY THIS FILE EXISTS
+This title makes a fraud claim about a real, named, criminally-convicted individual.
+The package's own README requires every figure to be sourced to a primary document
+and cited on screen before recording. This log is that citation map — check it
+before recording, and put the actual citations on screen where the script calls
+for them.
+
+---
+
+COMPANY / FOUNDER
+- HeadSpin — mobile app testing infrastructure (real device/carrier cloud), founded 2015.
+- Founder/CEO: Manish Lachwani.
+Source: TechCrunch, Axios company coverage; SEC.gov litigation release.
+
+FUNDING
+- Total raised: ~$117M, primarily across rounds between April 2017 and April 2020.
+- Investors: Google Ventures (GV), ICONIQ Capital, Dell Technologies Capital,
+  Battery Ventures, Felicis Ventures, Tiger Global.
+- Peak valuation: ~$1.1B (2020 round).
+Source: TechCrunch, Axios funding coverage; company round announcements.
+
+THE FRAUD — WHAT WAS ACTUALLY MISREPRESENTED
+- 2019 fundraising: Lachwani claimed ~$54M in annual recurring revenue.
+- Board-commissioned investigation later determined actual ARR was closer to ~$10M.
+- Methods: fake/altered customer invoices; fabricated "customer" relationships
+  (including invented business with Apple and American Express); counting churned
+  or never-formally-agreed revenue as active ARR.
+- Company had no CFO and no HR function at the time; financials were never audited.
+Source: SEC v. Manish Lachwani, SEC litigation release (SEC.gov, filed Aug 26, 2021);
+DOJ press release, N.D. Cal. (justice.gov/usao-ndca).
+
+HOW IT WAS DISCOVERED
+- An employee whistleblower raised concerns to HeadSpin's board in early 2020.
+- Board's internal investigation cut the company's internal valuation from
+  ~$1.1B to ~$300M.
+Source: TechCrunch, CFO Dive reporting on the board investigation.
+
+LEGAL RESOLUTION (the load-bearing fact that makes this title usable)
+- SEC civil securities fraud charges filed: August 26, 2021.
+- Criminal guilty plea: April 23, 2023 — 2 counts wire fraud, 1 count securities
+  fraud, before Judge Charles Breyer, U.S. District Court, N.D. California.
+- Sentencing: April 2024 — 18 months in prison + $1,000,000 fine.
+  [VERIFY exact sentencing date: sources split between April 19 and April 22, 2024 —
+  confirm against the court docket before putting a specific date on screen.]
+  [VERIFY exact restitution figure: reporting around the July 31, 2024 restitution
+  hearing should have the final number — confirm before citing a specific dollar
+  amount.]
+- HeadSpin the company was not separately penalized by the SEC — it cooperated
+  with the investigation.
+Source: DOJ press release (N.D. Cal. U.S. Attorney's Office); SEC litigation release;
+court docket for case number/judge (confirm exact case number before recording).
+
+THE CODA
+- HeadSpin was sold to PartnerOne (Canada) in July 2024 for a reported $28.2M.
+- HeadSpin's reported 2023 revenue at the time of sale was ~$21M.
+- Most employee equity was reported as worthless in the sale.
+Source: Seattle Times, Axios acquisition coverage (July 2024).
+
+---
+
+BEFORE RECORDING
+1. Confirm the two [VERIFY] items above against the court docket / DOJ site directly.
+2. Pull the actual SEC litigation release and DOJ press release URLs to put on screen
+   as on-screen citations (the package's own production requirement).
+3. Do not state anything about Lachwani's conduct beyond what's in the SEC complaint,
+   plea agreement, or DOJ press release — those are the documents of record.

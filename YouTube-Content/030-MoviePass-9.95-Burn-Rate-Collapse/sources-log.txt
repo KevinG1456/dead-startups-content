@@ -1,0 +1,170 @@
+Sources Log — Package 030: MoviePass
+Filled in: 2026-08-15
+
+WHY THIS FILE EXISTS
+MoviePass is arguably the single most viral, most quotable unit-economics
+catastrophe in this entire genre — a company that, for over a year, literally paid
+more for movie tickets than it charged its own subscribers, on purpose, as a
+strategy. It also has real criminal consequences for two named executives
+(distinct from the original founder, who was pushed out BEFORE the reckless
+pricing decision was made — an important, exculpatory distinction) and a genuinely
+rare happy-ending twist: the ousted original founder bought the brand back out of
+bankruptcy and, per the most recent reporting found, has built a real, profitable
+company under the same name. This channel has covered brand-afterlife twists
+before (025/Lyric's Wheelhouse-and-Black-Swan-Holdings ending) — MoviePass's is the
+most complete and most positive version of that pattern yet.
+
+---
+
+FOUNDING AND THE FOUNDER'S OUSTER — important distinction, keep separate from the
+$9.95-era executives below
+- MoviePass was co-founded in 2011 by Stacy Spikes (and others).
+- 2017: data-analytics firm Helios and Matheson Analytics acquired a 51%
+  controlling stake in MoviePass for $25 million.
+- January 2018: Stacy Spikes was FIRED from MoviePass by its new parent company,
+  Helios and Matheson, after disagreeing with the direction the new owners wanted
+  to take the pricing model. *** Critical framing point: Spikes was OUT of the
+  company before the reckless $9.95 unlimited-plan strategy was locked in and
+  before the worst of the financial collapse happened — he is not the executive
+  responsible for the burn-rate catastrophe described below, and was not one of
+  the individuals later criminally charged. Keep this distinction explicit and
+  clean throughout the package — conflating Spikes with the Helios and Matheson-
+  era executives would be a factual error. ***
+Source: Hollywood Reporter/Time/Inc.com profiles of Spikes (multiple, corroborating
+the 2011 founding and Jan 2018 ouster); SEC filings (Helios and Matheson 2017
+424B3/424B5 forms, re: the 51% acquisition).
+
+THE $9.95 PLAN AND THE BURN — precisely detailed
+- The $9.95-a-month unlimited-movies plan originated, per Spikes' own later
+  account, as what was initially framed as a short-term "promotional thing" to
+  mark Helios and Matheson's acquisition of the company — not intended by Spikes
+  himself to become the permanent price point.
+- Spikes has stated on record that he knew from the start the $9.95 rate was
+  never going to be profitable for the company at that price.
+- Under Helios and Matheson's leadership (CEO Ted Farnsworth of Helios and
+  Matheson; Mitch Lowe installed as MoviePass CEO), the $9.95 unlimited plan was
+  launched and aggressively marketed starting August 2017, driving explosive
+  subscriber growth — MoviePass grew to almost 3 million subscribers at its
+  peak. Because MoviePass was paying theaters close to full price for each
+  ticket while charging subscribers a flat $9.95/month regardless of how many
+  movies they saw, heavy users generated massive losses per-subscriber.
+- Helios and Matheson reported an estimated net loss of $329.2 million for the
+  fiscal year covering the worst of the burn (per company financial disclosures).
+- 2018: as losses mounted, the company took increasingly desperate measures to
+  survive, including reportedly changing subscriber passwords to block heavy
+  users from using the service and experiencing repeated outages — this is
+  contemporaneously reported operational behavior, not disputed. *** Note: this
+  research pass found this described in secondary retrospective summaries; if a
+  specific primary-source article/date is needed on screen for this exact claim,
+  verify against a contemporaneous 2018 news report before final recording;
+  otherwise present as a well-established, widely-corroborated pattern rather
+  than citing one single precise date. ***
+- Subscriber count collapsed from almost 3 million at peak to approximately
+  225,000 by April 2019, as service quality degraded and the company scrambled
+  to survive.
+Source: Wikipedia ("MoviePass"); Inc.com (Spikes' own account, "I Spent 13 Years
+Building MoviePass"); IndieWire (Spikes interview on the company's demise); SEC
+filings (Helios and Matheson financial disclosures).
+
+THE SHUTDOWN AND BANKRUPTCY — precisely dated
+- September 14, 2019: MoviePass notified remaining subscribers it would shut
+  down, stating its "efforts to recapitalize MoviePass have not been successful
+  to date."
+- January 28, 2020: Helios and Matheson Analytics (MoviePass's parent) filed a
+  Chapter 7 bankruptcy petition (full liquidation, not reorganization) in the
+  U.S. Bankruptcy Court for the Southern District of New York.
+Source: NBC News (Sept 2019 shutdown notice); Deadline (Jan 2020 bankruptcy
+filing); Bloomberg (Jan 29 2020, "MoviePass Owner Collapses Into Liquidation,
+Leaders Quit"); Variety (Jan 2020).
+
+THE CRIMINAL CASE — precisely dated, involves Farnsworth and Lowe, NOT Spikes
+- The SEC and federal prosecutors alleged that from August 2017 through at
+  least March 2019, Ted Farnsworth (Helios and Matheson CEO) and Mitch Lowe
+  (MoviePass CEO) repeatedly made materially false or misleading public
+  statements about MoviePass's business model and path to profitability, and
+  that when the true, dire finances became undeniable internally, they chose to
+  covertly throttle/degrade the service for heavy users rather than disclose the
+  problem publicly.
+- A third executive, Khalid Itum (a MoviePass business-development executive),
+  was also named in the SEC's civil action.
+- November 2022: Farnsworth and Lowe were criminally charged with wire fraud and
+  securities fraud. The government estimated total investor/consumer losses
+  from the scheme at approximately $303 million.
+- 2024: Mitch Lowe pleaded guilty to a securities fraud conspiracy charge,
+  admitting he had conspired to deceive the public and investors about the
+  sustainability of the $9.95-a-month unlimited plan. He faces a maximum
+  sentence of five years in federal prison under the plea. *** [VERIFY] before
+  recording: confirm Lowe's final sentencing outcome and date, and the current
+  status of Farnsworth's case (charged/awaiting trial vs. resolved), as of
+  closer to the actual recording date — this research pass confirmed the guilty
+  plea itself but did not fully confirm final sentencing for either
+  Farnsworth or Lowe. Do not state a specific sentence for either man beyond
+  the plea's stated maximum exposure without rechecking. ***
+Source: Hollywood Reporter (SEC civil suit coverage); Variety (Sept 2024, Lowe's
+guilty plea); SEC.gov litigation release LR-25525 (Farnsworth, Lowe, and Itum);
+IndieWire (Nov 2022, criminal charges); Fortune (Nov 2022, Farnsworth's arrest).
+
+THE COMEBACK — precisely dated, a genuinely rare positive ending for this channel
+- 2021: Stacy Spikes — the ORIGINAL founder, fired in Jan 2018 and uninvolved in
+  the $9.95-era executives' later conduct — acquired MoviePass's brand and
+  remaining assets out of the Helios and Matheson bankruptcy proceeding.
+- August 2022: Spikes announced MoviePass would relaunch under an entirely
+  different model: three subscription tiers, NONE of them unlimited, with
+  pricing varying by market — a direct structural correction of the flaw that
+  killed the original company. Roughly 775,000 people joined a waitlist.
+- September 5, 2022: the relaunched MoviePass began a beta rollout in Chicago,
+  Dallas, and Kansas City.
+- By the most recent reporting found in this research pass (early 2024): Spikes
+  stated the relaunched service's users had collectively watched over 1 million
+  movies since the relaunch, that 2023 was the company's first profitable year,
+  and that the company had grown from $0 to $14 million in annual recurring
+  revenue while powering 2.8 million movie trips. *** Present these growth/
+  profitability figures as Spikes' own public statements (his own claims about
+  his own company), attributed as such, rather than as independently audited
+  facts — consistent with how this channel handles founder self-reported figures
+  elsewhere. Given this data point is from early 2024 reporting, note on screen
+  that more recent performance was not independently reconfirmed in this
+  research pass — flag as the most recent available figure, not necessarily
+  current as of recording. ***
+Source: Variety (2021, Spikes reacquires assets); Time ("Everything You Need to
+Know About the MoviePass Relaunch", 2022); CNBC (Aug 2022 relaunch coverage);
+Screen Rant, TheWrap (relaunch details); Earnest Analytics (relaunch performance
+analysis).
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- The Spikes-founds-it / gets-fired-before-the-crash / buys-the-brand-back-and-
+  fixes-the-flaw arc is structurally similar to 025's Lyric-to-Black-Swan-Holdings
+  brand-revival beat, but MORE complete and MORE positive — the ORIGINAL founder
+  is the one who returned, not an unrelated third party, and he corrected the
+  exact structural flaw (unlimited-for-a-flat-fee) that killed the original
+  company. Cross-reference 025 explicitly as the other "brand outlives the
+  company" story on this channel, and note this is the more redemptive version.
+- Second package (after 029/Ozy Media) with a real criminal fraud conviction
+  connected to it — but here, importantly, NOT the founder. Keep Spikes clearly,
+  repeatedly separated from Farnsworth/Lowe/Itum throughout every file in this
+  package — this distinction is the single most important fact-accuracy risk in
+  this whole package (conflating the founder with the fraud-charged executives).
+
+---
+
+BEFORE RECORDING
+1. Stacy Spikes (founder, fired Jan 2018) must be kept completely distinct from
+   Ted Farnsworth, Mitch Lowe, and Khalid Itum (the Helios and Matheson-era
+   executives who were later criminally charged) throughout every file — this is
+   the single most important accuracy requirement for this package.
+2. "Fraud" language is factually appropriate when describing Farnsworth/Lowe/Itum
+   specifically (Lowe has an actual guilty plea) — but never apply it to Spikes.
+3. [VERIFY] Farnsworth's case status and Lowe's final sentencing outcome/date
+   before recording — this research pass confirmed Lowe's 2024 guilty plea but
+   not final sentencing for either man.
+4. The 2018 "changed passwords to block heavy users" detail is well-corroborated
+   in secondary retrospectives but should be verified against a contemporaneous
+   primary 2018 source if an exact on-screen date/citation is needed.
+5. Present the 2023-2024 relaunch performance figures ($14M ARR, profitability,
+   2.8M trips) as Spikes' own public statements about his own company, not as
+   independently audited fact, and note they're the most recent figures found in
+   this research pass rather than necessarily current.
+6. Cross-reference package 025 (Lyric/Black Swan Holdings) as the channel's other
+   "brand survives the company" story, and note this one is more redemptive.

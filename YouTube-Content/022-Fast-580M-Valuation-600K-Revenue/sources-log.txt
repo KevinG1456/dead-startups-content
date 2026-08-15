@@ -1,0 +1,266 @@
+Sources Log — Package 022: Fast
+Filled in: 2026-08-14
+
+WHY THIS FILE EXISTS
+Fast was first identified during the 001 (Sprig) sourcing pass and explicitly REJECTED
+for that title because its real revenue (~$600K) directly contradicted "$10M ARR" —
+flagged there as "a different, still-tellable title" on its own. This is that title:
+the inverse story to Sprig and Stay Alfred — not real revenue that still wasn't
+enough, but a huge valuation built on almost no revenue at all.
+
+*** ELEVATED CARE NOTICE — READ BEFORE WRITING OR RECORDING ANY SCRIPT LINE ***
+Unlike package 005 (HeadSpin), where the founder was criminally convicted and there is
+a court record and SEC/DOJ citations to point to, Domm Holland has NOT been charged or
+convicted of anything. He is a living person currently running a new business
+(Trady). Several of the most serious claims about his personal/founder history trace
+to ONE underlying investigative piece (NPR, Feb 17, 2022, widely syndicated to ~10
+partner outlets — that syndication is NOT independent corroboration, it's one
+investigation republished many times). Every claim below must be presented as
+"NPR reported," "according to [named source]," or "per [named creditor]'s quote" —
+never as flat, independently-confirmed fact — anywhere this material is used: script,
+blog, description, social posts, everywhere. Do not use characterizations that go
+beyond what's directly sourced (e.g., do NOT say Holland "extorted" anyone — see the
+Qantas item below for why that specific word must not be used). This is the single
+most legally sensitive package this channel has produced; treat it accordingly.
+
+---
+
+FOUNDING
+
+- Founded March 2019 in San Francisco by Domm Holland (CEO), Allison Barr Allen (COO,
+  previously led Global Product Operations at Uber), and a third co-founder, Joshua
+  Abulafia, who was reportedly pushed out roughly a year in following a dispute with
+  Holland over finances/direction.
+- Pitch: a one-click checkout button any e-commerce site could add, competing with
+  Shopify's Shop Pay, PayPal, Amazon's one-click system, and rival startup Bolt.
+Source: TechCrunch, kjlabuz.substack.com/p/fast (aggregation of primary reporting —
+verify direct primary sources for any specific claim pulled from this aggregator
+before using it as a sole citation).
+
+---
+
+FUNDING — mostly reconciled, one discrepancy flagged
+
+- Series A: $20M, led by Stripe, announced March 26, 2020.
+- Series B: $102M, led by Stripe AGAIN, announced January 26, 2021.
+- Other investors named across rounds: Index Ventures, Kleiner Perkins, Susa
+  Ventures. [Global Founders Capital appears in some secondary aggregation but is
+  NOT independently confirmed in this research pass — do not state it as a fact.]
+- Total raised: reported as $124M-$124.5M across most contemporaneous US tech press
+  (TechCrunch, Business of Business) — use this as the primary figure. One later
+  Australian outlet (SmartCompany, 2023, citing investor Brian Sugar) reports $168M
+  total. [This discrepancy is NOT resolved — present $124.5M as the primary, multi-
+  sourced, contemporaneous figure, and do not state $168M on screen without
+  flagging it as a single, later, unreconciled outlier.]
+- Valuation: approximately $580M post-Series B (PitchBook-reported figure varies
+  slightly by source in the $580-584M range — present as "~$580M," not one exact
+  number).
+- NOTABLE SCRIPT-WORTHY DETAIL: Stripe led BOTH rounds — a payments infrastructure
+  company backing a startup operating in its own core category (checkout). No
+  source found in this research pass explaining Stripe's investment rationale, any
+  Stripe board seat, internal concerns, or any public Stripe statement after the
+  collapse. Present the fact plainly (Stripe led both rounds) and do not speculate
+  about Stripe's motives or invent a statement Stripe never made.
+Source: TechCrunch, Business of Business, PitchBook (as cited in press), SmartCompany
+(2023, for the $168M outlier figure only).
+
+---
+
+THE FINANCIAL REALITY — solid, multi-sourced, state as confirmed fact
+
+- 2021 revenue: approximately $600,000 (a portion from branded merchandise sales,
+  not core checkout transaction volume).
+- Burn: approximately $10M/month.
+- Daily revenue was typically under $300,000, with some days as low as $2,000.
+- Headcount ballooned from 337 to 480 between October and November 2021, shortly
+  before the company's collapse became public.
+- Comparison point (useful on-screen contrast): rival checkout startup Bolt
+  reportedly had roughly $40M in revenue over the same period — Fast's revenue was
+  roughly 1.5% of a direct competitor's.
+Source: The Information (via NPR/Morning Brew syndication), TechCrunch, Pragmatic
+Engineer, Business of Business.
+
+---
+
+THE SPENDING AND CULTURE REPORTING — multi-sourced, present plainly
+
+- Fast paid The Chainsmokers $1 million for a single retail-conference performance —
+  roughly 1.7 times the company's ENTIRE annual revenue that year.
+- An employee quote (name not independently re-verified in this pass, sourced via
+  aggregation of the underlying investigative reporting): "It was like, 'how quickly
+  can we set money on fire?'"
+- Reporting describes "utterly irrational" growth targets set internally, and one
+  account of Holland skipping a weekly executive meeting because he was skydiving.
+- IMPORTANT CORRECTION: no source in this research pass supports describing Fast's
+  culture as a "boys' club" — that specific characterization was NOT found in
+  primary reporting and must NOT be used. The actual reporting describes erratic
+  leadership and unsustainable internal targets, not a gender-culture allegation.
+  Do not introduce a claim the sourcing doesn't support.
+Source: NPR (Feb 17, 2022 investigation), kjlabuz.substack.com (aggregation — verify
+against NPR's own text for exact quote wording before using on screen).
+
+---
+
+THE METRICS/CREDITING DISPUTE — SINGLE-SOURCED, flag explicitly on screen
+
+- NPR's February 17, 2022 investigation reports: Fast hired roughly 12 Nigerian
+  engineers in 2019 at approximately $800/month to build the original product
+  prototype, then let them go without notice after about three months. Holland is
+  reported to have told investors he built the prototype himself.
+- Two unnamed engineers (identified by NPR only by withheld name, for their
+  protection per NPR's own reporting) are quoted: "He fired everyone from
+  Nigeria... completely erased us even though we built the first version," and
+  "We just got kicked out with no notice. Slack stopped working. Domm stopped
+  replying."
+- THIS ENTIRE ITEM TRACES TO ONE INVESTIGATIVE OUTLET (NPR). It has not been
+  independently corroborated by a second, separate investigation in this research
+  pass. On screen, this must be presented explicitly as "NPR's investigation
+  reported..." or "according to NPR..." — never stated as an independently
+  confirmed fact of this channel's own.
+Source: NPR (Feb 17, 2022) — syndicated widely, but originating from one
+investigation; treat accordingly.
+
+---
+
+FOUNDER'S PRE-FAST HISTORY — SINGLE-SOURCED to one NPR investigation, extreme care
+required, exact wording matters
+
+- 2010, the Qant.as domain: Holland bought the domain for $20 and redirected its
+  traffic to Qantas rival Virgin Blue. He later CLAIMED to have sold the domain for
+  $1.3M but never named the buyer. NPR's OWN reporting uses careful, hedged language
+  ("claimed to have sold it") — it does NOT say he "extorted" anyone.
+  *** DO NOT USE THE WORD "EXTORTED" OR ANY SIMILAR CHARACTERIZATION ANYWHERE IN
+  THIS PACKAGE. *** A secondary, non-primary source (thebrag.com) oversold this as
+  "extorted $1.3M from Qantas" — that is NOT what NPR's primary reporting states,
+  and using that framing would misrepresent the sourcing and create real legal
+  exposure. Use NPR's own careful phrasing only: Holland "claimed" a sale occurred;
+  no buyer was ever named; this is disputed/unconfirmed, not a settled fact of
+  wrongdoing.
+- Tow.com.au: an Australian "Uber for towing" venture Holland ran, with an
+  exclusive contract with Queensland police, reportedly handling around 100
+  vehicles a day at its peak. It collapsed in 2018, reportedly owing towing
+  contractors approximately $5.7M AUD (roughly $4.1M USD). A named creditor, Joe
+  Andriske of Harvey's Towing Services, is quoted on the record: "He made a
+  promise, made a promise. We get a small payment then he disappeared, mate." —
+  this specific quote IS attributable to a named, on-record source and can be used
+  as such, clearly attributed to Andriske.
+  Reporting further states Holland threatened to sell the driver's-license and
+  bank data of more than 21,000 platform users on "the black market" to raise
+  cash; Queensland's Supreme Court intervened and forced him to surrender the data
+  instead of selling it. The Queensland government reportedly settled the
+  resulting dispute for under $1M in September 2019.
+  [Present all of this as "per NPR's investigation and named creditor Joe Andriske"
+  — the Andriske quote is solidly attributable to him directly; the broader
+  narrative (the data-sale threat, the court intervention, the settlement amount)
+  traces to NPR's investigation and should be attributed to NPR specifically.]
+- Holland began using "Domm" instead of "Dominic" coinciding with Fast's launch and
+  early fundraising. Journalist Kristian Silva is quoted characterizing this as a
+  deliberate rebrand: "trying to bury what happened in Brisbane and start afresh."
+  [Attribute this interpretation explicitly to Silva — it is his characterization,
+  not an established fact about Holland's intent.]
+- BALANCING DETAIL, IMPORTANT TO INCLUDE: a Fast company spokesperson (Jason
+  Alderman) is quoted saying the Tow.com.au history "was revealed to investors at
+  every round." Two unnamed VCs told NPR they knew about this history and did not
+  see it as disqualifying to investing; one separate, unnamed "prominent investor"
+  told NPR the history would have discouraged them from investing had they known.
+  [This is a genuinely balanced detail — investors were reportedly NOT deceived
+  about this specific history, even if separate questions exist about metrics
+  presented for Fast itself. Include this balancing context; do not present the
+  founder-history material one-sidedly.]
+Source: NPR (Feb 17, 2022 investigation) — this is, again, ONE underlying
+investigation for nearly all of this section; present accordingly.
+
+---
+
+STRIPE'S INVOLVEMENT
+
+- Confirmed: Stripe led both the $20M Series A (March 2020) and the $102M Series B
+  (January 2021).
+- No source found in this research pass on Stripe's investment rationale, any board
+  seat Stripe held, any internal concerns raised, or any public statement Stripe
+  made after Fast's collapse. Do not invent or imply any of this — state the plain
+  fact (Stripe led both rounds, in its own core category) and note that further
+  explanation is not publicly documented.
+Source: TechCrunch (funding announcements).
+
+---
+
+THE COLLAPSE — precisely dated
+
+- January-February 2022: Fast's job postings decline, hitting a 13-month low by
+  February 17, 2022.
+- February 17, 2022: NPR publishes its Domm Holland background investigation.
+- March 29, 2022: The Information reveals the ~$600K 2021 revenue figure.
+- March 30, 2022: The Information reports Fast is planning mass layoffs and trying
+  to lower its own valuation to roughly $450M in an attempt to raise a new $100M
+  round.
+- March 31, 2022: The Information reports Fast has hired Morgan Stanley to urgently
+  find a buyer.
+- April 1, 2022: an early engineer departs and posts cryptically about it.
+- April 5, 2022: Fast announces total shutdown. Approximately 450 employees
+  (including roughly 150 engineers) are laid off, reportedly given notice roughly
+  one hour before the public announcement.
+  [Strong, fully verifiable script beat: from a ~$580M-adjacent valuation
+  conversation (the ~$450M markdown attempt, March 30) to total shutdown in six
+  days, March 30 to April 5.]
+- Holland's shutdown statement (already independently sourced via TechCrunch):
+  "difficult decision to close our doors"; "trailblazers don't make it all the way
+  to the mountain top."
+Source: The Information (via syndication), TechCrunch.
+
+AFTERMATH
+- Affirm extended job offers to roughly 100 of the ~150 laid-off engineers, at
+  somewhat lower base salaries but with liquid stock as partial compensation.
+- COO Allison Barr Allen was reportedly removed from the company's official
+  register before March 7, 2022 — about a month before the public shutdown — and
+  had reportedly gone "radio silent" internally before that. [Single-sourced
+  detail via the underlying investigative reporting; present as reported, note
+  leadership was reportedly already fracturing before the public collapse.]
+Source: NPR/The Information reporting (via syndication).
+
+---
+
+FOUNDER'S NEXT VENTURE
+
+- Domm Holland launched Trady, an AI website builder aimed at tradespeople (using
+  AI to generate site copy/layout), live by May 2023. His own quote: "I thought I
+  could use tech skills and marketing skills to kind of build a better brand,"
+  referencing Australia's "Jim's Mowing" franchise model applied to the US trades
+  market.
+- No quote was found in this research pass of Holland directly reflecting on
+  Fast's collapse or stating lessons learned — do not invent one; if the script
+  wants a "what he says now" beat, note plainly that no such on-record reflection
+  was found.
+Source: press coverage of Trady's 2023 launch.
+
+---
+
+COMPARABLE CASE ON THIS CHANNEL
+Package 005 (HeadSpin) is this channel's other "faked/inflated metrics" story —
+but HeadSpin's founder, Manish Lachwani, was criminally CONVICTED (guilty plea,
+sentenced), giving that package a court record to cite. Fast/Holland has NOT been
+charged or convicted of anything as of this research pass. Do not blur this
+distinction on screen — Fast's video should not imply legal guilt or criminality
+that isn't established; it should present verified financial facts as fact and
+personal-history reporting as clearly-attributed reporting.
+
+---
+
+BEFORE RECORDING
+1. Never use the word "extorted" regarding the Qant.as/Qantas item — use NPR's own
+   careful "claimed to have sold it, buyer never named" framing only.
+2. Never use "boys' club" — not supported by any source found.
+3. Attribute the Nigerian-engineers dispute and the full founder-history narrative
+   explicitly to NPR's investigation on screen every time it's referenced — not as
+   this channel's own independently confirmed reporting.
+4. Include the balancing detail that investors reportedly knew about the
+   Tow.com.au history and weren't uniformly deterred by it — don't present the
+   founder-history material one-sidedly.
+5. Use $124.5M as the primary total-funding figure; flag $168M as an unreconciled,
+   single-sourced, later outlier if mentioned at all.
+6. Do not state or imply Holland has been charged or convicted of any crime — he
+   has not been, as of this research pass. Distinguish this clearly from package
+   005 (HeadSpin), where a criminal conviction is a matter of public record.
+7. The Andriske quote (Tow.com.au) is solidly attributable to him by name — use it
+   with attribution; it is not the same evidentiary category as the anonymous-
+   engineer quotes.

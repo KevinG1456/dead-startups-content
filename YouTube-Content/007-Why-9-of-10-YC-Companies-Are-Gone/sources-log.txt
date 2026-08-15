@@ -1,0 +1,121 @@
+Sources Log — Package 007: Y Combinator Summer 2006 (S06) Batch Audit
+Filled in: 2026-08-13
+
+WHY THIS FILE EXISTS
+This title required an actual company-by-company audit of one real, named YC batch —
+not a single anchor company. The package's own README correctly warned against
+conflating "acquired" with "died." This log is the full roster, with each company's
+status individually sourced, and the real computed ratio under two different, both
+legitimate, definitions of "gone."
+
+BATCH SELECTION REASONING
+YC's very first batch (Summer 2005, 8 companies: Reddit, Kiko, TextPayMe, Loopt,
+ClickFacts, Infogami, Memamp, Simmery) was considered and rejected — it's YC's own
+origin-myth batch (Reddit's success, the famous "Kiko sold on eBay" story), which is
+exactly the "known for one mega-success" cherry-picking the package's own README says
+to avoid, and it's already heavily covered elsewhere. Summer 2006 (S06) — YC's third
+batch, after S05 and W06 — was selected instead: 11 companies, small enough to fully
+and honestly audit (not sample or estimate), with no single dominating mega-success
+story. This deliberately trades some of the package's own "8-15 years prior to
+filming" suggestion (S06 is closer to 20 years old) for something more valuable to
+this video's actual premise: a complete, checkable audit instead of a partial one.
+One low-quality source claims Scribd/S06 was YC's "inaugural class" — this is WRONG,
+do not repeat it on screen; S05 was YC's first batch.
+
+---
+
+FULL ROSTER — YC Summer 2006 (11 companies)
+
+1. JAMGLUE — online music remixing/mixing community.
+   STATUS: (a) Shut down. No trace beyond a 2006-era Wayback Machine snapshot.
+
+2. JUMPCHAT — bridged SMS/email/IM messaging.
+   STATUS: (a) Shut down. Raised $125K from YC; did not achieve significant market
+   traction.
+
+3. LIKEBETTER — online photo-comparison personality-test game.
+   STATUS: (a) Shut down.
+
+4. OMGPOP — founded as "i'minlikewithyou" (a dating site), pivoted to casual social
+   gaming under CEO Dan Porter, best known for Draw Something.
+   STATUS: (b) Acquired by Zynga in March 2012 for a reported $180M-$200M [VERIFY:
+   figures conflict across sources]. Zynga shut down OMGPOP.com and closed its NYC
+   office approximately 14 months later, June-August 2013. STANDOUT STORY: reportedly,
+   the OMGPOP team tried to buy the site back from Zynga and was refused.
+
+5. POLLGROUND — online polls.
+   STATUS: (a) Shut down.
+
+6. SCRIBD — document-sharing platform, pitched under the working name "Social
+   Documents" in Nov 2006, later branded "the YouTube of documents." Founders: Trip
+   Adler, Tikhon Bernstam, Jared Friedman.
+   STATUS: (d) Still independently operating (as of 2026). $105M raised total.
+   CEO transition to Tony Grimminck in October 2023, with reported usage/margin
+   growth since. THE BATCH'S SOLE SURVIVOR.
+
+7. SHOUTFIT — "fashion-related community."
+   STATUS: (a) Shut down.
+
+8. TALKITO — chat/meet-people-on-shared-sites service.
+   STATUS: (a) Shut down. Appears to have barely launched.
+
+9. THINKATURE — online collaboration/whiteboard tool.
+   STATUS: (a) Shut down.
+
+10. XOBNI — Outlook plugin / email analytics and inbox tool. Founders: Adam Smith and
+    Matt Brezina.
+    STATUS: (b) Acquired by Yahoo in July 2013 for a reported $30M-$60M+ [VERIFY:
+    figures conflict across sources]. Yahoo shut it down approximately one year later,
+    July 2014, folding some features into Yahoo Mail. Same acquire-then-kill pattern
+    as OMGPOP, on a smaller scale.
+
+11. ZANBAZAAR — community-curated product-recommendation catalogs.
+    STATUS: (a) Shut down. [FLAG: single-sourced — confirmed only via YCDB (ycdb.co),
+    an aggregator, not corroborated by a second primary source. Present with an
+    explicit "unable to fully corroborate" caveat rather than as confirmed fact with
+    the same confidence as the other 10 entries.]
+
+SOURCING BASIS
+9 of these 11 companies are independently confirmed via TechCrunch's contemporaneous
+Nov 9, 2006 article "Who Are The Y Combinator Companies" (techcrunch.com/2006/11/09/
+the-y-combinator-companies/), cross-checked against YCDB (ycdb.co)'s batch/status
+data. OMGPOP and Zanbazaar are not in that TechCrunch piece: OMGPOP is confirmed
+separately via Wikipedia/Grokipedia and later Zynga-acquisition TechCrunch coverage;
+Zanbazaar is YCDB-only, flagged above as needing a second source before recording.
+
+---
+
+THE REAL RATIO — present BOTH definitions on screen, per the package's own
+"don't conflate acquired with died" requirement
+
+DEFINITION 1 — "No longer exists in any form today" (inclusive count):
+8 outright shutdowns + 2 acquired-then-discontinued by the acquirer (OMGPOP, Xobni)
+= 10 of 11 gone ≈ 91%. Only Scribd survives as an independent operating company.
+This is close enough to round to "9 out of 10" — the original title's number DOES
+hold up, but only under this specific, disclosed definition.
+
+DEFINITION 2 — "Founders/investors got a real outcome" (strict count):
+If OMGPOP (~$180-200M) and Xobni (~$30-60M+) are counted as successful outcomes for
+their founders and investors — real cash exits — rather than as failures, regardless
+of what the acquirer did with the product afterward, the ratio drops to 8 of 11 gone
+≈ 73%.
+
+RECOMMENDATION: present both numbers explicitly rather than picking one. This is
+exactly the nuance the package's own README demanded, and it's a stronger, more
+defensible teaching moment than either number alone — "9 out of 10" survives as an
+honest on-screen claim only when the video is explicit about which definition of
+"gone" it's using.
+
+---
+
+BEFORE RECORDING
+1. Do not claim S06 was YC's first/inaugural batch — S05 was first; S06 is the third.
+2. Present both the 10/11 (91%) and 8/11 (73%) ratios, with their definitions stated
+   plainly on screen — do not pick one number and hide the other.
+3. Corroborate Zanbazaar's status with a second source before stating it as
+   confirmed fact with the same confidence as the other 10 companies.
+4. Confirm exact OMGPOP ($180M vs $200M) and Xobni ($30M vs $60M+) acquisition prices
+   before citing a single precise figure on screen — sources conflict on both.
+5. Do not conflate "acquired" with "failed" without qualification — OMGPOP and Xobni
+   were real, successful cash exits for their founders/investors even though the
+   products themselves were later killed by their acquirers.
