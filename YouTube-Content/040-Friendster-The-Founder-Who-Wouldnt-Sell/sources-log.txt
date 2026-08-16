@@ -1,0 +1,108 @@
+Sources Log — Package 040: Friendster
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Friendster is the anchor for this channel's "Money Mechanics" Batch 2 title #20: "The founder who
+wouldn't sell: the $200M offer, declined, and the $0 outcome." Pattern: valuation anchoring. This is
+one of Silicon Valley's most famous real examples of this exact pattern — but the specific numbers in
+the batch title don't match the real, sourced facts, and this package corrects them rather than forcing
+a false "$200M" or literal "$0."
+
+CRITICAL FRAMING CORRECTION — READ BEFORE WRITING ANY FILE IN THIS PACKAGE
+The real offer was $30 million in pre-IPO Google stock (not $200M), made in 2003. The eventual outcome
+was NOT literally $0: Friendster sold to MOL Global for $39 million in December 2009, and MOL separately
+sold Friendster's patent portfolio to Facebook for $40 million in June 2010 — combined, more nominal
+dollars than the original Google offer. The real, more dramatic and more accurate story is about
+COUNTERFACTUAL value lost: the declined Google stock would have been worth approximately $30 billion
+by March 2021, given Google's post-2004-IPO appreciation. This package's title and framing use that
+real, sourced $30 billion figure rather than a fabricated "$200M offer, $0 outcome" that doesn't match
+the facts.
+
+---
+
+FOUNDING — precisely sourced
+- Friendster was founded in 2002 by Jonathan Abrams, with Kent Lindstrom as an early collaborator (the
+  two later became partners together at a venture firm, 8-Bit Capital, decades later). Abrams worked at
+  Friendster from 2002 to 2005.
+- Business: an early social-networking site allowing users to connect with friends and friends-of-
+  friends — widely regarded as one of the first mainstream social networks, predating both MySpace and
+  Facebook.
+Source: Wikipedia ("Jonathan Abrams (businessman)"); TechCrunch (2006, "The Friendster Tell-All
+Story").
+
+THE GOOGLE OFFER — 2003, PRECISELY SOURCED
+- In 2003, after Friendster had been operating for about a year, Google made an acquisition offer of
+  approximately $30 million, structured as roughly 200 million shares of pre-IPO Google stock (Google
+  did not go public until August 2004).
+- Jonathan Abrams and Friendster's board declined the offer. Several "high-powered and successful"
+  early investors reportedly advised Abrams that they could help build Friendster into a multi-billion-
+  dollar company independently, rather than selling early.
+- *** [VERIFY]: no direct, on-record Abrams quote explaining his specific reasoning for declining was
+  found in this research pass — present the investor-advice framing as the best-sourced available
+  explanation, not as Abrams' own stated words, unless a firmer primary quote is found before
+  recording. ***
+- The declined Google stock, had it been retained, would have been worth approximately $30 billion as
+  of March 2021, given Google's appreciation since its 2004 IPO — a real, calculable, frequently cited
+  counterfactual figure.
+Source: Wikipedia ("Jonathan Abrams (businessman)"); Netimperative (Jan 25, 2021, "Interview with
+Jonathan Abrams: The man who rejected a $30m sale of Friendster to Google"); Inc. Magazine (Jun 2007,
+"How to Kill a Great Idea!").
+
+THE ALTERNATIVE PATH — PRECISELY SOURCED
+- Instead of selling, Friendster raised a $13 million Series A round in October 2003, led by Kleiner
+  Perkins Caufield & Byers and Benchmark Capital, at a $53 million post-money valuation. The company
+  later also raised from Battery Ventures.
+- At its peak, Friendster had more than 111 million registered users worldwide.
+Source: Wikipedia; TechCrunch retrospective coverage.
+
+THE FOUNDER'S OUSTER AND THE DECLINE — precisely sourced
+- In 2004, Friendster's board of directors removed Jonathan Abrams as CEO. Tim Koogle — former CEO of
+  Yahoo — was installed as interim CEO.
+- Also in 2004, MySpace overtook Friendster in total user count, marking the beginning of Friendster's
+  decline in the U.S. and broader Western social-networking market. Widely-cited contributing factors
+  (beyond the declined Google offer) include persistent technical scaling and site-performance
+  problems that frustrated users during Friendster's period of fastest growth.
+- Friendster remained a dominant social network in parts of Southeast Asia (including the Philippines,
+  Malaysia, Singapore, and Indonesia) for several more years even as it faded in Western markets.
+Source: Wikipedia; Inc. Magazine (2007); FourWeekMBA retrospective.
+
+THE SALE AND FULL SHUTDOWN — precisely dated
+- December 2009: MOL Global, a Malaysian payments company, acquired 100% of Friendster for
+  approximately $39 million.
+- June 2010: MOL Global separately sold Friendster's patent portfolio — seven finalized patents and
+  eleven pending patent applications — to Facebook for approximately $40 million.
+- Following the acquisition, MOL Global pivoted Friendster's focus almost entirely toward in-browser
+  social gaming, moving away from its original social-networking identity.
+- In 2015, Friendster announced it was "taking a break"; the social-gaming pivot did not succeed, and
+  in 2018, Friendster officially and fully shut down.
+Source: Wikipedia; FourWeekMBA ("What happened to Friendster?"); multiple retrospective coverage
+(TheRunway Ventures, Startupik, ProductMint).
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This is the channel's first package built specifically around the "valuation anchoring / founder
+  declined a real offer" pattern — distinct from every prior package's mechanism.
+- The real numbers here ($30M offer, $39M+$40M eventual combined proceeds, ~$30B counterfactual lost
+  value) are more interesting and more precisely sourced than the batch title's literal "$200M offer,
+  $0 outcome" framing — use the real, corrected figures throughout, framed around the counterfactual
+  value lost rather than a false literal-zero outcome.
+- No fraud or criminal allegations apply to anyone in this story. Jonathan Abrams' ouster in 2004 is a
+  real, sourced board decision, not a scandal — present neutrally.
+
+---
+
+BEFORE RECORDING
+1. Never state the offer was "$200 million" — the real, sourced figure is approximately $30 million
+   in pre-IPO Google stock (2003).
+2. Never state the outcome was literally "$0" — Friendster sold for $39 million (2009) plus a separate
+   $40 million patent sale to Facebook (2010). The real dramatic figure is the ~$30 billion
+   counterfactual value of the declined Google stock by 2021 — lead with that, not a false "$0."
+3. Present the "investors advised him to stay independent" detail as the best-sourced available
+   explanation for the decision — not as a direct Abrams quote, since none was found in this research
+   pass.
+4. [VERIFY] before recording: search for a firmer, on-record Abrams quote about his reasoning if one
+   surfaces in additional research — the Netimperative interview referenced does not appear to include
+   one directly, per this pass.
+5. Present Abrams' 2004 board-ordered removal as CEO as a neutral business fact, not scandal.
+6. No fraud/criminal allegations apply to anyone in this story — keep the tone analytical throughout.

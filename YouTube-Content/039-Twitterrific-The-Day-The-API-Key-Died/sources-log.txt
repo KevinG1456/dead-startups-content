@@ -1,0 +1,107 @@
+Sources Log — Package 039: Twitterrific / The Iconfactory
+Filled in: 2026-08-15
+
+WHY THIS FILE EXISTS
+Twitterrific is the anchor for this channel's "Money Mechanics" Batch 2 title #14: "The integration
+that was the whole company (and the day the API key stopped working)." Pattern: single-platform
+dependency, told through one company, hour by hour — explicitly distinct from package 008's "40
+startups in one day" ecosystem-wide view. This is an exceptionally well-documented, poignant real case:
+Twitterrific wasn't just A Twitter client — it was THE FIRST Twitter client ever built, helped coin the
+word "tweet" itself, and created the bluebird icon Twitter later adopted as its own logo. It ran for 15
+years before being killed with zero warning in January 2023.
+
+IMPORTANT NOTE ON COMPANY TYPE — read before treating this as a standard package
+The Iconfactory (Twitterrific's maker) is a bootstrapped, independent software and design studio,
+founded 1996 in Greensboro, North Carolina — NOT a venture-funded startup in the mold of most packages
+on this channel. This is a deliberate departure from this channel's usual "funded software company"
+profile, justified by how precisely this real story matches this specific title's pattern (a single
+company whose entire product was one platform integration, killed in hours) and by its unique
+historical significance. Flag this honestly in the package rather than implying VC funding that isn't
+there.
+
+---
+
+THE ICONFACTORY — FOUNDING
+- The Iconfactory was founded in April 1996 in Greensboro, North Carolina, by Corey Marion, Talos
+  Tsui, and Gedeon Maheux — originally an icon and graphic design studio. Lead engineer Craig
+  Hockenberry joined in 1997; the company formally incorporated in January 2000.
+Source: Wikipedia ("The Iconfactory"); Golden.
+
+TWITTERRIFIC — THE FIRST TWITTER CLIENT, AND THE ORIGIN OF "TWEET"
+- Twitterrific was created by Craig Hockenberry at The Iconfactory; the prototype was built essentially
+  overnight, with the idea for the app coming together around December 20, 2006. It launched publicly
+  January 15, 2007.
+- Twitterrific was the first Twitter desktop client for the Mac, and among the earliest applications
+  available in Apple's App Store; it later won an Apple Design Award.
+- Twitter's own developer, Blaine Cook, suggested Hockenberry use the word "tweet" instead of "twit"
+  for referring to posts inside the app — Twitterrific adopted the change immediately, and the term
+  "tweet" subsequently entered common usage and the dictionary in connection with the platform.
+- In January 2007, Iconfactory designer David Lanham created a cheerful bluebird icon — nicknamed
+  Ollie — to represent Twitterrific. Twitter itself later adopted a bluebird as its own official
+  platform logo.
+Source: Iconfactory's own blog ("Twitterrific: End of an Era," Jan 19, 2023); Wikipedia
+("Twitterrific"); furbo.org ("The Origin of Tweet," Craig Hockenberry's own account); TechCrunch (Jan
+24, 2023, retrospective on third-party apps' role in shaping Twitter).
+
+THE SHUTDOWN — JANUARY 2023, PRECISELY DATED
+- January 12-13, 2023: without warning, Twitter (under new owner Elon Musk) revoked API access for
+  third-party client apps, including Twitterrific and the separate app Tweetbot (made by a different
+  company, Tapbots). App functionality broke instantly and completely.
+- Twitter/Musk remained silent on the cause for several days; a brief, vague policy explanation was
+  not issued until January 17, 2023 — roughly five days after the cutoff.
+- January 19, 2023: The Iconfactory published its own blog post, "Twitterrific: End of an Era,"
+  formally announcing the app's discontinuation, stating plainly: "the app's sudden and undignified
+  demise is due to an unannounced and undocumented policy change by an increasingly capricious
+  Twitter." The post noted the company had no advance warning and no ability to notify its own
+  customers before the app broke.
+- Twitterrific was removed from both the iOS and macOS App Stores. The app had run continuously for
+  fifteen years, from January 2007 to January 2023.
+- The Iconfactory's own words on what the app's customers had meant to the company: "Your financial
+  support may have paid the bills, but your spiritual support enriched our souls."
+Source: Iconfactory's own blog (Jan 19, 2023); 9to5Mac (Jan 13 and Jan 20, 2023); TechCrunch (Jan 19,
+2023, "Twitterrific, Tweetbot pulled from App Store after Twitter API changes"); iClarified (Jan 2023).
+
+THE COMPANION CASE — TWEETBOT, A DIFFERENT COMPANY, SAME DAY
+- Tweetbot, a separate and unrelated third-party Twitter client, was made by Tapbots LLC and had
+  launched April 14, 2011 (iPhone), with iPad support added February 2012 and Mac support October
+  2012 — a nearly 12-year run.
+- Tapbots was hit by the exact same January 12, 2023 API cutoff, with the same lack of warning or
+  communication from Twitter. Tapbots' own public statement: "We've been proud to serve you over the
+  last 12+ years, but due to circumstances beyond our control, we have to shut down Tweetbot."
+- Unlike Iconfactory, Tapbots pivoted its engineering effort into a new app, Ivory, built for the
+  Mastodon social network, stating: "We have great plans to make Ivory better than Tweetbot ever
+  could be."
+Source: 9to5Mac (Jan 20, 2023, "Tapbots shuts down Tweetbot, teases Ivory for Mastodon"); Shacknews
+(Jan 2023); Tapbots' own website (tapbots.com/tweetbot).
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- Cross-reference package 008 explicitly (Meerkat's Twitter API dependency, paired with Viddy) as this
+  channel's other platform-API-dependency story — but 008 covers a 2015 API change affecting Meerkat
+  specifically as part of a live-streaming competitive dynamic; this package covers a 2023 API
+  pricing/access change affecting a completely different category of app (third-party client apps)
+  and explicitly tells it through ONE company's hour-by-hour experience, per this title's specific
+  framing requirement.
+- No fraud or criminal allegations apply to anyone in this story. Twitter/X's decision is presented as
+  a real, consequential business/policy decision by the platform, not as misconduct — this is a
+  platform-power and dependency-risk story, not a fraud story.
+- Elon Musk owned Twitter/X at the time of this decision (having acquired the company October 2022);
+  present this factually — he is a real, non-convicted person, and no claim beyond the sourced,
+  reported facts of the API policy change should be made about him personally.
+
+---
+
+BEFORE RECORDING
+1. Be explicit and upfront that The Iconfactory is a bootstrapped, independent software studio, not a
+   venture-funded startup — a deliberate, flagged departure from this channel's usual company profile,
+   justified by how precisely the story matches this title's pattern.
+2. Twitterrific's role in coining "tweet" and creating the bluebird icon is real and well-documented,
+   but present it as Twitterrific's contribution to Twitter's early culture/branding, not as a formal,
+   legally-recognized origin claim — these are historical/cultural attributions, not trademark facts.
+3. Keep Tweetbot/Tapbots clearly distinguished as a separate, unrelated company that experienced the
+   same event the same day — useful as a brief companion beat, not the primary anchor.
+4. Present Twitter/X's API policy change as a real business decision with real consequences — no
+   fraud or personal-misconduct framing toward Elon Musk or Twitter/X specifically; the facts of the
+   policy change and its impact are damning enough on their own.
+5. Cross-reference package 008 explicitly, noting the different mechanism/era/company type.
