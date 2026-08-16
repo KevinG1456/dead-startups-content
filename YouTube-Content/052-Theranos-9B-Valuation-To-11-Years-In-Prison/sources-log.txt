@@ -1,0 +1,299 @@
+Sources Log — Package 052: Theranos / Elizabeth Holmes
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+*** REAL-CONVICTION FRAUD STORY — SAME CATEGORY AS 005 (HeadSpin) AND 029 (Ozy
+Media/Carlos Watson), NOT the "founder not charged or convicted" pattern that
+governs 022 (Fast) and 024 (Olive AI). Elizabeth Holmes WAS criminally
+convicted by a federal jury. "Fraud" language is accurate and may be used as
+fact throughout this package, sourced to DOJ/court reporting, the same way
+005 and 029 do. HOWEVER: this package has its OWN live, unresolved
+sensitivity — as of this research pass (Aug 2026), Holmes has filed a
+still-PENDING clemency/commutation petition with the Trump administration.
+Unlike 029 (where the commutation already happened and is reported as a
+completed, dated event), NOTHING has been decided here yet. Every file in
+this package must state this as "a petition has been filed and is pending,"
+never as an outcome, and must apply the same strict who/what/when neutrality
+this channel used for 029's actual commutation the moment (if ever) a
+decision is reported. Read this note before editing anything in this folder.
+
+---
+
+FOUNDING
+- Theranos was founded in 2003 by Elizabeth Holmes, then 19 years old, who
+  dropped out of Stanford's chemical engineering program to start the company.
+- Original concept was a wearable patch that could administer medication and
+  monitor blood; the company pivoted to a blood-testing device (branded
+  "Edison," later "miniLab") claiming to run hundreds of standard lab tests
+  from a few drops of finger-stick blood, without a traditional venous draw.
+Source: Wikipedia ("Theranos," "Elizabeth Holmes"); Britannica; multiple
+retrospective profiles (Forbes, Al Jazeera).
+
+FUNDING AND VALUATION
+- The SEC's own March 2018 complaint states Theranos raised more than $700
+  million from investors. *** Use "$700 million+" as the safe, primary-source
+  figure. Some aggregator/press retrospectives cite higher lifetime totals
+  (up to ~$945 million cited in some secondary sources) — this could not be
+  independently reconciled to a single primary-source figure in this
+  research pass. [VERIFY] if a higher number is needed; default to the SEC's
+  "$700 million+" for any on-screen claim. ***
+- Peak valuation reached approximately $9 billion in 2013–2014, following a
+  major funding round. At that valuation, Holmes — who held roughly half the
+  company — was named by Forbes as the youngest self-made female billionaire
+  on paper; Forbes revised her estimated net worth to $0 in 2016 once the
+  fraud became public.
+- Notable investors/board members: media mogul Rupert Murdoch invested $125
+  million (the single largest individual investor, and the largest named
+  recipient in the later criminal restitution order); the board included
+  high-profile statesmen rather than scientists or clinicians, including
+  Henry Kissinger, George Shultz, retired general James Mattis, and former
+  senator Sam Nunn — a recurring point of criticism in retrospective coverage
+  (notably John Carreyrou's book "Bad Blood").
+Source: SEC Press Release 2018-41 and Litigation Release LR-24069 (sec.gov);
+Forbes net-worth coverage; Wikipedia; CB Insights/biography retrospectives.
+
+THE TECHNOLOGY AND THE CORE DECEPTION
+- Theranos publicly claimed its proprietary "Edison" devices could run over
+  200 different blood tests reliably from a few drops of finger-stick blood.
+- In reality, per the Wall Street Journal's reporting (corroborated at trial
+  by former lab employees), the Edison devices could reliably perform only a
+  small fraction of the tests the company offered. The large majority of
+  patient tests run through Theranos's Walgreens "Wellness Centers" were
+  actually processed on modified, diluted samples run through conventional,
+  commercially available third-party lab analyzers (including machines made
+  by Siemens) — while Theranos represented the results to patients, doctors,
+  and partners as coming from its own revolutionary technology.
+Source: Wall Street Journal (John Carreyrou, Oct 15, 2015 and subsequent
+reporting); trial testimony summarized by DOJ/court reporting (Courthouse
+News, NPR, CBS News coverage of the 2021-2022 trial).
+
+PARTNERSHIPS AND THEIR COLLAPSE
+- Walgreens: partnership announced 2013; Theranos "Wellness Centers" were
+  rolled out inside roughly 40 Walgreens stores, concentrated in the Phoenix,
+  Arizona area, starting in 2013. Walgreens froze and then formally ended the
+  relationship in 2016, after the WSJ reporting and a federal regulatory
+  sanction (below). Walgreens was later named in the criminal restitution
+  order as owed $40 million.
+- Safeway: a 2010 deal under which Safeway spent approximately $350 million
+  building in-store clinics across more than 800 stores to offer Theranos
+  blood tests. The tests never launched at scale — Theranos repeatedly missed
+  rollout deadlines — and Safeway quietly severed the partnership in November
+  2015 without the clinics ever going fully live.
+Source: Fierce Biotech, BioSpace, and CNBC reporting on the Safeway deal
+collapse; TechCrunch and trial-testimony summaries (Marketplace, MassDevice)
+on the Walgreens partnership; restitution figures per the May 2023 court
+order (below).
+
+THE EXPOSÉ (October 2015)
+- October 15, 2015: Wall Street Journal reporter John Carreyrou published the
+  first investigative story questioning Theranos's technology, after roughly
+  ten months of reporting. The story drew on former employees, including lab
+  director/pathologist sources, and revealed that Theranos was not primarily
+  using its own proprietary devices to run patient tests, contrary to its
+  public claims to investors, partners, and regulators.
+- The story is widely credited as the beginning of Theranos's public
+  unraveling; internal reaction inside the company was reportedly hostile to
+  Carreyrou.
+Source: Wall Street Journal (Carreyrou, Oct 15, 2015); Fast Company
+retrospective on Theranos's response; The Ringer / Dark Daily interviews with
+Carreyrou on sourcing.
+
+REGULATORY ACTION
+- Following inspections, the U.S. Centers for Medicare & Medicaid Services
+  (CMS) found deficiencies at Theranos's California lab that it determined
+  posed "immediate jeopardy to patient health and safety." CMS revoked
+  Theranos's CLIA laboratory certificate and banned Holmes from owning,
+  operating, or directing a lab for two years (2016).
+Source: CMS sanction widely reported contemporaneously (2016) and
+subsequently cited in DOJ/SEC case materials and retrospective coverage.
+
+THE SEC CIVIL CASE (March 14, 2018) — separate from the later criminal case
+- The SEC charged Theranos, Holmes, and former president/COO Ramesh "Sunny"
+  Balwani with what the agency called an "elaborate, years-long fraud,"
+  alleging the company raised more than $700 million from investors through
+  false and exaggerated statements about its technology, business, and
+  financial performance.
+- Holmes settled with the SEC without admitting or denying the allegations:
+  she agreed to pay a $500,000 civil penalty, agreed to be barred from
+  serving as an officer or director of any public company for 10 years,
+  agreed to return the remaining 18.9 million shares she had obtained during
+  the fraud, and agreed to relinquish voting control of Theranos by
+  converting her super-majority Class B shares into ordinary Class A shares.
+- The SEC's case against Balwani was NOT settled at this time and proceeded
+  separately in litigation (he was later also criminally prosecuted — see
+  below).
+- *** This SEC settlement is a CIVIL matter, entirely separate from Holmes's
+  later CRIMINAL conviction — keep the two distinct on screen: the 2018 SEC
+  case ended in a civil settlement (no admission of wrongdoing, a fine and
+  officer/director bar); the criminal case (below) ended in an actual jury
+  conviction. ***
+Source: SEC Press Release 2018-41 (sec.gov); SEC Litigation Release LR-24069
+(sec.gov); contemporaneous coverage (WLRN/NPR affiliate, The D&O Diary).
+
+DISSOLUTION — SEPTEMBER 2018 — NOT A BANKRUPTCY FILING
+- Theranos defaulted on a $65 million loan from Fortress Investment Group
+  after breaching a minimum-cash-level covenant.
+- September 5, 2018: general counsel and CEO David Taylor emailed
+  shareholders that the company would dissolve. *** Theranos did NOT file for
+  Chapter 7 or Chapter 11 bankruptcy — it wound down through an "assignment
+  for the benefit of creditors," an out-of-court alternative in which the
+  company's non-IP assets were assigned to a third party in trust for
+  creditors. State this precisely — "dissolved via an out-of-court wind-down,
+  not a bankruptcy filing" — rather than defaulting to "filed for bankruptcy,"
+  which would be inaccurate. ***
+- Taylor's letter stated the company's remaining cash was "not nearly
+  sufficient to pay all of the creditors in full" and that there would be "no
+  distribution to shareholders" — shareholders received $0.
+- Unsecured creditors were owed at least $60 million against roughly $5
+  million in remaining cash; as part of the wind-down, Fortress obtained
+  rights to Theranos's patent portfolio.
+Source: CNN Business (Sept 5, 2018); Fortune (Sept 5, 2018, "Theranos Default
+Dissolution"); NPR; TechCrunch.
+
+THE CRIMINAL CASE
+- Holmes and Balwani were indicted in June 2018 on federal wire fraud and
+  conspiracy to commit wire fraud charges. Their trials were later severed
+  (separated) after Holmes's legal team indicated she intended to present
+  evidence that Balwani had been psychologically, emotionally, and (per her
+  later trial testimony) sexually abusive and controlling toward her during
+  their relationship and the company's operation. *** Balwani has denied
+  these allegations. This is Holmes's own defense-trial account, not an
+  independently adjudicated finding — attribute it as her testimony/claim if
+  used, not as settled fact. ***
+- Holmes's trial ran September 2021 to January 2022. On January 3, 2022, a
+  federal jury convicted Holmes on four counts: one count of conspiracy to
+  commit wire fraud against investors, and three individual counts of wire
+  fraud against specific investors. The jury ACQUITTED Holmes on all four
+  patient-related fraud counts (one conspiracy count and three individual
+  counts related to defrauding patients). The jury could not reach a verdict
+  on three additional investor-fraud counts (a partial mistrial on those
+  counts; prosecutors later moved to dismiss them rather than retry).
+- Balwani was tried separately, after Holmes. He was convicted on all 12
+  counts he faced — *** unlike Holmes, Balwani's convictions covered BOTH
+  investor fraud AND patient fraud counts; his conviction is broader than
+  hers. Keep this distinction explicit whenever both are discussed. ***
+- November 18, 2022: Holmes was sentenced to 135 months (11 years, 3 months)
+  in federal prison, plus 3 years of supervised release.
+- December 2022: Balwani was sentenced to 155 months (approximately 12 years,
+  11 months) in federal prison — a longer sentence than Holmes's, consistent
+  with his broader conviction.
+- May 2023: U.S. District Judge Edward Davila ordered Holmes and Balwani to
+  pay $452 million in restitution, jointly and severally liable, to victims
+  of the fraud. Individual amounts named in reporting include $125 million to
+  Rupert Murdoch and $40 million to Walgreens, among other investors.
+- Holmes exhausted efforts to remain free pending appeal (the Ninth Circuit
+  denied her bid) and reported to Federal Prison Camp Bryan, in Bryan, Texas,
+  on May 30, 2023, after an earlier surrender date was pushed back.
+- Balwani reported to begin his sentence around April 20, 2023.
+- Subsequent Bureau of Prisons sentence-computation updates (reported by NBC
+  News, CBS News, and others in 2023) reflected credit for good conduct and
+  program completion, shortening Holmes's practical time to be served — her
+  projected release date has been reported as on or around December 29,
+  2032, which is roughly two years earlier than her original 11-year-3-month
+  term would imply if served in full. *** This is a BOP administrative
+  credit/computation matter, NOT a judicial resentencing or a clemency
+  action — state it as "her projected release date, per Bureau of Prisons
+  sentence computation, is now around Dec 2032," never as "her sentence was
+  reduced by a judge" or conflated with the clemency petition below. ***
+Source: U.S. Department of Justice, Northern District of California press
+releases (justice.gov/usao-ndca — "Elizabeth Holmes Sentenced To More Than 11
+Years..."); DOJ case page "U.S. v. Elizabeth Holmes, et al."; CBS News, NBC
+News, ABC News, Fortune, and Washington Post sentencing/surrender coverage
+(2022-2023); CBS News/NBC News/Scripps News (2023, sentence-computation/
+release-date reduction reporting); CBS News San Francisco (May 2023,
+$452 million restitution order).
+
+THE 2025-2026 CLEMENCY PETITION — LIVE, UNRESOLVED, HANDLE WITH STRICT
+NEUTRALITY, DO NOT STATE AS AN OUTCOME
+- In 2025, Elizabeth Holmes's team filed a formal request for commutation of
+  her sentence with the U.S. Department of Justice's Office of the Pardon
+  Attorney, addressed to the Trump administration.
+- As of the most recent reporting found in this research pass (January 2026 —
+  CNN, ABC News, Fox Business, Fortune, SFist), the Office of the Pardon
+  Attorney listed the petition's status as "pending." The White House had not
+  publicly commented on it. *** No grant, denial, or any other decision has
+  been reported as of this research pass. This is a request only. ***
+- Legal analysts cited in this coverage note that a granted commutation could
+  also eliminate the $452 million restitution obligation (the same mechanism
+  package 029/Ozy Media's actual 2025 commutation used to void Carlos
+  Watson's restitution) — but this is a described POSSIBLE EFFECT of a
+  hypothetical future grant, not something that has happened.
+- Contextual detail from the same coverage, safe to include as background
+  (not as implying an outcome for Holmes specifically): reporting notes that,
+  during his second term, President Trump has granted clemency to a number of
+  individuals convicted of financial/white-collar crimes, citing as one
+  example an October 2025 pardon of Binance founder Changpeng Zhao and a
+  commutation of former Rep. George Santos's fraud sentence. *** Use this only
+  as sourced background context about the broader pattern reported in the
+  same coverage — do not speculate about what it means for Holmes's own
+  pending petition, and do not state or imply a prediction about the outcome.
+  ***
+- *** STANDING INSTRUCTION FOR THIS PACKAGE: every file that mentions this
+  petition must (1) call it a pending request, never a decision or an
+  outcome; (2) state only who filed it, what it asks for, and when
+  (2025 filing, "pending" as of Jan 2026 reporting); (3) include zero
+  speculation about whether it will be granted, zero political commentary,
+  zero editorializing in either direction — the same standard package 029
+  applies to an ALREADY-DECIDED commutation, applied here to a
+  NOT-YET-DECIDED one. If a decision is reported after this package is built,
+  this file and every file referencing the petition need a factual update
+  before further use — do not leave stale "pending" language in place once a
+  real outcome exists. ***
+Source: CNN Business (Jan 21, 2026, "Elizabeth Holmes asks President Donald
+Trump to let her out of prison early"); ABC News (Jan 2026); Fox Business
+(Jan 2026); Fortune (Jan 23, 2026); SFist (Jan 21, 2026); LegalClarity
+explainer summarizing sentence/clemency status.
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This is this channel's THIRD real, adjudicated startup-fraud conviction,
+  after 005 (HeadSpin/Manish Lachwani, pleaded guilty, served sentence in
+  full) and 029 (Ozy Media/Carlos Watson, convicted by jury, sentence
+  commuted before serving any of it). Theranos sits structurally between the
+  two: Holmes WAS convicted by a jury (like Watson, unlike Lachwani's guilty
+  plea) and IS currently serving her sentence in full so far (like Lachwani,
+  unlike Watson) — but has an active, undecided clemency request pending,
+  which could still move her toward Watson's outcome. Cross-reference both
+  005 and 029 explicitly on screen as this channel's companion real-fraud
+  cases, and note Theranos is the only one of the three still procedurally
+  "in progress" (an open clemency petition) at the time this package was
+  built.
+- Largest peak valuation ($9B) of any REAL-CONVICTION fraud case on this
+  channel; largest restitution order ($452M) of any package on this channel.
+- Distinct from every other "overhype" package on this channel (022 Fast, 024
+  Olive AI, 026 WeWork, 028 Bird) precisely because there IS a jury
+  conviction here — "fraud" is not a loaded word in this package, it's a
+  verdict.
+
+---
+
+BEFORE RECORDING / BEFORE ANY FUTURE EDIT
+1. "Fraud" language IS appropriate throughout — Holmes has an actual jury
+   conviction on wire fraud and conspiracy to commit wire fraud (investor
+   counts). State this as fact, sourced to DOJ/court reporting.
+2. Keep the SEC's 2018 CIVIL settlement (fine + officer/director bar, no
+   admission of wrongdoing) explicitly distinct from the 2022 CRIMINAL
+   conviction (an actual guilty verdict). Never merge or conflate the two.
+3. Holmes was acquitted of ALL patient-related counts and convicted only on
+   investor-related counts (1 conspiracy + 3 substantive). Balwani was
+   convicted on BOTH investor and patient counts (all 12 he faced) — a
+   broader conviction than Holmes's. State this distinction every time both
+   are discussed together.
+4. Use "$700 million+" (the SEC's own figure) as the safe funding total;
+   don't state a more precise/higher lifetime figure without further
+   sourcing — flag as [VERIFY] if used.
+5. Theranos dissolved via an out-of-court "assignment for the benefit of
+   creditors" in September 2018 — it did NOT file for bankruptcy. Never say
+   "filed for bankruptcy" for Theranos.
+6. The Bureau of Prisons sentence-computation credit (projected release
+   ~Dec 2032, effectively ~2 years less than the original 11y3m term) is an
+   ADMINISTRATIVE matter, separate from and not to be confused with the
+   pending 2025-2026 clemency petition.
+7. The 2025-2026 clemency/commutation petition is PENDING, not decided, as of
+   the most recent reporting found (Jan 2026). Never state or imply it has
+   been granted or denied. State only who filed it, what it requests, and
+   when — and revisit this file for an update if a real decision is later
+   reported.
+8. Cross-reference packages 005 (HeadSpin) and 029 (Ozy Media) as this
+   channel's other real-conviction fraud cases.

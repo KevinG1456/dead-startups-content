@@ -1,0 +1,168 @@
+Sources Log — Package 058: Quirky
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Quirky is a new, user-picked title, not part of the dead-saas-30 batch. It's a "burned cash on too
+many unfocused products" story — distinct in mechanism from package 012 (Pivot Graveyard, companies
+that changed direction) and package 019 (open-source competing with its own paid product). Quirky's
+mechanism is horizontal sprawl: a genuinely working crowdsourcing engine that never said no to an
+idea, spread across hundreds of unrelated product categories with no real focus.
+
+---
+
+FOUNDING — precisely sourced
+- Quirky was a crowdsourced invention platform: the community submitted product ideas, voted and
+  commented on them, Quirky's in-house team designed/engineered/manufactured the winners, and
+  inventors + contributors earned a royalty share of sales.
+- Founded by Ben Kaufman, publicly launched June 2009, when Kaufman was 22.
+- Kaufman's prior venture: founded mophie (iPod/accessory company) as a teenager, funded partly via
+  a second mortgage on his parents' house; mophie was acquired in August 2007. This is the "sold his
+  first company, immediately started a much bigger and stranger one" setup for the video.
+Source: Center for Research Innovation (Northeastern) bio; Fortune (Jul 21 2014, "Counting Down
+With Ben Kaufman"); Disruptor Awards 2013 honoree bio; Wikipedia "Quirky (company)."
+
+FUNDING — sourced, with rounds itemized
+- Total raised: consistently reported as ~$185 million across VC rounds (Failory, Entrepreneur,
+  Celebrity Net Worth, and the company's own Sept 2015 bankruptcy-filing statement all cite this
+  figure). One source ("Startup Graveyard") rounds up to "~$200M" — treat $185M as the primary,
+  better-corroborated figure; flag the $200M rounding as [VERIFY] rather than average the two.
+- Series A: $6 million, led by RRE Ventures (2010).
+- Series B: led by Norwest Venture Partners — exact amount NOT confirmed in this research pass;
+  [VERIFY], do not state a specific Series B dollar figure on screen.
+- Series C: $68 million, led by Andreessen Horowitz (2012). This round is explicitly what funded
+  the acceleration from "1 new product a week" (the original goal) to "3 new products a week."
+- Series D: $79 million (announced Nov 13, 2013), which included General Electric's $30 million
+  strategic investment as part of the same round (see GE section below).
+Source: TechCrunch ($6M Series A, Aug 2010 announcement); TechCrunch ($16M... note: TechCrunch's
+Aug 2011 headline reports "$16 million," which appears to be a distinct, earlier B-adjacent
+mention — [VERIFY], not reconciled against the $68M Series C figure in this pass, do not present
+both as confirmed without further checking); Jewish Business News (Nov 14 2013, "$79 Million Series
+D"); GE.com/BusinessWire (Nov 13 2013 press release, $30M as part of that round).
+
+THE GE PARTNERSHIP — precisely dated, two distinct phases
+- Phase 1 (product collaboration, no equity): Quirky and GE partnered starting April 2011 to
+  co-develop a line of connected/smart-home products based on GE patents — described in the GE.com
+  Nov 2014 press release as debuting "a series of connected products... ranging from light switches
+  to security sensors," working toward 30 GE-patent-based products total.
+- Phase 2 (equity investment): November 13, 2013 — GE announced an expanded partnership including a
+  $30 million strategic investment (minority equity stake) plus in-kind services, folded into
+  Quirky's $79M Series D round.
+- GE selected Wink as its preferred connected-home platform partner; Home Depot separately agreed to
+  carry/integrate Wink-connected devices.
+Source: GE.com press releases (Nov 13 2013; Nov 11 2014 "Quirky, GE Unveil Their Vision For The
+Connected Home"); TechCrunch (Nov 11 2014); VentureBeat.
+
+WINK — the connected-home spinoff, sourced with one date discrepancy flagged
+- Wink was Quirky's software/hub platform for controlling smart-home devices from a single app.
+- Spun off as a standalone company — sources give slightly different months: Wikipedia/Wink's own
+  press release says "established as a standalone business" mid-2014; other secondary sources say
+  June or July 2014. [VERIFY] exact month — state "mid-2014," do not pick a specific date without
+  further confirmation.
+- September 22, 2015 (Quirky's bankruptcy filing date): Quirky put Wink up for auction as part of
+  the Chapter 11 process. Flextronics (an existing hardware/firmware supplier to Wink) placed the
+  winning $15 million stalking-horse bid.
+- December 14, 2015: a bankruptcy judge approved the sale of Quirky's assets, including Wink to
+  Flextronics.
+- July 2017: Flex (renamed from Flextronics) sold Wink onward to i.am+, the technology company
+  founded by musician will.i.am, reportedly for $59 million — a real, sourced uptick from the $15M
+  Flex paid less than two years earlier.
+- May 2020: Wink (under i.am+) announced a mandatory $4.99/month subscription plan, restricting
+  previously-free basic app/hub/API functionality behind the paywall — this triggered significant
+  public backlash from existing device owners who felt locked out of hardware they already owned.
+- Current status (checked during this research pass, 2026): Wink's service shows as operational,
+  though with a documented history of repeated outages (most recently flagged Sept 2024 and Sept
+  2025 by third-party status-monitoring sites) — a troubled, still-technically-alive status, NOT a
+  clean "thriving independently" story like package 049 (Parse Server). Do not frame Wink's survival
+  as an unambiguous happy ending — it changed owners three times, sparked real user backlash over
+  the 2020 paywall, and its long-term stability remains genuinely uncertain even today.
+Source: Fortune/TechCrunch (Sept 22 2015, Quirky bankruptcy + Flextronics $15M bid); PRNewswire
+(Flex/i.am+ deal); VentureBeat (May 2020, Wink subscription backlash); How-To Geek ("Why We Can't
+Recommend Wink Hubs Anymore"); StatusGator Wink status history (checked 2026).
+
+THE SCALE PROBLEM — sourced, the video's core mechanism
+- Kaufman's original stated goal at launch: introduce one new consumer product every week.
+- After the 2012 Series C ($68M, Andreessen Horowitz), Quirky accelerated this further: the company
+  scheduled THREE product launches per week, selecting 3 ideas out of 1,000+ weekly community
+  submissions to move into development.
+- Over its roughly six years of operation, Quirky brought approximately 400 distinct, largely
+  unrelated products to market — everything from kitchen gadgets to smart-home hardware to office
+  supplies — with little category focus and, per multiple retrospectives, little iteration once a
+  product shipped.
+- Retail-channel margin compression: Quirky relied heavily on big-box retailers to move volume,
+  which reportedly squeezed margins on already thin-margin consumer hardware.
+- Peak headcount: over 400 employees.
+Source: CNBC (2012, "Inventing More Inventors at 'Quirky' Start-up"); Entrepreneur.com ("How a
+'Quirky' 28-Year-Old Plowed Through $150 Million..."); Failory postmortem; Harvard Digital
+Innovation and Transformation ("How Not to Crowdsource: The Demise of Quirky").
+
+ROYALTY MODEL — sourced, with a real conflict flagged
+- Quirky's stated model: inventors and community "influencers" who contributed to a product's
+  development shared in its sales revenue as a royalty.
+- Sources conflict sharply on the actual percentage structure: one describes a modest single-digit
+  split (roughly 3% direct-to-consumer / 1.5% via retail, with Quirky keeping 5-10%); another
+  describes a much larger split (30% of direct sales, 10% of wholesale revenue going to the
+  inventor/community pool). [VERIFY] — THIS IS UNRESOLVED. Do not state a specific royalty
+  percentage on screen; describe the model qualitatively ("inventors and contributors earned a share
+  of sales revenue") without committing to disputed numbers.
+Source: Vizologi business-model breakdown; The Penny Hoarder; Inventing Patents blog (conflicting
+figures, not reconciled).
+
+THE COLLAPSE — precisely dated
+- Beginning in late 2014, Quirky underwent multiple rounds of layoffs and restructuring as it
+  struggled to raise further funding.
+- July 31, 2015: Ben Kaufman stepped down as CEO, the same period as a 111-person layoff, amid
+  reported difficulty securing additional financing.
+- September 22, 2015: Quirky filed for Chapter 11 bankruptcy, explicitly to facilitate an asset
+  sale (including the Wink auction described above).
+- December 14, 2015: bankruptcy judge approved the final asset sale.
+Source: Forbes (Sept 22 2015, "Gadget Startup Quirky Goes The Way Of The Sharper Image: Bankruptcy");
+SiliconANGLE (Dec 14 2015); Gizmodo (Sept 2015).
+
+BEN KAUFMAN'S LATER CAREER — sourced, no fraud/misconduct found
+- 2016: joined BuzzFeed as Chief Commerce Officer.
+- January 2019: promoted to BuzzFeed CMO.
+- August 2019: stepped down as BuzzFeed CMO (less than a year in the role) to focus on his own
+  venture, CAMP.
+- CAMP: a family-experience retail chain Kaufman founded in 2018 (retail stores blending play space
+  + product shop); he remains founder/CEO as of the most recent sourcing found.
+- 2025: public social-media posts describe Kaufman moving into new work connected to "eko," an
+  AI-powered product-visualization company — described in his own words as "the perfect (and
+  slightly unhinged) culmination" of his career across products, factories, retail, e-commerce,
+  media, and technology. No fraud, lawsuit, or personal-misconduct allegations against Kaufman were
+  found in this research pass — this is a clean, no-sensitivity-flag founder coda.
+Source: Variety (Aug 15 2019, BuzzFeed CMO step-down); Tubefilter (Aug 2019); Crunchbase (Ben
+Kaufman person profile, CAMP); Business of Fashion; Medium/Future of StoryTelling Q&A.
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- Distinct from package 012 (Pivot Graveyard — companies that changed direction) and package 019
+  (open source undercutting its own paid product) — Quirky's failure mechanism is horizontal
+  sprawl/lack of focus, not a pivot or an open-source cannibalization.
+- Loose thematic contrast with package 049 (Parse): both packages have a "did something survive the
+  company's death" question, but the answers are opposite in tone. Parse Server is a clean,
+  unambiguous, independently-thriving afterlife. Wink's afterlife is real but messy — three
+  different owners, a user backlash over a 2020 paywall, and ongoing reliability problems. Do NOT
+  frame Wink's survival with the same triumphant tone as Parse Server; it's a "technically still
+  alive, but limping" story, not a "thriving" one.
+- No fraud, scandal, or founder-sensitivity issue anywhere in this story — Kaufman's post-Quirky
+  career (BuzzFeed exec, then founding CAMP) is a normal, undramatic executive career, not a
+  redemption arc requiring special handling.
+
+---
+
+BEFORE RECORDING
+1. Total funding: use "~$185 million" as the primary figure (best-corroborated); do not use "$200M"
+   without flagging it as a looser, less-corroborated rounding.
+2. Series B amount is NOT confirmed — do not state a specific dollar figure for it on screen.
+3. The GE partnership has TWO distinct phases — the 2011 product collaboration (no equity) and the
+   Nov 2013 $30M investment (equity, part of the Series D) — do not collapse them into one event or
+   one date.
+4. Wink's spinoff month is [VERIFY] — say "mid-2014," not a specific date.
+5. Do NOT state a specific inventor royalty percentage — sources conflict and this was not
+   reconciled; describe the revenue-share model qualitatively only.
+6. Wink's present-day status is real but troubled (three ownership changes, 2020 subscription
+   backlash, documented recent outages) — do not present it as a clean "product outlived the
+   company and thrived" story the way package 049/Parse is framed.
+7. No fraud/scam framing anywhere — this is a focus/execution-strategy failure, not fraud. Kaufman's
+   post-Quirky career is clean; no misconduct allegations found.

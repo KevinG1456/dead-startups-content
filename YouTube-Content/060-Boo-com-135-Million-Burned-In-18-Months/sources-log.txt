@@ -1,0 +1,149 @@
+Sources Log — Package 060: Boo.com
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Boo.com is the original, canonical dot-com-bust case study — often taught in business schools before
+even Pets.com (054) or Webvan (038). This log separates the well-corroborated facts from the loosely
+reconciled figures that recur across dozens of inconsistent retrospective retellings.
+
+FOUNDING — discrepancy flagged
+- Business conceived in 1998 by Ernst Malmsten, Kajsa Leander, and Patrik Hedelin (all Swedish);
+  company formally founded/incorporated March 17, 1999. Wikipedia's own article contradicts itself
+  (infobox says "Founded 17 March 1999," opening paragraph says "founded in 1998") — use "conceived in
+  1998, formally founded March 1999" rather than committing to a single year on screen.
+- Headquartered in London (Carnaby Street).
+- Roles: Ernst Malmsten — CEO. Kajsa Leander — former fashion model, co-founder, led marketing/brand.
+  Patrik Hedelin — former investment banker, co-founder, led finance.
+- Target market: young (18-24), fashion-conscious global consumers; branded sportswear and designer
+  apparel; positioned to become "the largest online sports e-retailer in the world," built from the
+  start for multiple languages and currencies simultaneously — an unusually ambitious global-first
+  build for 1999.
+Source: Wikipedia ("Boo.com"); WWD ("Boo.com Bows Today, Flying Fashion's Flag In Many Languages").
+
+FUNDING — reconcile carefully, figures from secondary/aggregator sources
+- Total raised: approximately $135 million (best-corroborated figure, appears independently across
+  Wikipedia, The Hustle, and multiple retrospectives).
+- Investors named: Goldman Sachs; J.P. Morgan (UK); Bain Capital; Omnia Fund (backed by members of
+  Lebanon's Hariri family — Wikipedia's only investor cited with a specific standalone amount, "nearly
+  £20 million"); LVMH's internet investment arm Europ@web (backed by Bernard Arnault); the Benetton
+  family's investment arm Edizione Holding, via 21 Investimenti Group.
+- *** [VERIFY]: A more granular round-by-round breakdown circulates in secondary sources (a Series A
+  of ~$12.5M in early 1999, including $6.3M jointly from LVMH/Europ@web and the Benetton family's
+  arm; a Series C of $101M in July 1999) — this breakdown was NOT found in a primary press release or
+  filing during this research pass and should be treated as an aggregator-level reconstruction, not
+  confirmed math. Use "roughly $135M total, from investors including Goldman Sachs, J.P. Morgan,
+  LVMH's Europ@web, and the Benetton family's investment arm" rather than citing precise per-round
+  figures on screen unless a firmer primary source is checked before recording. ***
+- *** [VERIFY]: A commonly repeated "~$390M peak valuation" figure could NOT be independently
+  confirmed against any primary source in this research pass (Boo.com was a private UK company with
+  no public valuation filing found). DO NOT use this figure on screen — drop it per this channel's
+  standing rule that unsourced headline numbers get dropped, not forced. ***
+Source: Wikipedia; The Hustle ("Miss Boo, a fashionista ahead of her time"); general aggregator
+retrospectives (treated as secondary, flagged above where unconfirmed).
+
+THE LAUNCH DELAY AND THE TECHNICAL FAILURE — well corroborated
+- Original target launch: May 1999. Actual launch: November 3, 1999 — approximately six months late,
+  burning cash the entire time with no revenue.
+- The site was built heavily on JavaScript and Flash for a pseudo-3D "spin and zoom" product viewer
+  (customers could rotate and "try on" garments on a virtual model).
+- The homepage alone was several hundred kilobytes — minutes to load on a dial-up modem. The site
+  itself displayed a message stating it was "designed for 56K modems and above."
+- Did not function properly on Macintosh computers.
+- Required a fixed-size browser window, limiting how much product information was visible at once.
+- Customers reportedly had to answer four or five configuration questions before discovering an item
+  was out of stock.
+- Reported result: only approximately 25% of attempted purchases actually completed.
+- The 3D visualization technology cost over $6 million to develop and reportedly $500,000/month to
+  maintain.
+Source: Wikipedia; The Hustle; cobcertified.com ("The Most Famous Dot Com Failure").
+
+THE MARKETING SPEND VS. THE ACTUAL AWARENESS IT BOUGHT — the package's sharpest, most underused beat
+- $25 million spent on advertising and PR before the site even launched.
+- Despite that spend, The Hustle reports that only approximately 13.2% of internet users were aware of
+  Boo.com even at its peak of visibility — a striking contrast to this channel's other big-marketing-
+  spend story, 054/Pets.com, whose sock puppet reached near-universal name recognition on a much
+  smaller ad budget ($11.8M in 1999). This is a genuinely useful differentiator: Boo.com's failure mode
+  wasn't "everyone remembers the marketing, nobody checked the business" (Pets.com) — it was "they
+  spent enormous money and still couldn't get the brand to register with almost anyone."
+- Reported operations: grew from ~40 employees to ~400 by October 1999, spread across offices in
+  London (HQ), Amsterdam, Munich, New York, Paris, Stockholm, and additional cities — sources cite "8
+  offices" without naming all eight; do not invent the missing three.
+Source: The Hustle; Wikipedia.
+
+BURN RATE — two sourced figures, not fully reconciled, present both attributed rather than forcing one
+- $135 million spent in approximately 18 months (best-corroborated overall figure, spans conception
+  through collapse).
+- Wikipedia separately states "£125 million in six months" — likely referring specifically to the
+  ~6-month live-operations window (Nov 1999 launch to May 2000 collapse) rather than the company's
+  full 18-month lifespan, but this research pass could not fully reconcile the two figures against
+  each other. State both, attributed to their likely different time windows, rather than picking one
+  and discarding the other.
+- Near the end, the company was reportedly burning cash at a rate exceeding $10 million/month.
+Source: Wikipedia.
+
+THE COLLAPSE — precisely dated
+- May 18, 2000: Boo.com placed into receivership.
+- Final sales pace before shutdown: reportedly around $500,000 per fortnight — a striking mismatch
+  against the burn rate above.
+Source: Wikipedia.
+
+THE FIRE SALE — TWO SEPARATE BUYERS, DO NOT CONFLATE (this is the package's biggest sourcing trap)
+- Buyer 1 — Bright Station (UK internet services company): bought Boo.com's e-commerce
+  technology/software platform for £250,000 (reported by Forbes as approximately $375,000 at
+  contemporary exchange rates), in a deal reported May 30, 2000. The real prize for Bright Station,
+  per Forbes, was less the software itself and more the chance to recruit 50-70 of Boo.com's software
+  engineers. This technology later became the basis for what grew into e-commerce platform Venda Inc.
+- Buyer 2 — Fashionmall.com (a New York-based fashion portal): separately bought the Boo.com brand,
+  domain name, and content from liquidator KPMG in June 2000, for an UNDISCLOSED sum. Some secondary
+  retrospectives loosely repeat "~$375,000" for this deal too — but that figure traces specifically to
+  Forbes' reporting on the Bright Station technology sale, not to any confirmed reporting on the
+  Fashionmall.com brand purchase. *** [VERIFY]: treat the Fashionmall.com price as undisclosed/
+  unconfirmed on screen — do not state a specific dollar figure for that transaction. ***
+- Combined, total remaining Boo.com assets across both deals are commonly described as having sold for
+  "less than $2 million" against the ~$135M raised — a real, striking, well-corroborated contrast even
+  without pinning the Fashionmall.com number exactly.
+Source: Forbes ("Boo.com Assets Sell for Spooky Price: $375,000"); WARC ("Ex-Adman Grabs Boo.com
+Technology For A Song"); Campaign Live; The Hustle; Wikipedia.
+
+THE AFTERMATH
+- Fashionmall.com relaunched Boo.com in October 2000 as a streamlined fashion portal for 18-30 year
+  olds (brand showcases, shopping guides, community features) — a much smaller ambition than the
+  original global 3D-fitting-room vision.
+- Wikipedia additionally notes a further relaunch (under a president named Kate Buggeln) and, later,
+  a 2007 pivot into a travel-booking site under Web Reservations International, which closed in 2010;
+  by July 2020 the domain redirected to Hostelworld.com. *** [VERIFY]: this chain of later relaunches
+  is thinly sourced (single-source, Wikipedia only, no independent corroboration found this pass) —
+  present as "the brand changed hands and purpose repeatedly afterward and never found a stable second
+  life," without over-committing to every intermediate date. ***
+- Ernst Malmsten co-authored "Boo Hoo: A Dot.Com Story from Concept to Catastrophe" (2001) with
+  journalists Erik Portanger and Charles Drazin (some editions/listings also credit Kajsa Leander as a
+  named author). It became a widely used, still-taught cautionary business-school case study — one of
+  the earliest and most detailed insider accounts of a dot-com collapse ever published.
+Source: Wikipedia; Goodreads/AbeBooks listings for "Boo Hoo."
+
+CATEGORY / CROSS-REFERENCE NOTES
+- No fraud, criminal charge, or named-individual misconduct anywhere in this story — pure overhype /
+  execution-and-timing / technology-outran-the-infrastructure-of-its-era failure. Same category as
+  054 (Pets.com), 002 (Quibi), 014 (The Freemium Trap).
+- Strong direct cross-reference to 054 (Pets.com): both are canonical, contemporaneous (1999-2000)
+  dot-com collapses with large marketing spend — but they diverge sharply on outcome. Pets.com's
+  spend bought lasting, near-universal brand recognition (the sock puppet); Boo.com's larger and
+  earlier spend reportedly reached only ~13.2% awareness. Worth an explicit "compare" framing if these
+  two are ever cross-promoted or placed in the same playlist.
+- Chronologically, Boo.com's May 2000 collapse arguably marks the opening bell of the broader dot-com
+  crash that swallowed Pets.com (Nov 2000) and many others the same year — a useful sequencing note
+  for any future multi-company comparator package covering this exact period.
+
+BEFORE RECORDING
+1. Never state a single, confident founding year — say "conceived in 1998, formally founded March
+   1999," reflecting Wikipedia's own internal inconsistency.
+2. Never state the ~$390M peak valuation figure on screen — it could not be independently confirmed
+   and should be treated as dropped, not softened.
+3. Never conflate the two separate fire-sale buyers — Bright Station bought the technology (£250K /
+   ~$375K, reported), Fashionmall.com separately bought the brand/domain (undisclosed price). Do not
+   state a dollar figure for the Fashionmall.com deal.
+4. Present the "$135M in 18 months" and "£125M in six months" burn-rate figures as two separately
+   sourced numbers likely describing different time windows — do not force them into one reconciled
+   total.
+5. Do not invent the identities of all "8 offices" — five cities (London, Amsterdam, Munich, New York,
+   Paris, Stockholm — six, actually, once London/HQ is counted) are named; the rest are not.

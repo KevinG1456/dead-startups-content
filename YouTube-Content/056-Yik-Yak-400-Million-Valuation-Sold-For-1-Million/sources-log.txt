@@ -1,0 +1,155 @@
+Sources Log — Package 056: Yik Yak
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Yik Yak is a fresh, cold-researched title (not from the dead-saas-30 batch) — an anonymous,
+location-based social app that became a genuine campus phenomenon, then collapsed under the weight of
+the exact feature that made it popular: anonymity itself enabled sustained harassment and threats,
+and the fix (removing anonymity) killed the product. Distinct failure mechanism from every other
+package on this channel: not funding-driven, not a single dramatic week, but a slow platform-safety
+collapse followed by a de-anonymization pivot that alienated its own user base.
+
+No fraud/criminal issues for founders Tyler Droll or Brooks Buffington — this is a content-moderation
+and product-market-fit story, not a financial-misconduct one.
+
+---
+
+FOUNDING AND ORIGINAL FOUNDING-TEAM DISPUTE
+- Yik Yak was founded by Tyler Droll and Brooks Buffington, both students/graduates of Furman
+  University in Greenville, South Carolina. The app launched publicly in November 2013.
+- Before Yik Yak LLC existed, the underlying app was reportedly built under a three-way partnership
+  called Locus Engineering, split evenly between Droll, Buffington, and a fraternity brother, Douglas
+  Warstler. Droll and Buffington dissolved Locus Engineering in early 2013 and went on to found Yik
+  Yak LLC without Warstler.
+- Warstler sued in November 2014, claiming he had been unfairly cut out of one-third of the company.
+  The suit was settled in April 2016; settlement terms were not disclosed. Droll and Buffington's
+  public statement: "We are pleased we were able to come to this resolution, and we acknowledge the
+  contributions Doug made to the early ideas behind Yik Yak."
+Source: Forbes ("Popular Teen App Yik Yak Sued By Supposed Frat Brother Cofounder," Nov 18 2014);
+Forbes ("Yik Yak Settles With Ousted Cofounder," Apr 22 2016); Inc.com.
+
+FUNDING AND PEAK VALUATION
+- Yik Yak raised a total commonly reported as $73.4–73.5M in venture funding (TechCrunch, EdSurge);
+  a small number of secondary sources round this to "$75M" — treat $73.4–73.5M as the better-sourced
+  figure. [VERIFY: exact reconciled total varies slightly by source/round-counting.]
+- Confirmed investors: Sequoia Capital, DCM Ventures, and Azure Capital Partners led/participated in
+  funding rounds. [VERIFY: full cap table beyond these three lead investors not independently
+  confirmed in this research pass — do not name additional investors not listed here.]
+- A November 2014 funding round valued Yik Yak at $400.5 million — this is the best-sourced peak
+  valuation figure and the strongest headline number in this package.
+Source: TechCrunch ("Yik Yak Is Close To Closing On Roughly $75 Million"); Yahoo Finance/TechCrunch
+funding coverage; Tracxn company profile.
+
+PEAK POPULARITY
+- At its 2014–2015 peak, Yik Yak was reported among the most-downloaded apps in the U.S., especially
+  concentrated on college campuses, where its hyperlocal (GPS radius-based) anonymous feed format was
+  the core appeal. [VERIFY: no single authoritative "top N app" ranking with an exact date was found
+  in this pass — treat "widely reported as a top-downloaded app at peak" as the accurate framing
+  rather than citing a specific numbered rank.]
+Source: EBSCO Research Starters ("Yik Yak"); Medium retrospective ("The Assumptions and Failures of
+Yik Yak").
+
+THE ABUSE AND THREATS PROBLEM — NAMED, VERIFIED INCIDENTS
+Yik Yak's anonymity and hyperlocal design were repeatedly used to post threats, harassment, and
+racist content at colleges nationwide, leading to numerous police investigations and arrests. Three
+independently verified, named incidents:
+- October 2015: Emory University (Oxford College campus) student Emily Sakamoto was arrested after
+  police determined she posted a threat via Yik Yak indicating she would "open fire" on campus and
+  warning others to stay in their rooms.
+  Source: The Washington Post (Oct 13 2015).
+- November 2015: Hunter Park, a 19-year-old student at Missouri University of Science and Technology,
+  was arrested on suspicion of making a terrorist threat via Yik Yak targeting Black students and
+  faculty at the University of Missouri (Mizzou), amid that campus's Concerned Student 1950 protests.
+  Source: The Washington Post (Nov 12 2015); IBTimes.
+- Christian Pryor, an 18-year-old then-Fresno State football player, was arrested within roughly two
+  hours of a Yik Yak post allegedly threatening to use a weapon on campus.
+  Source: Jezebel; multiple contemporaneous news reports (exact 2015 date not independently pinned
+  down in this pass — [VERIFY] precise date).
+- Multiple additional arrests and "more than a dozen" campus threat investigations in a single
+  academic year were reported nationally; use the three named cases above as the on-screen anchors
+  and characterize the broader pattern generally rather than naming unverified additional individuals.
+Source: CBS News ("Yik Yak, 'anonymous' social media app, shares info with police"); The Maneater.
+
+THE 2016 "HANDLES" PIVOT — REMOVING ANONYMITY TO CURB ABUSE
+- August 2016: Yik Yak rolled out a major product pivot requiring users to add a handle (username)
+  and photo, and to post local "status" updates — explicitly aimed at curbing anonymous harassment
+  by reducing anonymity and pushing toward a more identity-based, local-social-network model.
+- The change was deeply unpopular; one user description at the time called it "contrary to the whole
+  idea of Yik Yak." Usage collapsed — some local communities reportedly saw post volume fall to as
+  low as 5 posts a day.
+- November 2016: co-founders Tyler Droll and Brooks Buffington released a public video apologizing
+  for the pivot, admitting "we messed this one up," and reversed course, making handles optional
+  again. The reversal did not restore prior engagement levels.
+- By the end of 2016, app downloads had fallen 76% year-over-year compared to the same period in
+  2015, and the company laid off most of its staff.
+Source: TechCrunch ("Yik Yak yearns to be local, not just anonymous," Aug 16 2016); Digital Trends
+("Yik Yak isn't so anonymous anymore"); Fortune ("Yik Yak layoffs," Dec 10 2016); TechCrunch (Apr 28
+2017 shutdown piece, citing the 76% download decline).
+
+THE END — APRIL 2017, SOLD FOR PARTS TO SQUARE (NOT A CASH ACQUISITION OF THE COMPANY)
+- April 2017: payments company Square, Inc. (which later renamed itself Block, Inc. in December
+  2021 — Yik Yak's actual buyer at the time was still branded "Square") agreed to hire a number of
+  Yik Yak's engineers and acquire a non-exclusive license to some of Yik Yak's intellectual property
+  for approximately $1 million.
+- This was reported by TechCrunch (headline and body) as "$1 million." [VERIFY: one secondary outlet,
+  EdSurge, used "$3M" in its article's URL slug while the visible headline text says "$1M" — treat
+  this as a likely EdSurge slug/typo error and use the better-corroborated $1 million figure from
+  TechCrunch's April 28, 2017 reporting.]
+- The remaining Yik Yak app was shut down shortly after, in late April 2017 — a fall from a $400.5M
+  peak valuation (Nov 2014) to a ~$1M asset/talent sale roughly two and a half years later.
+Source: TechCrunch ("Yik Yak shuts down after Square paid $1 million for its engineers," Apr 28
+2017); EdSurge (Apr 26 2017, headline text "$1M," URL slug reads "$3m" — discrepancy noted above);
+Fortune ("Yik Yak officially calls it quits," Apr 29 2017).
+
+THE UNRELATED 2021 REVIVAL, AND ITS 2023 ACQUISITION BY SIDECHAT — KEEP SEPARATE FROM THE ORIGINAL
+COMPANY, DO NOT BLUR TOGETHER
+- February 2021: an unnamed, Nashville-based team purchased the rights to the Yik Yak brand/trademark
+  from Square. [VERIFY: the specific individuals behind this 2021 purchase were not publicly
+  identified in the sources found in this research pass — do not name any individual as being behind
+  the revival without a confirmed source; state only that it was a new, different team, unconnected to
+  Droll and Buffington's operation of the original company.]
+- August 16, 2021: the revived Yik Yak app relaunched publicly, with new moderation/safety features
+  positioned as a response to the original app's problems.
+- March 2023: Sidechat, a rival anonymous, hyperlocal campus-social app, acquired the revived Yik Yak.
+  This was an ACQUISITION by a competitor, not a second shutdown — the Yik Yak brand and app have
+  continued operating under Sidechat's ownership since, with a stated focus on requiring verified
+  .edu student email addresses. [Correction to an earlier research assumption: do not state or imply
+  that the 2021 revival "shut down again in 2023" — the accurate fact is that it was acquired by
+  Sidechat and continued operating.]
+Source: TechCrunch ("Yik Yak returns from the dead," Aug 16 2021); Forbes ("Yik Yak, The Anonymous
+Local Social Media App, Is Back," Aug 16 2021); TechCrunch ("Anonymous app Sidechat picks up rival
+Yik Yak...and users aren't happy," Mar 16 2023); Higher Ed Dive.
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- Distinct failure mechanism from this channel's other platform/API-dependency stories (008 Meerkat/
+  Viddy, 036 Life On Air/Houseparty, 039 Twitterrific) — Yik Yak's collapse was not caused by an
+  external platform revoking access; it was caused by the app's own core feature (anonymity) becoming
+  a liability, and the fix for that liability killing the product's appeal. A cleaner comparison point
+  is a "the feature that made you popular is the feature that kills you" story, not an API-dependency
+  one.
+- No fraud, financial-misconduct, or criminal allegations apply to Droll or Buffington. The Warstler
+  co-founder lawsuit is an ordinary business/equity dispute, settled confidentially — do not frame it
+  as fraud or wrongdoing by either side.
+- Handle the campus-threat content factually and soberly. Only the three named, independently-sourced
+  individuals above (Sakamoto, Park, Pryor) should be named on screen; do not name any additional
+  individuals from secondary/unverified sources. Do not speculate about any of the three individuals'
+  motives beyond what is reported; do not name any threatened victim beyond what mainstream reporting
+  already made public (e.g., "Black students and faculty at Mizzou" as a group, not named individual
+  victims).
+
+---
+
+BEFORE RECORDING
+1. Keep the original 2013–2017 Droll/Buffington company entirely separate from the unrelated
+   2021–present revival team in every file — never write "Yik Yak" as if it were one continuous
+   company/decision-maker across both eras.
+2. State the 2023 Sidechat event accurately as an acquisition/continuation, not a second shutdown.
+3. Use $1 million (TechCrunch) as the Square deal figure; flag the EdSurge slug discrepancy only in
+   sources-log.txt, not on screen — it's likely a URL typo, not a real second figure to present as
+   competing.
+4. Cite only the three named threat-incident individuals above; keep the broader pattern described
+   generally ("more than a dozen investigations in a single year," per CBS/Maneater reporting) rather
+   than naming anyone else.
+5. No "fraud/scam" framing — this is a content-moderation and product-pivot failure story.

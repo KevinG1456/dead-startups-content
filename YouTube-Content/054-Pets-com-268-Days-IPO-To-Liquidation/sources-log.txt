@@ -1,0 +1,137 @@
+Sources Log — Package 054: Pets.com
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Pets.com is one of five fresh, famous, cold-researched titles added this session (alongside
+Theranos/052, Juicero/053, Jawbone/055, Yik Yak/056) — not drawn from the "dead-saas-30" batch file,
+which is now fully resolved (see project_channel_overview memory). This is the single most iconic
+image of the entire dot-com bust — the sock puppet — and one of the most heavily (and inconsistently)
+retold stories in the genre, so this log exists specifically to separate the well-sourced facts from
+the commonly-repeated-but-imprecise pop-culture version.
+
+CORRECTION TO INITIAL RESEARCH BRIEF
+The original research brief for this package assumed co-founders "Greg McLeod and Josh Stevens." Both
+names are WRONG. The real founders are Greg McLemore and Eva Woodsmall, who launched the site (as a
+spinoff of McLemore's company WebMagic) in November 1998; the company was formally incorporated in
+February 1999. Julie Wainwright then purchased the company/joined as CEO in early 1999 — she did not
+co-found it. Every file in this package uses McLemore/Woodsmall as founders and Wainwright as the
+CEO who built the company into what became famous, never conflating the two roles.
+Source: Wikipedia ("Pets.com"); FourWeekMBA ("Eva Woodsmall & the Pets.com $300M Collapse").
+
+FOUNDING AND CEO
+- Founded by Greg McLemore and Eva Woodsmall, launched November 1998 as a spinoff of McLemore's
+  company WebMagic; incorporated February 1999.
+- Julie Wainwright purchased the company (with backing from Hummer Winblad Venture Partners) and
+  became CEO in early 1999. Before Pets.com, Wainwright had been CEO of Reel.com (an online video
+  retailer, 1997-1999; Reel.com was sold to Hollywood Video in a deal reported at $100M) and, earlier,
+  CEO of Berkeley Systems (interactive entertainment/screensaver software). Purdue graduate; began her
+  career in brand management at The Clorox Company.
+- Redemption-arc note (use in closing beat, same pattern as 030/MoviePass's Stacy Spikes): after
+  Pets.com, Wainwright went on to found The RealReal (online marketplace for authenticated pre-owned
+  luxury goods) in 2011, and took it public in 2019 — reportedly the 23rd woman in history to found
+  and lead a company to its own IPO. [VERIFY]: the specific "23rd woman" figure traces to secondary
+  profile/press coverage of Wainwright, not an independently audited count — state it as "reportedly."
+Source: Wikipedia ("Julie Wainwright"); BusinessOfFashion profile; HerMoney interview; Wantrepreneur
+Show blog post ("Julie Wainwright on Failure, Fear, and Founding a Billion-Dollar Business at 53").
+
+FUNDING — precisely sourced, three pre-IPO rounds
+- March 1999: $10.5M from Amazon.com, Hummer Winblad Venture Partners, and Bowman Capital Management.
+- June 1999: $50M, same lead investors.
+- November 1999: $35M.
+- Total pre-IPO venture funding: approximately $95.5M.
+- February 2000: IPO raised an additional $82.5M, priced at $11/share, ticker IPET.
+- *** [VERIFY]: Amazon's ownership stake is inconsistently reported across sources — one source states
+  a 54% stake from the first funding round, another states 30%, another states 50%. Amazon's own 1999
+  press release (press.aboutamazon.com) confirms the investment itself but this research pass could
+  not fully reconcile the exact percentage; use "Amazon became the largest shareholder, reportedly
+  holding as much as half or more of the company before the IPO" rather than committing to one precise
+  number, unless a firmer primary filing (e.g. the S-1) is checked before recording. ***
+Source: Amazon.com press release ("Amazon.com Announces Investment in Pets.com," March 1999);
+FourWeekMBA; MarketRealist ("What Happened to Pets.com?"); Wikipedia.
+
+MARKETING — precisely sourced
+- 1999 advertising spend: $11.8M.
+- Sock puppet mascot voiced by comedian Michael Ian Black.
+- Super Bowl XXXIV, January 30, 2000: aired "Please Don't Go" (sock puppet singing Chicago's "If You
+  Leave Me Now"), reported cost approximately $1.2M; ranked #5 on USA Today's Ad Meter that year.
+- 1999 Macy's Thanksgiving Day Parade: the sock puppet appeared as a 36-foot balloon.
+- The puppet was also profiled by People magazine and appeared on Good Morning America.
+Source: CampaignLive ("History of advertising: No 147: Pets.com's sock puppet"); NPR ("The growth,
+marketing strategy, and demise of Pets.com," Planet Money/The Indicator transcript); Failure.Museum.
+
+THE TRADEMARK DISPUTE — a genuinely fun, real, sourced side-story
+- Robert Smigel, creator of "Triumph the Insult Comic Dog" (a Saturday Night Live/Late Night puppet
+  character), had representatives send cease-and-desist letters to Pets.com, claiming the sock puppet
+  was based on / infringed Triumph.
+- Pets.com preemptively sued Smigel in California (rather than wait to be sued in New York), seeking
+  $20M in damages, alleging the cease-and-desist letters defamed its mascot.
+- Pets.com's suit against Smigel was dismissed roughly a month later.
+- *** [VERIFY]: exact filing/dismissal dates not independently pinned down in this research pass —
+  state the sequence (letters → Pets.com sues → dismissed about a month later) without citing specific
+  calendar dates unless confirmed. ***
+Source: Puppet Wiki ("The Pets.com sock puppet"); Wikipedia ("Triumph the Insult Comic Dog").
+
+THE BUSINESS MODEL FLAW — precisely sourced
+- Heavy, bulky, low-margin products (pet food, litter, supplies) shipped with free/subsidized
+  delivery. Example: a 50-lb bag of dog food shipped for free lost the company $3-4 per order.
+- Reported selling merchandise at approximately 27% below cost.
+- For every $1 in sales, the company spent roughly $2 on marketing and fulfillment combined.
+- Total capital burned before collapse is commonly cited as approximately $300M (this figure recurs
+  across secondary retrospectives and should be treated as an aggregate/rounded figure, not a single
+  audited number — flag as [VERIFY] if a more precise audited total is needed).
+Source: MarketRealist; The Blunder Vault (Substack, "From Mascot to Meltdown: The Pets.com IPO
+Disaster"); Silicon Underground ("Why Pets.com failed and became a dotcom joke"); CelebrityNetWorth
+("From IPO To Complete Liquidation In 268 Days").
+
+THE SHUTDOWN — precisely dated
+- November 4, 2000: the board approved a plan of complete liquidation.
+- November 9, 2000: Pets.com ceased online operations.
+- Stock price collapsed from its $11 IPO price to approximately $0.19 by the November 7 liquidation
+  announcement.
+- The widely-cited "268 days from IPO to complete liquidation" figure is a press/retrospective count
+  (CelebrityNetWorth headline figure); this research pass did not independently re-derive the exact
+  day count from a confirmed IPO calendar date, so it is used here as a SOURCED, ATTRIBUTED figure
+  ("reportedly just 268 days") rather than restated as an independently verified exact count. If a
+  tighter primary IPO date is confirmed before recording, re-check the day math.
+Source: Wikipedia; Failure.Museum; CelebrityNetWorth ("From IPO To Complete Liquidation In 268 Days.
+How Pets.com Became The Biggest Disaster Of The Dotcom Bubble").
+
+THE SOCK PUPPET'S AFTERLIFE
+- The puppet's rights/likeness reportedly sold for $125,000 out of the bankruptcy proceedings.
+- Multiple retrospectives state it went on to appear in advertising for a subprime/bad-credit auto
+  lender, with a tagline along the lines of "Everybody deserves a second chance."
+- *** [VERIFY]: the specific lender's name was not independently confirmed in this research pass —
+  do not name a specific company on screen; describe it generically as "a car-loan company" unless a
+  firmer source is found before recording. ***
+Source: 404memoryfound.com ("Why Pets.com Actually Failed"); general secondary retrospectives citing
+the $125,000 resale figure.
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- No fraud, criminal charge, or named-individual misconduct anywhere in this story — pure overhype /
+  unit-economics / marketing-outpacing-fundamentals failure, same category as 002 (Quibi) and
+  014 (The Freemium Trap). Tone: the definitive, most iconic dot-com-bust story — treat with a mix of
+  genuine "how did nobody stop this" incredulity and respect for the fact the core insight (people
+  eventually DID buy pet supplies online at scale — see Chewy.com's later multi-billion-dollar success
+  with a similar model plus better logistics/margins) was directionally right, just impossibly early
+  and impossibly overspent.
+- Optional closing beat: Chewy.com (founded 2011, acquired by PetSmart 2017 for $3.35B, later IPO'd)
+  proved the pet-e-commerce thesis could work — a "too early" parallel to 038/Webvan→Instacart. This
+  is NOT required for the package but is a strong, real, well-known comparison if a future rewrite
+  wants to add it; flagged here as a documented lead, not built into this pass's script.
+- Julie Wainwright's redemption arc (The RealReal, founded 2011, IPO'd 2019) is the second genuine
+  "founder came back and built something real" ending on this channel after 030/MoviePass's Stacy
+  Spikes — worth featuring as the closing beat rather than ending on the liquidation.
+
+BEFORE RECORDING
+1. Never state "Josh Stevens" as a co-founder — this was a research-brief error, corrected here to
+   Greg McLemore and Eva Woodsmall.
+2. Never commit to one single precise Amazon ownership percentage — sources range 30%-54%; use
+   "reportedly as much as half or more" unless a primary filing is checked.
+3. Never independently claim a precise IPO calendar date on screen unless reconfirmed — attribute the
+   "268 days" figure to press retrospectives rather than restating it as self-derived math.
+4. Never name a specific auto-lender company for the sock puppet's post-Pets.com ad career — not
+   independently confirmed this pass.
+5. Keep the Triumph the Insult Comic Dog lawsuit light/comedic in tone — it's a genuinely funny, real,
+   low-stakes footnote, not a serious legal threat to the company's survival.

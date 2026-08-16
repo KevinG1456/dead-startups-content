@@ -1,0 +1,231 @@
+Sources Log — Package 055: Jawbone
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Jawbone is a fresh, cold-researched title (part of the Theranos/Juicero/Pets.com/Jawbone/Yik
+Yak shortlist). Distinct failure archetype from everything else on the channel: this is the
+single most-funded venture-backed hardware startup to fail in the wearables era, and it has a
+LIVING, NOT criminally charged or convicted founder (Hosain Rahman) whose successor company is
+currently facing an active, unresolved fraud lawsuit from an investor. Apply the same higher
+sourcing bar established for package 022 (Fast) and 024 (Olive AI): attribute every serious
+claim to its originating outlet, use that outlet's own careful language, include denials/
+balancing details, and keep short-form assets restricted to ironclad facts only.
+
+---
+
+FOUNDING
+
+- Founded 1999 as AliphCom (later Aliph, Inc.) by Hosain Rahman and Alexander Asseily, both
+  Stanford graduates (Rahman: mechanical engineering).
+- Original focus: military-derived noise-cancellation voice technology, later dubbed
+  "NoiseAssassin" — a headset that could filter background noise for soldiers in combat. Won a
+  2002 DARPA (Pentagon research arm) contract.
+- First consumer product: the original Jawbone Bluetooth headset, launched 2006, built on the
+  military-derived noise-cancellation tech.
+- Later created two more product categories: the Jambox line of wireless Bluetooth speakers, and
+  the UP line of wrist-worn fitness/activity trackers (UP, UP24, UP3, UP4).
+Source: Britannica Money (Hosain Rahman profile), Wikipedia "Jawbone (company)", Sequoia Capital's
+own "Crucible Moments: Jawbone" podcast/retrospective. Founding year, founders, and military-tech
+origin corroborated across at least 3 independent sources.
+
+---
+
+FUNDING — total lifetime figure and peak valuation
+
+- Total lifetime funding: $929.9M raised over Jawbone's 15+ year existence — the figure most
+  consistently cited across CNBC and CB Insights, and the basis for CNBC's own July 2017 headline
+  characterization: "Jawbone's demise a case of 'death by overfunding' in Silicon Valley." Use this
+  figure as the anchor lifetime-funding number.
+  *** [VERIFY] flag: one Fortune piece (on the 2015 BlackRock deal) states Jawbone "had raised more
+  than $400 million during its 16-year existence" at that specific point in time (2015) — this is
+  NOT a lifetime-total contradiction, it's an earlier-dated snapshot before the 2014 $250M round and
+  the 2015 BlackRock $300M debt round are added; the two figures are compatible once dated correctly,
+  but do not present $400M as a lifetime total in any file — always use $929.9M for "total ever
+  raised" and date any $400M figure explicitly if used at all. ***
+- February 13, 2014: Jawbone closes a $250M round led by Rizvi Traverse Management, valuing the
+  company at $3.3 billion. TechCrunch/CNBC both confirm this figure at the time. By September 2014,
+  additional closing brought the valuation to a reported $3.2–3.3B range — treat "$3.3 billion,
+  February 2014" as Jawbone's peak, primary-sourced valuation.
+  Source: CNBC ("Jawbone raises $250 million, valuing company at $3.3 billion," Feb 13 2014),
+  TechCrunch, Tech City News.
+- 2015: BlackRock, the world's largest asset manager, invests $300M in Jawbone. Originally reported
+  publicly as an equity infusion. Bloomberg later reported — based on California state filings — that
+  the $300M was actually structured as DEBT (a loan), not new equity. Use "BlackRock's $300M debt/
+  loan position," not "BlackRock's $300M investment," per the corrected Bloomberg reporting.
+  Source: Time ("Jawbone: BlackRock's $300 Million Investment May Have Been Loan"), Fortune (Feb 27
+  2015, "Jawbone nears big investment from BlackRock").
+Source overall: CNBC, CB Insights financials page, Time, Fortune, TechCrunch — cross-corroborated
+across independent outlets.
+
+---
+
+THE BLACKROCK PUSH TO SELL (2016) — attributed directly, Rahman's own on-record response included
+
+- By October 2016, BlackRock — holding the $300M debt position — was reportedly pushing for a sale
+  of Jawbone. CEO Hosain Rahman told employees he had funding commitments sufficient to keep the
+  company independent, but a larger investor constituency (BlackRock) was pushing to sell instead.
+  *** This is Fortune's own reporting and characterization of the internal dynamic — attribute it to
+  Fortune specifically ("Jawbone CEO Hosain Rahman Battles BlackRock Investors," Fortune, Oct 11
+  2016) every time it's used. This is a business/board dispute, not a personal-misconduct allegation
+  against Rahman — no wrongdoing is alleged here, only a disagreement over strategy. ***
+Source: Fortune (Oct 11 2016).
+
+---
+
+THE FITBIT LITIGATION — two SEPARATE, opposite-direction cases; keep them distinct
+
+1) Jawbone v. Fitbit (trade secrets/talent poaching) — Jawbone was the plaintiff here.
+   - Shortly after Fitbit filed for its 2015 IPO, Jawbone filed three separate lawsuits against
+     Fitbit in under two months, alleging Fitbit had "systematically plundered" Jawbone talent and
+     stolen roughly 300,000 confidential files' worth of intellectual property/trade secrets via
+     departing employees.
+   - 2016: an International Trade Commission (ITC) judge ruled AGAINST Jawbone on this claim, finding
+     "no Jawbone trade secrets were misappropriated or used in any Fitbit product, feature, or
+     technology." This closed the corporate-misappropriation claim in Fitbit's favor.
+   Source: AppleInsider, Wareable, Inc.com (all reporting the 2016 ITC ruling).
+
+2) Fitbit v. Jawbone (patent infringement) — Fitbit was the plaintiff here, the reverse direction.
+   - Fitbit separately sued Jawbone at the ITC over three patents (a wearable heart-rate monitor,
+     portable monitoring devices, and motion-detector-based activity monitoring), seeking to block
+     import of Jawbone's products.
+   - An ITC judge (Thomas Prender) ruled the underlying ideas were not patent-eligible and recommended
+     the case be thrown out "in its entirety" — Fitbit's patents were effectively invalidated in this
+     proceeding. Fitbit also separately dropped one of its own ITC cases against Jawbone before a
+     final ruling.
+   Source: IT Pro ("Fitbit patents ruled invalid in Jawbone lawsuit"), Bloomberg (Apr 29 2016,
+   "Fitbit Wins Ruling Knocking Out Jawbone Patents" — note headline nuance: Fitbit "won" procedurally
+   by getting an ITC import-ban case dismissed, but its own asserted patents were the ones ruled
+   invalid), Courthouse News Service, TechCrunch.
+
+3) December 2017: Fitbit and Jawbone reached a GLOBAL SETTLEMENT resolving all outstanding
+   litigation between the two companies (both directions) — filed after Jawbone had already entered
+   liquidation (see below); Sherwood Partners (Jawbone's court-appointed liquidation administrator)
+   handled Jawbone's side of the settlement.
+   Source: Suiter Swantz IP summary, Courthouse News Service.
+
+4) SEPARATE, LATER, CRIMINAL case — do not conflate with the two civil ITC cases above:
+   - June 2018: federal prosecutors (US Attorney's Office, Northern District of California) indicted
+     SIX current or former Fitbit employees — Katherine Mogal, Ana Rosario, Patrick Narron, Patricio
+     Romano, Rong Zhang, and Jing Qi Weiden — for knowingly possessing Jawbone trade secrets after
+     leaving Jawbone (where all six had worked between 2011–2015) to join Fitbit. This is a criminal
+     case against INDIVIDUALS for possession, not a civil case against Fitbit the company for use —
+     a materially different claim from the 2016 ITC ruling above; state this distinction on screen if
+     using this case, since a casual viewer could otherwise think it contradicts the earlier ITC
+     ruling.
+   - February 3, 2020: a trial jury returned NOT GUILTY verdicts on all charges against defendant
+     Katherine Mogal.
+   - February 14, 2020: the U.S. government filed a motion to DISMISS the remaining criminal trade-
+     secret charges against Patrick Narron, Jing Qi Weiden, Patricio Romano, and Rong Zhang.
+   - Headline takeaway: the criminal case ended with NO convictions against any of the six defendants.
+     *** [VERIFY] flag: this research pass did not independently confirm the specific final
+     disposition for the sixth defendant, Ana Rosario, beyond the original 2018 indictment — do not
+     state her case was dismissed or resolved a specific way; if her name is used at all, note her
+     final case outcome as unconfirmed in this pass. ***
+   Source: Forbes (Jun 16 2018, "Six Former Or Current Fitbit Employees Charged With Possessing
+   Jawbone Trade Secrets"), DOJ USAO-NDCA press release, Axios, The Hustle.
+
+---
+
+THE LIQUIDATION (2017) — not a formal bankruptcy
+
+- July 13, 2017: Jawbone (legally AliphCom, dba Jawbone) filed a Notice of Assignment for the Benefit
+  of Creditors (ABC) — a California-specific alternative to formal Chapter 7/11 bankruptcy in which a
+  company assigns its assets to a third-party fiduciary for liquidation and creditor distribution.
+  Jawbone did NOT file for bankruptcy in court; it went through this ABC process instead.
+  *** Framing note: an ABC is a real, distinct legal mechanism from bankruptcy — do not describe this
+  as "filed for bankruptcy" anywhere in the package; use "entered liquidation via an assignment for
+  the benefit of creditors" or "wound down its assets outside of bankruptcy court." ***
+- Sherwood Partners was the firm appointed to administer the wind-down, liquidate remaining assets
+  (including UP2/UP3/UP4 wearable inventory, sold to a third-party reseller), and it also assumed
+  control of the ongoing Fitbit litigation on Jawbone's behalf (see above, item 3).
+Source: Dezeen (Jul 11 2017, "Technology company Jawbone goes into liquidation"), Wolf Street/
+CNBC (Jul 10 2017, "death by overfunding" piece), tms-outsource retrospective.
+
+---
+
+THE SUCCESSOR COMPANY — Jawbone Health Hub, later "All.health" — and the ACTIVE INVESTOR LAWSUIT
+
+⚠️ HIGHEST-SENSITIVITY SECTION OF THIS PACKAGE — apply [[feedback_sensitive_founder_claims]]
+standard in full. Hosain Rahman has NOT been criminally charged or convicted of anything. The
+following is an ONGOING, UNRESOLVED civil lawsuit containing serious allegations that Rahman and
+his co-founder explicitly deny. Never state these allegations as established fact anywhere in this
+package, in any file.
+
+- Immediately following the 2017 liquidation, Hosain Rahman launched a successor company, Jawbone
+  Health Hub, moving into health-data/biometric technology — described in coverage as inheriting
+  health-data IP and biometric technology out of the Jawbone wind-down.
+  Source: CNBC (Jul 10 2017 piece), Fortune ("Jawbone Failed, But Hosain Rahman Remains Determined,"
+  Jul 7 2017).
+- BlackRock — the same firm that held Jawbone's $300M debt position — reportedly took an equity stake
+  in Jawbone Health Hub, the successor entity. *** [VERIFY]: exact size/terms of BlackRock's stake
+  not confirmed in this research pass. ***
+- Jawbone Health Hub was later rebranded/continued as All.health, Inc., co-founded by Rahman and
+  Michael Luna.
+- January 13, 2023: Polymath Holdings (a Dubai-based, Cayman Islands-registered investment firm and
+  an All.health investor) filed suit against All.health, Hosain Rahman, and Michael Luna in San
+  Francisco Superior Court (case number CGC-22-600970), alleging fraud, misrepresentation, and breach
+  of contract. Per Bloomberg's reporting, Polymath's complaint characterizes the situation as a
+  "classic 'fake-it-until-you-make-it' tale of fraud," alleging the startup took millions of dollars
+  from the investor and did not deliver on a commitment to manufacture thousands of health-monitoring
+  devices.
+  *** MANDATORY FRAMING: this is Polymath Holdings' own litigation characterization in a civil
+  complaint — NOT an adjudicated finding, NOT a criminal charge, and NOT this channel's own
+  independent conclusion. Attribute every specific claim from this lawsuit explicitly to "Polymath
+  Holdings' complaint" or "according to the lawsuit," every time it appears. ***
+  *** All.health, Rahman, and Luna have publicly and explicitly DENIED the claims — Bloomberg reports
+  the defendants call the complaint "a collection of false assertions." This denial MUST be included
+  every time the lawsuit is mentioned — do not cut it for pacing. ***
+  *** Case status: as of this research pass (Aug 2026), no confirmed final ruling, settlement, or
+  dismissal was found for this case — treat it as ONGOING/UNRESOLVED litigation. Do not state or
+  imply an outcome that hasn't been confirmed. A January 2023 Bloomberg follow-up reports Rahman
+  sought to have the suit dismissed — that is a motion, not a ruling; do not state the motion
+  succeeded unless independently confirmed. ***
+Source: Bloomberg (Jan 13 2023, "Jawbone Co-Founder's Startup All.health Is Sued by Investor";
+Jan 28 2023, "Former Jawbone Boss Seeks to Dismiss Investor Suit"), Slashdot (syndicating the
+Bloomberg reporting), OffshoreAlert (hosts the complaint document itself), Trellis.law/UniCourt
+(case docket, confirms case number CGC-22-600970 and consolidation).
+
+---
+
+WHAT MAKES THIS DIFFERENT FROM THIS CHANNEL'S OTHER PACKAGES
+
+- Scale: $929.9M lifetime raised is the largest funding total on this channel for a company that
+  ultimately failed outright (higher than Bird's ~$700M+, Hopin's ~$1B is comparable but Hopin sold
+  for real consideration in two deals rather than liquidating with no buyer).
+- Mechanism: unlike 022 (Fast, a 6-day collapse) or 023 (Munchery, one bankruptcy filing naming
+  causes), Jawbone's ending is a slow-motion, multi-year overfunding-and-overextension story — three
+  simultaneous hardware product lines (headsets, speakers, wearables), a peak $3.3B valuation, a
+  board fight with its own largest creditor (BlackRock) over whether to sell, and finally a quiet
+  ABC liquidation rather than a headline bankruptcy filing.
+- The Fitbit rivalry adds a rare structural element: TWO opposite-direction civil IP lawsuits (both
+  resolved against the plaintiff in each case) PLUS a separate later criminal case against Fitbit
+  employees that ended in zero convictions — a legal battle Jawbone effectively lost every stage of,
+  even though it was Fitbit's employees who ended up criminally investigated.
+- The unresolved coda (the active Polymath Holdings lawsuit against Rahman's successor company) is
+  the only genuinely open, unresolved thread on this entire channel — every other package's story has
+  a confirmed ending. State this explicitly on screen rather than implying resolution.
+
+---
+
+BEFORE RECORDING — CHECKLIST
+1. Use $929.9M as the lifetime funding total; if the $400M Fortune figure is used at all, date it
+   explicitly to 2015 and never call it a lifetime total.
+2. $3.3 billion (Feb 2014, Rizvi Traverse-led $250M round) is the peak, primary-sourced valuation.
+3. BlackRock's 2015 $300M was reportedly structured as DEBT, not equity — say "loan/debt position,"
+   not "investment," per Bloomberg's corrected reporting.
+4. Keep the two Fitbit ITC civil cases directionally straight: Jawbone sued Fitbit for trade secrets
+   (Jawbone LOST, ITC ruled no misappropriation); Fitbit sued Jawbone for patents (Fitbit's patents
+   were ruled invalid). Both closed against their respective plaintiffs. Global settlement Dec 2017.
+5. The 2018 criminal case against six Fitbit employees is SEPARATE from the two civil ITC cases —
+   state that distinction if using it. Ended with one acquittal (Mogal, Feb 2020) and dismissed
+   charges against four others (Feb 2020); Ana Rosario's final individual outcome is unconfirmed —
+   do not state a specific resolution for her.
+6. Jawbone's 2017 wind-down was an Assignment for the Benefit of Creditors (ABC), NOT a bankruptcy
+   filing — use the correct term throughout.
+7. The Polymath Holdings lawsuit against All.health/Rahman/Luna is ONGOING/UNRESOLVED as of this
+   research pass — attribute every claim to "the lawsuit"/"Polymath's complaint," always pair it with
+   the defendants' explicit denial, never imply an outcome, and keep it OUT of Shorts/social/community
+   posts entirely (ironclad-facts-only standard, same as 022/024/025).
+8. No "fraud/scam/lied" language directed at Hosain Rahman as this channel's own conclusion anywhere
+   in the package — he has not been charged or convicted of anything. The word "fraud" may appear
+   ONLY when explicitly attributed as Polymath's own characterization in its civil complaint.

@@ -1,0 +1,149 @@
+Sources Log — Package 061: Pixelon
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+This is a real-fraud story, same category as 029 (Ozy Media) and 052 (Theranos) —
+"fraud" language is accurate and sourced throughout. The company's founder,
+"Michael Fenne," was a false identity used by a real fugitive, David Kim Stanley,
+who had a real 1989 fraud conviction PREDATING Pixelon entirely. Keep these two
+frauds distinct in every file: (1) Stanley's 1989 conviction (defrauding ~$1.25M
+from elderly victims in Virginia and Tennessee, unrelated to Pixelon) and (2) the
+Pixelon-specific fraud (raising investor money under a false identity, on the
+basis of streaming technology that did not work). Do not blur them into one
+event — they are two distinct frauds by the same person, roughly a decade apart.
+Stanley's current whereabouts/legal status beyond his April 2000 surrender were
+NOT confirmed in this research pass — state this plainly as unconfirmed, do not
+speculate about his life today.
+
+---
+
+FOUNDING
+- Pixelon, Inc. was founded in 1998, based in San Juan Capistrano, California.
+- Founder and CEO presented himself as "Michael Fenne." He was, in reality, David
+  Kim Stanley — a fugitive who had fled Virginia in 1996 and was, per multiple
+  sources, "living out of the back of his car" when he arrived in California and
+  began building Pixelon under the false identity.
+Source: Wikipedia ("Pixelon"); StreamingMedia.com, "Pixelon: The True Story of
+Streaming Video's Greatest Fraud"; Seattle Times (archived, Apr 16 2000, "Criminal
+past, jail rewrite a dot-com success story").
+
+STANLEY'S 1989 CONVICTION — PRE-DATES PIXELON, KEEP DISTINCT
+- In 1989, David Kim Stanley pleaded guilty to 55 fraud-related counts, admitting
+  to taking roughly $750,000 from Virginia residents and roughly $500,000 from
+  Tennessee victims (~$1.25M combined) — reported as a scheme targeting seniors
+  ("the man who fleeced his father's flock," per the sentencing judge's own
+  description at Wise County Circuit Court, Virginia).
+- He was sentenced to 36 years in prison, with 28 years suspended on the
+  condition that he repay his victims — effectively a deferred/probationary
+  arrangement contingent on restitution.
+- In 1996, Stanley fled before completing restitution and was placed on
+  Virginia's "most wanted" list. This is the fraud/flight he was still evading
+  when he founded Pixelon two years later.
+*** This 1989 case has NOTHING to do with Pixelon's technology or investors — it
+is the reason "Michael Fenne" was a fugitive, not a Pixelon-era crime. State this
+distinction explicitly on screen every time it's mentioned. ***
+Source: Seattle Times (archived, Apr 16 2000); Pollstar News (Apr 18 2000, "Rock
+'n' Roll Swindler").
+
+FUNDING
+- Advanced Equities, a Chicago investment-banking firm, raised $30.9 million for
+  Pixelon from private investors — the most specific, best-sourced figure found.
+- A commonly repeated rounder figure of "$35 million" also appears across several
+  retrospective sources; this package uses "$30.9 million, reported as over $30
+  million" as the primary figure and flags the $35M figure as a less-precise
+  variant. [VERIFY] exact reconciliation between the two figures was not found.
+Source: Forbes ("Pixelon's Video Venture Catches Static," Apr 25 2000); Sunset
+(sunsethq.com, "What Happened To Pixelon & Why Did It Fail?"); Sapient
+Investigations ("Boomtown Rat").
+
+THE TECHNOLOGY CLAIM AND THE FRAUD
+- Pixelon marketed a proprietary video-streaming technology it claimed could
+  deliver full-screen, TV-quality video over standard internet connections — a
+  breakthrough claim relative to the real streaming technology of 1999.
+- Multiple retrospective sources (StreamingMedia.com's two features, including
+  one written by a former Pixelon executive; Wikipedia; Sunset) describe the
+  underlying technology as fake, non-functional, and never having actually
+  worked as advertised. Wikipedia's summary specifically states Fenne "stole the
+  video streaming patent he used to create Pixelon" — this specific patent-theft
+  claim is carried in secondary/retrospective sourcing rather than a named,
+  linked primary legal filing; flag as [VERIFY] on the precise mechanics of the
+  patent claim, while the broader "the technology did not work as claimed" point
+  is well-corroborated across multiple independent sources.
+Source: Wikipedia ("Pixelon"); StreamingMedia.com (both articles); Sunset.
+
+THE LAUNCH — iBASH '99
+- October 29, 1999: Pixelon staged "iBASH '99" at the MGM Grand in Las Vegas,
+  intended as a live global demonstration of its streaming technology.
+- Reported cost: $16 million — repeated consistently across StreamingMedia.com,
+  Sunset, and an iHeart podcast episode built on the same reporting. [VERIFY] some
+  older secondary retellings cite a lower ~$12M figure; this package uses $16M as
+  the best-corroborated number.
+- Confirmed performer lineup, corroborated across multiple sources: KISS, Tony
+  Bennett, Sugar Ray, Faith Hill, Dixie Chicks, Natalie Cole, LeAnn Rimes, The
+  Brian Setzer Orchestra, and The Who (reunited specifically for this show).
+- The live stream failed. Viewers who tried to watch remotely were shown error
+  messages; most attendees/viewers who did see any stream saw it via Microsoft's
+  competing streaming software, not Pixelon's own technology — a direct,
+  public-facing demonstration that the core product did not work.
+Source: StreamingMedia.com (both articles); Sunset; Wikipedia; iHeart ("200: Tech
+Tales Found," episode "Pixelon's Illusion: The $16 Million Party That Streamed
+Lies").
+
+THE EXPOSURE AND COLLAPSE — precisely dated
+- April 16-18, 2000: Stanley's true identity and criminal history became public.
+  The Seattle Times (Apr 16, 2000, archived) and Pollstar News (Apr 18, 2000)
+  are the two strongest contemporaneous sources for this exact window; The
+  Register also covered it (Apr 17, 2000, "Pixelon.com founder confesses he is
+  fugitive embezzler").
+- Fearing he had been tracked to his California home by Virginia State Police,
+  Stanley returned to Virginia and turned himself in at the Wise County jail,
+  confessing his real identity.
+- Following the exposure, Pixelon's management team was ousted, the company laid
+  off most of its employees, and it collapsed into bankruptcy. Multiple sources
+  state the bankruptcy filing came in June 2000 — roughly eight months after
+  iBash '99 and about two months after Stanley's exposure/surrender.
+- [VERIFY] / NOT CONFIRMED: no source found in this research pass states what
+  happened to Stanley's original 36-year sentence (with 28 years suspended)
+  after his April 2000 surrender — whether the suspension was revoked, what if
+  any additional time he served, or his subsequent whereabouts/status. Do not
+  state or imply an outcome here; if this comes up on screen, say plainly that
+  his ultimate legal outcome after 2000 was not confirmed in this research.
+Source: Seattle Times (archived, Apr 16 2000); Pollstar News (Apr 18 2000); The
+Register (Apr 17 2000); Wikipedia; StreamingMedia.com.
+
+---
+
+CATEGORY / FRAMING NOTES
+- This is a REAL fraud story: Stanley had an actual 1989 guilty plea/conviction
+  on the record (unrelated to Pixelon) AND built Pixelon itself on a false
+  identity and a technology that multiple sources agree did not work — "fraud"
+  language is accurate for the Pixelon-era conduct on that same basis. This is
+  NOT the softer non-convicted-founder standard used for 022/024/055.
+- Unlike 029 (Ozy Media) and 052 (Theranos), there is no adjudicated CRIMINAL
+  CASE specifically FOR the Pixelon fraud found in this research — the criminal
+  history on record is the 1989 conviction. Do not state that Stanley was
+  criminally convicted "for Pixelon" specifically — state the two frauds as
+  distinct events, and that no Pixelon-specific criminal conviction was found.
+- No political-sensitivity element in this package (no pardon/commutation, no
+  contemporary living-person litigation found) — the main handling requirement
+  is precision about which fraud is which, and honesty about what happened to
+  Stanley after April 2000 not being confirmed.
+
+BEFORE RECORDING
+1. Keep the 1989 conviction (Virginia/Tennessee, ~$1.25M from elderly victims,
+   entirely pre-dating Pixelon) and the Pixelon-era fraud (false identity, fake
+   technology, ~$30M+ raised) explicitly separate, every time either is
+   mentioned.
+2. "Fraud" language is accurate for the Pixelon conduct itself, sourced across
+   multiple independent outlets (Seattle Times, Pollstar, The Register, Forbes,
+   Wikipedia, StreamingMedia.com).
+3. Do not state a specific outcome for Stanley after his April 2000 surrender —
+   it was not confirmed in this research pass.
+4. Use $30.9M as the primary funding figure (Advanced Equities); the $35M figure
+   is a looser variant seen elsewhere.
+5. Use $16M as the primary iBash '99 cost figure; a $12M figure appears in some
+   secondary sources and should be flagged if used.
+6. The patent-theft characterization of the technology traces to
+   secondary/retrospective sourcing (Wikipedia's summary) rather than a directly
+   verified primary legal document — flag as [VERIFY] on the precise mechanics,
+   while "the technology did not actually work" is independently well-sourced.

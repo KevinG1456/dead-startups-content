@@ -1,0 +1,167 @@
+Sources Log — Package 059: Better Place
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Better Place is this channel's first EV/battery-swap infrastructure moonshot — a hardware +
+physical-network capital-intensity story, distinct from Bird (028)'s scooter-fleet story because
+the core asset here is fixed infrastructure (robotic swap stations + a battery-owning subscription
+model) tied to a single exclusive automaker partnership, not a mobile fleet. No fraud or criminal
+allegations were found anywhere in this research pass — this is a pure capital-intensity /
+single-partner-dependency / market-penetration failure story.
+
+---
+
+FOUNDING
+- Founded 2007 by Shai Agassi, a former SAP executive (SAP board member, widely reported to have
+  been in line for a future SAP CEO role before he left to start this company).
+- Nominally headquartered in Palo Alto, California, but operations and top investors were centered
+  in Israel (Agassi is Israeli; the largest backer, Israel Corp, is an Israeli conglomerate).
+Source: Wikipedia "Better Place (company)"; Grokipedia "Shai Agassi"; multiple corroborating
+company-history summaries.
+
+BUSINESS MODEL
+- Battery-swap network for electric vehicles: instead of plugging in to charge, a driver would pull
+  into a robotic swap station and have a depleted battery pack automatically swapped for a fully
+  charged one in a few minutes — faster than refueling a gas car.
+- Better Place would own the batteries (the most expensive single EV component) and sell "miles" to
+  drivers on a subscription basis, similar to a mobile-phone service plan — designed to remove both
+  the upfront battery cost and "range anxiety" as EV adoption barriers.
+Source: Wikipedia; IEEE Spectrum ("How Is This A Good Idea?: EV Battery Swapping"); Yale e360.
+
+FUNDING — reconciled with a flagged gap
+- Total lifetime funding most commonly cited: approximately $850 million. Individual rounds found:
+  $111M Series A (2007, led by Lend Lease Ventures) + a $25M second Series A tranche; $350M round
+  (Jan 2010, led by Morgan Stanley); $200M Series C (Nov 2011). *** [VERIFY]: these individual round
+  figures sum to roughly $686M, not the full $850M commonly cited — the gap is not fully reconciled
+  across sources found in this pass (likely additional smaller rounds/debt not individually broken
+  out). Other figures found in secondary sources: "$800M+" (TechCrunch headline), "nearly $900M"
+  (secondary blog), "$815 million lost" (Quartz). *** Use "approximately $850 million raised over
+  its lifetime" as the safe, hedged headline figure — do not state a single fully-reconciled
+  round-by-round total. ***
+- Key investors: Israel Corp (the largest single backer, an Israeli conglomerate chaired by Idan
+  Ofer), HSBC, General Electric, Morgan Stanley (led the 2010 round), Lend Lease Ventures (led the
+  2007 Series A).
+- Peak valuation: $2.25 billion, reached with the November 2011 Series C round (nearly double the
+  valuation from the prior Jan 2010 financing).
+Source: GlobalVenturing; WardsAuto (Nov 2011 Series C coverage); Greentech Media; The World/PRX
+("Electric car company Better Place, once valued at $2.25B, to close"); Quartz.
+
+THE RENAULT PARTNERSHIP — and the single-car-model dependency
+- Better Place's swap-station network depended entirely on one compatible vehicle: the Renault
+  Fluence Z.E., an all-electric sedan Renault built specifically with a battery pack designed to be
+  removed and replaced by Better Place's automated swap-station machinery.
+- *** [VERIFY, single/secondary-sourced]: reporting (Quartz's retrospective) states Agassi was
+  unable to secure additional automaker partners beyond Renault, and characterizes this as Agassi
+  having "alienated" potential partners like BMW and GM — this is a secondary retrospective
+  characterization, not a direct on-record automaker statement found in this research pass. Present
+  as "Better Place could not secure a second automaker partner beyond Renault" rather than adopting
+  the sharper "alienated" framing as this channel's own conclusion. ***
+Source: Quartz ("Why Better Place failed with swappable batteries"); Wikipedia "Renault Z.E."
+
+MARKETS AND DEPLOYMENT NUMBERS
+- Primary launch market: Israel — chosen for its small geographic size, which made a nationwide
+  swap-station network logistically feasible. Second market: Denmark (EV tax incentives helped).
+- First customer deliveries of the Fluence Z.E. began in Israel in early 2012 (roughly 100 units
+  handed over in January 2012 as part of subscription packages).
+- *** [VERIFY]: total vehicles deployed across both markets is reported inconsistently — one source
+  states "fewer than 1,500" total (roughly 1,000 in Israel + ~400 in Denmark); another states the
+  company had sold only "950" electric vehicles by the time of its collapse. Use "fewer than 1,500
+  vehicles across both markets, some sources cite as few as roughly 950" — do not state one single
+  precise figure. ***
+Source: GreenCarReports; Quartz; TechCrunch (2013 bankruptcy coverage).
+
+INFRASTRUCTURE COST OVERRUN
+- Each robotic battery-swap station was initially budgeted at approximately $500,000 to build, but
+  actual stations ended up costing approximately $2 million each — a roughly 4x cost overrun on the
+  company's core physical infrastructure.
+Source: Fast Company ("Better Place, by the Numbers"); GreenCarReports ("Better Place Battery
+Swapping: The Technology Behind The Idea").
+
+2012 FINANCIALS — real revenue vs. capital raised
+- *** [VERIFY, single-sourced to PrivCo, a private financial-data research firm reporting on
+  documents it obtained — not a company-confirmed or audited public filing]: PrivCo reported Better
+  Place lost $459 million in 2012 alone on just $6.9 million in sales that year, ending 2012 with
+  only $34.4 million cash on hand (down to $9.5 million by the time of the report) against $915
+  million in total liabilities. This is a different metric from the ~$850M lifetime-funding figure
+  (liabilities vs. capital raised) — do not conflate the two numbers; present the $6.9M 2012 revenue
+  figure clearly labeled as PrivCo's reporting, not independently re-verified against Better Place's
+  own audited financials in this research pass. ***
+Source: PrivCo, republished via Yahoo Finance ("Better Place Inc. Lost $459M in 2012 on Only $6.9M
+in Sales").
+
+THE OUSTER OF SHAI AGASSI
+- October 2, 2012: Agassi resigned/was replaced as worldwide CEO of Better Place, replaced by Evan
+  Thornley (previously CEO of Better Place's Australia unit). Agassi remained on the company's board
+  briefly, then resigned from the board about a week later as well.
+- At the time of the leadership change, the company was reported to have lost approximately $490
+  million cumulatively since its 2007 founding — *** this is a distinct, earlier cumulative-loss
+  figure from the later ~$812-823M lost by the May 2013 bankruptcy filing; do not conflate the two,
+  they describe different points in time. ***
+- Within days of Thornley's appointment, Better Place asked its investors for an emergency funding
+  round of approximately $100 million.
+Source: TechCrunch ("Better Place Board Quietly Removes CEO Shai Agassi, Places Evan Thornley At
+Helm," Oct 2012); Forbes (Oct 2012); Green Prophet.
+
+THE BANKRUPTCY — precisely dated
+- May 26, 2013: Better Place filed a motion for liquidation in an Israeli court (widely reported as
+  one of the largest failures in Israeli tech/startup history).
+- *** [VERIFY]: total cumulative loss at the time of filing is reported as either $812 million or
+  $823 million of the roughly $850 million raised, across two different sources — use "lost more
+  than $800 million of the roughly $850 million it raised" as the safe, hedged figure. ***
+- Reported root cause for the final collapse: the company would have needed an estimated additional
+  $500 million and roughly four more years of operation to reach breakeven — investors were not
+  willing to continue funding at that scale.
+Source: Global Venturing ("Better Place found in bankruptcy"); Jewish Telegraphic Agency; TechCrunch
+("Electric Car Tech Company Better Place Hits The Deadpool," May 2013); MIT Technology Review ("How
+Better Place Came to a Bitter End").
+
+THE ASSET SALES — a fire sale within a fire sale
+- July 2013: an Israeli consortium referred to in reporting as the "Sunrise Group" (led by a
+  businessman surnamed Abramowitz per CleanTechnica's headline) initially agreed to buy Better
+  Place's remaining assets for roughly $12 million total — reported as at least NIS 18 million
+  (~$4.9 million) for Better Place Israel's operating assets and NIS 25 million (~$6.9 million) for
+  Better Place Switzerland's intellectual property.
+- *** This deal was subsequently CANCELED by the court after the Sunrise Group failed to make its
+  first agreed payment. *** State this explicitly — the $12 million deal never actually closed.
+- November 2013: the bankruptcy receivers instead sold the remaining assets — including
+  approximately 1,800 charging stations across Israel and the company's patents — to a different
+  Israeli energy startup, Gnrgy Ltd. (led by Ran Eloya), for just $450,000.
+- Framing note: less than two years before this final $450,000 sale, the company had carried a
+  $2.25 billion valuation. This is the single sharpest, best-corroborated contrast in the whole
+  package — use it as the headline arc.
+Source: Autoblog ("Bankrupt Better Place sold to Sunrise group for about $12 million," Jul 2013);
+CleanTechnica; Times of Israel ("Local energy startup buys remaining Better Place shares"); Gas 2
+("Billion-Dollar Project Better Place Bought For $450,000," Nov 2013); Green Prophet ("Gnrgy Buys
+Better Place for the Price of an Apartment in Tel Aviv").
+
+NO FRAUD / NO CRIMINAL ALLEGATIONS
+- No evidence of any fraud allegation, criminal charge, or regulatory action against Shai Agassi,
+  Better Place, or any named executive was found in this research pass. This is a pure
+  capital-intensity / single-automaker-dependency / market-penetration-shortfall failure story.
+  Retrospectives (MIT Technology Review, ScienceDirect academic paper "Why Did Better Place Fail?")
+  attribute the collapse to a combination of factors: high infrastructure capital intensity, spreading
+  resources thin by pursuing pilots/expansion in multiple countries simultaneously, dependency on a
+  single automaker's single car model, and real-world adoption far below the company's own
+  projections. Do not use "fraud/scam/lied" language anywhere in this package.
+
+---
+
+BEFORE RECORDING
+1. Total lifetime funding has no single reconciled figure — use "approximately $850 million raised
+   over its lifetime," never a precise round-by-round sum (individual disclosed rounds only total
+   ~$686M against the commonly cited $850M headline).
+2. Peak valuation ($2.25B, Nov 2011) is well-corroborated — safe to state precisely.
+3. Total vehicles deployed is reported inconsistently ("fewer than 1,500" vs. "950") — use the
+   hedged range, don't pick one number as if it were precise.
+4. Keep the Oct 2012 "$490M lost since founding" figure (at Agassi's ouster) distinct from the May
+   2013 "$800M+ lost of $850M raised" figure (at bankruptcy filing) — different points in time.
+5. The swap-station cost overrun ($500K budgeted -> $2M actual) is reasonably well-sourced (Fast
+   Company, GreenCarReports) — safe to state.
+6. The 2012 "$6.9M revenue vs $459M loss" figure is single-sourced to PrivCo (a private research
+   firm working from obtained documents, not an audited public filing) — present it attributed to
+   PrivCo specifically, not as independently confirmed.
+7. The July 2013 Sunrise Group deal for ~$12M NEVER CLOSED — it was canceled by the court. The real
+   final sale was November 2013, to Gnrgy Ltd., for $450,000. Do not present the $12M figure as the
+   actual final sale price.
+8. No fraud or criminal allegations anywhere in this story — keep the framing to capital intensity,
+   single-partner dependency, and market-penetration shortfall.

@@ -1,5 +1,11 @@
-Fact-Check Reminder — Packages 001-051
-Last full audit: 2026-08-16 (048-051 added same day as 041-047; 031-040 exist and
+Fact-Check Reminder — Packages 001-061
+Last full audit: 2026-08-16 (057-061 added same day, 5 more titles researched cold
+by the assistant at the user's "add more titles" request, distinct failure
+mechanisms each: Aereo/legal-death, Quirky/unfocused-execution, Better
+Place/infrastructure-capital-intensity, Boo.com/dot-com-era-timing, Pixelon/real-
+fraud-fugitive-founder; 052-056 added same day, 5 new famous-company titles
+picked directly by the user, not from the dead-saas-30 batch; 048-051 added same
+day as 041-047; 031-040 exist and
 are individually sourced via their own sources-log.txt files but were built in a
 session that never got logged in THIS file — see the note below; 026-030 added
 same session as 025; 024 added, 021/022/023 added earlier, on 2026-08-14; 001-020
@@ -25,6 +31,218 @@ package's own sources-log.txt directly until this file catches up.
 ---
 
 FILLED IN (moved from placeholder framework to real, sourced content) — MOST RECENT
+
+061 - Pixelon (NEW TITLE, cold-researched round: Aereo/Quirky/Better
+  Place/Boo.com/Pixelon) -> folder
+  061-Pixelon-The-16-Million-Party-Thrown-By-A-Fugitive. REAL FRAUD, sourcing
+  verified across Seattle Times, Pollstar News, The Register, Forbes, Wikipedia,
+  StreamingMedia.com before building (this title was explicitly sourcing-risk-
+  flagged and told to self-retire if it didn't hold up — it held up). Founder
+  "Michael Fenne" was a false identity for David Kim Stanley, a fugitive who fled
+  Virginia in 1996 to dodge restitution on a real 1989 fraud conviction (~$1.25M
+  from elderly victims) — keep the 1989 conviction and the Pixelon-era fraud
+  explicitly SEPARATE, never blur them into one event. Raised $30.9M (Advanced
+  Equities) [VERIFY: vs a looser $35M figure] claiming breakthrough video-
+  streaming tech. Oct 29 1999: staged "iBASH '99" at the MGM Grand, a $16M
+  [VERIFY: vs $12M] launch party with KISS, Tony Bennett, Faith Hill, the Dixie
+  Chicks, and a one-off Who reunion, meant to prove the tech live — the stream
+  failed on stage, most viewers who saw anything saw it via Microsoft's software
+  instead. Apr 2000: identity exposed, he turned himself in at a Virginia jail;
+  Pixelon collapsed into bankruptcy by Jun 2000. Stanley's outcome after his 2000
+  surrender is UNCONFIRMED — every file states this plainly rather than guessing,
+  and he is NOT treated as a "living person" requiring the sensitive-founder-
+  claims standard (this is adjudicated/well-corroborated real fraud, same category
+  as 029/Ozy Media and 052/Theranos).
+
+060 - Boo.com (NEW TITLE, same round) -> folder
+  060-Boo-com-135-Million-Burned-In-18-Months. Conceived 1998, formally founded
+  Mar 1999 (Wikipedia itself is internally inconsistent between the two years —
+  package states both rather than picking one) by Ernst Malmsten (CEO), Kajsa
+  Leander (marketing), Patrik Hedelin (finance); ~$135M raised (Goldman Sachs,
+  J.P. Morgan, LVMH's Europ@web/Bernard Arnault, the Benetton family's investment
+  arm). Planned launch May 1999, actual launch Nov 3 1999 (6 months late, burning
+  cash the whole time); site displayed its own "designed for 56K modems and
+  above" warning, didn't work on Mac, only ~25% of purchase attempts completed;
+  $25M spent on pre-launch ads against only ~13.2% brand awareness achieved (per
+  The Hustle) — a deliberate, sourced contrast to 054/Pets.com's much cheaper but
+  far more recognized sock puppet. Receivership May 18 2000. CORRECTED a
+  discrepancy in the original research brief: the fire sale was NOT one buyer —
+  Bright Station bought the technology for £250,000 (~$375,000, Forbes-confirmed)
+  mainly to hire 50-70 engineers, while Fashionmall.com SEPARATELY bought the
+  brand/domain for an undisclosed sum; secondary sources loosely repeat "$375,000"
+  for both deals, flagged as a likely conflation rather than restated as fact.
+  DROPPED per channel rule: the commonly-repeated ~$390M peak valuation figure
+  could not be independently confirmed, excluded from every file rather than
+  softened. No fraud framing — pure overhype/timing/technical-misstep story.
+
+059 - Better Place (NEW TITLE, same round) -> folder
+  059-Better-Place-850M-Raised-2.25B-Valuation-Sold-For-450K. Founded 2007 by
+  Shai Agassi (former SAP exec); robotic EV battery-swap network model. Total
+  lifetime funding ~$850M (best-corroborated headline figure — individually
+  disclosed rounds only sum to ~$686M, gap flagged [VERIFY]). Peak valuation
+  $2.25B, Nov 2011. Entire network depended on ONE exclusive automaker partner,
+  Renault (purpose-built Fluence Z.E.) — no second manufacturer ever signed on.
+  Launched Israel + Denmark; deployed fewer than 1,500 vehicles combined ([VERIFY]
+  some sources cite ~950). Swap stations budgeted at $500K each, actually cost
+  ~$2M each (~4x overrun). Agassi ousted as CEO Oct 2 2012. Filed for liquidation
+  in Israeli court May 26 2013, having lost $800M+ of the $850M raised — one of
+  the largest failures in Israeli tech history. Two-stage ending: a Jul 2013
+  ~$12M sale deal (to "Sunrise Group") was CANCELED when the buyer never paid; the
+  real final sale, Nov 2013, was to Gnrgy Ltd. for just $450,000. No fraud/
+  criminal allegations — pure capital-intensity + single-partner-dependency
+  failure. [VERIFY]: exact cumulative loss at bankruptcy ($812M vs $823M); the
+  2012 "$6.9M revenue / $459M loss" figures, single-sourced to PrivCo, attributed
+  explicitly throughout, not treated as independently confirmed.
+
+058 - Quirky (NEW TITLE, same round) -> folder
+  058-Quirky-185-Million-Raised-400-Products-Zero-Focus. Founded Jun 2009 by Ben
+  Kaufman (22, previously sold mophie in 2007); ~$185M raised across 4 rounds
+  (RRE Ventures Series A $6M 2010; Norwest Series B [amount unconfirmed]; a16z
+  Series C $68M 2012; Series D $79M Nov 2013). GE partnership from 2011 (product
+  collab), expanded Nov 13 2013 with a $30M GE equity investment folded into the
+  Series D. Wink (smart-home platform) spun off mid-2014 [VERIFY exact month].
+  Pace accelerated from 1 to 3 new products/week after the Series C, ~400
+  products total shipped, 400+ employees peak — the unfocused-execution story.
+  Kaufman stepped down as CEO Jul 31 2015 (111 layoffs); Chapter 11 filed Sept 22
+  2015; Wink auctioned to Flextronics for $15M, later resold to i.am+ (will.i.am's
+  company) for $59M (2017), hit a 2020 mandatory-subscription user backlash,
+  still technically operating but with documented recent outages. ⚠️ Wink's
+  independent survival is REAL but deliberately framed as NOT a clean
+  "outlived-the-company" story like 049/Parse — three ownership changes, real
+  backlash, ongoing reliability issues; every file draws this contrast explicitly,
+  don't flatten it into a happy ending. No fraud/misconduct framing — Kaufman's
+  post-Quirky career (BuzzFeed exec, then CAMP founder) is clean. [VERIFY]: Series
+  B dollar amount (not found); inventor royalty percentage (two conflicting
+  source structures, left qualitative rather than picking one); a looser "$200M"
+  total-funding rounding some sources use.
+
+057 - Aereo (NEW TITLE, same round) -> folder
+  057-Aereo-The-Startup-The-Supreme-Court-Killed. A genuinely NEW failure
+  mechanism for this channel: killed by a Supreme Court ruling, not burn rate or
+  fraud. Founded Feb 2012 by Chet Kanojia; Barry Diller/IAC led the $20.5M Series
+  A, Diller joined the board; total lifetime funding ~$97M (CNBC-corroborated,
+  [VERIFY] vs. higher unconfirmed figures some sources float). Product: one
+  antenna per subscriber, built deliberately on the Second Circuit's 2008
+  Cablevision precedent (private-performance doctrine). Won at the district court
+  and the Second Circuit before losing 6-3 at the Supreme Court, Jun 25 2014 (ABC
+  v. Aereo, Breyer majority / Scalia dissent). Suspended service 3 days later;
+  failed "treat us as a cable system" argument rejected by Judge Nathan Oct 2014
+  ("fallacy" quote); Chapter 11 Nov 21 2014; assets sold for under $2M total
+  (TiVo $1M, RPX $225K, equipment ~$300K) Mar 2015. ⚠️ Starry coda checked out
+  WITH a critical nuance: Kanojia founded Starry in 2014; it SPAC'd 2022 at
+  $1.6B, then filed its OWN Chapter 11 Feb 2023 (~$310M debt vs $270M assets) —
+  but unlike Aereo, Starry SURVIVED, emerging restructured Aug 2023 with Kanojia
+  stepping down as CEO to the board. Every file states explicitly that Starry did
+  NOT shut down — flagged as the package's single most important precision
+  point, don't let it read as "same founder failed twice the same way." No
+  fraud/wrongdoing framing — pure legal/regulatory-risk story.
+
+056 - Yik Yak (NEW TITLE, user-picked, 5-title round: Theranos/Juicero/Pets.com/
+  Jawbone/Yik Yak) -> folder 056-Yik-Yak-400-Million-Valuation-Sold-For-1-Million.
+  Founded Nov 2013 by Tyler Droll + Brooks Buffington (Furman University); ~$73.4-
+  73.5M raised (Sequoia, DCM Ventures, Azure Capital Partners); $400.5M valuation
+  (Nov 2014). Three named, independently-verified threat/arrest incidents (Emory
+  Oct 2015, Missouri S&T/Mizzou Nov 2015, Fresno State [VERIFY exact date]). Aug
+  2016 "handles" pivot killed anonymity and collapsed engagement; Nov 2016 founder
+  apology video too late; downloads down 76% YoY by end of 2016. Apr 2017: sold
+  engineers + IP license to Square (~$1M), app shut down days later. ⚠️ CRITICAL
+  SEPARATION: the Feb/Aug 2021 revival was built by an unrelated team (identity not
+  publicly disclosed) — NOT Droll/Buffington — every file keeps this explicit. That
+  revival was NOT shut down again in 2023 as initially assumed; it was ACQUIRED by
+  rival app Sidechat (Mar 2023) and still operates today — corrected during
+  research. No fraud/criminal framing (none applies to the original founders).
+  [VERIFY]: total funding ($73.4-73.5M vs. a looser "$75M" some sources use); a
+  minor EdSurge $1M-vs-$3M figure discrepancy (treated as likely typo, $1M used
+  per stronger TechCrunch corroboration); 2021 revival team's identity.
+
+055 - Jawbone (NEW TITLE, same round) -> folder
+  055-Jawbone-929-Million-Death-By-Overfunding. Founded 1999 as AliphCom (Hosain
+  Rahman + Alexander Asseily); $929.9M lifetime funding (CNBC/CB Insights — "death
+  by overfunding" is CNBC's own July 2017 headline phrase); peak $3.3B valuation
+  (Feb 2014, Rizvi Traverse-led $250M round). 2015 BlackRock $300M publicly framed
+  as investment, later reported by Bloomberg (via CA filings) as structured debt;
+  2016 BlackRock reportedly pushed for a sale (Fortune). Fitbit legal war: two
+  opposite-direction civil cases, BOTH plaintiffs lost (Jawbone's trade-secret
+  claim rejected by ITC 2016; Fitbit's patents ruled invalid), globally settled Dec
+  2017. Separate 2018 criminal case: 6 ex-Jawbone-then-Fitbit employees indicted
+  for possessing Jawbone trade secrets — ended 2020 with one acquittal + four
+  dismissals; defendant Ana Rosario's individual outcome [VERIFY], not confirmed.
+  July 13 2017: wound down via Assignment for Benefit of Creditors (NOT
+  bankruptcy), administered by Sherwood Partners. ⚠️ SENSITIVE, LIVING, NOT
+  CONVICTED FOUNDER: Jan 2023, Polymath Holdings sued Rahman's successor company
+  (All.health) plus Rahman and co-founder Michael Luna, alleging fraud
+  ("fake-it-until-you-make-it," per Bloomberg's paraphrase). This is a REAL,
+  CURRENTLY UNRESOLVED claim — every mention attributes it explicitly to
+  "Polymath's complaint," pairs it every time with the defendants' denial, states
+  it as unresolved/no ruling, and is excluded entirely from Shorts/social/
+  community posts. Read this package's own sources-log.txt in full before
+  touching it again — same rigor as 022/024. [VERIFY]: a $400M 2015 Fortune figure
+  vs. the $929.9M lifetime total (resolved as a dated snapshot, not a
+  contradiction, but flagged); exact size/terms of BlackRock's stake in the
+  successor company.
+
+054 - Pets.com (NEW TITLE, same round) -> folder
+  054-Pets-com-268-Days-IPO-To-Liquidation. CORRECTED a wrong assumption in the
+  original research brief: real founders are Greg McLemore + Eva Woodsmall
+  (launched Nov 1998, spinoff of McLemore's WebMagic, incorporated Feb 1999) — NOT
+  "Greg McLeod and Josh Stevens." Julie Wainwright (previously ran Reel.com, sold
+  to Hollywood Video for ~$100M) bought in and became CEO in 1999 — she did NOT
+  co-found the company, keep that distinction explicit. ~$95.5M raised across
+  three 1999 rounds (Amazon.com, Hummer Winblad, Bowman Capital); $11.8M 1999 ad
+  spend incl. ~$1.2M Super Bowl XXXIV ad ("Please Don't Go") + a 36-ft balloon in
+  the 1999 Macy's parade; IPO Feb 2000 at $11/share raising $82.5M; lost $3-4/order
+  shipping 50lb dog food free, sold ~27% below cost; board approved liquidation
+  Nov 4 2000, ceased ops Nov 9 — commonly reported as 268 days IPO-to-liquidation,
+  ~$300M burned (aggregate/rounded, [VERIFY]). Bonus real beat: Robert Smigel
+  (Triumph the Insult Comic Dog) sent a cease-and-desist; Pets.com preemptively
+  sued him for $20M and lost a month later. Coda: Wainwright later founded The
+  RealReal, IPO'd 2019. No fraud/misconduct framing — pure overhype/unit-
+  economics story. [VERIFY]: Amazon's exact ownership % (sources range 30-54%);
+  the "268 days" figure is an attributed press count, not independently
+  re-derived; the auto-lender that later reused the puppet in ads (left unnamed,
+  not confirmed).
+
+053 - Juicero (NEW TITLE, same round) -> folder
+  053-Juicero-120M-Raised-Beaten-By-Bare-Hands. Founded 2013 by Doug Evans
+  (previously co-founded/sold the Organic Avenue juice-bar chain); raised ~$118.5M
+  (commonly rounded ~$120M) across Seed/Series A/Series B — Kleiner Perkins,
+  Google Ventures, Campbell Soup Co., Thrive Capital, Carmelo Anthony among
+  investors; launched Mar 2016 at $699 (later cut to $399 Jan 2017); Evans stepped
+  down as CEO Oct 31 2016 (replaced by ex-Coca-Cola exec Jeff Dunn). Apr 19 2017:
+  Bloomberg video showed the produce packs could be hand-squeezed (7.5oz/90sec by
+  hand vs 8oz by machine) with investor Doug Chertok confirming on record; 25%
+  layoffs Jul 2017; shut down Sept 1 2017, 16 months post-launch, no buyer found.
+  Coda: Evans later founded The Sprouting Company, pitched on Shark Tank Oct 2025,
+  reportedly ~$12M annual run rate by 2026. No fraud framing — pure overhype
+  story. Two items explicitly EXCLUDED as unverifiable: a Crunchbase "Series C"
+  entry dated one day after the Series B (likely a data duplicate, not a real
+  round) and the commonly-repeated "$32M R&D for the packets alone" figure (could
+  not be sourced anywhere).
+
+052 - Theranos / Elizabeth Holmes (NEW TITLE, same round) -> folder
+  052-Theranos-9B-Valuation-To-11-Years-In-Prison. REAL-CONVICTION fraud story,
+  same category as 029 (Ozy Media) — "fraud" language IS accurate here. Founded
+  2003 by 19-year-old Elizabeth Holmes; raised $700M+ (SEC's own figure — a higher
+  ~$945M aggregator figure exists but is NOT used, [VERIFY] flagged); peak
+  valuation ~$9B (2013-2014). WSJ's Oct 15 2015 exposé revealed most patient tests
+  ran on third-party machines, not Theranos's own Edison devices. Safeway's $350M
+  clinic buildout never launched (ended Nov 2015); Walgreens ended its partnership
+  2016 after a CMS "immediate jeopardy" finding. Theranos dissolved Sept 2018 via
+  an out-of-court "assignment for the benefit of creditors" — NOT a bankruptcy
+  filing, $0 to shareholders. SEC's Mar 2018 case was a CIVIL settlement (Holmes:
+  $500K fine, 10-year officer/director bar, no admission of wrongdoing) — kept
+  explicitly distinct from the CRIMINAL case. Jan 3 2022: jury convicted Holmes on
+  1 conspiracy + 3 investor wire-fraud counts, ACQUITTED her on all 4
+  patient-related counts — this acquittal detail is preserved throughout, not
+  smoothed over. Balwani convicted on all 12 counts he faced. Holmes sentenced Nov
+  2022 to 11y3m; Balwani ~13 years. May 2023: $452M restitution ordered jointly.
+  Holmes reported to prison May 30 2023. ⚠️ POLITICAL-NEUTRALITY WATCH: Holmes
+  filed a clemency petition with the Trump administration in 2025; as of the most
+  recent reporting found (Jan 2026) it is "pending" — NO decision has been made.
+  Every file treats this strictly as an open request, never an outcome, per
+  [[feedback_political_neutrality]]-style handling — re-check current status
+  before reusing any of this package's framing in the future, since this is the
+  one open thread most likely to change.
 
 051 - Nokia / Stephen Elop's "Burning Platform" memo (NEW TITLE, fills dead-saas-30
   batch title #30 "the pre-mortem that came true") -> "He Warned Everyone the

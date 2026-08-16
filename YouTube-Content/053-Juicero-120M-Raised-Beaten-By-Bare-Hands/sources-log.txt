@@ -1,0 +1,153 @@
+Sources Log — Package 053: Juicero
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Juicero is one of five fresh, non-batch-file titles researched cold this session (alongside Theranos,
+Pets.com, Jawbone, Yik Yak) — a user-provided shortlist of famous, well-documented dead startups, not
+drawn from the "dead-saas-30" batch file. No fraud/criminal issues apply to anyone in this story — this
+is a pure overhype/overengineering comedy-of-errors, closest in tone to package 009 (Clinkle).
+
+FOUNDING AND FOUNDER BACKGROUND — precisely sourced
+- Doug Evans co-founded Organic Avenue in 2002, a cold-pressed organic juice bar chain in NYC (grew to
+  ~10 retail stores), motivated in part by losing his mother to cancer and his father to heart disease.
+  Organic Avenue was sold in 2012; some investors reportedly received ~6x their investment.
+- Evans founded Juicero in San Francisco in 2013, aiming to bring "farm to glass" fresh-pressed juice
+  into the home via a machine plus proprietary produce packs.
+Source: Paul Shapiro, Medium ("How Doug Evans Rose from the Ruins of Juicero"); Wikipedia ("Juicero");
+Slidebean ("What happened to Juicero? The Doug Evans story").
+
+THE FUNDING — precisely sourced, dated
+- Oct 2013: $4M Seed round.
+- Apr 2014: $15.8M Series A.
+- Mar 2016: $70M Series B, led by Artis Ventures, with Kleiner Perkins, Google Ventures (GV), Campbell
+  Soup Company, Thrive Capital, and Carmelo Anthony's investment vehicle (Melo7 Tech Partners) among
+  participants. Reported post-round valuation over $270 million.
+- Total lifetime funding: widely reported as ~$118.5 million (Crunchbase News, Dec 2017) — repeatedly
+  rounded to "~$120 million" across sources (Axios, Fox News, TechCrunch, Crunchbase News). This
+  package uses "~$118.5 million (commonly rounded to ~$120 million)" rather than forcing a single exact
+  figure, since the rounding is consistent but the precise figure varies slightly by source.
+  *** [VERIFY]: Crunchbase's own funding-round data also lists an unexplained "Series C" round dated
+  around April 1, 2016 — one day after the Series B's March 31, 2016 date — with no separate amount
+  found anywhere in press coverage. This is very likely a data-entry duplicate of the Series B round
+  rather than a real separate raise. Do NOT present this as a distinct fourth funding round in any file
+  — the real, well-documented rounds are Seed → Series A → Series B only. ***
+Source: TechCrunch ("Investors pour $70 million into Juicero, a smart kitchen appliance maker"); Fox
+News ("Silicon Valley invests $120M in hilariously inessential juicer"); Axios ("Juicero is shutting
+down, draining VCs of $120 million"); Crunchbase News (Dec 2017, "$118.5 million" figure); Crunchbase
+company/funding-round profiles.
+
+THE PRODUCT — precisely sourced
+- The Juicero Press: a WiFi-connected countertop machine that used complex mechanical systems capable
+  of exerting four tons of force to squeeze proprietary, single-serving "Produce Packs" of pre-chopped
+  fruits and vegetables.
+- Each Produce Pack carried a QR code that had to be scanned and verified by the machine over an active
+  internet connection before it would dispense — officially framed by the company as a food-safety
+  measure to prevent packs being used past their expiration date.
+- Produce Packs were sold on a subscription, reportedly $5-7 per single-serving pack.
+- Launched March 2016 at $699.
+Source: Wikipedia ("Juicero"); Bloomberg ("Silicon Valley's $400 Juicer May Be Feeling the Squeeze,"
+Apr 19, 2017); TechCrunch ("Juicero cuts the price of its luxury juicer by $300," Jan 17, 2017).
+
+THE CEO CHANGE — precisely sourced, dated
+- Oct 31, 2016: Doug Evans steps down as CEO. Jeff Dunn, a former president of Coca-Cola North America,
+  becomes CEO. Evans remained connected to the company (reported as staying on in some capacity/founder
+  role) but Dunn ran day-to-day operations from this point through the shutdown.
+Source: BevNET ("Juicero Cuts Staff, Evans Steps Back"); multiple secondary sources citing the same Oct
+31, 2016 date.
+
+THE PRICE CUT — precisely sourced, dated
+- Jan 17, 2017: price cut from $699 to $399 — reportedly moved up 12-18 months ahead of an originally
+  planned schedule, after a Black Friday 2016 test in which pricing the machine under $400 doubled new
+  signups in a single day.
+Source: TechCrunch (Jan 17, 2017, "Juicero cuts the price of its luxury juicer by $300"); Fortune (Jan
+17, 2017).
+
+THE BLOOMBERG VIDEO — Apr 19, 2017, precisely sourced, THE CENTRAL BEAT OF THIS PACKAGE
+- Apr 19, 2017: Bloomberg publishes a story and video ("Silicon Valley's $400 Juicer May Be Feeling the
+  Squeeze") showing that Juicero's proprietary Produce Packs could be squeezed by hand, without the
+  machine at all, yielding nearly identical results: reporters got 7.5 ounces of juice in about 90
+  seconds squeezing by hand, versus 8 ounces from the machine — comparable volume, comparable speed, no
+  $399-$699 device required.
+- Two Juicero investors told Bloomberg they were surprised to learn the packs could be squeezed by hand
+  without the machine. Investor Doug Chertok is quoted directly: "There is no doubt the packs can be
+  squeezed without the machine."
+- CEO Jeff Dunn publicly responded, arguing the machine still served a purpose (freshness/expiration
+  verification via the WiFi/QR-code check) and downplaying the comparison; within days, Juicero
+  announced a 30-day refund offer, with Dunn stating: "if you send us your Press, we'll refund the money
+  you paid for it."
+Source: Bloomberg (Apr 19, 2017, "Silicon Valley's $400 Juicer May Be Feeling the Squeeze" — Bloomberg
+Businessweek feature); Snopes (Apr 19, 2017, confirms the claim as True, not exaggerated folklore);
+Slate (Apr 2017); Gizmodo ("Juicero CEO Begs You: Do NOT Squeeze Our Juice Bags"); Fortune (Apr 21,
+2017, refund offer).
+
+THE LAYOFFS — Jul 2017, precisely sourced, dated
+- Jul 14, 2017: Juicero announces it will cut 25% of its staff (mostly sales and marketing roles) as
+  part of a "strategic shift," alongside plans for a cheaper second-generation machine — a source close
+  to the company told press the planned V2 price point was in the ~$200 range, though this was never
+  officially confirmed before the shutdown.
+Source: Bloomberg (Jul 14, 2017, "Startup Juicero Cuts 25% of Staff as Startup Struggles to Sell
+Machines"); Engadget (Jul 14, 2017); The Register (Jul 14, 2017); Fortune (Jul 14, 2017).
+
+THE SHUTDOWN — Sept 2017, precisely sourced, dated
+- Sept 1, 2017: Juicero announces it is suspending sales of both the Press machine and the Produce
+  Packs entirely, roughly 16 months after the March 2016 launch. The company offered to repurchase
+  machines from existing customers and said it would search for a buyer for the company and its
+  intellectual property.
+- No buyer was found. The company wound down completely; secondary sources place final closure around
+  Dec 1, 2017.
+Source: CNN Business (Sept 1, 2017, "Startup behind ridiculed $400 juicer shuts down"); Fortune (Sept
+1, 2017, "Juicero: The Maker of the Infamous $400 Juicer Is Shutting Down"); Forbes (Sept 1, 2017, "RIP
+Juicero"); Wikipedia ("Juicero").
+
+THE CODA — Doug Evans' later venture, precisely sourced, dated
+- Evans later founded The Sprouting Company, a countertop home-sprouting subscription business (fresh,
+  nutrient-dense sprouts grown without soil or sunlight).
+- Oct 2025: Evans pitched The Sprouting Company on Shark Tank (Season 17). Per Entrepreneur.com and
+  Shark Tank Blog reporting: the company was doing ~$200,000/month in revenue before the episode aired,
+  grew to ~$540,000/month by December, and was reportedly tracking over $1 million/month by around
+  March 2026 — a ~$12 million annualized run rate, built as a subscription business from day one (fresh
+  seed refills to recurring subscribers, deliberately avoiding Juicero's own subscription-adjacent
+  mistakes around forced hardware dependency).
+Source: Entrepreneur.com ("This Founder Went on Shark Tank After His Last Startup Was 'Publicly
+Eviscerated' — Now He's on a $12 Million Run Rate"); Shark Tank Blog ("Shark Tank Sharks Obsessed
+Juicero Founder's $12M Sprout Revolution").
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This is the channel's clearest pure overengineering-and-hype story with zero fraud/legal dimension —
+  same category as package 009 (Clinkle), but the mechanism is different: Clinkle never shipped a real
+  product; Juicero shipped a fully engineered, technically impressive product that turned out to solve
+  a problem (juice extraction) already solved by a human hand.
+- Unlike most packages on this channel, this one has a genuine, well-documented redemption coda (Doug
+  Evans/The Sprouting Company) — similar in spirit to package 030 (MoviePass/Stacy Spikes), though Evans
+  was never fired or blamed for a scandal the way Spikes was; he stepped back from CEO five months
+  before the Bloomberg story, on what press describes as an unremarkable executive transition, not a
+  post-crisis ouster.
+- No fraud, no criminal allegations, no non-convicted-founder sensitivity issue applies to anyone named
+  in this package (Doug Evans, Jeff Dunn, Doug Chertok) — standard neutral/comedic overhype tone
+  applies throughout, same register as package 009.
+
+---
+
+BEFORE RECORDING
+1. Total funding: use "~$118.5 million, commonly rounded to ~$120 million" — do not force a single
+   precise figure since sources round differently, but do not use the much lower Tracxn ($90.5M) or
+   CBInsights ($99.88M) figures, which are outliers relative to Crunchbase News' own $118.5M figure and
+   the "~$120M" figure repeated across TechCrunch/Fox News/Axios.
+2. Do NOT present a "Series C" round as a distinct event — Crunchbase's dated entry for one appears to
+   be a data-duplicate of the Series B (dated one day apart, no distinct amount found anywhere in press
+   coverage). Only Seed → Series A → Series B are real, well-documented rounds.
+3. The exact figures from the Bloomberg hand-squeeze test are 7.5 oz by hand in ~90 seconds vs. 8 oz
+   from the machine — nearly identical, not "worse" for the machine, but also not meaningfully better —
+   state this precisely rather than exaggerating the hand's advantage.
+4. Keep Doug Evans (founder, stepped down as CEO Oct 2016, later founded The Sprouting Company) and
+   Jeff Dunn (CEO from Oct 2016 through the Sept 2017 shutdown, gave the refund offer and post-Bloomberg
+   public response) clearly distinct — Evans was not the one defending the company publicly during the
+   Bloomberg fallout.
+5. The "$32 million R&D for the produce packets alone" figure referenced in some casual retellings could
+   NOT be independently verified in this research pass and must NOT be used — the $118.5M/~$120M figure
+   is total lifetime company funding, not a packet-specific R&D spend; no packet-specific R&D figure was
+   found in any source.
+6. Tone: comedic/absurd is well-earned and appropriate here (unlike most packages on this channel), but
+   every specific number/date/quote must still be sourced as listed above.

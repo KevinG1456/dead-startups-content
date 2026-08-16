@@ -1,0 +1,149 @@
+Sources Log — Package 057: Aereo
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Aereo is a genuinely new failure mechanism for this channel: it wasn't killed by running out of money,
+fraud, an API cutoff, or a bad deal term — it was killed by a 6-3 U.S. Supreme Court ruling, after
+winning at every lower court. This is a legal/regulatory-risk story, not a mismanagement or fraud
+story. No individual is accused of wrongdoing anywhere in this package.
+
+FOUNDING AND FUNDING — precisely sourced
+- Aereo was founded in February 2012 by engineer Chaitanya "Chet" Kanojia, and opened to customers in
+  New York City in March 2012.
+- IAC Chairman Barry Diller led Aereo's $20.5 million Series A financing (announced Feb 14, 2012) and
+  joined Aereo's board of directors as part of that round. Diller was a public advocate for the
+  company throughout its life, including in media appearances defending its legal strategy.
+- January 2014: Aereo raised an additional $34 million from Diller's IAC and other investors (Gordon
+  Crawford among them), bringing total funding to approximately $97 million.
+- *** [VERIFY]: some secondary/aggregator sources cite a higher lifetime total (over $100M, occasionally
+  over $150M) — this package uses $97 million, the figure independently corroborated by CNBC's Nov
+  2014 bankruptcy coverage and consistent with the Variety/Crain's New York funding-round reporting. ***
+Source: GlobeNewswire (Feb 14, 2012, "Aereo Announces $20.5M Series A Financing Led by IAC"); Variety
+(Jan 2014, "Aereo Raises $34 Mil Round from Barry Diller's IAC, Gordon Crawford and Others"); Crain's
+New York Business (Jan 2014, "Web-TV startup Aereo bags $34M in funding"); CNBC (Nov 21, 2014, "TV
+streaming service Aereo files for bankruptcy").
+
+THE PRODUCT AND THE LEGAL THEORY — precisely sourced
+- Aereo's product: thousands of dime-sized individual remote antennas, one assigned per subscriber,
+  capturing over-the-air broadcast television signals and storing an individual copy for that specific
+  subscriber, streamed to them over the internet for roughly $8-12/month — no cable subscription
+  required.
+- This architecture was a direct, deliberate application of the Second Circuit's 2008 ruling in
+  *Cartoon Network, LP v. CSC Holdings, Inc.* (commonly called the "Cablevision" case), which held that
+  Cablevision's remote-storage DVR ("RS-DVR") did not constitute a "public performance" under copyright
+  law because each subscriber's recording was a unique, individually-created and individually-accessed
+  copy — a private performance, not a public one. Aereo's individual-antenna-per-subscriber design was
+  built specifically to fit within this precedent.
+- Aereo cited the Cablevision precedent directly in its own legal filings and won at the district court
+  level and at the Second Circuit (which denied broadcasters' request for a preliminary injunction,
+  consistent with Cablevision).
+Source: Wikipedia ("Cartoon Network, LP v. CSC Holdings, Inc."; "Aereo"); TechCrunch (Oct 22, 2012,
+"Streaming TV Startup Aereo Files Appeal In Network Case, Cites Cablevision Precedent"); Mass Law Blog
+("Aereo, Antenna Farms and Copyright Law"); The Media Institute ("WNET v. Aereo: The Second Circuit
+Persists in Poor (Cable)Vision").
+
+THE LAWSUIT AND THE SUPREME COURT RULING — precisely sourced
+- Major broadcasters — including ABC, CBS, NBC, and Fox — sued Aereo for copyright infringement,
+  arguing its retransmissions constituted unauthorized public performances of their copyrighted
+  broadcasts.
+- Case: *American Broadcasting Companies, Inc. v. Aereo, Inc.*, 573 U.S. 431 (2014).
+- Decided June 25, 2014, 6-3, in an opinion written by Justice Stephen Breyer. Majority: Breyer, joined
+  by Chief Justice Roberts and Justices Kennedy, Ginsburg, Sotomayor, and Kagan. Dissent: Justice
+  Scalia, joined by Justices Thomas and Alito.
+- Holding: Aereo's near-live retransmissions of copyrighted broadcast programming constituted "public
+  performances" under the Transmit Clause of the Copyright Act. The majority analogized Aereo to
+  community antenna television (CATV) systems — the precursor to modern cable — which Congress
+  explicitly targeted when it rewrote the Copyright Act in 1976 to overrule two earlier Supreme Court
+  decisions that had held CATV systems did not "perform" copyrighted works. The individual-antenna
+  architecture, in the majority's view, did not meaningfully distinguish Aereo from a cable system for
+  this purpose.
+- Scalia's dissent argued Aereo should not be treated as a direct infringer under a "volitional
+  conduct" copyright framework, since subscribers — not Aereo — initiated each individual transmission.
+Source: SCOTUSblog case page ("American Broadcasting Companies, Inc. v. Aereo, Inc. (13-461)"); Justia
+U.S. Supreme Court Center (573 U.S. 431 (2014)); Loeb & Loeb LLP client alert (July 2014); Ropes & Gray
+LLP client alert (July 2014); Faegre Drinker client alert (June 2014); Wiley Rein LLP client alert.
+
+THE AFTERMATH — precisely sourced
+- Aereo suspended service on June 28, 2014 — three days after the ruling.
+- Aereo then attempted one final legal maneuver on remand at the district court: arguing that, since
+  the Supreme Court had compared it to a cable system for purposes of finding a public performance, it
+  should now be entitled to a cable system's Section 111 compulsory license. Judge Alison Nathan
+  (S.D.N.Y.) rejected this argument in October 2014, writing that it "suffers from the fallacy that
+  simply because an entity performs copyrighted works in a way similar to cable systems it must then be
+  deemed a cable system for all other purposes." Nathan granted broadcasters a nationwide preliminary
+  injunction against Aereo at the same time.
+- November 21, 2014: Aereo filed for Chapter 11 bankruptcy.
+- March 2015: a bankruptcy court approved the sale of Aereo's remaining assets. TiVo acquired Aereo's
+  trademarks and customer lists for $1 million. Patent aggregator RPX Corp bought Aereo's patent
+  portfolio for $225,000. Alliance Technology Solutions was expected to buy Aereo's physical equipment
+  for roughly $300,000. Total proceeds across all sales came to less than $2 million — both Aereo and an
+  attorney for its unsecured creditors publicly called the result "disappointing," against roughly $97
+  million raised over the company's life.
+Source: NBC News (Oct 2014, "Federal Court Shuts Down Aereo's Final Argument to Save Itself"); Deadline
+(Oct 2014, "Aereo Curb Stomped By Broadcasters As Court Grants Nationwide Injunction Against Shuttered
+Streaming Service"); CNBC (Nov 21, 2014, "TV streaming service Aereo files for bankruptcy"); TechCrunch
+(Mar 13, 2015, "TiVo Receives Approval To Acquire Aereo Assets"); Variety (Mar 2015, "TiVo Completes
+Acquisition of Aereo Trademarks, Customer Lists for $1 Million"); Phys.org / Zacks.com (Mar 2015,
+bankruptcy court approval coverage).
+
+THE CODA — CHET KANOJIA'S SECOND COMPANY, STARRY — precisely sourced, handle carefully
+- Chet Kanojia founded Starry (fixed-wireless broadband internet, using millimeter-wave technology
+  instead of cable/fiber) in 2014, the same year Aereo collapsed.
+- Starry went public via SPAC merger in 2022 at approximately a $1.6 billion valuation, with $452
+  million in cash on the balance sheet at close.
+- February 21, 2023 — just over a year after the SPAC merger — Starry Group Holdings filed for Chapter
+  11 bankruptcy in the U.S. Bankruptcy Court for the District of Delaware, entering a Restructuring
+  Support Agreement with its lenders. The bankruptcy petition showed roughly $310 million in total debt
+  against $270 million in assets. Lenders offered $43 million in debtor-in-possession financing to keep
+  the company operating through the process.
+- August 2023: Starry emerged from Chapter 11, restructured as a closely-held private company,
+  refocused on its core markets (Washington D.C., Boston, New York City, Denver, Los Angeles).
+- As part of the bankruptcy exit, Kanojia stepped down as CEO — a role he had held since Starry's
+  founding — and moved to the company's board of directors. Co-founder and former COO Alex
+  Moulle-Berteaux became CEO.
+- *** CRITICAL FRAMING NOTE: Starry did NOT shut down. It survived Chapter 11 as a reorganized, ongoing
+  company. This is accurately described as "the same founder's second company also collapsed into a
+  serious, real bankruptcy" — a genuine second brush with company-ending financial failure — but NOT as
+  "his second startup also died." Never state or imply that Starry shut down or ceased operating; as of
+  the most recent reporting found in this research pass (2023 emergence coverage), it continues to
+  operate under new CEO leadership. ***
+Source: Time (2016, "Starry CEO Chet Kanojia Wants to Reinvent Internet Access"); TVTechnology ("Aereo
+Founder Looks Back on Streamer's Controversial History"); Adweek/TVSpy ("Where is He Now? Aereo Founder
+Chet Kanojia Looking to Disrupt Another Industry"); DatacenterDynamics (Feb 2023, "Starry Internet files
+for bankruptcy"); Broadband Breakfast (Feb 2023, "Starry Group Files for Chapter 11 Bankruptcy");
+Bloomberg (Aug 31, 2023, "Starry Internet Startup Emerges From Bankruptcy With Growth, Profit Goals");
+Technical.ly ("A broadband company is reemerging in DC after declaring bankruptcy"); SDxCentral,
+DatacenterDynamics, LightReading, Fierce Network (leadership-transition coverage, "Starry Internet
+appoints new CEO and leaves Chapter 11" / "Starry taps new CEO as it eyes bankruptcy exit"); Starry's
+own blog ("Starry Announces Leadership Transition — A Q&A with Chet Kanojia and Alex Moulle-Berteaux").
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This is the channel's first package built around a Supreme Court ruling as the direct cause of
+  death — distinct from every other mechanism covered so far (funding collapse, fraud, API cutoff,
+  deal-structure veto, unit economics, platform decisions). If a "different ways startups die" series
+  or comparator video is ever built, Aereo is the clean anchor for "killed by the courts."
+- No individual — Chet Kanojia, Barry Diller, or anyone else — is accused of fraud, misconduct, or any
+  wrongdoing anywhere in this story. This is a legal/regulatory-risk case, not a mismanagement or fraud
+  case. Standard factual-neutrality handling applies.
+- Package 003 (Garmin/TomTom + Picturelife, "platform risk") covers a different kind of external-force
+  death (a platform decision, not a court ruling) — do not conflate the two mechanisms if cross-
+  referencing.
+
+---
+
+BEFORE RECORDING
+1. State the vote count precisely every time: 6-3, not "the Supreme Court ruled against Aereo" without
+   the count — the closeness of the vote is a meaningful part of the story.
+2. [VERIFY] the $97 million lifetime funding figure against any more authoritative source if one
+   becomes available before final recording — this package deliberately does not use higher, less-
+   corroborated aggregator figures.
+3. Handle the Starry coda precisely: a real second Chapter 11 bankruptcy for the same founder, but
+   Starry survived it as a reorganized company under new CEO leadership — never state or imply it shut
+   down.
+4. No fraud/scam/wrongdoing framing anywhere in this package — every party (Aereo, the broadcasters,
+   the courts) acted within legitimate legal process.
+5. Keep Aereo's own legal theory (built on the real, then-controlling Cablevision precedent) presented
+   as a good-faith, sophisticated legal strategy that won twice before losing at the Supreme Court —
+   not as a "loophole" or "trick," which would misrepresent how seriously courts treated the argument.

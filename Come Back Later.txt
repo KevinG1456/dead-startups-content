@@ -1,5 +1,5 @@
 Come Back Later — Where This Project Stands
-Last updated: 2026-08-16
+Last updated: 2026-08-16 (057-061 added, same day as 052-056)
 
 WHAT THIS FILE IS
 A quick-reorientation doc. Read this first when you come back, before opening
@@ -10,10 +10,47 @@ Reminder.txt) is the actual detailed record — this file is just the map.
 
 BIG PICTURE
 
-51 packages exist in /YouTube-Content, numbered 001-051. Nothing is blocked. If you
+61 packages exist in /YouTube-Content, numbered 001-061. Nothing is blocked. If you
 want to record something tomorrow, pick any package and go — the README.md at the
 top of each folder tells you the real anchor story and flags anything still marked
 [VERIFY].
+
+NOTE: 057-061 (added 2026-08-16, same day, right after 052-056) were picked cold by
+the assistant at the user's open-ended "continue by adding more titles" request —
+no batch file, no user-specified shortlist this time. Picked for 5 genuinely
+DISTINCT failure mechanisms not yet on the channel: Aereo (057, killed by a Supreme
+Court ruling — a first, legal/regulatory death rather than burn-rate/fraud), Quirky
+(058, unfocused crowdsourced-invention execution, $185M across ~400 scattered
+products), Better Place (059, EV battery-swap infrastructure moonshot, one of the
+largest failures in Israeli tech history, sold for just $450K), Boo.com (060, the
+original dot-com-bust case study, $135M burned in 18 months), and Pixelon (061,
+REAL fraud — a fugitive con man ran the company under a false identity, capped by
+a $16M launch party where the tech itself failed live on stage). Pixelon was
+explicitly flagged sourcing-risk going in (old, obscure, 1999-2001 story) and told
+to self-retire rather than force it if corroboration came up short — it held up
+across Seattle Times/Pollstar/The Register/Forbes/Wikipedia/StreamingMedia.com, so
+it got built. All 5 built via 5 parallel forked agents, same method as every prior
+round. Aereo's Starry coda needs care: Starry (Kanojia's next company) also filed
+Chapter 11, but unlike Aereo it SURVIVED and restructured — don't let this read as
+"failed the same way twice." See Fact-Check Reminder.txt for full detail.
+
+NOTE: 052-056 (added 2026-08-16, same day as 041-051 but a SEPARATE round) are NOT
+from the dead-saas-30 batch file — the user gave a direct 5-title shortlist of
+famous, well-documented companies (Theranos, Juicero, Pets.com, Jawbone, Yik Yak)
+and asked to pick up the established workflow directly, no re-planning. All 5 built
+via 5 parallel forked agents (each did its own independent WebSearch verification +
+wrote the full 18-file package), same method as 041-043/044-047/048-051. See
+Fact-Check Reminder.txt for full per-package detail; short version: Theranos (052)
+is this channel's third real-criminal-conviction story (after 005/HeadSpin,
+029/Ozy Media) — "fraud" language is accurate, watch for the pending-but-not-
+decided 2025 Holmes clemency petition changing status later. Jawbone (055) surfaced
+a genuinely NEW open thread: a real, currently unresolved Jan 2023 fraud lawsuit
+against founder Hosain Rahman (Polymath Holdings v. Rahman), handled at the same
+sourcing rigor as 022/024 — attribute, pair with denial, keep out of short-form.
+Pets.com (054) and Yik Yak (056) each corrected a wrong assumption from the
+original research brief (Pets.com's real founders; Yik Yak's 2021 revival being
+acquired by Sidechat in 2023, not shut down again) — don't reuse the old wrong
+versions of either claim anywhere.
 
 NOTE ON THIS FILE'S COVERAGE: this file's session-by-session narrative below was
 last kept current through package 030. Packages 031-040 (Virgin Orbit, Practice
@@ -295,6 +332,39 @@ file — any new title from here forward needs fresh research or a different sou
 list.
 
 ---
+
+⚠️ THINGS TO KNOW BEFORE TOUCHING PACKAGE 061 AGAIN
+
+061 (Pixelon) is a REAL fraud story like 029/052, but with a twist: the fraud is
+TWO separate events that must stay separate — a 1989 conviction (under the
+founder's real identity, David Kim Stanley, defrauding elderly victims of
+~$1.25M) and the Pixelon-era fraud (raising money and staging a fake product
+demo under the false identity "Michael Fenne"). Never merge these into one event.
+His outcome after turning himself in (2000) is UNCONFIRMED — state that plainly,
+don't guess at a resolution. Read
+061-Pixelon-The-16-Million-Party-Thrown-By-A-Fugitive/sources-log.txt before
+editing.
+
+⚠️ THINGS TO KNOW BEFORE TOUCHING PACKAGE 052 OR 055 AGAIN
+
+052 (Theranos) is a REAL-CONVICTION fraud story (Elizabeth Holmes, jury-convicted
+Jan 2022) — "fraud" language is accurate here, same category as 029/Ozy Media, NOT
+the softer non-convicted-founder standard. Keep the patient-count ACQUITTAL detail
+in place (she was acquitted on all 4 patient-related counts, convicted only on the
+investor-fraud counts) — don't let the framing flatten into "convicted of
+everything." Keep the 2018 SEC CIVIL settlement distinct from the 2022 CRIMINAL
+case. Holmes filed a clemency petition in 2025 — status "pending" as of the last
+check (Jan 2026 reporting); if this changes, apply the political-neutrality
+standard (who/what/when only, zero motive speculation) everywhere it's mentioned.
+Read 052-Theranos-9B-Valuation-To-11-Years-In-Prison/sources-log.txt before editing.
+
+055 (Jawbone) carries the sensitive-non-convicted-founder standard (like 022/024)
+PLUS a genuinely open, unresolved thread: a real Jan 2023 fraud lawsuit (Polymath
+Holdings v. Rahman/All.health) is still pending with no ruling found. Every mention
+must attribute it explicitly to "Polymath's complaint," pair it with the
+defendants' denial every time, and it's deliberately excluded from Shorts/social/
+community posts. Read 055-Jawbone-929-Million-Death-By-Overfunding/sources-log.txt
+in full before editing anything in that folder, even something that looks minor.
 
 ⚠️ THINGS TO KNOW BEFORE TOUCHING PACKAGE 022, 024, 025, 027, 028, OR 029 AGAIN
 
