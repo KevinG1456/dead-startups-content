@@ -1,0 +1,148 @@
+Sources Log — Package 051: Nokia / Stephen Elop's "Burning Platform" Memo
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+This package fills dead-saas-30 batch title #30: "The pre-mortem that came true: the internal
+memo that predicted the company's death 2 years early." Pattern: ignored internal warnings. The
+batch file's own production notes flag this title as sourcing-risky ("depends on leaked/
+litigation documents — only use material already in public court records or published
+reporting, and attribute it").
+
+*** MANDATORY EXCEPTION FLAG — READ BEFORE WRITING/EDITING ANY FILE IN THIS PACKAGE ***
+Nokia is a large, public, multinational company — NOT a VC-funded startup. This channel's usual
+format is funded-startup autopsies. This is a DELIBERATE, DISCLOSED EXCEPTION, using the exact
+same standard already established in package 003 (Garmin/TomTom segment): state plainly and
+early, in every file that needs it, that this is a public-company exception, not a funded
+startup. Never let a viewer feel misled about the channel's usual format.
+
+*** MANDATORY FRAMING CORRECTION — READ BEFORE WRITING/EDITING ANY FILE IN THIS PACKAGE ***
+The batch title's literal premise ("an ignored warning that came true") does NOT match the real
+story, and the real story is sharper. Elop's memo was NOT ignored — it was the explicit
+justification for the drastic strategic pivot (the Windows Phone partnership) that Nokia
+announced three days later. The warning was heeded. The company still died anyway. This is a
+better, more ironic story than "warning ignored" — use it. Also: the batch title's "2 years
+early" framing does not match the real timeline. The real gap from memo (Feb 2011) to Microsoft's
+own write-off/effective death of the acquired business (Jul 2015) is about 4 years and 5 months;
+to the full discontinuation of the Lumia line (2016) is about 5 years. State the real gap
+("roughly four and a half to five years"), never force "2 years."
+
+---
+
+THE MEMO — precisely sourced
+- Stephen Elop became Nokia's CEO in September 2010, moving directly from his prior role as
+  head of Microsoft's Business Division (responsible for the Office suite, among other
+  products) — the first non-Finnish CEO in Nokia's history.
+- February 8, 2011: Elop sent an internal memo, roughly 1,300 words, to all Nokia staff. It was
+  leaked/reported publicly within about a day.
+- The memo opens with an extended metaphor: a worker on a burning North Sea oil rig who wakes to
+  an explosion and, surrounded by flames with the ocean 30 meters below, has an impossible
+  choice — "stand on the platform, and inevitably be consumed by the burning flames. Or, he
+  could plunge 30 meters in to the freezing waters." The man jumps.
+- On Apple's rise: "In 2008, Apple's market share in the $300+ price range was 25 percent; by
+  2010 it escalated to 61 percent." On Android: "In about two years, Android created a platform
+  that attracts application developers" — and, in the memo's own words about that same week,
+  Android had just taken "our leadership position in smartphone volumes."
+- Closing call to action: "Together, we can choose to define our future." Elop explicitly framed
+  the memo as urgent justification for a major strategic announcement scheduled 3 days later,
+  February 11, 2011.
+- Nokia's board chairman reportedly gave "bitter feedback" on the memo at a subsequent board
+  meeting — [VERIFY]: this is reported via Alexander Jarvis's retrospective piece; no primary
+  board-minutes source was found in this pass, present as reported, not confirmed record.
+Source: Engadget (engadget.com/2011-02-08-nokia-ceo-stephen-elop-rallies-troops-in-brutally-
+honest-burnin.html); Forbes (Eric Savitz, Feb 9, 2011); Alexander Jarvis retrospective (full memo
+text); Fortune (Sept 10, 2010, on Elop's hiring).
+
+*** [VERIFY]: the exact complete memo text should be re-confirmed against a primary outlet (WSJ
+or Engadget's original post) before recording, rather than only the Alexander Jarvis retrospective
+compilation — the quotes above are consistent across multiple secondary sources but a final pass
+against a primary republication is good practice before treating any additional line as an exact
+quote beyond what's captured here. ***
+
+THE "TROJAN HORSE" THEORY — DISPUTED, HANDLE WITH CARE
+- After the eventual 2013-2014 Microsoft acquisition, some employees, former Nokia executives,
+  and outside commentators speculated that Elop had been placed at Nokia specifically to steer
+  it toward a Microsoft acquisition — the "Trojan horse" theory.
+- Elop has explicitly and directly denied this, on record: "I have only ever worked on behalf of
+  and for the benefit of Nokia shareholders while at Nokia," adding that "all fundamental
+  business and strategy decisions were made with the support and approval of the Nokia board of
+  directors, of which I was a member."
+- A later book (Finnish-language, reported via Yle and Neowin) reportedly concludes Elop was NOT
+  a Trojan horse, but was instead simply an ineffective CEO — a different, also-unflattering, but
+  distinct claim.
+- HANDLING REQUIREMENT: never state the "Trojan horse" theory as fact. Always attribute it
+  explicitly ("some employees and critics speculated," "the theory holds that..."), and always
+  pair it with Elop's own on-record denial and the board-approval fact in the same breath or the
+  same segment. This mirrors this channel's established handling of disputed/unadjudicated claims
+  about a named, living individual (see package 025's Marriott-allegation handling, package 022's
+  Fast/NPR handling). Never use this theory as if it were confirmed motive.
+Source: Neowin ("New book claims Microsoft's Stephen Elop wasn't a 'Trojan horse' at Nokia - just
+a bad CEO"); Yle (Finnish public broadcaster, same book coverage); The Register forums
+(contemporaneous "I'm not a Trojan horse" pushback, Feb 2011).
+
+THE PIVOT — precisely sourced
+- February 11, 2011 (3 days after the memo): Nokia and Microsoft announced a strategic
+  partnership — Nokia would adopt Windows Phone as its primary smartphone platform, abandoning
+  its own Symbian and the still-unreleased MeeGo operating systems.
+- This was the drastic action the memo was written to justify — not a warning that was later
+  ignored, but the explicit rationale for the pivot that followed almost immediately.
+Source: Forbes; Engadget; widely corroborated contemporaneous 2011 tech press coverage.
+
+THE OUTCOME — precisely sourced
+- The Windows Phone bet did not reverse Nokia's decline. Windows Phone never achieved durable
+  market share against iOS and Android.
+- September 3, 2013: Microsoft announced it would acquire substantially all of Nokia's Devices &
+  Services business. Deal structure: approximately €3.79 billion (~$5 billion) for the D&S
+  business itself, plus approximately €1.65 billion (~$2.17 billion) to license Nokia's patents
+  — a combined total commonly reported as approximately $7.2 billion (a figure of $7.17 billion
+  also appears in some contemporaneous reporting — use "approximately $7.2 billion").
+  - [VERIFY]: exact final combined total varies slightly across sources ($7.17B vs $7.2B) — use
+    the hedged "approximately $7.2 billion," never a falsely precise single figure.
+- The deal closed in 2014; approximately 30,000 employees transferred to Microsoft. The new unit
+  was named "Microsoft Mobile Oy."
+- July 8, 2015: under CEO Satya Nadella (who had succeeded Steve Ballmer — the CEO who actually
+  did the 2013 deal — in Feb 2014), Microsoft announced a $7.6 billion write-down/impairment
+  charge on the Nokia acquisition — nearly the entire original purchase price — alongside 7,800
+  layoffs (primarily in the phone hardware business) and an approximately $800 million
+  restructuring charge. This was, at the time, the largest write-down in Microsoft's corporate
+  history, surpassing its prior record ($6.2 billion, the 2012 aQuantive write-down).
+- Throughout 2016, Microsoft slowed Lumia production; only nine Lumia phones were released that
+  year before the line was fully discontinued.
+Source: Computerworld; TechCrunch (Jul 8, 2015, "Microsoft Writes Down $7.6B Of Its Nokia
+Acquisition, Announces 7,800 Layoffs"); Forbes (Adam Hartung, Jul 8, 2015); The Register;
+GSMArena; Wikipedia ("Microsoft Lumia").
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This is the channel's SECOND deliberate public-company exception, after package 003's
+  Garmin/TomTom segment — the exception must be flagged with the same explicit, on-screen
+  discipline both times.
+- No fraud/criminal allegations apply to anyone in this story. The "Trojan horse" theory is a
+  disputed characterization, not an allegation of a crime — handle per the disputed-claim
+  standard above, never state as settled fact.
+- Real correction from the batch title's literal premise: this is a "warning heeded, company
+  still died" story, not a "warning ignored" story — that's the sharper, truer angle, use it
+  throughout.
+- Real correction from the batch title's "2 years" framing: the real gap (memo to effective
+  death of the acquired business) is roughly 4.5-5 years — state the real number.
+
+---
+
+BEFORE RECORDING
+1. State plainly, early, in every file that needs it: Nokia is a large public company, not a
+   funded startup — deliberate, disclosed exception, same standard as package 003.
+2. Never claim the memo was "ignored" — it was heeded; the pivot it justified happened 3 days
+   later. State this correction explicitly on screen, don't smooth it over.
+3. Never state "2 years" as the gap between memo and death — the real, sourced figure is roughly
+   4.5-5 years (memo Feb 2011 → write-off Jul 2015 / Lumia discontinuation 2016).
+4. Never state the "Trojan horse" theory as fact — always attribute it explicitly and pair it
+   with Elop's on-record denial and the board-approval fact in the same breath.
+5. [VERIFY] before recording: re-confirm the complete memo text against a primary outlet
+   republication (not only the Alexander Jarvis retrospective) if any additional lines beyond
+   those quoted here are used on screen.
+6. [VERIFY] before recording: the board-chairman "bitter feedback" detail is reported via
+   retrospective, not a primary board-minutes source — present as reported, not as confirmed
+   record, or drop it if tighter sourcing is wanted.
+7. Use the hedged "approximately $7.2 billion" for the Microsoft acquisition total — sources
+   vary slightly ($7.17B-$7.2B) — never state a falsely precise single figure.
+8. No fraud/criminal allegations apply to anyone in this story — keep tone analytical throughout.

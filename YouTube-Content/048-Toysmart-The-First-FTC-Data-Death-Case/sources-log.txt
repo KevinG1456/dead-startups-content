@@ -1,0 +1,113 @@
+Sources Log — Package 048: Toysmart.com
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Toysmart.com is the anchor for dead-saas-30 batch title #25: "Your data after the funeral: tracing
+where a dead app's user data actually went." This channel already has package 020 ("Where Dead
+Startups' Code, Data, and Customers Actually Go"), covering Sidecar (patent license to GM), Cambridge
+Analytica (FTC Section 5 enforcement), and RadioShack (bankruptcy-sale privacy-ombudsman review under
+11 U.S.C. §332/§363(b)(1)(A)) — read that package's own sources-log.txt for exactly what it covers.
+Toysmart is a DIFFERENT, EARLIER company, and — this is the differentiator worth stating on screen —
+it is the ORIGINAL case. Toysmart's 2000 FTC action is the first-ever enforcement of this kind and the
+direct legal ancestor of RadioShack's 2015 case: same core legal question (can a bankrupt company sell
+customer data despite promising never to?), fifteen years apart, Toysmart first.
+
+---
+
+FOUNDING AND DISNEY INVESTMENT — precisely sourced
+- Toysmart.com began as "Holt Educational Outlet," launched October 1997, a spin-off of the Holt
+  Company, an existing retailer of educational supplies. Toysmart.com, Inc. was formally spun off in
+  December 1998. The company sold "good toys that nurture children's imaginations" — building blocks,
+  puzzles, arts and crafts — and claimed to be the first online toy retailer. Headquartered in a
+  50,000-square-foot office in Waltham, Massachusetts.
+- CEO: David Lord.
+- August 1999: The Walt Disney Company, through its Buena Vista Internet Group subsidiary, took a
+  majority (~60%) stake in Toysmart.com with a $45 million investment. *** [VERIFY]: one contemporary
+  account breaks this down differently — a reported $20 million direct investment plus $25 million in
+  marketing support, rather than a flat $45 million cash figure. Present as "approximately $45 million,
+  combining investment and marketing commitments" rather than asserting one precise clean number. ***
+Source: Forbes (May 23, 2000, "Toysmart Shuts Down"), E-Commerce Times ("Disney's Buena Vista Acquires
+Stake in Toysmart.com").
+
+THE PRIVACY PROMISE — precisely sourced
+- Toysmart.com's published privacy policy explicitly promised that customer information — including
+  names, addresses, ages, and family/purchasing profiles, much of it involving children — would "never
+  be shared with third parties."
+Source: FTC press release (Jul 2000); FTC v. Toysmart.com case page (ftc.gov); IT Law Wiki summary.
+
+THE COLLAPSE — precisely dated
+- Toysmart burned through the bulk of Disney's funding within about 18 months and began seeking
+  additional funding in early 2000. Month-long reorganization negotiations failed.
+- The company ceased operations at midnight, May 19, 2000 — under 18 months after the Disney
+  investment closed.
+- June 26, 2000: creditors forced Toysmart.com into Chapter 11 bankruptcy in Massachusetts.
+- Among the assets listed for sale in the bankruptcy filing: the company's customer list and database
+  of customer information — directly contradicting the "never share with third parties" promise made
+  to every one of those customers.
+Source: Forbes (May 23, 2000); Computerworld ("Toysmart goes out of business"); Computerworld
+("Bankruptcy judge puts off decision on Toysmart data sale").
+
+THE FTC ACTION AND STATE PUSHBACK — precisely sourced, this is the package's core sequence
+- July 2000: the FTC sued, alleging the proposed data sale would violate Section 5 of the FTC Act
+  (unfair or deceptive trade practices) by breaking the company's own stated privacy promise. This is
+  the FIRST-EVER FTC enforcement action of this specific kind — a bankrupt company's attempt to sell
+  customer data as a distressed asset despite a no-sharing privacy promise.
+- The FTC's initially PROPOSED settlement did not block the sale outright — it would have allowed the
+  data to be sold, but only to a "qualified buyer": a company in a business related to Toysmart's own
+  market, bound by the same original privacy-policy terms.
+- Attorneys general from 41 states filed formal objections to BOTH the proposed data sale itself and
+  the FTC's proposed "qualified buyer" settlement, arguing it did not adequately protect consumers
+  (especially children) whose data was at stake.
+- U.S. Bankruptcy Court Judge Carol Kenner signaled she was unlikely to approve the qualified-buyer
+  sale, in significant part because of the volume and weight of the state AG objections.
+Source: FTC press release (Jul 2000); ABC News ("FTC, Toysmart.com Settle"); Computerworld (bankruptcy
+judge coverage); Duke Law's DLTR ("FTC vs. Toysmart," Mar 2001 retrospective).
+
+THE RESOLUTION — precisely dated
+- January 2001: Buena Vista Internet Group (the Disney subsidiary, and Toysmart's 60% majority
+  shareholder) agreed to pay $50,000 to Toysmart's creditors — not to buy and use the customer data,
+  but specifically for the "privilege" of having it destroyed instead of sold to anyone.
+- Judge Kenner approved this plan, with one added stipulation: Toysmart's attorneys were to retain
+  physical/digital custody of the list and destroy it only once all creditor claims against the
+  bankruptcy estate were fully satisfied — not immediately.
+- Net effect: no third party ever received Toysmart's customer database. The company that once
+  promised never to share the data ended its life with its own majority owner paying a small sum
+  specifically to make sure that promise held, after the market (a sale) had already tried and failed
+  to break it.
+Source: New York Attorney General press release ("Toysmart Bankruptcy Settlement Ensures Consumer
+Privacy Protection"); Computerworld; ABI Journal ("Texas Attorney General: Privacy Is Not for Sale").
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This package explicitly distinguishes itself from package 020 (Sidecar/Cambridge Analytica/RadioShack)
+  by being a DIFFERENT and EARLIER company (2000 vs. 020's cases, which range from the mid-2010s
+  onward). State this lineage explicitly on screen: Toysmart's 2000 case is the direct ancestor of
+  RadioShack's 2015 case in package 020 — same core legal mechanism (bankruptcy-sale-vs-privacy-promise
+  under FTC Section 5 authority), fifteen years apart, Toysmart came first and set the precedent that
+  every later case (including RadioShack's) had to work within.
+- No fraud or criminal charges apply to anyone at Toysmart.com or Disney/Buena Vista in this story —
+  this is a regulatory/policy precedent story, not a fraud story. Toysmart's leadership is not accused
+  of deliberate deception in available sourcing beyond the underlying FTC Section 5 "unfair/deceptive
+  practice" civil framing, which concerns the company's ACT (attempting the sale), not an individual's
+  criminal intent. Present neutrally.
+- Toysmart itself does not appear to have raised independent venture capital before the Disney deal —
+  it was a corporate spin-off of an existing retailer (Holt Company), not a VC-backed startup in the
+  conventional sense. State this accurately; do not describe it as "VC-funded."
+
+---
+
+BEFORE RECORDING
+1. Never state a single precise "$45 million" figure without the caveat that one source breaks it down
+   as $20M investment + $25M marketing support — use "approximately $45 million, combining investment
+   and marketing commitments."
+2. Always distinguish this package from package 020 explicitly and correctly — Toysmart PREDATES and
+   is the legal ancestor of 020's RadioShack case, not a duplicate of it.
+3. Do not describe Toysmart as "VC-funded" — it was a spin-off of an existing retailer (Holt Company)
+   that later took a majority investment from Disney, a different funding shape than this channel's
+   typical VC-funded startup subjects.
+4. Never state that Toysmart's data was ultimately sold to anyone — the entire point of the ending is
+   that it was NOT sold; Disney's subsidiary paid $50,000 specifically to have it destroyed instead.
+5. State the "41 states" objection figure precisely — do not round or approximate it differently across
+   files.
+6. No fraud/criminal framing anywhere in this package — this is a regulatory-precedent story.

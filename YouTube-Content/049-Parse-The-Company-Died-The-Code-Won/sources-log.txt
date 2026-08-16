@@ -1,0 +1,133 @@
+Sources Log — Package 049: Parse, Inc.
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Parse fills dead-saas-30 batch title #26: "The open-source afterlife: the dead company whose
+code outlived it and won." This is NOT the same story as package 019 ("The Open-Source Project
+That Killed Its Own Commercial Company," covering Cyanogen/CyanogenMod→LineageOS, Docker Inc./
+Mirantis, and MongoDB/Elastic vs. AWS) — confirmed by reading 019's own README in full before
+starting this package. 019's mechanism is open-source COMPETING WITH and undercutting a paid
+product, causing the company's death. THIS package's mechanism is different: Parse died for
+unrelated commercial reasons (Facebook's own strategic priorities — see below), and its code was
+deliberately open-sourced by the ACQUIRER on the way out, then thrived independently afterward.
+Cause of death and afterlife are two different, non-overlapping mechanisms. Parse does not appear
+anywhere in 019.
+
+---
+
+FOUNDING — precisely sourced
+- Parse, Inc. was a mobile Backend-as-a-Service (BaaS) company: cloud data storage, user
+  authentication, push notifications, and cloud-hosted custom code for mobile app developers.
+- Founded 2011, part of Y Combinator's Summer 2011 (S11) batch.
+- Co-founders: Ilya Sukhar (CEO), James Yu, Tikhon Bernstam, Kevin Lacker.
+- *** GENUINE CROSS-REFERENCE, worth using on screen: Tikhon Bernstam also co-founded Scribd
+  (YC Summer 2006) — the sole survivor of the 11-company batch this channel already audited in
+  package 007 ("Why 9/10 YC Companies Are Gone"). Same individual, two different YC companies,
+  five years apart: one became this channel's rare "still independently operating" survivor
+  (Scribd), the other (Parse) died as a company but "won" in a different way — its code survived
+  instead of the company. Confirmed via Wikipedia "Tikhon Bernstam" cross-checked against
+  package 007's own sources-log.txt (Scribd founders: Trip Adler, Tikhon Bernstam, Jared
+  Friedman). ***
+Source: Wikipedia "Parse, Inc."; FounderTrace (foundertrace.com/companies/parse/); Wikipedia
+"Tikhon Bernstam."
+
+FUNDING — sourced, with one unreconciled figure flagged
+- Total raised before acquisition: commonly cited as "$7 million" (CB Insights/Tracxn aggregate).
+- [VERIFY] — internal inconsistency found in this research pass: one source breaks this down as
+  a $1.5M Seed round plus a $7.04M Series A, which would total ~$8.54M, not $7M as separately
+  stated. Do not resolve this by picking one number — present as "roughly $7-8.5M raised," or use
+  the more commonly repeated "$7M" headline figure while flagging the seed+Series A breakdown as
+  unreconciled in any on-screen graphic.
+- Investors (Series A): Ignition Partners, Start Fund, Google Ventures, Menlo Ventures, SV Angel,
+  Data Collective, and individual investors including Yuri Milner, Aaron Iba, Garry Tan, Justin
+  Kan, Chris Fanini, Sean Knapp, Don Dodge, David Rusenko.
+Source: Tracxn (tracxn.com/d/companies/parse); CB Insights company financials page.
+
+THE ACQUISITION — precisely dated
+- April 25, 2013: Facebook acquired Parse in a reported part-cash, part-stock deal valued at
+  approximately $85 million (TechCrunch's reported figure; Facebook did not officially disclose
+  terms).
+- Facebook explicitly positioned Parse as its first paid B2B service — a notable strategic
+  detail, since Facebook was not otherwise in the business of selling developer tools for revenue
+  at the time.
+Source: TechCrunch (techcrunch.com/2013/04/25/facebook-parse/); Forbes (Matt Hickey, Apr 25
+2013); Gigaom (Apr 25 2013).
+
+THE SHUTDOWN — precisely dated, with a notably long wind-down window
+- January 2016: Facebook announced it would sunset the hosted Parse cloud service, effective
+  January 28, 2017 — a full year of advance notice. This is a notably longer wind-down window
+  than most companies covered on this channel (contrast explicitly with e.g. package 035/Bench
+  Accounting's zero-notice shutdown, or package 041/Hopin's compressed timeline).
+- Stated reason (per contemporaneous coverage, not a leaked internal document): Facebook's own
+  strategic refocus away from operating a hosted developer-platform business, not any failure or
+  crisis specific to Parse's product or team.
+- Concurrently with the shutdown announcement, Facebook open-sourced the Parse backend as "Parse
+  Server" (Node.js-based, deployable to any infrastructure — AWS, Google Cloud, self-hosted,
+  etc.), explicitly framed as a migration path so existing Parse customers would not be stranded.
+- January 28, 2017: the hosted Parse.com service actually shut down, exactly on the announced
+  date — a real, executed timeline match, not just an announced intention.
+Source: VentureBeat (venturebeat.com/business/facebook-is-shutting-down-its-parse-cloud-service-
+on-january-28-2017); TechCrunch (techcrunch.com/2017/01/30/facebooks-parse-developer-platform-
+is-shutting-down-today).
+
+THE AFTERLIFE — precisely sourced, this is the package's payoff
+- Parse Server became the default self-hosted migration target for the large majority of
+  departing Parse.com customers during the year-long wind-down window.
+- Since 2017, Parse Server has been continuously maintained by an independent community under the
+  "Parse Platform" organization (github.com/parse-community) — NOT by Facebook, which has no
+  ongoing involvement.
+- As of this research pass (Aug 2026): Parse Server has 21,407+ GitHub stars, active commit
+  history within the past year (last checked commit activity dated July 26, 2026), and documented
+  support for current Node.js versions (18, 20, 22, 24) with a support roadmap extending through
+  2028 — real, current evidence this is a live, actively-maintained project almost a decade after
+  the company that built it died, not an abandoned repo.
+- [VERIFY]: no specific named companies currently running Parse Server in production were found
+  and confirmed in this research pass — the GitHub activity/star count stands as the primary
+  "still winning" evidence; do not name specific companies as current Parse Server users without
+  further confirmation.
+Source: github.com/parse-community/parse-server (repo stats, README); GitHub topic pages for
+parse-server/parse-platform.
+
+FOUNDERS' LATER CAREERS — sourced, Sukhar only
+- Ilya Sukhar stayed at Facebook after the acquisition until around 2016 (when Facebook fully
+  exited the Parse hosting business). Overlapping/following that, he was a part-time partner at Y
+  Combinator (2014-2016), then became a General Partner at Matrix Partners starting 2016.
+- [VERIFY]: James Yu, Tikhon Bernstam, and Kevin Lacker's specific post-Parse career paths were
+  not confirmed in this research pass beyond Bernstam's already-established Scribd connection —
+  do not state their subsequent roles without further sourcing.
+Source: Golden (golden.com/wiki/Ilya_Sukhar); VC Sheet (vcsheet.com/who/ilya-sukhar).
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- Distinct from package 019: different company, different mechanism (019 = open-source competing
+  with and killing a paid product; 049 = a company dying for unrelated reasons, its code
+  deliberately open-sourced by the acquirer, then thriving independently afterward).
+- Genuine, verified cross-reference to package 007 via Tikhon Bernstam (Scribd co-founder AND
+  Parse co-founder) — a real link between this channel's "sole batch survivor" story and this
+  channel's "the code survived, not the company" story, worth using explicitly on screen.
+- Tonally distinct from most of this channel's catalog: this is one of the more upbeat endings in
+  the catalog — the underlying technology and its user community are demonstrably better off
+  today than they were the day Parse.com shut down. Let that contrast come through rather than
+  forcing the usual somber register.
+- No fraud, scandal, or founder-sensitivity issues anywhere in this story.
+
+---
+
+BEFORE RECORDING
+1. Present funding as "roughly $7-8.5M raised" or default to the commonly-repeated "$7M" headline
+   — do not silently resolve the $7M-vs-$8.54M(seed+Series A) discrepancy by picking one number
+   without flagging it.
+2. The $85M acquisition price is TechCrunch's reported figure — Facebook never officially
+   disclosed terms; attribute it as "reportedly."
+3. Use the real, dated, and NOTABLY LONG one-year wind-down window (Jan 2016 announcement → Jan
+   28, 2017 actual shutdown) as a deliberate tonal/structural contrast to this channel's more
+   abrupt shutdown stories.
+4. The Tikhon Bernstam/Scribd cross-reference to package 007 is real and verified — safe to use
+   on screen as a direct callback.
+5. Do not name specific current-day companies as Parse Server production users — only the
+   GitHub star count/activity data is confirmed.
+6. Do not state James Yu, Bernstam, or Lacker's post-Parse career paths — only Sukhar's is
+   sourced.
+7. No fraud/scandal framing anywhere — Facebook's shutdown decision was a strategic business
+   choice, not a failure or crisis attributable to Parse's team or product.

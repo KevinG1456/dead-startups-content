@@ -1,5 +1,5 @@
-Fact-Check Reminder — Packages 001-047
-Last full audit: 2026-08-16 (044-047 added same day as 041-043; 031-040 exist and
+Fact-Check Reminder — Packages 001-051
+Last full audit: 2026-08-16 (048-051 added same day as 041-047; 031-040 exist and
 are individually sourced via their own sources-log.txt files but were built in a
 session that never got logged in THIS file — see the note below; 026-030 added
 same session as 025; 024 added, 021/022/023 added earlier, on 2026-08-14; 001-020
@@ -25,6 +25,97 @@ package's own sources-log.txt directly until this file catches up.
 ---
 
 FILLED IN (moved from placeholder framework to real, sourced content) — MOST RECENT
+
+051 - Nokia / Stephen Elop's "Burning Platform" memo (NEW TITLE, fills dead-saas-30
+  batch title #30 "the pre-mortem that came true") -> "He Warned Everyone the
+  Platform Was Burning. They Listened. It Still Burned Down." ⚠️ EXPLICIT EXCEPTION,
+  same standard as package 003's Garmin/TomTom: Nokia is a large public company,
+  NOT a VC-funded startup — flagged early and plainly in every file. Feb 8 2011:
+  Elop's ~1,300-word internal memo warned Nokia's Symbian/MeeGo platform strategy
+  was failing, using a burning-oil-platform metaphor. KEY CORRECTION vs. the batch
+  title's literal framing: the warning was HEEDED, not ignored — three days later
+  Nokia announced the Windows Phone/Microsoft partnership the memo was arguing
+  for — and the company still died anyway; real memo-to-death gap is ~4.5-5 years,
+  not the batch title's literal "2 years." Sept 2013: mobile business sold to
+  Microsoft for ~$7.2B (hedged, sources split $7.17B/$7.2B); Microsoft wrote off
+  and discontinued the business by ~2015-2016. A disputed "Trojan horse" theory
+  (Elop was planted by ex-employer Microsoft to engineer the sale) is presented
+  every time paired with his on-record denial, never as fact. [VERIFY]: memo text
+  needs one more primary-source pass before recording (used a retrospective
+  compilation this pass); board chairman's "bitter feedback" detail is single-
+  sourced via retrospective, not primary board minutes. No fraud framing — a
+  strategy/timing story, not misconduct. Full source map: see
+  `051-Nokia-The-Memo-That-Predicted-Its-Own-Death/sources-log.txt`.
+
+050 - Techstars Boulder 2007, the first-ever Techstars class (NEW TITLE, fills
+  dead-saas-30 batch title #29 "the cohort study") -> "I Tracked Down Every
+  Company From Techstars' First Class Ever. Half of Them, Nobody Can Even
+  Confirm." Full 10-company cohort audit, same method as package 007's YC
+  Summer 2006 audit — confirmed zero overlap (different accelerator, different
+  year). Roster and status: EventVue (confirmed shut down 2010, founder's own
+  postmortem); Intense Debate (acquired by Automattic 2008, still actively
+  maintained today — this batch's one clear long-term survivor); Socialthing!
+  (acquired by AOL 2008, discontinued 2017 — an unusually long ~8.5-year
+  acquire-then-kill gap); Brightkite (merged with Limbo 2009, wound down by
+  2011-2012); Villij (original company dissolved, name later bought and reused
+  by an unrelated company in 2012 — don't conflate the two); Filtrbox (acquired
+  by Jive Software 2010, standalone post-acquisition fate [VERIFY] unconfirmed);
+  madKast (acquired by ShareThis 2008, standalone post-acquisition fate
+  [VERIFY] unconfirmed); J-Squared Media and search-to-phone (no
+  shutdown/acquisition/continued-operation evidence found at all — [VERIFY]);
+  KBLabs (weakest-sourced entry in the roster, flagged with visibly less
+  confidence than the other 9). KEY FINDING, stated as the video's actual
+  thesis rather than smoothed over: unlike 007 (all 11 YC outcomes confirmable),
+  only 4 of these 10 have clean documented outcomes — the honest "half
+  unconfirmable" result IS the story. No fraud/scandal framing for any of the
+  10. Full source map: see
+  `050-Techstars-First-Class-Ever-10-Companies-10-Years-Later/sources-log.txt`.
+
+049 - Parse, Inc. (NEW TITLE, fills dead-saas-30 batch title #26 "the open-source
+  afterlife") -> "Facebook Killed This Company in 2017. Its Code Has More Users
+  Today Than It Ever Did." Founded 2011 by Ilya Sukhar, James Yu, Tikhon
+  Bernstam, Kevin Lacker (YC S11 cohort); raised ~$7-8.5M (unreconciled figure,
+  [VERIFY]); Facebook acquired Apr 25 2013 for a reported ~$85M (unofficial,
+  TechCrunch-sourced). Jan 2016: shutdown announced with a full year's notice —
+  notably longer than this channel's usual wind-down window; Parse Server
+  open-sourced the same day as the migration path. Parse.com shut down exactly
+  on schedule Jan 28 2017. Parse Server has been independently community-
+  maintained since: 21,407+ GitHub stars, active 2026 commits, Node.js support
+  scheduled through 2028. Genuine, verified cross-reference: co-founder Tikhon
+  Bernstam also co-founded Scribd, this channel's package 007 YC-batch survivor
+  — checked directly against 007's own sources-log.txt. Confirmed zero overlap
+  with package 019 (different company; 019 is open-source killing a company,
+  this is a company dying for unrelated commercial reasons and its code
+  surviving/thriving after — a resurrection story, not a cause-of-death one).
+  Deliberately more upbeat tonal entry than this channel's usual catalog —
+  flagged explicitly in README/script as an intentional departure. [VERIFY]:
+  $7M vs $8.5M funding discrepancy; unofficial $85M acquisition price; no
+  specific current-day production users named beyond aggregate GitHub activity;
+  James Yu/Bernstam/Lacker's post-Parse careers not sourced (only Sukhar's is).
+  Full source map: see
+  `049-Parse-The-Company-Died-The-Code-Won/sources-log.txt`.
+
+048 - Toysmart.com (NEW TITLE, fills dead-saas-30 batch title #25 "your data
+  after the funeral") -> "Disney Put in $45 Million. Then This Company Tried to
+  Sell Your Kid's Data." Began as Holt Educational Outlet (Oct 1997), spun off
+  as Toysmart.com Inc. (Dec 1998); Disney's Buena Vista Internet Group took a
+  ~60% stake for ~$45M (Aug 1999 — [VERIFY] one source splits this $20M+$25M,
+  package uses the hedged "approximately $45 million" throughout). Ceased
+  operations May 19 2000; forced into Chapter 11 by creditors Jun 26 2000;
+  listed its customer database for sale in bankruptcy despite a privacy policy
+  promising data would "never be shared with third parties." FTC sued Jul 2000
+  — the FIRST-EVER case of this kind. FTC's first proposed settlement would
+  have allowed a sale to a "qualified buyer" bound by the same privacy terms;
+  41 states formally objected. Jan 2001: Disney's own subsidiary paid $50,000
+  to have the data destroyed instead of transferring it — no third party ever
+  received it. Explicitly framed throughout as the ORIGINAL precedent that
+  package 020's RadioShack case (2015) later followed — same legal mechanism,
+  15 years apart, stated as the differentiator rather than pretending 020
+  doesn't exist. [VERIFY]/flagged: Toysmart was NOT a VC-funded startup in the
+  conventional sense (a retail spin-off that took Disney investment), noted
+  explicitly so it's never mischaracterized. No fraud/criminal framing — a
+  civil FTC Section 5 regulatory-precedent story. Full source map: see
+  `048-Toysmart-The-First-FTC-Data-Death-Case/sources-log.txt`.
 
 047 - One Vertical, Five Funerals: Owned-Kitchen Food Delivery (NEW TITLE, replaces
   retired dead-saas-30 batch title #18 "support ticket necrology," fills batch
@@ -756,7 +847,7 @@ CLEAN — CHECKED, NO ERRORS FOUND
 
 STRUCTURALLY FINE BUT STILL NEEDS A REAL ANCHOR / SOURCING PASS BEFORE RECORDING
 
-None among the packages actually logged above (001-030, 041-047). All are sourced
+None among the packages actually logged above (001-030, 041-051). All are sourced
 and recording-ready, subject only to the narrow inline [VERIFY] flags noted
 throughout this log (single-sourced details, figures that vary across outlets,
 etc. — each deliberately left imprecise rather than guessed at). Packages 031-040

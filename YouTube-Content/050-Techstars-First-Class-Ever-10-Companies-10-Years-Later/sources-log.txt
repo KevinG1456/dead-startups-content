@@ -1,0 +1,256 @@
+Sources Log — Package 050: Techstars Boulder 2007 (The First Class Ever)
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+This title fills dead-saas-30 batch title #29 ("The cohort study: tracking every
+startup from one accelerator demo day, 10 years on"). It requires an actual
+company-by-company audit of one real, named accelerator batch — same method as
+this channel's package 007 (YC Summer 2006). This log is the full roster, with
+each company's status individually sourced, and an honest accounting of which
+outcomes could and could not be confirmed nearly 20 years later.
+
+BATCH SELECTION — CONFIRMED DISTINCT FROM PACKAGE 007
+Package 007 audited Y Combinator's Summer 2006 batch (11 companies). This package
+uses a DIFFERENT accelerator entirely — Techstars, not YC — and specifically its
+very first-ever class: Techstars Boulder, Summer 2007, founded by David Cohen
+(with David Brown and Brad Feld). Zero company overlap with 007's roster. Chosen
+because it's small (10 companies, fully auditable rather than sampled) and, as
+Techstars' inaugural class, has genuine "first ever" framing distinct from 007's
+"just a normal early batch" angle.
+
+Structure: each of the 10 startups gave 5% equity (some sources say ~6%) in
+exchange for a small amount of seed capital (commonly cited as $15,000-$18,000
+per team, sources vary slightly) plus mentorship and office space, culminating in
+a public demo day. Per Brad Feld's own 2010 blog post aggregating 2007-2009
+Techstars data, 8 of the 10 companies in this class went on to raise a combined
+total of just over $5 million in follow-on funding, and 6 of the 10 were
+eventually acquired in some form.
+Source: feld.com/archives/2010/03/techstars-data-from-2007-to-2009/
+
+---
+
+FULL ROSTER — Techstars Boulder, Class of 2007 (10 companies)
+Primary roster source: TechCrunch, "TechStars Demo Day – Class of 2007" (Aug 17,
+2007), techcrunch.com/2007/08/17/techstars-demo-day-class-of-2007/, cross-checked
+against CBInsights company/investor pages and startupjedi.vc's Techstars network-
+effect retrospective.
+
+1. EVENTVUE — built private social networks around conferences, letting attendees
+   connect before/during/after events online.
+   STATUS: (a) SHUT DOWN, 2010. CONFIRMED, well-documented. Raised ~$500K from
+   angel investors post-Techstars. Co-founder Rob Johnson gave an on-record
+   explanation: "We were not seeing enough customers or growth to justify our
+   market or product" — the team published a detailed public post-mortem. Widely
+   cited afterward (including in Techstars' own "Do More Faster" book) as an
+   example of building a "vitamin" (nice-to-have) instead of a "painkiller"
+   (something organizers needed enough to pay for).
+   Source: techcrunch.com/2010/02/05/eventvue-deadpool/; westword.com/news/
+   techstars-post-mortem-could-boulder-startup-next-big-sound-suffer-same-fate-
+   as-eventvue-5828281/; failory.com/cemetery/eventvue; mixergy.com/interviews/
+   eventvue-josh-fraser/ (founder's own on-record post-mortem interview).
+
+2. INTENSE DEBATE — a "souped-up" blog-commenting widget: threading, comment
+   analytics, bulk moderation, user reputation, comment aggregation.
+   STATUS: (d) ACQUIRED, STILL OPERATING TODAY as part of its acquirer. Acquired
+   by Automattic (WordPress's parent company) in 2008. CONFIRMED still actively
+   maintained as of 2025-2026 — described in its own current support materials
+   as "in maintenance mode" (core functionality preserved, no major new feature
+   development) but genuinely still live, still owned by Automattic, still
+   distributed as a WordPress plugin. This is this batch's clearest survivor —
+   distinct from OMGPOP/Xobni's pattern in package 007 (acquired then killed
+   within about a year) — IntenseDebate has now outlived its founding company by
+   roughly 18 years under its acquirer's ownership.
+   Source: techcrunch.com/2007/08/07/intense-debate-soups-up-your-blog-comments
+   (original 2007 launch coverage); intensedebate.com/wordpress and
+   support.intensedebate.com/wordpress-plugin/ (current status, "© 2025/2026
+   Automattic Inc." branding confirms ongoing ownership).
+
+3. SOCIALTHING! — a dashboard for managing/aggregating a user's blogs, photos,
+   music, friends, and social-network activity in one place.
+   STATUS: (b) ACQUIRED THEN EVENTUALLY DISCONTINUED — but on a MUCH LONGER
+   timeline than package 007's OMGPOP/Xobni pattern. Acquired by AOL, confirmed
+   August 2008. Rebranded as "AOL Lifestream" in 2010. Finally shut down
+   February 24, 2017 — roughly 8.5 years after acquisition, not the ~1-year
+   pattern seen in 007. [VERIFY]: acquisition price was not disclosed/found in
+   this research pass.
+   Source: en.wikipedia.org/wiki/Socialthing; huffpost.com/entry/socialthing-
+   starts-spread_n_192328.
+
+4. J-SQUARED MEDIA — built "Sticky Notes," an early viral Facebook application
+   (1.7 million users within six weeks of launch, reportedly $30K/month revenue
+   at demo day).
+   STATUS: (e) UNCONFIRMED — presumed defunct, NOT independently corroborated.
+   No shutdown announcement, acquisition, or continued-operation evidence was
+   found in this research pass. Facebook's platform-API changes circa 2009-2010
+   killed off most of that era's viral Facebook-app businesses, which is
+   circumstantial context, NOT direct evidence of this specific company's fate.
+   [VERIFY] — flag explicitly as "unable to confirm status," same honesty
+   standard package 007 applied to Zanbazaar. Do not state this company shut
+   down as a confirmed fact — state only that no evidence of continued
+   operation was found.
+   Source: jsquared.wordpress.com (company's own blog, last meaningful activity
+   traced to the Facebook-app era; no closure announcement found on it).
+
+5. SEARCH-TO-PHONE — a voice-enabled, automated Yellow-Pages-style search
+   service, reportedly targeted at conferences/bars/public places; reportedly
+   raised around $120K total (seed stage).
+   STATUS: (e) UNCONFIRMED — presumed defunct, NOT independently corroborated.
+   No shutdown, acquisition, or continued-operation evidence was found. One
+   aggregator source lists status as "Alive," but this could not be
+   independently corroborated against a primary source and should NOT be
+   treated as confirmed — flag explicitly, same as J-Squared Media above.
+
+6. VILLIJ — an early social-graph/interest-mapping platform ("connects users
+   based on similar interests and online activity").
+   STATUS: (c) COMPLICATED — the ORIGINAL 2007 company (operating as "Localcents,
+   Inc.") did not shut down with a clean announcement, but was, per available
+   reporting, "massively underfunded" relative to its technical ambitions; staff
+   was reduced to a minimum, and the founders moved on to separately co-found
+   other startups (DandyID.org, Claim.io) — in substance, the original company
+   faded out rather than continuing to operate. In October 2012, a DIFFERENT,
+   unrelated company called Tout'd (a social-recommendation platform, co-founded
+   by someone who had been involved with the original Villij) acquired the
+   Villij name/some assets and rebranded ITSELF as "Villij." This means the
+   brand name technically still exists today, but attached to a different
+   company/product than the one that went through Techstars in 2007 — do not
+   present this as the original company "surviving." Present the original
+   2007 Villij as effectively dissolved, with its name later reused elsewhere.
+   Source: techcrunch.com/2012/10/10/toutd-is-now-called-villij-after-the-
+   social-recommendation-platform-buys-a-techstars-alum-and-integrates-its-
+   platform/.
+
+7. FILTRBOX — a social-media monitoring platform for marketers/PR/brand
+   management (real-time web monitoring).
+   STATUS: (b) ACQUIRED, POST-ACQUISITION FATE UNCONFIRMED. Acquired by Jive
+   Software, announced January 7, 2010, for an undisclosed amount; Jive stated
+   Filtrbox's monitoring technology would be "absorbed into Jive's platform."
+   [VERIFY] — no source found confirming whether Filtrbox continued to exist as
+   a distinct, branded product after absorption, or was fully discontinued as a
+   standalone name. Present as "acquired, technology absorbed into Jive's
+   platform" — do NOT state definitively that the product was "killed" or that
+   it "survived," since neither is confirmed.
+   Source: techcrunch.com/2010/01/07/jive-software-acquires-social-media-
+   monitoring-startup-filtrbox; huffpost.com/entry/jive-software-acquires-
+   bo_n_415589; crunchbase.com/acquisition/jive-software-acquires-filtrbox.
+
+8. KBLABS — appears in secondary/aggregated rosters of this cohort (e.g.
+   startupjedi.vc's Techstars retrospective) alongside J-Squared Media,
+   search-to-phone, and Villij as part of "the first Techstars program in 2007."
+   STATUS: (e) LARGELY UNCONFIRMED — the WEAKEST-SOURCED entry in this entire
+   roster, comparable to (or a step below) package 007's single-sourced
+   Zanbazaar entry. This research pass could not independently corroborate even
+   basic details about what KBLabs' product was, via a primary contemporaneous
+   source (e.g. the original Aug 2007 TechCrunch demo-day coverage does not
+   appear to name it directly in the excerpts retrieved). Flag prominently on
+   screen with an explicit "unable to fully corroborate — included because it
+   appears in secondary rosters of this cohort, not independently confirmed"
+   caveat, presented with visibly less confidence than the other 9 entries.
+
+9. BRIGHTKITE — an early location-based social network (SMS/app "check-ins,"
+   see who's nearby).
+   STATUS: (b) ACQUIRED-THEN-DISCONTINUED, CONFIRMED with real dates. Founded
+   2007 by Brady Becker, Martin May, and Alan Seideman. Merged with mobile
+   social network Limbo in April 2009 (the combined company kept the Brightkite
+   name; Limbo also announced a $9M funding round at the same time). By
+   December 2011, Brightkite's apps had been pulled from app stores and its
+   website replaced with "This is not goodbye... we're just moving on to
+   something better." By April 2012, the site was no longer operating. Total
+   arc: merger to full shutdown in ~2.5-3 years.
+   Source: en.wikipedia.org/wiki/Brightkite; techcrunch.com/2009/04/07/mobile-
+   socializing-limbo-merges-with-brightkite-and-announces-9-million-funding-
+   round/; techcrunch.com/2011/12/20/brightkite-winds-down-says-it-will-come-
+   back-with-something-better-again.
+
+10. MADKAST — a widget letting publishers easily syndicate blog content in one
+    line of embeddable code (notably, TechCrunch coverage frames it as the
+    FIRST company from this class to publicly launch, Aug 3 2007, ahead of the
+    group demo day two weeks later).
+    STATUS: (b) ACQUIRED, POST-ACQUISITION FATE UNCONFIRMED. Acquired by
+    ShareThis — described by TechCrunch at the time as "a fellow widget maker"
+    — announced September 23, 2008. [VERIFY] — no source found confirming
+    whether madKast continued as a distinct branded product after acquisition
+    or was fully folded into/discontinued within ShareThis's own product line.
+    Present as "acquired by ShareThis, terms undisclosed" — do not state a
+    definitive kill date or claim of continued survival, since neither is
+    confirmed.
+    Source: techcrunch.com/2007/08/03/madkast-easily-sydicate-your-blog-in-
+    one-line-of-code/ (original launch); techcrunch.com/2008/09/23/sharethis-
+    to-acquire-fellow-widget-maker-madkast/ (acquisition); crunchbase.com/
+    acquisition/sharethis-acquires-madkast--cd3ee973.
+
+---
+
+THE REAL FINDING — this batch is genuinely harder to trace than 007's, and
+THAT is itself part of the honest story, not a flaw to hide
+
+Unlike package 007 (YC Summer 2006), where all 11 companies' outcomes were
+confirmable with real confidence, this smaller, earlier, less-covered
+accelerator's inaugural batch has a meaningfully higher proportion of
+UNCONFIRMED outcomes almost 20 years later:
+
+CONFIRMED, CLEAN OUTCOMES (4 of 10):
+- EventVue: shut down (2010), well-documented, founder's own post-mortem.
+- Intense Debate: acquired (2008), STILL ACTIVELY MAINTAINED under Automattic
+  today — this batch's one clear, confirmed long-term survivor.
+- Socialthing!: acquired (2008), discontinued (2017) — acquired-then-killed,
+  but on an 8.5-year timeline, not 007's ~1-year pattern.
+- Brightkite: merged (2009), wound down (2011-2012) — a clean, dated arc.
+
+COMPLICATED BUT REASONABLY CLEAR (1 of 10):
+- Villij: original company effectively dissolved (underfunded, team dispersed
+  to other startups); its NAME was later reused by an unrelated company in
+  2012. Present as "original company gone," not "survived."
+
+ACQUIRED, BUT POST-ACQUISITION FATE GENUINELY UNCONFIRMED (2 of 10):
+- Filtrbox (acquired by Jive Software, 2010): "absorbed" — survival vs.
+  discontinuation as a standalone product not confirmed either way.
+- madKast (acquired by ShareThis, 2008): same — absorption confirmed,
+  standalone survival/discontinuation not confirmed either way.
+
+WHOLLY UNCONFIRMED STATUS, NO SHUTDOWN OR ACQUISITION EVIDENCE FOUND (3 of 10):
+- J-Squared Media, search-to-phone: presumed defunct given no evidence of
+  continued operation, but this is NOT the same as a confirmed shutdown — flag
+  clearly as unconfirmed, not asserted as fact.
+- KBLabs: the weakest-sourced entry in the whole roster — flag it with visibly
+  LESS confidence than every other entry, similar to (or below) 007's
+  Zanbazaar precedent.
+
+RECOMMENDED FRAMING FOR THE VIDEO: do not force a single clean ratio the way
+007 could. The honest finding here is TWO-LAYERED: (1) among the outcomes that
+CAN be confirmed, the pattern of "founded 2007, several small quiet failures,
+a couple of acquire-then-eventually-discontinue stories, one company that
+genuinely outlived its own founding company by ~18 years under an acquirer" is
+real and interesting; AND (2) the fact that 5-6 of 10 outcomes from a real,
+named, once-covered accelerator batch are now UNCONFIRMABLE after not even 20
+years is itself a genuine, sourced finding worth stating directly on screen —
+a rebuttal to the idea that "just check what happened to them" is always easy,
+even for real, once-press-covered companies. This is a DIFFERENT, complementary
+lesson to 007's dual-ratio finding, not a weaker version of the same video.
+
+---
+
+BEFORE RECORDING
+1. Never claim a single flat "X of 10 gone" ratio — the real finding requires
+   presenting the confirmed/complicated/unconfirmed three-way split explicitly,
+   per the "THE REAL FINDING" section above.
+2. Intense Debate is this batch's confirmed long-term survivor (still
+   maintained under Automattic today) — do not lump it in with "gone."
+3. Present Villij's fate carefully: the ORIGINAL 2007 company is gone; its name
+   was later reused by an unrelated 2012 acquirer. Do not say Villij "survived."
+4. Do NOT state Filtrbox or madKast's products were definitively "killed" —
+   both were "absorbed" into their acquirers with no confirmed evidence either
+   way on standalone survival. Use "absorbed, fate of the standalone product
+   unconfirmed," not a definitive kill claim.
+5. Flag J-Squared Media and search-to-phone as "no evidence of continued
+   operation found" (presumed, not confirmed, defunct) — do not state as fact
+   that they shut down on a specific date, since none was found.
+6. KBLabs is the single weakest-sourced entry in this roster — flag it more
+   visibly than any other entry, similar to or below package 007's Zanbazaar
+   caveat.
+7. No fraud/scandal framing anywhere in this package — every outcome here is a
+   normal startup-failure, quiet-fade, or acquisition story.
+8. This package's roster has ZERO overlap with package 007's YC Summer 2006
+   roster — different accelerator, different companies, confirmed distinct.
+9. This research pass hit its WebSearch budget before Filtrbox's and madKast's
+   post-acquisition fates could be more fully confirmed — a follow-up pass
+   could still resolve those two [VERIFY] flags if useful before recording.
