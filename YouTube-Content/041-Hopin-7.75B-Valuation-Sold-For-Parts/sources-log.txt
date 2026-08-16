@@ -1,0 +1,137 @@
+Sources Log — Package 041: Hopin
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Hopin is the replacement anchor for this channel's "dead-saas-30" Batch 2 title #15: "14 months of
+runway, 19 months of roadmap: reconstructing a burn-rate suicide from job postings." The original
+pattern (reconstructing overhiring purely from job-posting cadence) had no sourceable single-company
+anchor after two research passes. Hopin fits the underlying THEME — hiring and spending far ahead of a
+demand curve that then collapsed — with a fully documented, on-the-record headcount and funding
+trail, so it replaces #15's slot with a real, verifiable story rather than a forced reconstruction.
+
+CRITICAL FRAMING CORRECTION — READ BEFORE WRITING ANY FILE IN THIS PACKAGE
+The popular shorthand version of this story ("raised $1 billion, sold for $15 million") is real but
+incomplete in two ways this package must correct:
+1. The $15 million was only the upfront cash portion of the August 2023 RingCentral deal for Hopin's
+   Events + Session product lines — the deal also included up to $35 million more in contingent,
+   performance-based consideration (SEC filing: RingCentral 8-K, Sept 2023), i.e. up to $50 million in
+   total potential deal value, not a flat $15 million.
+2. Hopin did NOT cease to exist in August 2023. It retained StreamYard, Streamable, and Superwave and
+   continued operating as a smaller company under new CEO Badri Rajasekar (former CTO/CPO; founder
+   Johnny Boufarhat stepped down as CEO at the time of the RingCentral deal). Hopin's independent
+   existence actually ended in April 2024, when Bending Spoons acquired the remaining company (legally
+   "StreamYard Top Corp") outright — terms undisclosed. Use BOTH endpoints (Aug 2023 asset sale, Apr
+   2024 full acquisition) as the real, complete ending — not just the more famous "$15M" headline.
+Never state "sold for $15 million" as the full outcome — state "up to $50 million for the events
+business in Aug 2023, then the remaining company fully absorbed by Bending Spoons in Apr 2024, terms
+undisclosed."
+
+---
+
+FOUNDING — precisely sourced
+- Johnny Boufarhat, Australian-born, founded Hopin in London in June 2019 after an autoimmune illness
+  kept him largely housebound, prompting the idea for a virtual-events platform. The product launched
+  in March 2020 — almost exactly as COVID-19 lockdowns began.
+Source: CNBC (Aug 5, 2021, "Two-year-old events start-up Hopin boomed in the pandemic"); Wikipedia
+("Johnny Boufarhat"); Grokipedia ("Johnny Boufarhat").
+
+THE FUNDING ROCKET — precisely sourced, dated
+- Feb 2020: $6.5M Seed round.
+- Jun 2020: $40M Series A.
+- Nov 2020: $125M Series B — valuation surged past $2 billion in this round, making Hopin a unicorn
+  less than a year after launch.
+- Jan 2021: acquires livestreaming-studio startup StreamYard for $250 million (cash + stock) — the
+  first of five acquisitions in 2021 (also Streamable, Boomset, Attendify, and Jamm).
+- Mar 2021: $400M Series C at a $5.65 billion valuation.
+- Aug 2021: $450M Series D at a $7.75 billion valuation — at the time, reported as the fastest a
+  European startup had ever reached that scale.
+- Total raised across all rounds: just over $1 billion (~$1.02B summed across seed through Series D).
+Source: CNBC (Aug 5, 2021); UNLEASH ("UK scaleup Hopin valued at $7.75bn after $450m Series D");
+BusinessWire (Aug 5, 2021 Series D release; Jan 7, 2021 StreamYard acquisition release); TechCrunch
+(Jan 7, 2021, "Hopin buys livestreaming startup Streamyard for $250M"; Mar 4, 2021, Series C
+confirmation).
+
+THE HEADCOUNT ROCKET — precisely sourced
+- Hopin grew from approximately 8 employees in early 2020 to approximately 1,200 at its peak
+  (roughly early-to-mid 2022) — an increase widely cited as approximately 15,000% in about two years.
+Source: Sifted ("Was Hopin really such a failure?"); Headcount Coffee ("The Collapse of Hopin").
+
+THE COLLAPSE IN DEMAND AND THE LAYOFFS — precisely sourced, dated
+- As in-person events resumed through 2022 and pandemic-driven demand for virtual events shrank,
+  Hopin cut staff in three separate rounds within a single year:
+  - Feb 10-11, 2022: 138 employees laid off, approximately 12% of staff, "citing goal of sustainable
+    growth."
+  - Jul 11, 2022: 242 employees laid off, approximately 29% of staff — the second round that year.
+  - Nov 2022: a third round, reported at approximately 17% of remaining staff, including the VP of
+    product, head of data science, and several directors.
+  - Combined effect: headcount roughly halved across 2022, from about 1,200 at peak down to
+    approximately 500 by the end of the year.
+Source: TechCrunch (Feb 10, 2022, "Virtual events platform Hopin cuts 12% of staff"; Jul 11, 2022,
+"Hopin cuts 29% of its staff, just months after its last layoffs"); Conference News ("Hopin announces
+new layoffs and a 'transformation'"); Skift Meetings (Feb 11, 2022; Jul 11, 2022).
+
+THE RINGCENTRAL DEAL — Aug 2023, precisely sourced
+- Jul 31 / Aug 2, 2023: RingCentral agreed to acquire Hopin's Events and Session product lines —
+  including the underlying technology, customer relationships, and the engineering, product, and
+  go-to-market teams behind them — for $15 million upfront cash plus up to $35 million more contingent
+  on performance targets (up to $50 million total potential consideration, per RingCentral's SEC 8-K
+  filing).
+- Hopin planned to use a portion of the deal proceeds, plus existing cash, to provide partial liquidity
+  to its venture backers; investors who had participated from the Series B round onward were reported
+  to expect to recoup roughly half of what they had put in.
+- Founder Johnny Boufarhat stepped down as CEO at the time of this deal; Badri Rajasekar, previously
+  CTO and Chief Product Officer, became CEO.
+- Hopin retained StreamYard, Streamable, and Superwave — by this point its primary revenue drivers —
+  and continued operating as a smaller company, initially describing a pivot toward a "Community Suite"
+  for creators.
+- *** [VERIFY]: the earlier-referenced "$500 million share buyback" claim could NOT be independently
+  confirmed in this research pass and should NOT be used — the accurate, sourced fact is the partial
+  investor-liquidity plan described above (Series B+ investors expected to recoup roughly half their
+  investment from deal proceeds plus cash), not a specific $500M buyback figure. ***
+Source: TechCrunch (Aug 2, 2023, "Hopin, the struggling virtual conference unicorn, sells events and
+engagement units to RingCentral"); Axios (Aug 3, 2023, "Hopin, once valued at $7.6 billion, makes some
+major changes"; Aug 12, 2023, "Virtual meetings software flameout"); RingCentral SEC 8-K (Sept 2023);
+Sifted ("Johnny Boufarhat steps down as CEO of Hopin").
+
+THE FULL END — Apr 2024, precisely sourced
+- Apr 9, 2024: Bending Spoons (the Italian acquisition-focused tech company) agreed to acquire the
+  remaining Hopin entity — legally "StreamYard Top Corp," covering StreamYard, Streamable, and
+  Superwave — ending Hopin's independent existence entirely, less than five years after founding and
+  about three years after its $7.75 billion peak valuation. Deal financial terms were not disclosed.
+Source: Skift Meetings (Apr 15, 2024, "Hopin To Be Acquired by Bending Spoons"); BusinessWire (Apr 9,
+2024, "Bending Spoons to Acquire StreamYard"); AKM ("Italian Bending Spoons acquires StreamYard Top
+(Hopin)").
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This is the channel's clearest "hiring and spending far ahead of a demand curve that then reversed"
+  story — distinct from fraud-driven collapses (Ozy Media, 029) and distinct from single-decision
+  stories (Friendster, 040). No fraud or criminal allegations apply to anyone in this story.
+- The pandemic-specific nature of the underlying demand (virtual events) is the throughline explaining
+  WHY the collapse happened, not just THAT it happened — keep this causal link explicit throughout the
+  package rather than treating the layoffs as an isolated, unexplained event.
+- Two clean numeral contrasts exist and can both be used across the package: (1) 8 employees to ~1,200
+  employees to ~500 employees, and (2) $7.75 billion peak valuation to up to $50 million for the core
+  product to a fully undisclosed-terms full-company acquisition eight months later.
+
+---
+
+BEFORE RECORDING
+1. Never state the ending as simply "sold for $15 million" — the accurate figure for the Aug 2023
+   RingCentral deal is $15 million upfront plus up to $35 million contingent (up to $50 million total
+   potential), and that deal was NOT the end of the company — use both the Aug 2023 deal AND the Apr
+   2024 Bending Spoons full acquisition as the complete ending.
+2. Do not use the "$500 million share buyback" figure — it could not be verified. Use the sourced,
+   accurate framing instead: partial liquidity to Series B+ investors from deal proceeds plus cash,
+   expected to recoup roughly half their investment.
+3. Bending Spoons' financial terms for the April 2024 acquisition were not disclosed — do not invent a
+   number for this deal.
+4. This is a demand-evaporation and overhiring story, not a fraud story — keep the tone analytical, not
+   accusatory. Johnny Boufarhat's illness-driven origin story and the company's real, pandemic-specific
+   product-market fit should be presented with genuine context, not mockery — the company built
+   something real that briefly mattered enormously; the demand curve for it was simply temporary and
+   pandemic-specific, and headcount/spend scaled as if it were permanent.
+5. [VERIFY] before recording: search for any more recent (post-Apr-2024) reporting confirming Bending
+   Spoons' deal terms or Hopin/StreamYard's status under Bending Spoons, in case terms have since been
+   disclosed.

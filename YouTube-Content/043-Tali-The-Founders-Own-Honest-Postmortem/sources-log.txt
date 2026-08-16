@@ -1,0 +1,148 @@
+Sources Log — Package 043: Tali
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Tali replaces this channel's "dead-saas-30" batch title #17 ("The sales-led startup where CAC never
+once beat LTV — and everyone knew"), one of seven titles from the batch's #11-#20 half that had no real
+sourceable single-company anchor after the original research pass. Tali was sourced fresh in a second,
+harder research pass (2026-08-16) specifically to fill this slot, using different search angles than the
+original pass (which had focused on unnamed "founder essay" search terms and found nothing usable).
+
+---
+
+FOUNDING — precisely sourced
+- Tali was founded in February 2017 in Beaverton, Oregon (Portland metro area) by three coworkers at a
+  healthcare company: Matthew (Matt) Volm, Matt Anthes-Washburn, and Matt Hoiland. All three co-founders
+  are named Matt; the company's actual registered legal entity name was "Three Matts Inc."
+- Volm served as CEO.
+Source: Gust company profile ("Three Matts Inc."); Above the Law (Oct 17, 2018, "Meet Matt Volm, CEO
+And Co-Founder Of Tali"); Legal Tech Founders (Oct 2018 interview).
+
+THE PRODUCT — precisely sourced
+- Tali was a voice-powered timekeeping assistant for lawyers: users spoke their billable time to Amazon
+  Alexa or Google Assistant, and the system synced that time automatically into legal billing platforms
+  including Clio, Rocket Matter, and PracticePanther.
+- Pronunciation detail: "Tali" is an actual word (plural of "talus," an anklebone), pronounced
+  "TAIL-eye" — not "Tally," which is how it was commonly mispronounced/misheard, creating friction for a
+  voice-first product. Source for this detail: Legal Cheek's founder interview, where Volm discusses the
+  naming issue directly as a contributing factor.
+Source: Above the Law; Legal Cheek (May 30, 2019); Failory founder interview.
+
+FUNDING — precisely sourced
+- First investment received June 2017; over roughly 1.5 years, Tali raised nearly $1.0 million on a
+  rolling pre-seed structure using SAFEs and convertible notes, typically at a 15-20% discount and a
+  $3.5M-$4.0M valuation cap.
+- Named investors: Cascade Angels, Mucker Capital, Geekdom Fund, and SoFi Ventures.
+- October 2018: Tali won $100,000 in Clio's "Launch//Code" pitch competition.
+- *** [VERIFY]: the Failory interview headline references "$750K burned... over 2.5 years," while other
+  sources state "nearly $1.0M raised... over 1.5 years." These are not necessarily contradictory (raised
+  vs. burned are different figures, and the operating window may be measured differently across
+  sources), but the precise reconciliation was not fully confirmed in this research pass. Use "raised
+  nearly $1 million" as the primary, best-corroborated figure (repeated across Legal Cheek and Failory
+  independently) and avoid stating a precise "burned" figure on screen unless further verified. ***
+Source: Legal Cheek; Failory interview; Above the Law.
+
+THE LAUNCH AND THE CHURN DISASTER — precisely sourced
+- September 2017: paid beta launched publicly at the Clio Cloud Conference.
+- December 2017: 101 paid users at $30/user/month, totaling $3,030 in monthly recurring revenue.
+- Critical product gap: the subscription auto-renewal billing system had not been built before launch.
+  When the first billing cycle ended, Volm had to personally contact all 101 users to manually resubmit
+  payment information. Only 22 of the 101 did so — a 78% churn rate directly attributable to this
+  missing feature, not to product dissatisfaction.
+Source: Failory founder interview (most detailed on this specific mechanism); Legal Cheek (corroborates
+the 101-user, $30/month, 78%-churn figures independently).
+
+THE FIVE FAILED ACQUISITION CHANNELS — precisely sourced, direct founder quotes
+Throughout 2018, Tali tried five distinct customer-acquisition channels. Founder Matthew Volm's own
+words, from his Medium postmortem, describing each:
+1. Outbound/inside sales — "unit economics were not sustainable."
+2. Digital marketing (general campaigns) — "results were poor."
+3. Google AdWords / SEM (paid search) — "this was expensive and conversion rates were low."
+4. Facebook Ads (paid social) — included among the channels tried per Failory's interview summary;
+   grouped with digital marketing failures.
+5. Reseller / referral partnerships — "these weren't driving any volume."
+Source: Matthew Volm, "I just shut down my startup. Here's what I learned." (Medium/The Startup/SWLH,
+direct founder-authored postmortem); corroborated by Failory's separate founder interview, which lists
+the same channel set (inside sales, Google AdWords, Facebook Ads, resellers) as having failed to drive
+meaningful growth.
+
+THE PRICE CUT AND FLAT REVENUE — precisely sourced
+- During 2018, Tali cut its price from $30/user/month to $12/user/month, attempting to remove price as
+  an adoption barrier.
+- Paid user count grew to roughly 250 by the end of 2018 — but monthly recurring revenue remained flat
+  at approximately $3,000, since the price cut offset the user growth almost exactly.
+- Free-trial-to-paid conversion never exceeded 3.0%. Daily active usage never exceeded 10% of the paid
+  user base, even after continued 2018 product improvements.
+Source: Failory founder interview; Legal Cheek.
+
+THE RUNWAY AND THE SHUTDOWN DECISION — precisely sourced, with one date discrepancy flagged
+- By December 2018, Tali had approximately 2.5 months of runway remaining; at the company's
+  then-current growth rate, reaching cash-flow-positive would have required roughly 26 more months.
+- Volm returned to existing investors, then angel investors, then later-stage investors, requesting
+  bridge funding. All declined.
+- Mentors advised against running the company in "zombie mode" (continuing to operate with no credible
+  path to survival) — Volm is quoted (via Failory) describing this advice as: "Putting things in zombie
+  mode is a dumb idea."
+- Volm and his co-founders chose to shut Tali down rather than continue in zombie mode.
+- *** [VERIFY]: the exact shutdown month is not firmly confirmed. Legal Cheek's article, published May
+  30, 2019, discusses the shutdown as already having occurred by publication — implying a shutdown in
+  the first half of 2019, likely Q1-Q2 2019 (consistent with the December 2018 "2.5 months of runway"
+  figure). One automated extraction of that same article separately surfaced an "end of June 2019"
+  reference that cannot be reconciled with the article's May 30, 2019 publication date, and should NOT
+  be used. On screen: state "shut down in 2019" without a specific month unless a firmer primary source
+  is found before recording. ***
+Source: Legal Cheek (May 30, 2019); Failory founder interview.
+
+THE POSTMORTEM — precisely sourced
+- Founder Matthew Volm published a detailed public postmortem on Medium ("I just shut down my startup.
+  Here's what I learned," medium.com/swlh/i-just-shut-down-my-startup-heres-what-i-learned-
+  2a57c0e98090), naming specific channels tried, specific reasons each failed, and specific operating
+  numbers (users, MRR, churn, runway) — an unusually high level of public specificity for a startup
+  failure writeup.
+- This postmortem, plus subsequent interviews (Legal Cheek, Failory), is the primary basis for this
+  package's "founder chose to be candid publicly" framing.
+Source: Medium (Matthew Volm, direct author); Legal Cheek; Failory.
+
+POST-TALI — Matthew Volm's later career, for context/closing note only, precisely sourced
+- After Tali, Volm held VP of Business Operations at Ally.io (later acquired by Microsoft), then became
+  CEO/co-founder of Funnel IQ, then CEO/co-founder of Atomic (April 2022-September 2023), and is
+  currently CEO/co-founder of RevOps Co-op (a community of 10,000+ RevOps professionals), alongside
+  Founder/Managing Consultant roles at Acorn Strategies. He has also served as a scout at Mucker
+  Capital — one of Tali's own former investors.
+- This detail is optional closing/context material, not required for the core narrative — use only if
+  needed to close the video on a forward-looking note; do not overstate its significance to the Tali
+  story itself.
+Source: LinkedIn; TheOrg (Mucker Capital org chart); Crunchbase person profile.
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This is a smaller-scale anchor than most of this channel's packages (~$1M raised vs. this channel's
+  typical tens-to-hundreds-of-millions anchors) — deliberately used here because its differentiator is
+  the founder's own voluntary, detailed candor, not the dollar amount. Never inflate the funding figure
+  or peak user count to make the story feel bigger than it is.
+- No fraud, scandal, or bad-faith conduct applies to anyone in this story. The missing auto-renewal
+  feature and the five failed acquisition channels are real, sourced, ordinary startup-execution and
+  market realities — present neutrally and respectfully, not as mockery.
+- This package is this channel's first to be built primarily around a founder's own self-published
+  postmortem as the dominant source, rather than press coverage or court/bankruptcy records.
+
+---
+
+BEFORE RECORDING
+1. Never inflate the ~$1 million raised, the ~250 peak paid users, or the $100,000 pitch-contest win —
+   the real, modest scale is part of the honest framing, not a weakness to paper over.
+2. [VERIFY] before recording: confirm the exact shutdown month if possible. Default to "shut down in
+   2019" without a specific month if no firmer source is found — do not state "June 2019" (an
+   unreconciled, likely erroneous extraction) or any other unconfirmed specific month as fact.
+3. [VERIFY] before recording, if time allows: reconcile the "nearly $1.0M raised over 1.5 years" figure
+   against the separately-surfaced "$750K burned over 2.5 years" figure from Failory's headline — these
+   may describe different things (raised vs. burned; funding window vs. total operating window) and are
+   not necessarily contradictory, but state only the better-corroborated "~$1M raised" figure on screen
+   unless this is resolved.
+4. Keep the founder's own quotes verbatim and clearly attributed to Matthew Volm's Medium postmortem
+   throughout — the specificity and directness of his own words is this package's core differentiator.
+5. Present the missing auto-renewal feature and the naming-pronunciation issue as real, sourced,
+   slightly ironic operational realities — never as mockery of the three founders.
+6. No fraud/criminal allegations apply to anyone in this story — keep the tone respectful and
+   analytical throughout, consistent with this channel's standing tone conventions.

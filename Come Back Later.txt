@@ -1,5 +1,5 @@
 Come Back Later — Where This Project Stands
-Last updated: 2026-08-15
+Last updated: 2026-08-16
 
 WHAT THIS FILE IS
 A quick-reorientation doc. Read this first when you come back, before opening
@@ -10,11 +10,19 @@ Reminder.txt) is the actual detailed record — this file is just the map.
 
 BIG PICTURE
 
-30 packages exist in /YouTube-Content, numbered 001-030. Every single one is
-fact-checked and production-ready as of this session. Nothing is blocked. If you
+43 packages exist in /YouTube-Content, numbered 001-043. Nothing is blocked. If you
 want to record something tomorrow, pick any package and go — the README.md at the
 top of each folder tells you the real anchor story and flags anything still marked
 [VERIFY].
+
+NOTE ON THIS FILE'S COVERAGE: this file's session-by-session narrative below was
+last kept current through package 030. Packages 031-040 (Virgin Orbit, Practice
+Fusion, Quixey, a 4-company Katerra/Veev/Plastiq/Enjoy Technology comparator,
+Bench Accounting, Meerkat/Houseparty, Color Labs, Webvan/Instacart, Twitterrific,
+Friendster) were built in a session that never got logged here — they ARE real,
+sourced, and each has its own sources-log.txt, just not narrated in this file.
+See project_channel_overview memory for the short version of what each covers.
+041-043 (added 2026-08-16) ARE narrated below.
 
 001-020 were the original title set (from Niche name.txt + Content Titles V2-V4).
 021 (Stay Alfred), 022 (Fast), and 023 (Munchery) were new titles added a couple
@@ -142,6 +150,59 @@ each package's own specific caution — the Ashkenazi/Chinese breach handling in
 verification: 029's own README title was originally ambiguous in a way that
 could be misread as Watson (not his co-founder Samir Rao) having done the
 YouTube impersonation — corrected to name "his co-founder" explicitly.
+
+---
+
+WHAT HAPPENED THIS SESSION (2026-08-16) — 041, 042, 043
+
+Earlier work on the "dead-saas-30" batch (Batch 2, titles #1-#20) had left 7 titles
+permanently skipped for lack of a real sourceable anchor: #12, #13, #15, #16, #17,
+#18, #19. This session, asked to find replacements, ran a second, differently-
+angled research pass on all 7. Three landed real anchors this time; four still
+didn't and were retired for good rather than forced:
+
+- 041 (NEW) -> Hopin, replacing #15 ("burn-rate suicide reconstructed from job
+  postings"). Grew from ~8 employees (early 2020) to ~1,200 at peak (~15,000%
+  growth in ~2 years) on ~$1B raised, hit a $7.75B peak valuation, then a real
+  TWO-DEAL ending — not the popular "sold for $15M" shorthand people repeat: up
+  to $50M to RingCentral for the events product (Aug 2023), then Bending Spoons
+  bought the entire remaining company outright (Apr 2024, undisclosed terms).
+  Folder: 041-Hopin-7.75B-Valuation-Sold-For-Parts.
+- 042 (NEW) -> Tune AI (formerly NimbleBox), replacing #13 ("per-seat pricing in
+  an AI world"). Founded 2018 as NimbleBox, rebranded Tune AI Feb 2024, raised
+  ~$4.4M (Accel, Techstars, others), shut down Feb 28 2025 — about 12 months
+  after the rebrand. No on-record founder statement explaining the shutdown was
+  found; the "free users + commoditized inference tooling squeezed margins"
+  explanation is sourced to third-party retrospective only, flagged as such
+  throughout. Folder: 042-Tune-AI-4-Million-Raised-12-Months-To-Shutdown.
+- 043 (NEW) -> Tali, replacing #17 ("CAC never beat LTV, and everyone knew").
+  Voice-powered legal-timekeeping app, founded Feb 2017 by Matthew Volm + two
+  cofounders (Matt Anthes-Washburn, Matt Hoiland — legal entity was literally
+  "Three Matts Inc."), Beaverton OR. Raised ~$1M — smaller scale than most of
+  this channel's anchors; the hook is the founder's own unusually candid public
+  Medium postmortem naming all 5 acquisition channels he tried and exactly why
+  each failed, before shutting down in 2019. Tone requirement: respectful of the
+  founder's transparency, not mocking. Folder: 043-Tali-The-Founders-Own-Honest-
+  Postmortem.
+- Permanently retired (no real anchor found after two research passes each): #12
+  (enterprise pivot killed SMB base — every real "moved upmarket" case found,
+  e.g. Gigya/Zenefits, is a success or recovery story, not a death), #16 (GitHub
+  commit decay as a death signal — no company found with public commit history
+  documented as a leading indicator of its own shutdown), #18 (status-page
+  necrology — no case found where incident-page history is reported as having
+  presaged a shutdown), #19 (acquisition killed both companies — real disasters
+  exist, e.g. Mattel/Learning Company, eBay/Skype, News Corp/Myspace, but the
+  acquirer always survives; none is a funded software startup on both sides).
+- The dead-saas-30 batch (all 20 titles, both halves) is now fully resolved: 13
+  became real packages, 7 are permanently retired with documented reasoning. No
+  more leads remain from this particular batch file.
+
+All three built via three parallel background agents (forks), each doing its own
+fresh WebSearch pass and writing the full 18-file package to the 040/Friendster
+template and depth. None of the three carries 022/024/025/027/028/029-style
+founder-sensitivity risk (no living person is accused of anything) — standard
+neutral overhype/business-failure tone applies to all three, except Tali's
+specific respectful-of-candor requirement noted above.
 
 ---
 

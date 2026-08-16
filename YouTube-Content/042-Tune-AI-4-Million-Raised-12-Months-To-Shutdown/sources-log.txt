@@ -1,0 +1,122 @@
+Sources Log — Package 042: Tune AI (formerly NimbleBox)
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Tune AI is the replacement anchor for this channel's "dead-saas-30" batch title #13 ("per-seat pricing
+in an AI world: the first SaaS casualties of usage-based disruption"). The original batch title was
+SKIPPED (2026-08-15) — the phenomenon is real but the only candidates found were either damaged public
+companies still operating (Chegg, down ~99% but not dead) or an unverifiable claim ("CodeWhisper") that
+could not be independently corroborated. Tune AI was researched fresh (2026-08-16) as a real, named,
+funded, fully-dead replacement that matches the same underlying pattern: a subscription/seat-priced AI
+tooling company squeezed to death by the collapsing cost of the AI itself.
+
+CRITICAL FRAMING NOTE — READ BEFORE WRITING ANY FILE IN THIS PACKAGE
+This is a margin-compression / business-model story, not a fraud or scandal story. Keep tone neutral
+and analytical throughout. No direct founder quote explaining the shutdown decision was found in this
+research pass — the "free users, not enough paying enterprises, cloud providers bundled equivalent
+tooling for less" explanation is sourced to third-party retrospective coverage (TechStartups.com), not
+a founder's own words. Present it as the best-sourced available explanation, flagged as such on screen,
+exactly as Package 040 (Friendster) handled its own unconfirmed-reasoning gap.
+
+---
+
+FOUNDING AND HISTORY — sourced
+- Founded 2018 in San Francisco as NimbleBox (also styled NimbleBox.AI), by Anshuman Pandey, Naman
+  Maheshwari, and Rohan Pooniwala. Original focus: MLOps / AI-infrastructure tooling to simplify
+  building and deploying machine learning models — years before the generative-AI boom.
+Source: YourStory ("Flipkart and Accel-backed Tune AI is enabling enterprises..."), ynos.in startup
+profile, GitHub org "NimbleBoxAI".
+*** [VERIFY]: exact founding month not confirmed, only "2018." Founder role titles (CEO/CTO/etc.) not
+confirmed in this pass — refer to them as "co-founders" on screen, not by specific title, unless
+confirmed before recording. ***
+
+THE REBRAND — precisely dated
+- February 6, 2024: NimbleBox rebranded as Tune AI, repositioning from general MLOps tooling to
+  generative-AI-specific products: **Tune Chat** (a multi-model AI chat interface) and **Tune Studio**
+  (a platform to deploy and fine-tune large language models).
+Source: LinkedIn company post ("#tuneai #rebranding," Feb 2024), company X/Twitter account
+(@Tunehq_ai), tooldirectory.ai retrospective.
+
+FUNDING — sourced, some gaps flagged
+- Total raised: approximately $4.4 million.
+- Investors: Accel, Flipkart Ventures, Together Fund, Speciale Invest, Techstars, and CSVP Fund.
+- Most recent recorded round: a $250,000 "Seed III" round dated March 27, 2024 — roughly seven weeks
+  after the Tune AI rebrand.
+Source: Crunchbase (organization/nimblebox-ai, financial_details and funding_round pages).
+*** [VERIFY]: individual earlier round dates/amounts (before the March 2024 raise) were not broken out
+in this research pass — state only the $4.4M total and the dated $250K Seed III round on screen; do not
+invent earlier round-by-round figures. ***
+
+THE SHUTDOWN — precisely dated
+- February 28, 2025 — almost exactly 12 months after the February 6, 2024 rebrand — Tune AI ceased
+  operations. Both Tune Chat and Tune Studio were taken offline. The company stated it processed
+  refunds for affected customers as part of the wind-down.
+Source: TechStartups.com ("Top AI Startups That Shut Down in 2025: What Founders Can Learn," Dec 9,
+2025); tooldirectory.ai ("What Happened to Tune AI? Platform Shutdown").
+*** [VERIFY]: no direct shutdown letter, founder statement, or customer email was located in this
+research pass. The refund detail and shutdown date are sourced to third-party retrospective coverage,
+not a primary company announcement — present as sourced fact (the date/refund claim is corroborated
+across multiple retrospectives) but do not attribute a specific quote to any named founder. ***
+
+THE STATED CAUSE — sourced to third-party analysis, not a founder quote
+- Per retrospective coverage: many of Tune AI's users were free developers "kicking the tires" rather
+  than paying enterprises, while infrastructure and inference costs remained high — shrinking margins.
+- Simultaneously, major cloud providers and the open-source AI ecosystem released comparable tooling,
+  often at lower cost or bundled for free, eroding Tune AI's differentiation.
+Source: TechStartups.com (Dec 2025 retrospective).
+*** [VERIFY]: this is the retrospective's analysis, not a Tune AI founder's own stated reason. Frame
+on screen as "here's the best-sourced explanation for what happened," not as a direct company quote. ***
+
+---
+
+MARKET CONTEXT — THE BROADER "AI ATE THE PRICING MODEL" TREND — precisely sourced
+This is the mechanism that makes Tune AI a representative case, not an isolated failure:
+- Inference cost for GPT-3.5-equivalent output fell from approximately $20 per million tokens
+  (November 2022) to approximately $0.07 per million tokens (October 2024) — roughly a 280x decrease in
+  about two years.
+- Inference cost for GPT-4-quality output fell from approximately $30 per million input tokens (2023)
+  to under $0.50 per million tokens (2025) — a decline of roughly 95% over two years.
+- Running a customer-facing AI chatbot at moderate volume cost a mid-size company an estimated
+  $8,000–$15,000 per month on GPT-4 in 2023; the same workload on newer, smaller/cheaper models (e.g.
+  GPT-4.1 Nano, Gemini 2.5 Flash) cost under $200 per month by 2025.
+- Competitive pressure compounded the collapse: by late 2024 at least six providers offered
+  frontier-class models (OpenAI, Anthropic, Google, DeepSeek, Mistral, Meta via API partners).
+  DeepSeek's entry in particular forced across-the-board repricing; Google introduced free tiers for its
+  Gemini Flash models; Anthropic cut Opus pricing by roughly 67%.
+Source: TokenCost ("AI Price Index: LLM Costs Dropped 300x, 2023-2026"), ValueAdd VC ("AI Inference: 95%
+Cost Cut in Two Years"), n8n Lab News ("AI's Price Floor Just Collapsed: OpenAI Cuts Costs by 80
+Percent"), The GTM Newsletter ("The Token Price Collapse").
+- Broader 2025 startup-failure data point for scale: an estimated 3,800 of the roughly 14,000+ AI
+  startups that launched in 2024 had shut down by end of 2025 (a ~27% failure rate within about 18
+  months), with several thousand more closing in early 2026.
+Source: TechStartups.com (Dec 2025).
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This package fills the "per-seat pricing in an AI world" slot in the batch's Cluster on AI-driven
+  disruption — see [[project_channel_overview]] memory for the original skip reasoning on batch title
+  #13.
+- No fraud, scandal, or criminal allegations apply to anyone in this story — a straightforward
+  margin-compression narrative. Keep tone analytical, not accusatory, throughout every file in this
+  package.
+- Distinct from every prior package: this is the channel's first video centered on a company killed not
+  by its own execution mistakes, but by the underlying cost of its core input (AI inference) collapsing
+  faster than its business model could adapt.
+
+---
+
+BEFORE RECORDING
+1. Never state a specific revenue or customer-count figure for Tune AI — none was found in this
+   research pass. If asked in comments, the honest answer is "not publicly disclosed."
+2. Present the "free users, not enough paying enterprises, cloud providers bundled equivalent tooling"
+   cause as the best-sourced available explanation from retrospective coverage — not as a direct
+   founder quote. No founder statement about the shutdown was located.
+3. Do not invent founder title attributions (CEO/CTO) beyond "co-founder" unless confirmed before
+   recording.
+4. Do not invent individual funding-round dates/amounts beyond the confirmed $4.4M total and the dated
+   $250K Seed III round (March 27, 2024).
+5. Keep the inference-cost figures precisely as sourced above — do not round further or combine
+   different source statistics into a single misleading number.
+6. No fraud/criminal allegations apply to anyone in this story — tone should be analytical and
+   sympathetic to the structural bind, not mocking.

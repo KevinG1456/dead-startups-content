@@ -1,19 +1,94 @@
-Fact-Check Reminder — Packages 001-030
-Last full audit: 2026-08-15 (026-030 added same session as 025; 024 added, 021/022/
-023 added earlier, on 2026-08-14; 001-020 last audited 2026-08-13)
+Fact-Check Reminder — Packages 001-043
+Last full audit: 2026-08-16 (041-043 added; 031-040 exist and are individually
+sourced via their own sources-log.txt files but were built in a session that never
+got logged in THIS file — see the note below; 026-030 added same session as 025;
+024 added, 021/022/023 added earlier, on 2026-08-14; 001-020 last audited 2026-08-13)
 
 WHAT THIS IS
-Every package in /YouTube-Content (001-030) has been fact-checked against outside
-sources (news coverage, court/bankruptcy filings, SEC filings, primary company
-statements) for real-world claims: funding amounts, dates, named investors/execs,
-quotes, deal structure, and legal citations. Confirmed errors were corrected
-directly in the package files. This log is the record of what was checked, what
-was wrong, and what's still open — so nothing gets re-litigated from scratch, and
-so nothing still-unsourced accidentally gets recorded as if it were confirmed.
+Every package in /YouTube-Content has been fact-checked against outside sources
+(news coverage, court/bankruptcy filings, SEC filings, primary company statements)
+for real-world claims: funding amounts, dates, named investors/execs, quotes, deal
+structure, and legal citations. Confirmed errors were corrected directly in the
+package files. This log is the record of what was checked, what was wrong, and
+what's still open — so nothing gets re-litigated from scratch, and so nothing
+still-unsourced accidentally gets recorded as if it were confirmed.
+
+COVERAGE GAP, FLAGGED HONESTLY: packages 031-040 (Virgin Orbit, Practice Fusion,
+Quixey, a 4-company Katerra/Veev/Plastiq/Enjoy Technology comparator, Bench
+Accounting, Meerkat/Houseparty, Color Labs, Webvan/Instacart, Twitterrific,
+Friendster) are real, built, and each carries its own in-folder sources-log.txt —
+but none of them has been individually re-audited and logged into THIS
+consolidated file yet. Don't assume they're covered by this log; check each
+package's own sources-log.txt directly until this file catches up.
 
 ---
 
 FILLED IN (moved from placeholder framework to real, sourced content) — MOST RECENT
+
+043 - Tali (NEW TITLE, replaces skipped dead-saas-30 batch title #17 "CAC never
+  beat LTV") -> "He Tried 5 Different Ways to Get Customers. All 5 Failed. Here's
+  Exactly Why." Voice-powered legal-timekeeping app (Alexa/Google Assistant sync
+  to Clio/Rocket Matter/PracticePanther), founded Feb 2017 by Matthew Volm + Matt
+  Anthes-Washburn + Matt Hoiland (legal entity literally "Three Matts Inc."),
+  Beaverton OR. Raised ~$1M over ~1.5 years (Cascade Angels, Mucker Capital,
+  Geekdom Fund, SoFi Ventures) plus a $100K Clio pitch-contest win — smaller scale
+  than most anchors on this channel, deliberately not inflated. 78% churn traced
+  to a missing auto-renewal feature; founder tried 5 acquisition channels (direct
+  sales, digital marketing, AdWords/SEM, Facebook ads, resellers) and named all 5
+  as failures, in his own words, in a public Medium postmortem
+  ("I just shut down my startup. Here's what I learned.") — that candor is the
+  package's hook, not the funding size. Shut down 2019. [VERIFY], unresolved:
+  exact shutdown month (script deliberately says only "2019" — an unreconciled
+  "June 2019" figure contradicts the source article's own May 30 2019 publish
+  date, which already describes the company as shut down); a secondary "$750K
+  burned over 2.5 years" figure surfaced but wasn't reconciled against the
+  primary "$1M over 1.5 years" figure used throughout. Tone requirement: treat
+  the founder's transparency as admirable, not mockable — respectful throughout.
+  Full source map: see `043-Tali-The-Founders-Own-Honest-Postmortem/sources-log.txt`.
+
+042 - Tune AI, formerly NimbleBox (NEW TITLE, replaces skipped dead-saas-30 batch
+  title #13 "per-seat pricing in an AI world") -> "This AI Startup Rebranded for
+  the ChatGPT Boom. 12 Months Later, It Was Gone." Founded 2018 in SF as
+  NimbleBox (co-founders Anshuman Pandey, Naman Maheshwari, Rohan Pooniwala;
+  individual titles/roles unconfirmed); rebranded to Tune AI Feb 6 2024 (products:
+  Tune Chat, multi-model chat; Tune Studio, LLM deploy/fine-tuning). Raised ~$4.4M
+  total (Accel, Flipkart Ventures, Together Fund, Speciale Invest, Techstars,
+  CSVP Fund), including a dated $250K round Mar 27 2024. Shut down Feb 28 2025 —
+  about 12 months after the rebrand; refunds processed for affected customers.
+  Macro context sourced and used throughout: GPT-4-quality inference cost fell
+  roughly 95% from 2023 ($30/M tokens) to 2025 (<$0.50/M tokens); a mid-size
+  chatbot's monthly cost fell from $8-15K to under $200 in the same window;
+  roughly 3,800 of the 14,000+ AI startups that launched in 2024 had shut down
+  by end of 2025. [VERIFY], unresolved: no direct founder quote or company
+  statement explaining the shutdown was found — the "free users, thin margins,
+  commoditized tooling" cause is sourced to third-party retrospective
+  (TechStartups.com) only, framed as such everywhere it's used, never as a
+  company admission; individual founders' titles (CEO/CTO) unconfirmed; no
+  specific Tune AI revenue or customer-count figures were found or used anywhere.
+  No fraud/scandal framing — this is a margin-compression/business-model story.
+  Full source map: see
+  `042-Tune-AI-4-Million-Raised-12-Months-To-Shutdown/sources-log.txt`.
+
+041 - Hopin (NEW TITLE, replaces skipped dead-saas-30 batch title #15 "burn-rate
+  suicide reconstructed from job postings") -> "8 Employees. 1,200 Employees.
+  $7.75 Billion. Then It Was Gone in Two Deals." Founded by Johnny Boufarhat;
+  grew from ~8 employees (early 2020) to ~1,200 at peak (~15,000% growth in
+  roughly 2 years) during COVID-era virtual-events demand. Raised up to ~$1B
+  total (Tiger Global, a16z, General Catalyst, Accel, others); acquired 5
+  startups in 2021 including StreamYard for $250M; hit a $7.75B peak valuation.
+  Three 2022 layoff rounds (Feb, Jul ~29%/242 people, Nov) roughly halved
+  headcount, ~1,100 (Jan 2022) to ~503 (Dec 2022), as pandemic-era virtual-event
+  demand evaporated with reopening. IMPORTANT CORRECTION vs. the popular
+  shorthand: the real ending is TWO deals, not one "sold for $15M" headline —
+  Aug 2023, sold the core events product/tech/team to RingCentral for up to $50M
+  (SEC filing: $15M upfront + up to $35M performance-contingent, not a flat
+  $15M); then Apr 2024, Bending Spoons acquired the entire remaining company
+  outright (terms undisclosed). An earlier-surfaced "$500M shareholder buyback"
+  claim could NOT be confirmed and was deliberately excluded — replaced with the
+  sourced fact that Series B+ investors received partial liquidity, recouping
+  roughly half their investment. No fraud/scandal framing — this is a demand-
+  evaporation/overhiring story. Full source map: see
+  `041-Hopin-7.75B-Valuation-Sold-For-Parts/sources-log.txt`.
 
 030 - MoviePass (NEW TITLE) -> "MoviePass Charged $9.95 a Month for Unlimited
   Movies. It Lost Money on Almost Every Ticket. Then Its Fired Founder Bought It
@@ -593,11 +668,13 @@ CLEAN — CHECKED, NO ERRORS FOUND
 
 STRUCTURALLY FINE BUT STILL NEEDS A REAL ANCHOR / SOURCING PASS BEFORE RECORDING
 
-None. All 20 packages (001-020) are now sourced and recording-ready, subject only to
-the narrow inline [VERIFY] flags noted throughout this log (single-sourced details,
-figures that vary across outlets, etc. — each deliberately left imprecise rather than
-guessed at). (001, 003, 007, 008, and 015 moved out of this section on 2026-08-13 —
-see FILLED IN above.)
+None among the packages actually logged above (001-030, 041-043). All are sourced
+and recording-ready, subject only to the narrow inline [VERIFY] flags noted
+throughout this log (single-sourced details, figures that vary across outlets,
+etc. — each deliberately left imprecise rather than guessed at). Packages 031-040
+are NOT in this section by evaluation — they're simply not yet re-audited into
+this file at all (see the coverage-gap note near the top). (001, 003, 007, 008,
+and 015 moved out of this section on 2026-08-13 — see FILLED IN above.)
 
 ---
 
