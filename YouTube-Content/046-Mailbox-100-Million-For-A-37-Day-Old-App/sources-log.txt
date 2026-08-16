@@ -1,0 +1,151 @@
+Sources Log — Package 046: Mailbox
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Mailbox replaces the retired dead-saas-30 batch title #19 ("the acquisition integration that killed
+both companies") — that pattern was researched twice this session and never landed a real anchor where
+a funded software company was killed alongside its acquirer. Instead, this package fills the SAME
+batch file's title #27 slot ("Acqui-hired into oblivion: the 'we're thrilled to announce' posts,
+revisited 5 years later") — Pattern: what talent/product acquisitions really pay and really kill.
+Sources: announcement archives, LinkedIn trajectories, product shutdown dates.
+
+NOTE ON RELATIONSHIP TO PACKAGE 003: this channel's package 003 ("The Company Google Killed, Platform
+Risk 5 Ways") already researched Mailbox once and explicitly rejected it as an anchor for THAT package,
+because Mailbox's 2015 shutdown was Dropbox's own stated strategic pivot (refocusing on collaboration
+products), not caused by a platform/competitor action like Google Drive or Gmail. That finding is not
+contradicted here — this package uses Mailbox for a different pattern entirely: the acqui-hire-then-
+neglect arc itself (a fast, expensive, enthusiastic acquisition followed by years of stalled development
+before a quiet shutdown), not a platform-risk story. Do not describe this package as reversing 003's
+finding.
+
+---
+
+THE FOUNDING AND PRE-ACQUISITION HISTORY — precisely sourced
+- The company behind Mailbox was originally called Orchestra, Inc., co-founded by Gentry Underwood and
+  Scott Cannon. Orchestra's first product was a shared to-do list app (also called "Orchestra"),
+  intended to get people to stop using email as a to-do list.
+- Orchestra raised a $5.3 million Series A round in November 2011, led by Charles River Ventures, with
+  participation from SV Angel, Kapor Capital, and CrunchFund.
+- The team pivoted from the Orchestra to-do app to Mailbox, an iOS email-triage client, in 2012.
+Source: TechCrunch ("Dropbox Buys Mailbox, All 13 Employees Joining And App Will Remain Separate," Mar
+15 2013); Fierce Network retrospective ("Dropbox shutters Mailbox, exposing the perils of mobile app
+acquisition"); YourStory retrospective ("$100M in 37 Days: Mailbox's Journey to Fame, Failure & Startup
+Lessons," 2023).
+
+THE LAUNCH — precisely sourced
+- Mailbox previewed via a viral demo video in December 2012, showcasing swipe-to-archive, swipe-to-
+  delete, and "snooze" (defer a message to reappear later — Later Today, This Evening, This Weekend)
+  gestures never seen together in a mainstream email app before. The video drew 100,000 views within
+  four hours of release.
+- Instead of releasing immediately, Mailbox used a "velvet rope" virtual waitlist: downloading the app
+  placed a user in a live queue, showing their position and the people ahead/behind them. Over 800,000
+  people signed up for the waitlist; reported waitlist/reservation totals reached 1.3 million within
+  about a month, with the app said to be handling up to 60 million messages/day even before full public
+  availability.
+- The app opened to the public App Store in February 2013, with the virtual queue continuing to admit
+  waitlisted users gradually rather than releasing everyone at once.
+Source: Fortune ("How Mailbox Became an Instant Sensation," Feb 12 2013); TechCrunch ("Mailbox's
+Virtual Queue Succeeds In The Waiting Game...," Feb 9 2013); YourStory retrospective.
+
+THE ACQUISITION — precisely sourced, this package's central hook
+- March 15, 2013: Dropbox announced it was acquiring Mailbox. Dropbox co-founder Drew Houston's official
+  blog post framed the deal enthusiastically, saying the goals of the two companies aligned closely —
+  both aimed to improve on legacy technology people use every day. *** [VERIFY]: the specific phrase
+  "we're thrilled" was not confirmed verbatim in this research pass in the primary Dropbox blog post
+  itself — multiple retrospectives paraphrase enthusiastic language, and Drew Houston is quoted as
+  saying Dropbox was "excited to welcome the Mailbox team" in secondary coverage, but the exact primary-
+  source wording should be re-verified against Dropbox's original 2013 blog post before using a direct
+  quotation on screen. ***
+- The reported price was approximately $100 million (TechCrunch: "Mailbox Cost Dropbox Around $100
+  Million," Mar 15 2013 — a reported figure, not a company-confirmed exact number).
+- All 13 Mailbox/Orchestra employees joined Dropbox as part of the deal; Mailbox continued operating as
+  a standalone app under Dropbox ownership rather than being immediately absorbed.
+- THE CENTRAL HOOK, PRECISELY SOURCED: multiple retrospectives (most directly, YourStory's "$100M in 37
+  Days" headline) report that only 37 days passed between Mailbox's public launch and the announced
+  acquisition. *** [VERIFY]: the exact start-date basis for "37 days" (public App Store launch in early
+  February 2013 vs. the December 2012 preview video) was not independently re-derived in this research
+  pass from primary sources — present as "reported as 37 days" or "about five weeks," attributed to the
+  retrospective source, rather than as an independently re-verified exact day-count. ***
+- Gentry Underwood became head of product and design for Dropbox's collaboration products; Scott Cannon
+  became head of engineering for Dropbox's Paper product — both integrated into Dropbox's broader
+  product organization rather than continuing to run Mailbox as a discrete team.
+Source: TechCrunch ("Mailbox Cost Dropbox Around $100 Million," Mar 15 2013; "Dropbox Buys Mailbox, All
+13 Employees Joining And App Will Remain Separate," Mar 15 2013); CNN Business ("Dropbox acquires
+buzzworthy app Mailbox," Mar 15 2013); YourStory retrospective; Crunchbase acquisition record.
+
+THE STALL — precisely sourced
+- An Android version and a Mac desktop app were announced/promised in 2014. Development on new Mailbox
+  features and platforms effectively stalled after that point, according to retrospective coverage.
+- During this stall, competing email products — Yahoo Mail, Microsoft Outlook, and Google's own "Inbox
+  by Gmail" — incorporated Mailbox-style swipe and snooze gestures into their own apps, eroding
+  Mailbox's core differentiation while it sat largely un-updated.
+- *** [VERIFY]: no on-record internal Dropbox or Mailbox-team explanation for the specific internal
+  reasons development slowed was found in this research pass — the "competitors copied the features
+  while Mailbox stalled" framing is a retrospective/journalistic characterization (Fierce Network,
+  TechRadar), not a company admission of neglect. Present as reported analysis, not confirmed internal
+  cause. ***
+Source: Fierce Network retrospective; TechRadar ("Dropbox is dropping its Carousel and Mailbox apps");
+YourStory retrospective.
+
+THE SHUTDOWN — precisely dated
+- December 7, 2015: Dropbox announced it was shutting down both Mailbox and its separate Carousel photo
+  app, publicly stating the decision was to refocus company resources on collaboration and file-sharing
+  products — most notably the then-new Paper app. This was Dropbox's own stated strategic rationale, not
+  attributed to any external platform action (confirms and does not contradict package 003's earlier
+  finding on this point).
+- Mailbox actually closed February 26, 2016. Carousel closed separately, March 31, 2016. These are two
+  distinct dates for two distinct products — do not conflate them or state a single shutdown date for
+  both.
+- Total elapsed time from the March 15, 2013 acquisition to the app's actual February 26, 2016 closure:
+  just under three years (about 2 years, 11 months).
+Source: Forbes (Brian Solomon, "Dropbox Gives Up On Mailbox, Carousel," Dec 7 2015); Engadget ("Dropbox
+is killing its Carousel and Mailbox apps," Dec 7 2015); GSMArena coverage; TechRadar coverage.
+
+AFTERMATH — precisely sourced, [VERIFY] flagged
+- Gentry Underwood's later ventures are documented on Crunchbase as including Bring a Trailer (acquired
+  by Hearst) and a project called Play (acquired by Google) — *** [VERIFY]: this research pass did not
+  independently confirm exact dates, Underwood's precise role at either, or whether either came before
+  or after his time at Dropbox concluded. Do not state a specific post-Dropbox timeline for Underwood
+  without further verification. ***
+- *** [VERIFY]: no confirmed, sourced connection was found in this research pass between Gentry
+  Underwood personally and Google's "Inbox by Gmail" team — do not state or imply he worked on Inbox
+  directly; the only confirmed connection is that Inbox by Gmail (a separate Google product) adopted
+  similar swipe/snooze gestures to Mailbox's, which is a competitive/design-influence fact, not a
+  personnel fact. ***
+Source: Crunchbase (Gentry Underwood person profile) — flagged as thin/unconfirmed, see [VERIFY] notes
+above.
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This package fills dead-saas-30 batch title #27 ("Acqui-hired into oblivion"), not the originally-
+  assigned-and-retired title #19 ("the acquisition integration that killed both companies") — Dropbox is
+  very much still alive and independently operating; this is not a "both died" story, and no file in
+  this package should imply otherwise.
+- Distinct from package 003's brief mention of Mailbox: 003 asked "did a platform kill this company"
+  (answer: no, per that package's own research) — this package asks "what did the acquirer actually do
+  with what it bought, and how long did the enthusiasm last" — a related but genuinely different
+  question about the same company.
+- No fraud, misconduct, or legal action applies to anyone in this story — Dropbox's founders, Gentry
+  Underwood, and Scott Cannon are all presented neutrally throughout. This is a product-strategy and
+  acquisition-integration story, not a story about wrongdoing.
+
+---
+
+BEFORE RECORDING
+1. The acquisition price (~$100 million) is a reported figure (TechCrunch), not a Dropbox-confirmed
+   exact number — use "reported around $100 million," not a bare unqualified "$100 million."
+2. The "37 days" launch-to-acquisition figure is reported by a 2023 retrospective (YourStory) — present
+   as "reported as 37 days" / "about five weeks," not as an independently re-derived exact count.
+3. Do not put a direct "we're thrilled" quotation in Drew Houston's mouth on screen unless the exact
+   primary-source Dropbox blog post wording is re-verified before recording — this research pass could
+   not confirm that exact phrase in the primary source.
+4. Keep Mailbox's Feb 26, 2016 shutdown date and Carousel's separate Mar 31, 2016 shutdown date
+   distinct — never state one date for both products.
+5. Present the "competitors copied the features while Mailbox stalled" explanation as retrospective
+   journalistic analysis, not as Dropbox's own admitted internal reasoning — no on-record internal
+   explanation for the development slowdown was found.
+6. Do not state a confirmed post-Dropbox career timeline for Gentry Underwood beyond what's listed above
+   as [VERIFY] — particularly, do not claim he worked on Google's Inbox by Gmail team; that connection
+   was not confirmed in this research pass.
+7. No fraud/misconduct framing anywhere in this package — this is a neutral product-strategy story.

@@ -1,0 +1,187 @@
+Sources Log — Package 047: One Vertical, Five Funerals (Owned-Kitchen Food Delivery)
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+This package replaces retired dead-saas-30 batch title #18 ("support ticket necrology / status page
+as leading indicator" — no real single-company anchor was ever found for that pattern after two
+research passes). Instead, it fills batch title #28 ("one vertical, five funerals: why every startup
+in [one niche] died within 3 years"). The vertical chosen: owned-kitchen, vertically-integrated
+meal-delivery startups — companies that cooked the food themselves rather than running a
+restaurant marketplace. Five real companies anchor this package. Two (Sprig, Munchery) are already
+deeply, independently sourced as full anchors elsewhere on this channel and are reused directly, not
+re-derived. Three (SpoonRocket, Maple, Josephine) had only a single-line citation each in package
+015's shutdown-letter corpus and got a full fresh research pass for this package. Same multi-company
+comparator format as packages 007, 015, 025, and 034 on this channel.
+
+---
+
+COMPANY 1: SPRIG — reused directly from package 001's sources-log.txt, not re-derived
+- Founded 2013 by CEO Gagan Biyani, San Francisco. Vertically integrated: owned and operated its own
+  kitchens rather than partnering with restaurants.
+- Raised roughly $56-58M total (Series A $10M Mar 2014 Greylock; $45M round Apr 2015 led by
+  Social+Capital and Greylock, Battery Ventures and Accel also participating).
+- Hit a founder-confirmed run rate of "roughly $21-22 million" (Biyani, Mixergy interview, Feb 2016
+  context) while losing approximately $850,000/month (Bloomberg, via Fortune).
+- Uber Eats' major product relaunch around February 2016 was the precisely dated trigger — Biyani:
+  "instead of going up by 2%, we were going down by 2%."
+- Shut down May 26, 2017. ~200 staff affected at shutdown (distinct from "over 1,300" peak
+  operational headcount — two different measures, not a contradiction). ~$8M returned to investors
+  out of ~$56-58M raised.
+- Biyani's own hindsight, on record: "I would have shut it down within three months" (of the
+  negative trend becoming clear, not literally three months after the 2013 launch).
+Source: this channel's own `001-The-Startup-That-Hit-10M-ARR-And-Still-Died/sources-log.txt`
+(Mixergy, The Full Ratchet, TechCrunch, Fortune, Wikipedia — full citations there).
+
+---
+
+COMPANY 2: MUNCHERY — reused directly from package 023's sources-log.txt, not re-derived
+- Founded 2010 (idea stage), launched May 2011, San Francisco, by CEO Tri Tran and Conrad Chu.
+  Vertically integrated: industrial/commissary kitchens, in-house "Resident Chefs" and outside "Chef
+  Partners," Munchery's own delivery drivers.
+- Raised over $120M total (commonly cited around $125M) across 5 rounds; a major 2015 round valued
+  Munchery at approximately $300M.
+- Bloomberg reported Munchery losing up to $5M/month and wasting ~16% of food prepared (reporting
+  clustered Nov 2016, alongside Tri Tran stepping down to Chief Strategy Officer, James Beriker
+  installed as CEO).
+- January 2017: ~30% of HQ staff laid off (a separate, earlier event — do not conflate with the 2019
+  shutdown). May 2018: retreated from LA/NY/Seattle to San Francisco only.
+- January 21, 2019: shut down abruptly, notifying customers same day; vendors reportedly got no
+  notice; had been actively marketing gift cards in December 2018.
+- February 28, 2019: Chapter 11 filed. CEO James Beriker named causes ON THE RECORD in the court
+  filing itself: "increased competition, over-funding, aggressive expansion efforts, and Blue Apron's
+  failed IPO" — a rare, court-filed causal statement, stronger sourcing than a press quote.
+- This channel's package 023 already establishes the category-arc framing this package expands:
+  SpoonRocket ($13.5M raised) collapsed March 2016 → Sprig ($56-58M, package 001) collapsed May 2017
+  → Munchery ($120M+, most capital, most time) held on until January 2019.
+Source: this channel's own `023-Munchery-Outlasted-Every-Rival-Still-Bankrupt/sources-log.txt`
+(Bloomberg, TechCrunch, Wikipedia, Inc.com — full citations there).
+
+---
+
+COMPANY 3: SPOONROCKET — freshly researched for this package (previously only a one-line citation
+in package 015's shutdown-letter corpus)
+- Founded 2013, Berkeley CA, by co-founders Steven Hsiao and Anson Tsui.
+- Raised $13.5M total: a 2013 seed round (Y Combinator + angels) and a 2014 Series A (Foundation
+  Capital, Base Ventures, Sherpa Capital).
+- Business: on-demand, pre-made (not made-to-order) meal delivery — cars stocked with pre-cooked
+  meals, aiming for sub-10-minute delivery.
+- The FIRST of the three core companies in this category to die. CEO Steven Hsiao confirmed the
+  shutdown to TechCrunch, March 15, 2016 — unusually specific for a shutdown announcement, per
+  package 015's corpus entry, naming competitor Sprig directly and citing "a tightening funding
+  environment," rather than staying vague.
+- Company stated it had reached positive contribution margin (selling meals for more than it cost to
+  cook, package, and deliver) but could not raise further capital in a colder fundraising climate on
+  top of other operating costs.
+- After shutting down U.S. operations, SpoonRocket's assets/brand were acquired by Brazil-based
+  delivery platform iFood, which used it to expand into the Latin American on-demand market — a
+  genuinely different ending than Sprig's or Munchery's straight shutdowns, worth flagging on screen.
+Source: Bloomberg (Mar 15, 2016, "Food Delivery Startup SpoonRocket to Close Shop"); TechCrunch (Mar
+15, 2016, "SpoonRocket shuts down amongst on-demand apocalypse"; Mar 16, 2016, "SpoonRocket finds a
+home with Brazil-based iFood"); Inc.com ("How This Startup Blew $13.5 Million and Ended in
+Bankruptcy"); Berkeleyside (Mar 14, 2016).
+
+---
+
+COMPANY 4: MAPLE — freshly researched for this package (previously only a one-line citation in
+package 015's shutdown-letter corpus)
+- Founded 2014, New York City, by co-founders Caleb Merkl and Akshay Navle, with CTO Dan Cowgill —
+  notably backed by celebrity chef David Chang (Momofuku), who was a co-founder/investor and lent the
+  concept culinary credibility and press attention.
+- Raised approximately $25-26M in a March 2015 Series A led by Greenoaks Capital; total lifetime
+  funding reported around $50M+ ([VERIFY] — sources give a range, "$50M+" rather than one precise
+  figure). Valued at approximately $115M after the 2015 Series A.
+- Business: delivery-only "restaurant of the future" — Maple cooked its own food in its own kitchens
+  and delivered it directly, no third-party restaurant partners, positioned as a premium, chef-driven
+  alternative to Sprig/Munchery's model.
+- May 8-9, 2017: shut down after fewer than 3 years in business, framed explicitly as "joining"
+  Deliveroo (a London-based food-delivery company) rather than using "shut down" language — Deliveroo
+  acquired Maple's technology and team (Merkl, Navle, and Cowgill all joined Deliveroo); acquisition
+  terms undisclosed. This is a genuinely different ending than SpoonRocket's, Sprig's, or Munchery's —
+  an acqui-hire into a much larger company, not a bankruptcy or straight shutdown.
+- David Chang's backing did not prevent the collapse — the Inc.com headline itself frames this
+  directly: "Not Even David Chang Could Save Maple From the Vagaries of the Food Business."
+Source: Inc.com ("Not Even David Chang Could Save Maple..."); Recode (May 8, 2017, "The food-delivery
+startup Maple has shut down"); Crain's New York Business (May 9, 2017); UKTech.news (May 9, 2017,
+Deliveroo acquisition coverage); PYMNTS.com.
+
+---
+
+COMPANY 5: JOSEPHINE — freshly researched for this package (previously only a one-line citation in
+package 015's shutdown-letter corpus). IMPORTANT: this company's failure mechanism is GENUINELY
+DIFFERENT from the other four — regulatory/legal pressure, not owned-kitchen unit economics — use
+this contrast explicitly on screen as the package's twist, not as a flaw in the comparison.
+- Founded 2014 by Charley (Tal) Wang and Tal Safran [name presentation note: search results render
+  this inconsistently as "Wang and Tal Safran" — treat as two co-founders, Charley Wang and Tal
+  Safran; a separate Medium retrospective is bylined by a third figure, Matt Jorgensen, described
+  elsewhere as also involved with the company/its post-shutdown advocacy work — his exact title/role
+  is [VERIFY], not confirmed as "co-founder" in this pass].
+- Business: a marketplace connecting home cooks directly with neighbors buying home-cooked meals —
+  NOT an owned-kitchen model like the other four in this package; this is itself part of why its
+  failure mode differs.
+- Raised more than $2M from Kapor Capital and angel investors — by far the smallest funding total of
+  the five companies in this package, consistent with its much earlier-stage regulatory death.
+- May 2016: served a cease-and-desist order by Alameda County health regulators for illegal food
+  sales, forced to stop operations there. Received further cease-and-desist letters from the City of
+  Berkeley and Alameda County citing "aiding and abetting illegal food sales."
+- Company pivoted its own focus toward pursuing legislative change (cottage-food-law reform) rather
+  than pure growth, concluding "legislation needed to be our focus" — but did not have the funding to
+  fight regulators market by market while also running the underlying business.
+- Officially wound down in January/February 2018 (sources vary on exact month — [VERIFY], use "early
+  2018"). Company's own stated reasoning: the business "was not yet financially sustainable" and its
+  investors "hadn't signed up for a long-term policy effort."
+- Package 015's existing corpus entry for Josephine's actual shutdown letter cites a specific failed
+  $500K wire transfer and a legal subpoena as concrete triggering details — reuse that citation
+  directly rather than re-deriving it; see `015-What-The-Shutdown-Email-Never-Says/sources-log.txt`
+  entry #18.
+Source: Berkeleyside (Feb 2, 2018, "Oakland food startup Josephine announces it will shut down
+operations"); Fast Company ("Food-sharing startup Josephine is shutting down"); Hoodline (Feb 2018);
+The Counter ("Thousands of California home cooks have no idea they're breaking the law every day");
+The Spoon ("Josephine, The Uber for Home Cooking, Shuts Down"); this channel's own
+`015-What-The-Shutdown-Email-Never-Says/sources-log.txt` entry #18.
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- All five companies are companion segments in one comparator package, same format as packages 007,
+  015, 025, and 034 on this channel.
+- Four of the five (Sprig, Munchery, SpoonRocket, Maple) share the SAME core failure mechanism: an
+  owned-kitchen, vertically-integrated cost structure that could never produce sub-restaurant-margin
+  meals at delivery-app prices and delivery-app scale. Present these four as genuine proof points of
+  one repeatable pattern.
+- Josephine is DELIBERATELY the outlier — smallest funding ($2M+ vs. $13.5M-$120M+ for the other
+  four), a marketplace model (not owned-kitchen), and killed by regulatory/legal pressure, not unit
+  economics. State this contrast explicitly on screen as the package's twist ("it's not always the
+  same lesson"), not as a mismatched inclusion.
+- Five distinct endings, worth naming precisely on screen: Sprig (straight shutdown, ~$8M returned to
+  investors), Munchery (Chapter 11 bankruptcy, court-filed causes), SpoonRocket (shutdown then assets
+  acquired by iFood for Latin American expansion), Maple (acqui-hired into Deliveroo, framed as
+  "joining" not shutting down), Josephine (wound down after a regulatory fight it couldn't afford to
+  keep waging).
+- Do NOT re-verify or second-guess Sprig or Munchery's already-established figures in this package —
+  both are cited directly from their own sources-log.txt files, which remain the source of truth for
+  those two companies.
+- No fraud or criminal allegations apply to any founder or executive across all five companies — keep
+  the tone analytical throughout.
+
+---
+
+BEFORE RECORDING
+1. Reuse Sprig's and Munchery's figures exactly as stated in their own packages' sources-log.txt
+   files (001 and 023) — do not restate them with different numbers or looser sourcing here.
+2. [VERIFY] Maple's total lifetime funding — sources give "$50M+" without one precise reconciled
+   figure; state as a range, not a single number.
+3. [VERIFY] Josephine's exact shutdown month — sources split between January and February 2018; use
+   "early 2018" unless a firmer date is confirmed.
+4. [VERIFY] Josephine's co-founder roster and Matt Jorgensen's exact title/role — present Charley
+   Wang and Tal Safran as the confirmed co-founders; do not state Jorgensen was a co-founder without
+   further confirmation.
+5. Keep Josephine's regulatory-failure mechanism explicitly distinct from the other four's owned-
+   kitchen unit-economics failure — this contrast is the package's intentional twist, state it plainly
+   on screen rather than treating all five as identical stories.
+6. Keep January 2017 (Munchery's HQ layoffs) and January 2019 (Munchery's final shutdown) clearly
+   distinguished as two separate, separately-dated events, per package 023's own caution.
+7. Do not state Munchery's $80M valuation-cap note as uncontested fact — Munchery publicly denied that
+   characterization at the time; present both sides if that detail is used, per package 023's own
+   caution.
+8. No fraud/criminal allegations apply to any founder or executive across all five companies — keep
+   the tone analytical, not accusatory, throughout.

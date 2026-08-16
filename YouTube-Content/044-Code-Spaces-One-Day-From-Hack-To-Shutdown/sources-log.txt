@@ -1,0 +1,137 @@
+Sources Log — Package 044: Code Spaces
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+Code Spaces is the anchor for a replacement title, filling the "dead-saas-30" batch's title #21
+slot ("Security debt: the breach that a seed-stage startup could not afford to survive") after the
+batch's original title #12 ("the enterprise pivot that killed the SMB cash cow") was permanently
+retired for lack of a real sourceable anchor. Pattern: a single security incident, made fatal by one
+specific architectural mistake, kills the company almost immediately.
+
+CRITICAL HONESTY NOTE — READ BEFORE WRITING ANY FILE IN THIS PACKAGE
+This is a genuinely obscure pre-incident company. Extensive search in this research pass found NO
+confirmed founder name, NO confirmed founding year, and NO confirmed funding round (VC or otherwise)
+for Code Spaces. Do not invent any of these. The batch title's own framing ("seed-stage startup")
+is NOT confirmed — do not state Code Spaces was VC-funded or "seed-stage" as fact anywhere in this
+package. Use neutral language instead: "a small source-code-hosting company," "a company," etc.
+This is a real, sourced limitation, not a gap to paper over — flag it explicitly in the README and
+treat the story as being about the AWS account architecture and the incident itself, not about
+Code Spaces' business/funding history, which the public record simply does not cover.
+
+---
+
+THE COMPANY — precisely sourced, but limited
+- Code Spaces (codespaces.com) was a source-code hosting and project-collaboration service —
+  described as offering secure source-code hosting and project-management tools for development
+  teams to collaborate, track project activity, and manage releases.
+- Based in Coventry, United Kingdom (per Tracxn's company profile).
+- *** [VERIFY]: no founder name, founding year, employee count, customer count, or funding history
+  was found in this research pass. Multiple general web searches for these details returned no
+  results specific to this company — pre-incident, Code Spaces appears to have had very little
+  public profile; nearly everything published about it dates from after the June 2014 incident. ***
+Source: Tracxn company profile (codespaces.com listing); general absence of pre-2014 coverage
+across all searched outlets.
+
+THE ATTACK — precisely dated and sourced
+- June 17, 2014: Code Spaces was hit by a distributed denial-of-service (DDoS) attack against its
+  servers.
+- During the DDoS, the company discovered messages left by the attacker on its Amazon Web Services
+  (AWS) EC2 control panel — meaning the attacker had gained unauthorized access to that panel, not
+  just launched an external flood attack.
+- The attacker left extortion demands, including a Hotmail contact address, demanding a large
+  payment to stop the DDoS attack.
+- Code Spaces did not pay. Instead, the company tried to regain control of its AWS account by
+  changing passwords.
+- The attacker had anticipated this: they had already created additional backup administrator
+  logins into the AWS console. When the company's password change locked out the attacker's
+  original access, the attacker used these backup logins to get back in — and began randomly
+  deleting artifacts from the panel: EBS (Elastic Block Store) snapshots, S3 storage buckets, AMIs
+  (Amazon Machine Images), some EBS instances, and multiple machine instances.
+- *** [VERIFY]: exact chronology/duration language varies slightly by source — some describe the
+  deletion as happening "randomly" as the company tried each recovery step; use "as Code Spaces
+  attempted to regain control" rather than a precise minute-by-minute timeline, since none was
+  independently published. ***
+Source: HelpNetSecurity (Jun 19, 2014, "Code hosting Code Spaces destroyed by extortion hack
+attack"); TheHackerNews (Jun 2014, "Cyber Attack On 'Code Spaces' Puts Hosting Service Out of
+Business"); Threatpost ("Hacker Puts Hosting Service Code Spaces Out of Business"); Darknet.org.uk
+(Jun 2014).
+
+THE FATAL MISTAKE — precisely sourced, this is the story's central lesson
+- Code Spaces kept its backups within the SAME AWS account as its production systems and data.
+- Once the attacker had console-level access to that one account, they were able to delete
+  production data AND backups in the same sweep — there was no separate, isolated copy to restore
+  from.
+- Company representatives publicly acknowledged, via the company's own Twitter account, that they
+  had not implemented two-factor authentication (2FA) on the AWS account. The working theory,
+  per multiple outlets, is that a compromised username/password was how the attacker initially
+  gained access to the control panel — 2FA would very likely have prevented or complicated that
+  initial entry.
+- Later retrospective coverage (breaches.cloud, ManageEngine, CSO Online) consistently identifies
+  two compounding failures, not one: (1) no MFA on the root/administrative AWS account, and (2)
+  backups co-located with production in the same account rather than isolated (e.g., a separate
+  account, offline, or with independently-gated access).
+Source: Darknet.org.uk and HelpNetSecurity (2FA admission via Twitter); breaches.cloud ("Codespaces
+(2014) - Public Cloud Security Breaches"); ManageEngine blog ("Code Spaces AWS Security Breach: A
+Sad Reminder of the Importance of Cloud Environment Password Management"); CSO Online ("Code Spaces
+forced to close its doors after security incident").
+
+THE SHUTDOWN — precisely dated
+- June 18, 2014 — the day after the attack began — Code Spaces posted a statement on its own website
+  announcing it would cease operations. The statement read, in part: "Code Spaces will not be able
+  to operate beyond this point, the cost of resolving this issue to date and the expected cost of
+  refunding customers who have been left without the service they paid for will put Code Spaces in
+  an irreversible position both financially and in terms of ongoing credibility."
+- The company stated it would use its remaining resources to help customers export whatever data
+  could still be recovered.
+- *** [VERIFY]: several secondary/retrospective sources (e.g., a widely-repeated "12 hours" figure)
+  compress the timeline to "hacked and out of business within about a day" — this is directionally
+  accurate (attack began Jun 17, shutdown announced Jun 18) but no primary source gives a precise
+  hour count. Use "within about a day" or "the next day," not a specific "12 hours" figure, unless a
+  primary source confirming that exact figure is found before recording. ***
+- Customer source code, project data, and configuration files were permanently lost. No successful
+  data recovery was reported anywhere in this research pass.
+Source: eSecurityPlanet ("Code Spaces Destroyed by Cyber Attack," quoting the company statement
+directly); CSO Online; HelpNetSecurity; DataBreaches.Net (Jun 18, 2014, "Code Spaces destroyed in
+wake of extortion demand").
+
+THE ATTACKER — precisely sourced (what is and isn't known)
+- No perpetrator was ever identified or charged, per every source found in this research pass.
+- Code Spaces' own statement specified: "An unauthorized person who at this point is still unknown
+  (all we can say is that we have no reason to think it's anyone who is or was employed with Code
+  Spaces)" — i.e., the company explicitly ruled out an inside job, based on its own account.
+Source: Threats.wiz.io ("Code Spaces breach"); company statement as quoted across multiple outlets.
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This is the channel's first package centered entirely on a security-incident-as-cause-of-death —
+  distinct from every prior package's mechanism (burn rate, governance collapse, unit economics,
+  platform dependency, valuation anchoring, etc.).
+- No fraud, criminal charge, or named individual applies anywhere in this story — Code Spaces was
+  the victim of a crime, not the perpetrator of one. Keep tone entirely sympathetic to the company
+  and its customers; never imply negligence rose to the level of wrongdoing, only a real,
+  documented architectural mistake (co-located backups, no MFA) that is widely cited in security
+  circles specifically because it's such a clean, avoidable lesson.
+- This channel has one precedent for a non-VC-funded/lightly-documented subject: package 039
+  (Twitterrific/The Iconfactory), which explicitly flagged its bootstrapped status in every file
+  rather than implying VC funding. Follow that same explicit-flagging approach here for the
+  funding/founding-history gap.
+
+---
+
+BEFORE RECORDING
+1. Never state Code Spaces was "VC-funded," "seed-stage," or give any funding figure — none was
+   found. If the script needs to describe the company's scale, use only sourced language ("a small
+   source-code hosting company based in Coventry, UK") — do not invent employee or customer counts.
+2. Never state a precise "12 hours" (or any other specific hour count) from attack to shutdown as
+   confirmed fact — the confirmed, dated facts are: attack began June 17, 2014; shutdown announced
+   June 18, 2014. Say "within about a day" or "the next day," not a precise hour figure, unless a
+   firmer primary source is found before recording.
+3. Do not speculate about the attacker's identity, motive beyond extortion, or nationality — none of
+   that is sourced anywhere.
+4. State plainly, on screen, that Code Spaces was the victim here — never frame the company's
+   failure to implement MFA or isolate backups as equivalent to the fraud/negligence stories
+   elsewhere on this channel (e.g., 005/HeadSpin, 032/Practice Fusion). This is an avoidable-mistake
+   story, not a misconduct story.
+5. The core, most quotable lesson for on-screen text: backups that live in the same account as
+   production are not backups — they're just a second copy the same attacker can also delete.

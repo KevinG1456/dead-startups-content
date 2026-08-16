@@ -1,8 +1,9 @@
-Fact-Check Reminder — Packages 001-043
-Last full audit: 2026-08-16 (041-043 added; 031-040 exist and are individually
-sourced via their own sources-log.txt files but were built in a session that never
-got logged in THIS file — see the note below; 026-030 added same session as 025;
-024 added, 021/022/023 added earlier, on 2026-08-14; 001-020 last audited 2026-08-13)
+Fact-Check Reminder — Packages 001-047
+Last full audit: 2026-08-16 (044-047 added same day as 041-043; 031-040 exist and
+are individually sourced via their own sources-log.txt files but were built in a
+session that never got logged in THIS file — see the note below; 026-030 added
+same session as 025; 024 added, 021/022/023 added earlier, on 2026-08-14; 001-020
+last audited 2026-08-13)
 
 WHAT THIS IS
 Every package in /YouTube-Content has been fact-checked against outside sources
@@ -24,6 +25,93 @@ package's own sources-log.txt directly until this file catches up.
 ---
 
 FILLED IN (moved from placeholder framework to real, sourced content) — MOST RECENT
+
+047 - One Vertical, Five Funerals: Owned-Kitchen Food Delivery (NEW TITLE, replaces
+  retired dead-saas-30 batch title #18 "support ticket necrology," fills batch
+  title #28's pattern instead — "one vertical, five funerals") -> "Five Companies.
+  One Vertical. All Dead Within a Few Years of Each Other." 5-company comparator,
+  same format as 007/015/025/034. Sprig and Munchery reused directly from their
+  own already-verified packages (001, 023) — no re-derivation. Three companions
+  freshly WebSearch-verified this session (only had single-line citations in 015's
+  shutdown-letter corpus before): SpoonRocket ($13.5M raised, collapsed Mar 2016,
+  first of the three "owned-kitchen" deaths — Sprig 2017, Munchery 2019 following
+  it); Maple (NYC, co-founded incl. Caroline Hu Flexer, shut down 2017 — [VERIFY]
+  total funding range not fully reconciled across sources); Josephine (home-cooked-
+  meal marketplace, ~$2M+ raised — smallest of the five, and NOT an owned-kitchen
+  company, a genuine structural outlier: killed by health-department/regulatory
+  pressure across multiple U.S. states, not unit economics — [VERIFY] exact
+  shutdown month and a co-founder's exact role not fully confirmed). Package's
+  explicit throughline: 4 of 5 share the owned-kitchen unit-economics failure
+  mechanism; Josephine is presented as a deliberate contrast, not flattened into
+  the same story. No fraud/scandal framing. Full source map: see
+  `047-One-Vertical-Five-Funerals-Owned-Kitchen-Food-Delivery/sources-log.txt`.
+
+046 - Mailbox (NEW TITLE, replaces retired dead-saas-30 batch title #19
+  "acquisition integration that killed both companies," fills batch title #27's
+  pattern instead — "acqui-hired into oblivion") -> "Dropbox Paid $100 Million for
+  an App That Was 37 Days Old. Under Three Years Later, It Was Gone." Founded by
+  Gentry Underwood + Scott Cannon (pivoted from a to-do app called Orchestra, $5.3M
+  Series A Nov 2011); Mailbox launched Feb 2013 after a viral demo video and an
+  800K-person virtual waitlist; Dropbox acquired it Mar 15 2013 for a reported
+  ~$100M, all 13 employees joining. Promised Android/Mac apps in 2014 never really
+  shipped while Yahoo Mail/Outlook/Google Inbox copied its signature swipe/snooze
+  gestures. Dropbox announced shutdown Dec 7 2015 (alongside its Carousel photo
+  app); Mailbox actually closed Feb 26 2016. [VERIFY], unresolved: exact primary-
+  source wording of Dropbox's acquisition-announcement post not confirmed (no
+  unverified direct quote used on screen); the "37 days" launch-to-acquisition
+  figure is attributed to a 2023 retrospective, not independently re-derived from
+  primary dates; Gentry Underwood's post-Dropbox career is thinly sourced and
+  flagged, explicitly does NOT claim he worked on Google's Inbox team. Scope note:
+  package 003 already researched and rejected Mailbox for a DIFFERENT pattern
+  (platform-risk) — this package uses a different pattern (acqui-hire-then-
+  neglect) and doesn't contradict 003's finding. Full source map: see
+  `046-Mailbox-100-Million-For-A-37-Day-Old-App/sources-log.txt`.
+
+045 - The Fire Sale: What Dead Startups' Assets Sold For (NEW TITLE, replaces
+  retired dead-saas-30 batch title #16 "GitHub commit decay," fills batch title
+  #24's pattern instead — "the fire sale") -> "Five Startups. Five Bankruptcies.
+  Here's Exactly What the Wreckage Sold For." 5-company comparator, same format as
+  007/015/025/034. Four companies' figures reused directly from this channel's own
+  already-verified packages, cited by source: Quibi (002) → content library sold to
+  Roku for under $100M, Jan 2021; Bird (028) → assets sold to Third Lane Mobility
+  (Bird's own lenders) for ~$145M, Apr 2024; Virgin Orbit (031) → auctioned May
+  2023 for ~$36M combined across Rocket Lab, Stratolaunch, and Vast; Friendster
+  (040) → sold to MOL Global for $39M (2009), patents separately sold to Facebook
+  for $40M (2010) — the patents alone outsold the whole company. Katerra was
+  freshly WebSearch-sourced this session (package 034 covers its rescue financing
+  but never states a final asset-sale total): combined asset sales/post-bankruptcy
+  income of ~$99M (Tracy CA facility $21.25M, Spokane WA factory $50M, renovation
+  business $1M cash + $17M assumed liabilities), cited to Bloomberg Law and
+  Levelset. Ratio ledger used throughout (sale price as % of peak valuation/
+  lifetime funding): Virgin Orbit ~1%, Katerra ~5%, Quibi <5.7%, Bird ~6%.
+  [VERIFY]/excluded: a freshly-surfaced Katerra source claiming "$1.75B annual
+  revenue" was flagged as uncorroborated/likely a confused metric and excluded
+  from every file. Explicit framing correction: Friendster's inclusion required
+  flagging that its 2009 sale was a voluntary acquisition, NOT a bankruptcy fire
+  sale (no Chapter 11 was ever filed) — stated on screen, not glossed over. Full
+  source map: see
+  `045-The-Fire-Sale-What-Dead-Startups-Assets-Sold-For/sources-log.txt`.
+
+044 - Code Spaces (NEW TITLE, replaces retired dead-saas-30 batch title #12
+  "enterprise pivot that killed the SMB cash cow," fills batch title #21's pattern
+  instead — "security debt") -> "Hacked on a Tuesday. Out of Business by
+  Wednesday." June 17 2014: a DDoS attack was cover for a breach of Code Spaces'
+  AWS EC2 console; the attacker demanded ransom, the company refused and tried a
+  password reset, but the attacker had pre-planted backup admin logins, got back
+  in, and deleted production data AND backups — both lived in the same AWS
+  account, the single sharpest lesson in the package. Company publicly admitted no
+  2FA was in place. Shutdown announced June 18 2014 (confirmed via calendar math:
+  Tue → Wed). No perpetrator was ever identified. [VERIFY], unresolved and
+  explicitly stated as unknown rather than invented: no founder name, founding
+  year, employee/customer count, or funding history was found anywhere for this
+  company despite extensive searches — every file states this plainly, and the
+  batch's original "seed-stage" framing is deliberately never asserted as
+  confirmed fact. Also flagged: no primary source confirms the commonly-repeated
+  "12 hours" attack-to-shutdown figure — every file uses "the next day" / the
+  dated June 17→18 sequence instead. No fraud framing — Code Spaces was the victim
+  of a crime, not the wrongdoer; no speculation about the attacker's identity
+  beyond what's sourced. Full source map: see
+  `044-Code-Spaces-One-Day-From-Hack-To-Shutdown/sources-log.txt`.
 
 043 - Tali (NEW TITLE, replaces skipped dead-saas-30 batch title #17 "CAC never
   beat LTV") -> "He Tried 5 Different Ways to Get Customers. All 5 Failed. Here's
@@ -668,7 +756,7 @@ CLEAN — CHECKED, NO ERRORS FOUND
 
 STRUCTURALLY FINE BUT STILL NEEDS A REAL ANCHOR / SOURCING PASS BEFORE RECORDING
 
-None among the packages actually logged above (001-030, 041-043). All are sourced
+None among the packages actually logged above (001-030, 041-047). All are sourced
 and recording-ready, subject only to the narrow inline [VERIFY] flags noted
 throughout this log (single-sourced details, figures that vary across outlets,
 etc. — each deliberately left imprecise rather than guessed at). Packages 031-040

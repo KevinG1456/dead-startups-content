@@ -1,0 +1,127 @@
+Sources Log — Package 045: The Fire Sale (Quibi, Bird, Virgin Orbit, Friendster, Katerra)
+Filled in: 2026-08-16
+
+WHY THIS FILE EXISTS
+This is the anchor for dead-saas-30 batch title #24 ("The fire sale: what a startup's assets fetch at
+auction, line by line"), used to fill the slot left by retired title #16 ("the remote-first company
+that quietly stopped shipping" — no real sourceable anchor found after two research passes). Unlike
+most packages on this channel, this one is a COMPILATION: four of its five companies (Quibi, Bird,
+Virgin Orbit, Friendster) are already full anchor packages elsewhere on this channel with their own
+fact-checked sources-log.txt or README.md files. This file re-cites those, plus one freshly-sourced
+figure (Katerra's actual asset-sale total, which package 034 never stated). Same multi-company
+comparator format as packages 007, 015, 025, and 034.
+
+---
+
+COMPANY 1: QUIBI — content library sold to Roku
+- Raised approximately $1.75B before launch. Founded by Jeffrey Katzenberg (Chairman) and Meg Whitman
+  (CEO). Launched April 6, 2020; shutdown announced October 21, 2020 — roughly 6 months post-launch.
+- Its content library (~75 shows) was acquired by Roku for a reported price under $100 million,
+  announced January 2021 — NOT an acquisition of "assets" broadly, specifically the content library.
+- Ratio: under $100M against $1.75B raised is under 5.7% of lifetime funding.
+Source: verified in this channel's own `002-Quibi-1.75B-6-Months-Zero-Pivots/README.md` (originally
+corrected via this channel's 2026-08-13 sourcing sweep, per `Fact-Check Reminder.txt`'s "002 - Quibi"
+FIXED entry) — re-used here, not re-derived.
+
+COMPANY 2: BIRD — sold to its own lenders
+- Founded September 2017 by Travis VanderZanden. Peaked at a $2.3-2.5B valuation around its November
+  2021 SPAC merger; combined pre-SPAC VC funding (~$700M+) plus the SPAC's own $414M cash proceeds
+  gives a rough combined total north of $1B raised across Bird's full history.
+- December 20, 2023: Chapter 11 filed. April 5, 2024: Bird Global's assets sold for approximately $145
+  million to Third Lane Mobility — a new private holding company formed by a consortium of Bird's OWN
+  first- and second-lien lenders, led by MidCap Financial (an Apollo Global Management affiliate) and
+  Obelysk. This is Bird's own lenders converting debt to ownership, not an outside acquirer.
+- Ratio: $145M against a $2.3-2.5B peak valuation is roughly 6% of peak value.
+Source: verified in this channel's own `028-Bird-Scooter-SPAC-To-Bankruptcy/sources-log.txt` — re-used
+here, not re-derived.
+
+COMPANY 3: VIRGIN ORBIT — sold to three buyers at a bankruptcy auction
+- Founded March 2, 2017, spun off from Virgin Galactic under Richard Branson's Virgin Group. ~$1B
+  invested pre-IPO by Virgin Group and Mubadala (a reported aggregate, not an audited total). SPAC
+  merger closed Dec 30, 2021 at a $3.7B valuation.
+- Chapter 11 filed April 4, 2023. May 22-23, 2023: assets sold at bankruptcy auction for approximately
+  $36 million total, split among three buyers: Rocket Lab ($16.1M, Long Beach HQ building, ~140,000 sq
+  ft), Stratolaunch ($17M "stalking horse" bid, the Cosmic Girl 747 carrier aircraft), and Vast/Launcher
+  ($2.7M, Mojave facility plus machinery/equipment/inventory). Firefly Aerospace separately acquired
+  approximately $3.8M of additional assets in June 2023.
+- Ratio: ~$36M against a $3.7B peak valuation is roughly 1% (0.97%) of peak value — the sharpest ratio
+  in this comparator.
+Source: verified in this channel's own
+`031-Virgin-Orbit-3.7B-Valuation-Bankrupt-In-16-Months/sources-log.txt` — re-used here, not re-derived.
+
+COMPANY 4: FRIENDSTER — sold outright, then its patents outsold the whole company
+- IMPORTANT FRAMING NOTE: unlike the other four companies in this package, Friendster's 2009 sale was
+  a normal, voluntary acquisition — NOT a bankruptcy fire sale. No Chapter 11 was ever filed. It
+  qualifies for this package specifically because of what happened NEXT: its patent portfolio sold
+  separately, for more than the whole company had sold for less than a year earlier. Flag this
+  distinction explicitly on screen — do not imply Friendster went through the same distressed-auction
+  process as Bird, Virgin Orbit, or Katerra.
+- December 2009: Malaysian payments company MOL Global acquired 100% of Friendster for approximately
+  $39 million.
+- June 2010: MOL separately sold Friendster's patent portfolio (seven finalized patents, eleven
+  pending applications) to Facebook for approximately $40 million — MORE than the whole company had
+  sold for less than a year earlier.
+Source: verified in this channel's own
+`040-Friendster-The-Founder-Who-Wouldnt-Sell/sources-log.txt` — re-used here, not re-derived.
+
+COMPANY 5: KATERRA — FRESHLY SOURCED THIS SESSION (2026-08-16), not previously stated in package 034
+- Founded 2015 by Michael Marks. Raised approximately $2B, mostly from SoftBank (per this channel's
+  own package 034, which covers Katerra's rescue-financing history but never states its final
+  asset-sale total).
+- Filed Chapter 11 June 7, 2021, in the Southern District of Texas. Remained in Chapter 11 for
+  approximately four months before a Joint Chapter 11 Plan of Reorganization was confirmed.
+- Combined asset sales and post-bankruptcy income totaled approximately $99 million, including:
+  - Tracy, California facility: sold for $21.25 million
+  - Spokane, Washington factory: sold for $50 million
+  - Renovation business: sold to an ownership group operating Onx Homes for $1 million cash plus $17
+    million in assumed liabilities
+- *** [VERIFY]: one source in this fresh research pass states Katerra operated "in nine countries with
+  more than $2.5B in capital and $1.75B in annual revenue" prior to filing — this $1.75B "annual
+  revenue" figure is NOT corroborated elsewhere and looks likely to be a confusion with total capital
+  deployed or a different metric; DO NOT use "$1.75B annual revenue" on screen. Default to package
+  034's already-verified "~$2B raised, mostly SoftBank" for Katerra's funding figure. ***
+- Ratio: ~$99M against ~$2B raised is roughly 5% of lifetime funding.
+Source: Bloomberg Law ("SoftBank-Backed Katerra Seeks Liquidation After Selling Assets"),
+https://news.bloomberglaw.com/bankruptcy-law/softbank-backed-katerra-seeks-liquidation-after-selling-assets;
+Levelset ("Months After Bankruptcy Declaration, Katerra Still Faces Liens and Legal Claims As Major
+Assets Are Sold Off for Millions"), https://www.levelset.com/news/after-bankruptcy-katerra-still-faces-liens/.
+Katerra's rescue-financing history (the two $200M SoftBank infusions, the $35M DIP loan) remains
+sourced to this channel's own `034-The-Bridge-Round-Death-Spiral-4-Companies/sources-log.txt` — only
+the final $99M asset-sale total is new to this package.
+
+---
+
+THE RATIO LEDGER (the package's core visual device)
+1. Virgin Orbit: ~$36M / $3.7B peak valuation ≈ 1% — sharpest ratio
+2. Quibi: <$100M / $1.75B raised ≈ under 5.7%
+3. Katerra: ~$99M / ~$2B raised ≈ 5%
+4. Bird: ~$145M / $2.3-2.5B peak valuation ≈ 6%
+5. Friendster: $39M sale, then $40M patent sale alone exceeded it — not a ratio story, a sequencing
+   irony story (flag as structurally different from the other four, per the framing note above)
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This package is a compilation, not cold research — four of five companies (Quibi, Bird, Virgin
+  Orbit, Friendster) are already full anchor packages on this channel with their own fact-checked
+  files; only Katerra's final asset-sale total is newly sourced here.
+- Same multi-company comparator format as packages 007 (YC batch audit), 015 (shutdown-letter corpus),
+  025 (Sonder + Lyric + Zeus Living), and 034 (Katerra + Veev + Plastiq + Enjoy Technology).
+- Katerra also appears in package 034, but for a DIFFERENT reason there (its rescue-financing
+  mechanism) than here (its final liquidation total) — these are complementary, not duplicate, facts.
+- No individual across all five companies was charged with fraud or any crime in connection with these
+  events — all five are distressed-asset/liquidation-value stories, not fraud stories.
+
+---
+
+BEFORE RECORDING
+1. Never state Friendster's 2009 sale as a "bankruptcy fire sale" — it was a voluntary acquisition, no
+   Chapter 11 was ever filed. Its patent sale (2010) is what earns it a place in this lineup.
+2. Do not state "$1.75B annual revenue" for Katerra — this figure is uncorroborated and likely
+   confused with a different metric. Use "~$2B raised, mostly SoftBank" (package 034's verified figure).
+3. Cite each company's originating package explicitly (on screen or in end-card/description sourcing)
+   per this channel's cross-reference convention — this package draws on 002, 028, 031, 040, and 034.
+4. No fraud/criminal allegations apply to any individual across all five companies — keep the tone
+   analytical, not accusatory, throughout.
+5. Keep the ratio framing (sale price as a percentage of peak value/lifetime funding) consistent across
+   all five segments — it's the device that makes the comparison legible.
