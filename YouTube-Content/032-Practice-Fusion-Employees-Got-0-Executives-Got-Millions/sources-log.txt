@@ -1,0 +1,217 @@
+Sources Log — Package 032: Practice Fusion
+Filled in: 2026-08-15
+
+WHY THIS FILE EXISTS
+Practice Fusion is the anchor for this channel's "Money Mechanics" batch title #3: "Liquidation
+preferences: the $100M exit where founders got $0." The $100M acquisition price is an exact,
+precisely-sourced match to the title. But this research pass found the literal "founders got $0"
+premise does NOT hold up: CNBC's own January 2018 reporting shows ordinary employees and common
+stockholders got $0, while a pre-arranged management carve-out paid CEO Tom Langan $7 million and
+co-founder/executive Jonathan Malek $2.25 million. This package's framing was adjusted accordingly —
+see "CRITICAL FRAMING CORRECTION" below. This is the same kind of honest pivot this channel made on
+001 (Sprig's real ARR), 003 (platform-risk categories), and others: the title's premise doesn't
+survive contact with the sourcing, so the framing changes rather than the facts being bent to fit.
+
+CRITICAL FRAMING CORRECTION — READ BEFORE WRITING ANY FILE IN THIS PACKAGE
+The batch title says "founders got $0." What is actually sourced: ORDINARY EMPLOYEES AND COMMON
+STOCKHOLDERS got $0, while MANAGEMENT (including one co-founder who stayed on as an executive) had a
+pre-arranged carve-out that paid them millions. Founder Ryan Howard (ousted as CEO in Aug 2015, gone
+from the company by the 2018 sale) is NOT confirmed in this research pass to have received $0 — no
+source found states his specific payout either way. Do not state or imply he got $0; state plainly
+that this research did not find his individual outcome reported. Co-founder Jonathan Malek, who
+remained an executive through the sale, is confirmed to have received $2.25 million — the opposite of
+"$0." The accurate, sourced framing for this package is: "employees and common stockholders got $0;
+executives (including a co-founder who stayed on as one) got millions via a carve-out" — sharper and
+more cynical than the original title, and still built on the same liquidation-preference mechanism.
+
+---
+
+FOUNDING — [VERIFY] founding year discrepancy
+- Practice Fusion, a San Francisco-based cloud EHR company for small/solo medical practices, was
+  founded by Ryan Howard, Alan Wong, Jonathan Malek, and Matthew Douglass. *** [VERIFY]: Wikipedia
+  states 2005; at least one other source found in this pass says 2006 (and TechCrunch's 2018 piece
+  calls it "12-year-old," which would point to 2005-2006 depending on exact founding vs. launch
+  date). Use "2005" as the primary figure (Wikipedia) but treat as approximate if a firmer primary
+  source is found before recording. ***
+- Business model: free cloud-based EHR software for independent physician practices, monetized via a
+  data/advertising-adjacent model rather than subscription fees from doctors.
+Source: Wikipedia ("Practice Fusion"); TechCrunch (Jan 8, 2018).
+
+FUNDING HISTORY — [VERIFY] total raised varies by aggregator, use $157M as primary
+- Early rounds: Band of Angels and Felicis Ventures (May 2009), Salesforce.com (June 2009),
+  Morgenthaler Ventures (Dec 2010), Founders Fund (Apr 2011, per Wikipedia — Peter Thiel's fund).
+- September 2013: $70 million Series D led by Kleiner Perkins Caufield & Byers.
+- December 2013: additional $15 million Series D extension from Qualcomm Ventures.
+- Total lifetime funding: reported as "approximately $157 million" by TechCrunch (the most-
+  corroborated figure across multiple outlets, incl. CNBC). *** [VERIFY]: other aggregators found in
+  this pass range from $149M to $255M — treat $157M as the primary on-screen figure, sourced to
+  TechCrunch/CNBC reporting rather than aggregator data. ***
+- Investors across the company's life included Founders Fund, Kleiner Perkins, ORIX Growth Capital,
+  and Artis Ventures, among others.
+Source: TechCrunch (Jan 8, 2018, "Practice Fusion, once poised for a blockbuster IPO, sells at a loss
+to Allscripts"); Wikipedia; CNBC (Jan 8, 2018).
+
+THE NEAR-IPO — precisely sourced
+- In 2015, Practice Fusion hired JPMorgan Chase to explore a potential IPO. JPMorgan's internal
+  estimate: if the company went public in 2016, it could be valued at approximately $1.5 billion,
+  based on projected 2018 revenue of $181 million.
+Source: TechCrunch (Jan 8, 2018); Fortune (Aug 19, 2015).
+
+THE OUSTER — precisely dated, do NOT describe as a "second" firing (unconfirmed detail, dropped)
+- August 14, 2015: founder and CEO Ryan Howard was removed from the CEO role by Practice Fusion's
+  board — a board decision, announced quietly via a website statement/blog post late on a Friday
+  afternoon, not a press release. Howard retained the board chairman title at the time of the
+  announcement. The board's stated reason: the company "needed to significantly enhance its
+  commercialization efforts" — Howard was viewed as stronger on product than sales/commercialization.
+- Tom Langan, previously Practice Fusion's chief commercial officer, was named interim CEO on
+  Howard's departure, and was confirmed as permanent CEO in November 2015.
+- Around this period, the company laid off approximately 25% of its workforce, aiming for cash-flow
+  positivity. Peak headcount exceeded 400 employees; by the time of the 2018 sale, headcount was down
+  to approximately 200.
+- After his departure, Ryan Howard went on to found a new startup, iBeat (a health-tech/wearable
+  company), by 2016.
+Source: Fortune (Aug 19, 2015, "Behind the Practice Fusion CEO switch"); TechCrunch (Jan 8, 2018);
+Forbes (May 24, 2016, "Practice Fusion Founder Ryan Howard Makes A Comeback With iBeat").
+
+THE OPIOID KICKBACK SCHEME — precisely sourced, context for the price collapse below
+- Conversations between Practice Fusion and Purdue Pharma L.P. (the maker of OxyContin, referred to
+  as "Pharma Co. X" in DOJ documents before being publicly identified as Purdue) about a paid
+  clinical-decision-support (CDS) alert began in 2013 — while Ryan Howard was still CEO. The actual
+  contract for the pain-related CDS alert was signed in March 2016 — after Howard's August 2015
+  departure, under CEO Tom Langan.
+- Ryan Howard told FierceHealthcare directly, in his own words, that he was "not in charge of the
+  company when the opioid contract was signed." *** Present this as Howard's own on-record statement
+  to a reporter, not as this channel's independently verified fact — though it is consistent with the
+  March 2016 contract-signing date, which is after his confirmed August 2015 departure. Do not extend
+  this to claim Howard had no knowledge of or role in the 2013 conversations that preceded the
+  contract, since this research pass found no direct statement addressing that period specifically. ***
+- Purdue Pharma paid Practice Fusion nearly $1 million (payments made April-December 2016) in
+  exchange for Practice Fusion designing and embedding a clinical alert in its EHR software that
+  prompted physicians to prescribe more extended-release opioid medications (OxyContin, Butrans,
+  Hysingla) than were medically necessary — Purdue's own marketing department helped design the
+  alert, which was presented to physicians as objective clinical guidance.
+- The alert was triggered in clinical practices an estimated 230 million times between 2016 and 2019,
+  and is estimated to have resulted in tens of thousands of additional extended-release opioid
+  prescriptions.
+- Separately, Practice Fusion struck 14 similar paid-alert deals with other pharmaceutical companies
+  between November 2013 and August 2017 — the Purdue deal was the one DOJ specifically targeted in
+  its criminal case.
+Source: NPR (Feb 1, 2020); Fierce Pharma; DOJ/Oversight.gov (Jan 27, 2020, settlement announcement);
+CNBC (Jan 28, 2020, "Practice Fusion took kickbacks to push opioids to doctors, DOJ finds"); Journal
+of Bioethical Inquiry (2022 academic case analysis).
+
+WHY THE DEAL PRICE COLLAPSED — precisely sourced, direct causal link to the DOJ investigation
+- March 2017: Practice Fusion received a Criminal Investigative Demand (CID) — a federal grand jury
+  subpoena-equivalent — from the U.S. Attorney's Office for the District of Vermont, opening the DOJ's
+  investigation into the Purdue Pharma arrangement.
+- May 2017: Allscripts submitted a non-binding letter of intent to acquire Practice Fusion for
+  between $225 million and $250 million — this was AFTER the DOJ investigation had already begun.
+- June 2017: Allscripts pulled its offer, in part after another EHR vendor, eClinicalWorks, settled
+  separately with federal prosecutors for $155 million over unrelated allegations of falsifying EHR
+  certification requirements — an event that raised sector-wide concern about EHR-vendor legal
+  exposure.
+- January 8, 2018: Allscripts acquired Practice Fusion for $100 million in cash (subject to working-
+  capital and net-debt adjustments) — roughly $125-150 million less than the original May 2017 offer,
+  and about two-thirds of the company's total lifetime funding raised.
+- Allscripts president Rick Poulton later told shareholders (per company disclosures): "As you know
+  from our previous SEC filings, DOJ began investigations into certain practices of Practice Fusion
+  before we acquired the business" — confirming Allscripts knew of the DOJ investigation before
+  closing the reduced-price deal.
+Source: Fierce Healthcare ("Allscripts offered to buy Practice Fusion for $250M. A DOJ investigation
+changed everything"); TechCrunch (Jan 8, 2018); DOJ settlement disclosures; Allscripts shareholder
+communications (per Fierce Healthcare reporting).
+
+WHO GOT WHAT — the core liquidation-preference story, precisely sourced
+- CNBC (Jan 23, 2018, "Employees at Practice Fusion expected IPO riches, but got nothing as execs
+  pocketed millions"): ordinary employees and common stockholders received $0 from the $100 million
+  sale. Because of stacked liquidation preferences across multiple funding rounds, preferred
+  shareholders were paid first in the acquisition waterfall, and by the time the payout reached common
+  stock, nothing remained.
+- CNBC interviewed three named former employees who each lost between $40,000 and over $100,000 —
+  money they had already spent exercising stock options (and paying the associated tax bill) in
+  earlier years, only to receive nothing when the company sold.
+- Despite the common-stock wipeout, a pre-arranged management carve-out/bonus pool paid select
+  executives directly from the deal: CEO Tom Langan received $7 million; co-founder and executive
+  Jonathan Malek received $2.25 million; other unnamed executives received "millions more" per CNBC's
+  reporting.
+- Practice Fusion's own statement to CNBC in response: "In the Bay Area, startup companies pursue
+  financings with terms that vary in their complexity, such as preferred stock liquidation
+  preferences," and that "bonus pools for key employees (which include founders and current
+  executives) align their incentives with company stakeholders to achieve value upon an exit." ***
+  Present this as the company's own defense/framing, attributed directly, not as this channel's
+  characterization. ***
+- *** [VERIFY]/NOT FOUND: this research pass found NO reporting on what founder Ryan Howard
+  specifically received (or didn't receive) from the 2018 sale — he had left the company in 2015 and
+  was not part of the 2018 executive carve-out. Do not state he received $0; state plainly that his
+  individual outcome was not found in available reporting. ***
+Source: CNBC (Jan 23, 2018); Becker's Hospital Review (analysis/summary of the CNBC reporting,
+Jan 2018).
+
+THE DOJ SETTLEMENT — precisely dated, two years after the sale
+- January 27-28, 2020: the DOJ announced a $145 million settlement with Practice Fusion (by then an
+  Allscripts subsidiary), resolving parallel criminal and civil investigations. Breakdown: a $25.4
+  million criminal fine, forfeiture of nearly $1 million in illegal proceeds, and a $118.6 million
+  civil settlement (of which $113.4 million went to the federal government and up to $5.2 million to
+  participating states).
+- Practice Fusion admitted criminal responsibility for conspiring with Purdue Pharma to violate the
+  federal Anti-Kickback Statute. This was the first-ever criminal action brought against an EHR
+  vendor.
+- Allscripts disclosed in August 2020 that the underlying conduct predated its acquisition of Practice
+  Fusion (i.e., occurred under prior ownership/leadership, before the Jan 2018 sale closed).
+Source: DOJ/Oversight.gov (Jan 27, 2020); Healthcare Dive; Fierce Healthcare; NPR (Feb 1, 2020);
+Medscape.
+
+THE OBSTRUCTION CASE — one named individual, precisely dated, NOT the CEO or a founder
+- Steven Mack, Practice Fusion's Director of National Accounts during 2015-2016 and the company's
+  principal point of contact with Purdue Pharma on this matter, was NOT charged with the underlying
+  kickback conspiracy itself in the material found in this research pass. He was charged separately
+  with obstruction: in late 2019, after learning the DOJ was investigating, he intentionally deleted
+  files relevant to the investigation from his company-issued laptop.
+- March 8, 2021: Mack pleaded guilty to one count of attempting to obstruct a federal investigation.
+- May 13, 2024: Mack was sentenced to one year of probation, a $20,000 fine, and community service.
+*** Framing note: Mack was a sales director, not a founder, CEO, or member of the executive carve-out
+group described above — keep him categorically distinct from both Ryan Howard and Tom Langan/Jonathan
+Malek in every file. ***
+Source: DOJ/Oversight.gov (Mar 8, 2021, guilty plea announcement); VTDigger (Mar 8, 2021; May 16,
+2024); DOJ/Oversight.gov (May 13, 2024, sentencing announcement); Vermont Business Magazine.
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This is the channel's first package built around the liquidation-preference/cap-table-mechanics
+  pattern specifically (distinct from 018's "Down Rounds: The Silent Killer," which covers a related
+  but different financing-structure risk) — good cross-reference candidate if 018 covers similar
+  waterfall mechanics.
+- The "management carve-out survives while common stock is wiped out" mechanism here is structurally
+  distinct from every fraud-adjacent package on this channel (022/Fast, 029/Ozy Media, 030/MoviePass)
+  — nobody here was charged with fraud in connection with the SALE itself; the fraud charge (DOJ
+  kickback case) is a separate matter connected to the company's product conduct, not to how the
+  acquisition proceeds were distributed.
+- Second package on this channel (after 030/MoviePass) requiring a clean three-way "who's who" split:
+  Ryan Howard (founder, ousted 2015, outcome from the 2018 sale not confirmed either way), Tom
+  Langan/Jonathan Malek (executives who received the carve-out payouts), and Steven Mack (sales
+  director, later convicted of obstruction, categorically separate from the other two groups).
+
+---
+
+BEFORE RECORDING
+1. Never state or imply that "the founders" collectively got $0 — the sourced fact is that ordinary
+   employees and common stockholders got $0, while a management carve-out paid executives (including
+   one co-founder who stayed on, Jonathan Malek) millions. This is the single most important framing
+   correction in this package.
+2. Do not state Ryan Howard's specific financial outcome from the 2018 sale — no source found in this
+   research pass addresses it directly either way.
+3. Keep Ryan Howard, Tom Langan/Jonathan Malek (executive carve-out recipients), and Steven Mack
+   (sales director convicted of obstruction) in three clearly distinct categories throughout every
+   file — do not imply any one of these people belongs in a different group than sourced.
+4. On the opioid kickback material: attribute Howard's "not in charge when the contract was signed"
+   defense as his own on-record statement to FierceHealthcare, consistent with (but not proven solely
+   by) the March 2016 contract date being after his August 2015 departure. Do not extend this into a
+   full exoneration covering the 2013-2015 conversations that preceded the contract.
+5. [VERIFY] the founding year (2005 per Wikipedia vs. a 2006 reference found elsewhere) and the total
+   funding figure ($157M primary, but aggregator ranges run $149M-$255M) before stating either as a
+   single precise fact on screen.
+6. Purdue Pharma is itself a notorious, already-convicted company (unrelated guilty plea in its own
+   federal opioid case) — this package only needs to state Practice Fusion's own admitted conduct and
+   settlement; do not import unrelated Purdue/Sackler-family claims into this package without their
+   own sourcing pass.

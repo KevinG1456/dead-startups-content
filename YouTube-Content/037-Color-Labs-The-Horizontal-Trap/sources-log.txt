@@ -1,0 +1,106 @@
+Sources Log — Package 037: Color Labs
+Filled in: 2026-08-15
+
+WHY THIS FILE EXISTS
+Color Labs is the anchor for this channel's "Money Mechanics" batch title #10: "The horizontal trap:
+the tool for everyone that no one paid for." Pattern: no ICP (ideal customer profile), no wedge. This
+resolves another open flag from package 012 (The Pivot Graveyard), which mentioned Color Labs only
+briefly and unsourced: "raised a reported $41M for a photo-sharing app, pivoted multiple times without
+finding traction, eventually sold in what was widely characterized as an acqui-hire around 2012
+[VERIFY exact figures and outcome]." This package resolves that flag with full sourcing, under the
+positioning/ICP-drift lens this title calls for (distinct from 012's pivot-count framing).
+
+EDITORIAL DECISION — DELIBERATELY EXCLUDED CONTENT, READ BEFORE TOUCHING THIS PACKAGE
+In November 2012, a former Color Labs employee, Adam Witherspoon, filed a lawsuit against the company
+and co-founder Bill Nguyen alleging severe personal misconduct: a hostile/intimidating workplace
+(including, per the complaint, Nguyen "bringing an armed crony into the workplace to threaten and
+intimidate employees"), misuse of company funds for personal expenses, and separately, personal abuse
+allegations unrelated to the company. *** This package DELIBERATELY EXCLUDES these allegations from
+every file (script, blog, social, thumbnails, etc.). Reasoning: (1) these are civil-lawsuit
+allegations only — Bill Nguyen was not criminally charged or convicted based on any source found in
+this research pass; (2) they are tangential to this title's actual subject (product positioning/ICP
+strategy), not load-bearing to the lesson; (3) the specific allegations (including a child-abuse claim
+from a family vacation) are unusually severe and personal, and including them would dominate the video
+in a way disconnected from its actual thesis. If a future editor wants to cover the lawsuit itself, it
+should be a separate, dedicated sourcing pass with the same rigor as this channel's other sensitive-
+founder-claims packages (see [[feedback_sensitive_founder_claims]]) — not folded into this business-
+strategy piece. Do not reintroduce these allegations into this package without that separate pass. ***
+
+---
+
+FOUNDING AND FUNDING — precisely sourced
+- Color Labs was founded in 2010/2011 (sources vary on the exact year; the product itself launched
+  publicly in March 2011) by Bill Nguyen — a serial entrepreneur whose previous company, Lala (a music
+  streaming service), was acquired by Apple in 2009 — and co-founder Peter Pham.
+- The company raised $41 million entirely BEFORE its product publicly launched: $25 million from
+  Sequoia Capital, $9 million from Bain Capital, and $7 million in venture debt from Silicon Valley
+  Bank.
+Source: Dealroom; Wikipedia ("Color Labs"); Forbes (Nov 20, 2012, "A Mess Of Family Dynamics Alleged
+in Lawsuit..." — funding figures only cited from this piece, not the personal allegations).
+
+THE PRODUCT AND THE POSITIONING PROBLEM — precisely sourced
+- Color's core concept: "elastic," proximity-based social photo-sharing. Users automatically saw
+  photos taken by any other Color user physically nearby — no friend requests, no follows, no
+  specified relationship required. The product was explicitly built for "everyone nearby," not for any
+  defined customer segment or specific use case.
+- March 2011: public launch. Initial buzz drove over 1 million downloads.
+- The launch was met with widespread user confusion about the app's actual purpose and value — users
+  did not understand what problem it solved for them specifically.
+- By September 2011, monthly active users had fallen to under 100,000 — a collapse from the initial
+  download spike within about six months.
+- June 2011: co-founder Peter Pham departed the company, less than three months after the product's
+  public launch.
+Source: The Stupid Founder ("The $41 Million Startup That Never Found Its Place"); Medium/FAIL Company
+(Kevin Chao, "What Happened to Color Labs?"); Wikipedia.
+
+THE PIVOT — precisely sourced, still no defined audience
+- September 18, 2011: at TechCrunch Disrupt, Sequoia partner and Color board member Doug Leone
+  publicly said Sequoia was "thrilled" to be an investor in Color and teased "stay tuned" for a pivot,
+  referring to an internal project codenamed "Blue."
+- Color subsequently abandoned its location-based photo concept and pivoted to "Color for Facebook" —
+  a mobile app for broadcasting live 30-second video clips directly to a user's Facebook Wall. This
+  second product also failed to define a specific target user or use case, and also failed to gain a
+  significant, retained audience.
+Source: TechCrunch (Sept 18, 2011, "Sequoia's Doug Leone: We Are 'Thrilled' To Be Investors In Color,
+'Stay Tuned' For The Pivot"); Wikipedia.
+
+THE ACQUI-HIRE AND SHUTDOWN — precisely dated
+- October 2012: reports surfaced that Apple was acquiring Color Labs.
+- November 2012: the acquisition was confirmed — an "acqui-hire" deal reported at approximately $7
+  million, roughly 17% of the $41 million Color had raised. Apple's stated interest was primarily the
+  company's engineering team and its patent portfolio, which included technology for sharing content
+  between devices and an HD video file format — reportedly intended to bolster Apple's own FaceTime
+  product, not to continue operating Color's app.
+- December 31, 2012: the Color app was officially shut down.
+Source: Forbes (Oct 18, 2012, "Apple To Buy Bill Nguyen's Failed Color Labs For Patents To Bolster
+FaceTime"); MacDailyNews (Oct 2012); Wikipedia; Medium/FAIL Company.
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- Cross-reference package 012 (The Pivot Graveyard) explicitly — Color Labs appeared there only as a
+  brief, unsourced one-of-five segment; this package is the fuller, sourced treatment, under the
+  positioning/ICP-strategy lens rather than 012's pivot-count framing.
+- This is the channel's first package built specifically around the "no ICP / no wedge" horizontal-
+  positioning failure mode — distinct from 010's "acquired for $1" pattern and 014's freemium-trap
+  pattern, though thematically adjacent to both; a natural cross-reference candidate if either package
+  covers compatible material.
+- The excluded lawsuit content (see editorial decision above) means this package presents Bill Nguyen
+  neutrally as a repeat/serial entrepreneur and Color's co-founder — do not imply any personal
+  misconduct claims anywhere in this package's files.
+
+---
+
+BEFORE RECORDING
+1. Do NOT include the November 2012 lawsuit's personal-misconduct allegations against Bill Nguyen
+   anywhere in this package — see the Editorial Decision note above for full reasoning. This applies
+   to every file, including throwaway lines in social posts or community posts.
+2. [VERIFY] Color Labs' exact founding year (2010 vs. 2011) before stating a single precise year on
+   screen — the product's public launch date (March 2011) is firmly sourced regardless.
+3. Present the $41M-raised-to-$7M-acqui-hire figure precisely — Apple's stated interest was
+   engineering talent and patents, not the Color app itself, which was shut down rather than
+   continued.
+4. Cross-reference package 012 (Pivot Graveyard) explicitly as the channel's earlier, brief mention of
+   this company.
+5. No fraud/criminal allegations apply to anyone in the business-strategy story this package tells —
+   keep the tone analytical throughout, focused on product/positioning strategy.

@@ -1,0 +1,124 @@
+Sources Log — Package 036: Life On Air (Meerkat + Houseparty)
+Filled in: 2026-08-15
+
+WHY THIS FILE EXISTS
+Life On Air is the anchor for this channel's "Money Mechanics" batch title #8: "The best product in
+the category lost. Twice. (When distribution beats quality)." This is a rare case where the SAME
+founding team, at the SAME company, lost to a distribution-advantaged competitor in two completely
+different product categories, five years apart — live video streaming (Meerkat, 2015) and group video
+chat (Houseparty, 2019-2021). Distinct from package 008 on this channel, which covers Meerkat's
+collapse specifically through the lens of platform-API dependency risk (paired with Viddy, a different
+company, hit by a Facebook algorithm change). This package's angle is different: distribution-as-moat
+beating a well-received product, illustrated twice by the same team.
+
+CRITICAL HONESTY NOTE — Meerkat's "best product" claim is contested, present accurately
+Unlike Houseparty (which has strong, quantified acclaim — see below), Meerkat's specific product
+quality relative to Periscope is genuinely disputed in contemporaneous reporting: some accounts
+describe Periscope as the MORE polished product (better UI, and critically, the ability to replay
+streams, which Meerkat lacked at the time). Meerkat won 2015's SXSW hype cycle and first-mover
+attention, not necessarily a head-to-head product-quality comparison. Do not overstate Meerkat as
+"objectively the better product" — the accurate framing is that Meerkat had the cultural moment and
+the early user love, while Periscope had Twitter's built-in distribution (and, per some accounts, a
+more polished build) — and distribution is what decided the outcome. Houseparty's case is cleaner and
+better-quantified; lead with that one if a single clean "best product" example is needed.
+
+---
+
+FOUNDING — precisely sourced
+- Life On Air, Inc. was founded in 2012 in Israel by Ben Rubin and Itai Danino. The company's stated
+  mission: connecting people in the most human way possible when they're physically apart, through
+  live video products.
+Source: NoCamels; CB Insights company profile; Startupfest speaker bio (Ben Rubin).
+
+ROUND ONE — MEERKAT (2015) — the SXSW breakout, killed by an API cutoff
+- Meerkat, a live-video-streaming app, launched publicly in February 2015 and became the breakout star
+  of SXSW 2015 — widely covered as having "stolen the show" from Twitter itself that year, with users
+  including Mashable founder Pete Cashmore livestreaming SXSW events to thousands of viewers.
+- March 2015: Meerkat raised $12 million from Greylock Partners, riding the SXSW momentum.
+- The same day Twitter confirmed its acquisition of Periscope — a directly competing live-streaming
+  app — Twitter cut off Meerkat's access to the Twitter follower/following-graph API, giving Meerkat's
+  team only about two hours of advance notice, per Meerkat's own community director. This eliminated
+  Meerkat's ability to help new users find people to follow using their existing Twitter social graph
+  — a distribution mechanism Periscope, as a Twitter-owned product, retained natively.
+- *** Product-quality nuance, stated honestly: some contemporaneous accounts describe Periscope as the
+  more polished product at the time — a "beautiful UI," full functionality, and the ability for users
+  to replay past streams, a feature Meerkat's live streams lacked (Meerkat streams simply vanished
+  after broadcast). Meerkat's advantage was cultural momentum and first-mover attention, not a clean
+  product-quality edge. ***
+- Meerkat's usage collapsed after the API cutoff. The app was officially shut down and pulled from the
+  App Store on October 4, 2016 — about 19 months after its SXSW breakout.
+Source: CNN Money (Mar 18, 2015, "Meerkat stole the show at SXSW. Sorry, Twitter."); TechCrunch (Sept/
+Oct 2016, "Meerkat, star of 2015, is officially dead"); Wikipedia ("Meerkat (app)"); MarTech, NBC News,
+Macworld (Periscope launch coverage, March 2015); Axios (Mar 14, 2018, "Rubin at peace with Meerkat's
+five minutes of SXSW fame").
+
+THE PIVOT — precisely sourced
+- In early 2015 — around the same period Meerkat was collapsing — Ben Rubin told investors Meerkat
+  "was not going to work" and the team began developing a new concept: Houseparty, a group-video-chat
+  social app built around the idea of casually "dropping in" on friends already online, rather than
+  scheduling calls.
+Source: NFX ("The Insider Story of Houseparty"); Sequoia Capital Medium publication ("The Life of the
+Party").
+
+ROUND TWO — HOUSEPARTY — genuinely acclaimed, still lost to distribution
+- Houseparty raised significant funding as a standalone product — a $52 million round for Life On Air
+  was reported in December 2016 specifically tied to Houseparty's growth.
+- June 2019: Epic Games (maker of Fortnite) acquired Houseparty, in a deal reported at approximately
+  $35 million.
+- March 2020, amid COVID-19 lockdowns: Houseparty downloads spiked from about 533,000 in February 2020
+  to roughly 17.2 million in March 2020 — an increase of over 2,900% — becoming one of the most
+  downloaded apps in the world for a period.
+- Houseparty was genuinely well-reviewed and culturally beloved during this period: as of August 2020,
+  it held an average 4.9-out-of-5-star rating from over 500,000 reviews in the U.S. App Store, widely
+  praised in contemporaneous coverage for its playful, informal, socially-organic design — explicitly
+  contrasted against Zoom's more utilitarian, work-oriented design in period coverage (e.g., "Zoom by
+  Day, Houseparty by Night," a Harvard Digital Innovation and Transformation case write-up).
+- Despite that acclaim, Houseparty's install base collapsed as the video-chat category consolidated
+  around distribution-advantaged competitors: Zoom (the default for a huge wave of newly-remote work,
+  installed and habitual by necessity), Apple's native Group FaceTime (built into iOS, requiring no
+  download at all), and Facebook's Messenger Rooms (launched April 2020, built into an app already on
+  most phones). In the first eight months of 2021, Houseparty logged roughly 8 million installs — down
+  83% year-over-year from approximately 47 million installs in the same period of 2020.
+- September 9, 2021: Epic Games announced it would shut down Houseparty, with the app fully
+  discontinued in October 2021. Epic's own stated reasoning, from its blog post: the team was
+  "working on creating new ways to have meaningful and authentic social interactions at metaverse
+  scale across the Epic Games family" — i.e., a strategic reallocation away from Houseparty as a
+  standalone product, not a stated claim that the product itself had failed on quality.
+Source: NoCamels (Dec 2016 funding); Variety, TechCrunch, Washington Post, TechRadar (Sept 2021
+shutdown announcement); The Drum, Harvard Digital Innovation & Transformation platform (Houseparty vs.
+Zoom UX comparison, 2020); Business of Business (Houseparty app review, 2020); install-data reporting
+citing Sensor Tower-style figures (47M → 8M installs, -83% YoY).
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- Cross-reference package 008 explicitly as this channel's other Meerkat-related package — 008 covers
+  Meerkat's collapse through the platform-API-dependency-risk lens (paired with Viddy); this package
+  covers the SAME Meerkat collapse plus the LATER Houseparty collapse through the distribution-vs-
+  product-quality lens. Do not duplicate 008's Meerkat/Viddy API-mechanism content in depth here —
+  summarize Meerkat briefly and point to 008 for the fuller platform-dependency story; this package's
+  own added value is the Houseparty half and the "same team, twice" throughline.
+- Sima Sistani is credited as a Houseparty co-founder/leader in Sequoia's own retrospective piece,
+  distinct from Ben Rubin and Itai Danino, who founded Life On Air itself in 2012 — present her
+  specifically as joining/leading the Houseparty product effort, not as a 2012 Life On Air co-founder,
+  unless a firmer source is found confirming otherwise.
+- No fraud or criminal allegations apply to anyone in this story — this is a product/distribution
+  strategy story, not a fraud story.
+
+---
+
+BEFORE RECORDING
+1. Do not claim Meerkat was "objectively the better product" than Periscope — some contemporaneous
+   accounts describe Periscope as more polished (better UI, stream replay). Meerkat's edge was
+   cultural momentum and first-mover hype, not confirmed product superiority.
+2. DO present Houseparty's product acclaim as well-quantified and real (4.9/5 stars, 500K+ reviews,
+   explicit period comparisons favoring its UX over Zoom's) — this is the cleaner "best product" half
+   of the title's claim.
+3. Cross-reference package 008 explicitly for Meerkat's fuller API-shutdown story — don't re-litigate
+   that mechanism in full detail here.
+4. Distinguish Sima Sistani (Houseparty co-founder/leader per Sequoia's account) from Ben Rubin and
+   Itai Danino (Life On Air's original 2012 co-founders) precisely.
+5. Present Epic Games' own stated shutdown reasoning ("metaverse scale... across the Epic Games
+   family") as their own words, not as this channel's characterization of why Houseparty actually
+   declined — the actual decline (install collapse) is separately, numerically sourced.
+6. No fraud/criminal allegations apply to anyone in this story — keep the tone analytical throughout.

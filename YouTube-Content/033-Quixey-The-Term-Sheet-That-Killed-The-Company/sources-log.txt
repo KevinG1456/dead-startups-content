@@ -1,0 +1,129 @@
+Sources Log — Package 033: Quixey
+Filled in: 2026-08-15
+
+WHY THIS FILE EXISTS
+Quixey is the anchor for this channel's "Money Mechanics" batch title #4: "The company that died of a
+term sheet (the deal that scared off every other investor)." Unlike title #3's premise (which needed
+correcting — see package 032), this pattern holds up exactly as described: an August 2016 debt deal
+with Alibaba included a contractual veto right over any future equity financing, and Alibaba used that
+exact veto in February 2017 to kill a rescue round already agreed to by other investors (including
+Atlantic Bridge Capital), directly causing the shutdown days later. This is also a candidate flagged
+for deeper research: Quixey previously appeared only as a brief, unsourced one-of-five segment in
+package 012 (The Pivot Graveyard), marked "[VERIFY exact figures and pivot sequence]" — this package
+resolves that flag with a fully sourced, deeper treatment under a completely different angle (the
+term-sheet veto mechanism, not the consumer-to-enterprise pivot 012 focused on).
+
+FOUNDING — precisely sourced
+- Quixey was founded November 1, 2009, in Mountain View, California, by Tomer Kagan and Liron
+  Shapira. The company built a "functional" search engine for mobile apps — letting users search by
+  what an app does rather than requiring them to already know its name.
+Source: Wikipedia ("Quixey"); VentureBeat.
+
+FUNDING HISTORY — [VERIFY] total figure varies by source
+- Seed: $400,000, led by Eric Schmidt's Innovation Endeavors, with Archimedes Ventures participating.
+- Series A (August 2011): $3.8 million, led by U.S. Venture Partners (USVP) and WI Harper Group, with
+  Webb Investment Network and Innovation Endeavors also participating.
+- Series B (June 2012): $20 million.
+- Series C (2013): approximately $50 million, from USVP, GGV Capital, Innovation Endeavors, WI Harper
+  Group, Atlantic Bridge, Translink Capital, and Alibaba — Alibaba's first investment in the company.
+- 2015 round (announced March 6, 2015): $60 million, from Goldman Sachs, GGV Capital, Alibaba, and
+  SoftBank, at a reported valuation of approximately $600 million — the company's peak valuation.
+- *** [VERIFY]: total lifetime equity funding is reported as "$173.8 million" by one TechCrunch
+  citation and as "$135 million" by aggregator data (Tracxn) — treat $173.8M as the primary figure
+  (press-sourced) but flag the discrepancy if a firmer reconciled total is needed on screen. ***
+Source: TechCrunch (Aug 4, 2016, "Quixey debt funding"); Wikipedia; jcount.com (2015 round coverage);
+Tracxn company profile (aggregator, for the lower total-funding figure).
+
+THE 2016 WARNING SIGNS — precisely sourced
+- February 2016: several Quixey executives, reportedly including the COO and CTO, left the company as
+  it missed revenue targets.
+- April 8, 2016: co-founder and CEO Tomer Kagan was replaced as CEO by Mark Lazar, a serial/turnaround
+  CEO brought in from outside. Kagan remained on Quixey's board of directors. *** Framing note: Kagan
+  was no longer CEO by the time of the fatal veto incident described below (Feb 2017) — but he
+  remained a board member throughout, a less clean separation than this channel's other
+  founder-distinction packages (e.g., 030/MoviePass's Spikes, who left the company entirely). State
+  this precisely: Kagan was off the CEO role, not off the company, at the time of the veto. ***
+- November 2016: Mark Lazar was fired as CEO after roughly seven months; John Foster, formerly CEO of
+  Zed USA, was named permanent CEO — Quixey's third CEO within about a year.
+Source: Bloomberg (Apr 8, 2016, "Quixey Appoints Lazar as CEO, Co-Founder Kagan to Stay Involved");
+Recode (Apr 8, 2016, "Mobile Startup Quixey Names New CEO Amid Sales Struggle, Leadership Churn");
+PR Newswire (Nov 2016, "Quixey Names John Foster... as Permanent CEO"); TechCrunch (Apr 11, 2016,
+"Mobile search company Quixey swaps CEOs").
+
+THE TOXIC TERM SHEET — the core mechanism, precisely sourced
+- August 4, 2016: Quixey announced $30 million in new debt financing. Reporting citing the company's
+  own SEC filing (via TechCrunch/CNBC) confirmed the funding but did not disclose detailed terms
+  publicly at the time.
+- Per later reporting (Global Venturing, and secondary accounts of Axios's Dec 2017 "Behind the fall
+  of Quixey" investigation): the August 2016 financing package from Alibaba actually combined a $10
+  million payment with $30 million of debt — roughly $40 million total from Alibaba in this round.
+  The debt carried two critical terms: an 18-month repayment maturity, AND a veto right giving
+  Alibaba the ability to block any future equity financing round Quixey tried to raise. *** This
+  veto right is the exact mechanism this title's pattern describes — not a vague "toxic terms scared
+  investors away" signal, but a literal, contractual veto over other investors' money. ***
+Source: Global Venturing (Mar 30, 2017, "Quixey closure reportedly due to Alibaba debt deal");
+TechCrunch (Aug 4, 2016); CNBC (Aug 4, 2016, "Start-up slowdown leads Quixey to $30 million debt
+round"); Axios (Dec 15, 2017, "Behind the fall of Quixey" — cited via secondary summaries in this
+research pass; the original Axios article could not be directly accessed during this pass and should
+be re-verified/re-read in full before final recording if possible).
+
+THE VETO THAT KILLED THE COMPANY — precisely sourced
+- November 2016: Quixey began raising a new round of capital to keep the company alive.
+- By February 2017: existing investors, including Atlantic Bridge Capital, had agreed to provide $10
+  million in rescue financing.
+- Alibaba exercised its contractual veto right from the August 2016 debt deal and overruled/blocked
+  the agreed rescue round. *** This is the direct causal event: a specific contract term, used by one
+  investor, to block money that other investors had already agreed to provide. ***
+- This forced Quixey to lay off staff and begin searching for a buyer instead of completing the
+  rescue round.
+Source: Global Venturing (Mar 30, 2017); The Information (Feb 2017, "Alibaba-Backed Quixey Shutting
+Down"); Hacker News discussion thread citing the same reporting (Feb 2017).
+
+THE SHUTDOWN — precisely sourced
+- February 2017: Quixey shut down. The company laid off approximately 50 employees and permanently
+  closed its Mountain View, California office (at 303 Bryant Street / Castro Street reporting varies
+  slightly on the exact address — use "Mountain View" as the primary location detail).
+- Alibaba's official public statement on the closure: "Unfortunately, the development of the company
+  did not meet expectations and the board made a decision to end the business."
+- *** [VERIFY]: one source describes Alibaba's total committed investment across its relationship
+  with Quixey as "about $110 million" — this figure has not been fully reconciled against the $60M
+  2015 round (which included but was not exclusively Alibaba) plus the ~$40M August 2016 package; use
+  with the caveat that it's an aggregate, not confirmed as Alibaba's sole/exclusive contribution. ***
+Source: Mountain View Voice (Mar 14, 2017, "Start-up Quixey closes its Mountain View office"); The
+Information (Feb 2017); Wikipedia.
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- Cross-reference package 012 (The Pivot Graveyard: 5 Companies), which included Quixey only as a
+  brief, unsourced segment about its consumer-to-enterprise pivot, flagged "[VERIFY exact figures and
+  pivot sequence]." This package resolves that flag with full sourcing, but under an entirely
+  different lens (the term-sheet veto mechanism, not the pivot). If 012 is ever revised, this package
+  is the fuller, sourced reference for Quixey's facts — but do not simply merge the two framings; 012
+  is about pivoting, this package is about deal structure.
+- This is the channel's first package built specifically around a contractual VETO RIGHT as the
+  death mechanism — distinct from 018 (Down Rounds) and from 032 (Practice Fusion's liquidation-
+  preference waterfall). All three are cap-table/financing-structure stories but illustrate different
+  mechanisms: down rounds (018), preference-stack waterfalls (032), and investor veto rights (033).
+- No individual at Quixey or Alibaba was accused of fraud or charged with any crime in this story —
+  this is a governance/deal-structure case, not a fraud case. Standard factual-neutrality handling
+  applies to Tomer Kagan, Liron Shapira, Mark Lazar, and John Foster — all real, non-convicted people.
+
+---
+
+BEFORE RECORDING
+1. Re-verify the Axios "Behind the fall of Quixey" (Dec 15, 2017) article directly if possible before
+   final recording — this research pass could only access it via secondary summaries/paraphrases
+   (blocked by a 403 error on direct fetch), and it appears to be the most detailed original
+   investigation of this story.
+2. State Tomer Kagan's role precisely: replaced as CEO in April 2016, remained on the board — he was
+   NOT CEO at the time of the February 2017 veto/collapse (John Foster was), but he also never left
+   the company entirely the way this channel's other ousted-founder subjects did (e.g., 030/MoviePass's
+   Spikes). Do not overstate this as a clean "founder was gone" narrative.
+3. [VERIFY] the total lifetime funding figure ($173.8M per TechCrunch vs. $135M per aggregator data)
+   and the "$110M Alibaba total investment" aggregate figure before stating either as a single precise
+   number on screen.
+4. No fraud or criminal allegations apply to anyone in this story — keep the tone as governance/
+   deal-mechanics analysis, not a scandal or true-crime framing.
+5. Cross-reference package 012's Quixey segment explicitly if it's ever revisited, but do not treat
+   this package as simply "fixing" 012 — it's a new, differently-angled piece.

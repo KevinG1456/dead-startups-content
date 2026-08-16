@@ -1,0 +1,193 @@
+Sources Log — Package 031: Virgin Orbit
+Filled in: 2026-08-15
+
+WHY THIS FILE EXISTS
+Virgin Orbit is the anchor for this channel's "Money Mechanics" batch title #1: "The startup that
+IPO'd and died within 24 months." It's the cleanest, fastest, most famous-name example of that
+pattern found in this research pass — SPAC IPO close Dec 30, 2021 to Chapter 11 filing Apr 4, 2023
+is roughly 15-16 months, well inside the 24-month window (FlightGlobal's own headline states "16
+months after going public"). Compared to this channel's other SPAC casualties — Bird (028, ~25
+months IPO-to-Chapter-11), 23andMe (027, ~3.5 years), WeWork (026, whose 2021 SPAC listing didn't
+collapse the company at all, only its 2019 IPO attempt did) — Virgin Orbit is the fastest, and the
+first true "IPO'd and died inside 24 months" case on this channel. Bonus real twist not found in any
+prior package: an unrelated third party (Matthew Brown, a Texas man) submitted a fabricated $200
+million rescue offer for Virgin Orbit days before the bankruptcy filing and was later sued by the
+SEC for it — a rare case where a *bystander's* fraud, not the company's own conduct, becomes part of
+the story.
+
+CRITICAL ACCURACY NOTE — VIRGIN ORBIT vs. VIRGIN GALACTIC
+Virgin Orbit and Virgin Galactic are TWO SEPARATE public companies, both founded under Richard
+Branson's Virgin Group, both SPAC-era space companies — easily confused and must never be conflated.
+Virgin Galactic (space tourism, ticker SPCE) had its own, well-documented 2021 shareholder securities
+class-action lawsuit (Case No. 1:21-cv-03070). This research pass found NO equivalent named
+shareholder class action specifically against Virgin Orbit (ticker VORB) — if a later pass finds one,
+verify it names Virgin Orbit specifically before citing it; do not assume the Virgin Galactic
+litigation applies here. Every file in this package must refer to "Virgin Orbit" precisely and never
+interchange the two companies' facts, executives, tickers, or litigation.
+
+---
+
+FOUNDING AND BUSINESS MODEL
+- Virgin Orbit was founded March 2, 2017, as a spin-off from Virgin Galactic, under Richard Branson's
+  Virgin Group.
+- Business model: LauncherOne, a small-satellite orbital rocket carried to launch altitude by a
+  modified Boeing 747-400 named "Cosmic Girl," then air-dropped and ignited — a horizontal, mobile
+  "air-launch" approach aimed at flexible, rapid-response small-satellite deployment, differentiated
+  from vertical ground-launch competitors like Rocket Lab.
+- Dan Hart became CEO in 2017 after 34 years at Boeing, most recently as VP of Government Satellite
+  Systems overseeing Boeing's DoD/NASA/NOAA satellite programs.
+Source: Wikipedia ("Virgin Orbit"); The CEO Magazine (Dan Hart profile).
+
+PRE-IPO PRIVATE FUNDING — precisely as sourced, [VERIFY] no single reconciled lifetime total found
+- Virgin Group and Abu Dhabi sovereign wealth fund Mubadala Investment Company (a minority
+  stakeholder) together invested "about $1 billion" in Virgin Orbit through August 2021, per CNBC's
+  reporting at the time of the SPAC announcement. *** [VERIFY]: this is a reported aggregate figure
+  from press coverage at SPAC-announcement time, not a single company-confirmed "lifetime funding"
+  number — treat as "about $1 billion invested by its two backers pre-IPO," not as a precisely
+  reconciled total. ***
+Source: CNBC (Aug 23, 2021, "Branson's Virgin Orbit to go public through a SPAC at $3.7 billion
+valuation").
+
+THE SPAC MERGER AND IPO — precisely dated
+- August 23, 2021: Virgin Orbit announced plans to go public via a SPAC merger with NextGen
+  Acquisition Corp II, at a reported $3.7 billion valuation.
+- December 30, 2021: the merger closed; Virgin Orbit began trading publicly under ticker VORB on
+  Nasdaq. Stock opened at $10/share at a January 7, 2022 opening-bell ceremony.
+- The deal was expected to raise $483 million (including a $100 million PIPE round from investors
+  including Boeing and private equity firm AE Industrial Partners) but, due to SPAC-trust
+  redemptions, actually netted only $228 million for the company — under half of what was expected.
+  *** Note: one source (CMC Markets) states the deal "netted just $67.8 million" — this is a
+  different, more specific net-cash-to-company figure vs. the $228 million gross-proceeds figure
+  reported elsewhere (Wikipedia/CNBC). [VERIFY] which figure is being cited before stating a single
+  number on screen — likely gross SPAC-trust proceeds ($228M) vs. net cash after fees/redemptions
+  actually available to the company ($67.8M); if only one figure fits on screen, use $228 million
+  (the more widely corroborated figure) and note it was still "less than half of what was expected." ***
+Source: CNBC (Aug 23, 2021); Wikipedia ("Virgin Orbit"); CMC Markets ("From $3.7bn to $150m: what
+led to Virgin Orbit's meteoric fall?").
+
+THE LAUNCH RECORD — precisely as sourced
+- Virgin Orbit attempted 6 orbital launches total between 2020 and 2023: 4 successes, 2 failures.
+- May 25, 2020: maiden LauncherOne flight failed — first-stage engine shut down shortly after
+  ignition, rocket did not reach orbit.
+- January 17, 2021: first successful orbital launch ("Launch Demo 2").
+- 2021: 2 successful flights total for the year.
+- 2022: 2 additional successful flights (4 successes total by Q3 2022).
+- January 9, 2023: "Start Me Up" mission — Virgin Orbit's first UK orbital launch attempt, from
+  Spaceport Cornwall — failed to reach orbit, losing all 9 satellites from 7 different customers
+  onboard.
+- February 15, 2023: Virgin Orbit's own investigation revealed the root cause — a fuel filter within
+  the fuel feedline had become dislodged from its normal position at the start of the second stage's
+  first burn, causing the fuel pump to operate at reduced efficiency, under-fueling the engine, which
+  overheated; components near the overheated engine then malfunctioned, causing the second-stage
+  engine to shut down prematurely. Ground tests recreating flight conditions confirmed this as the
+  initiating event. Virgin Orbit stated it modified the next rocket with a more robust filter.
+Source: Space Explored ("Virgin Orbit – History, launches, and failure"); SpaceNews ("First Virgin
+Orbit U.K. launch fails"); Space.com ("Virgin Orbit traces failed UK rocket launch to 'dislodged fuel
+filter'"); Engadget; ITV News West Country; BBC ("Faulty fuel filter caused failed rocket launch").
+
+THE FINANCIAL PICTURE AS A PUBLIC COMPANY — the "public market exposure" mechanism, precisely sourced
+- Full-year 2021 revenue: $7.4 million (up from $3.8 million in 2020) — the company's first revenue
+  figures disclosed under public-company SEC reporting requirements.
+- Q3 2022: Virgin Orbit recognized more than $12 million in revenue following its fourth consecutive
+  successful launch — but reported a net loss of $42.9 million for that SAME quarter. *** This is the
+  core "public-market exposure revealing what private funding hid" mechanism for this package: as a
+  private company (2017-2021), this revenue-to-loss ratio was invisible to the public; the SPAC deal's
+  mandatory quarterly SEC filings (10-Q/10-K) made it visible for the first time, roughly a year
+  before the January 2023 launch failure that triggered the final collapse. ***
+Source: BusinessWire (Mar 29, 2022, Virgin Orbit Q4/FY2021 earnings press release); SEC.gov EDGAR
+(Virgin Orbit Holdings 8-K, earnings press release exhibit); The Register (Aug 15, 2022, "Virgin
+Orbit trims losses, eyes two final launches for 2022"); TechCrunch (Jan 10, 2023, "Virgin Orbit's
+botched launch highlights shaky financial future").
+
+THE COLLAPSE — precisely dated
+- March 15, 2023: CEO Dan Hart told nearly all staff to pause operations, placing them on a
+  week-long furlough while the company sought emergency funding.
+- March 19-23, 2023: Matthew Brown, a Texas man with no verified space-industry investment track
+  record, submitted an unsolicited $200 million rescue offer to Virgin Orbit, falsely portraying
+  himself as an experienced venture capitalist with stakes in "over 13 space companies." He sent
+  Virgin Orbit a fabricated screenshot claiming his company held $182 million in a bank account, when
+  the real balance was less than $1. After signing an NDA with Virgin Orbit, and after his offer
+  leaked to media, Brown appeared on CNBC on March 23, 2023, to publicly tout the offer. Virgin
+  Orbit's stock rose approximately 33.1% on the news before the offer was exposed as fraudulent. The
+  SEC filed a civil fraud suit against Brown and his company, Matthew Brown Companies, LLC, on June
+  17, 2024 (SEC Litigation Release No. 26031). *** Framing note: this fraud is entirely on Brown, an
+  unrelated third party — not on Virgin Orbit, Dan Hart, or Richard Branson. Virgin Orbit was the
+  victim/target of this specific fraud, not a party to it. ***
+- March 30, 2023: Virgin Orbit announced it would cease operations and lay off 675 employees —
+  approximately 85% of its workforce — "to reduce expenses in light of the Company's inability to
+  secure meaningful funding."
+- April 4, 2023: Virgin Orbit filed for Chapter 11 bankruptcy protection in the U.S. Bankruptcy Court
+  for the District of Delaware, listing $243 million in assets against $153.5 million in total debt.
+Source: CNBC (Mar 30, 2023, "Virgin Orbit funding plans fail, will stop operations, conduct
+layoffs"); CNN Business (Mar 30, 2023); Fortune (Mar 31, 2023); Space.com ("Virgin Orbit files for
+bankruptcy"); FlightGlobal (Apr 4, 2023, "Virgin Orbit files for bankruptcy 16 months after going
+public"); SEC.gov Litigation Release No. 26031 (Jun 17, 2024, Matthew Brown); Bloomberg (Jun 17,
+2024); CNBC (Jun 17, 2024, "SEC sues over alleged bogus bailout of Richard Branson's Virgin Orbit");
+Investing.com/Reuters (Jun 17, 2024).
+
+THE BANKRUPTCY AUCTION — precisely dated, sold for parts
+- May 22-23, 2023: Virgin Orbit's assets were sold at a bankruptcy auction for approximately $36
+  million total, split among three buyers:
+  - Rocket Lab: $16.1 million for Virgin Orbit's Long Beach, California headquarters (~140,000 sq
+    ft), which Rocket Lab said it would use to advance production of its own Neutron rocket.
+  - Stratolaunch: $17 million "stalking horse" bid for the Cosmic Girl 747 carrier aircraft.
+  - Vast/Launcher (Launcher, a subsidiary of Vast Space): $2.7 million for Virgin Orbit's Mojave,
+    California facility, plus some machinery, equipment, and inventory.
+  - Firefly Aerospace separately acquired approximately $3.8 million of additional assets in June
+    2023, per Wikipedia.
+- Virgin Orbit ceased operations entirely following the asset sale.
+Source: CNBC (May 23, 2023, "Virgin Orbit shuts down after selling assets in bankruptcy auction");
+NBC Los Angeles; Via Satellite; TechCrunch (May 23, 2023, "Virgin Orbit's launch business sold for
+parts to Vast, Stratolaunch and Rocket Lab"); SpaceNews; Aerotech News & Review; Wikipedia.
+
+DAN HART'S OWN ACCOUNT — attributed quotes, not the presenter's own claims
+- In a January/February 2024 interview, former CEO Dan Hart said Virgin Orbit "didn't raise enough
+  money" and that its "closest competitor had raised over three times what we had" — his own
+  characterization of the company's core structural weakness, given without naming the competitor
+  explicitly in the excerpt found in this research pass (widely inferred by outlets to mean Rocket
+  Lab, but that inference is not Hart's own quoted words — do not put "Rocket Lab" inside his quote).
+Source: Via Satellite / Satellite Today (Jan/Feb 2024, "Former Virgin Orbit CEO Dan Hart on the
+Milestones, Hopes, and Heartbreaks of Virgin Orbit's Journey").
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- This is the channel's 4th SPAC-era company (after 026/WeWork, 027/23andMe, 028/Bird) but the FIRST
+  one built specifically around the "IPO'd and died within 24 months" speed pattern — the other three
+  either took much longer to collapse (23andMe, ~3.5 years) or, in WeWork's case, the 2021 SPAC
+  listing didn't cause the collapse at all (that was its failed 2019 IPO attempt; the actual 2023
+  Chapter 11 was a reorganization the company emerged from, not a liquidation). Bird is the closest
+  comparator in shape (SPAC IPO to Chapter 11) but still ran roughly 25 months — Virgin Orbit is
+  faster. Good explicit on-screen comparison: "Bird took 25 months. Virgin Orbit took 16."
+- Distinct failure mechanism from all three: not accounting misstatement (028/Bird), not a data
+  breach (027/23andMe), not a failed first IPO followed by a later different listing (026/WeWork) —
+  here it's a single, dated, root-cause-confirmed technical failure (a $100-part dislodged fuel
+  filter) removing the one lever (successful launches → revenue → investor confidence) holding up a
+  company whose public filings had already revealed a revenue-to-loss ratio that couldn't survive a
+  funding gap.
+
+---
+
+BEFORE RECORDING
+1. Never conflate Virgin Orbit with Virgin Galactic — two separate Branson/Virgin Group companies,
+   different tickers (VORB vs. SPCE), different business models (small-satellite launch vs. space
+   tourism), different litigation histories. Virgin Galactic's 2021 shareholder securities suit is
+   NOT Virgin Orbit's — do not cite it here.
+2. [VERIFY] the $228 million vs. $67.8 million SPAC-proceeds figure discrepancy before stating a
+   single number on screen — see "THE SPAC MERGER AND IPO" above. Default to $228 million
+   (gross/more widely corroborated) with the "less than half of what was expected" framing if only
+   one figure fits.
+3. [VERIFY] the "about $1 billion" pre-IPO funding figure is a reported aggregate from Aug 2021 press
+   coverage, not a company-confirmed lifetime total — present it as "about $1 billion invested by
+   Virgin Group and Mubadala," not as an audited figure.
+4. Matthew Brown's fraud is his own, entirely separate from Virgin Orbit, Dan Hart, or Richard
+   Branson — Virgin Orbit was the target of that fraud, not a participant. Never imply otherwise.
+5. No individual at Virgin Orbit itself (Branson, Hart, or any other executive) was charged with any
+   crime or accused of fraud in connection with the company's collapse — the only fraud charge in
+   this story belongs to Matthew Brown, an unrelated outside party. Treat Branson and Hart per this
+   channel's standard sensitive-founder handling: factual, sourced, no unsupported pejoratives.
+6. Dan Hart's "didn't raise enough money" / "closest competitor raised over three times what we had"
+   quote should be presented as his own words, attributed — do not insert "Rocket Lab" into the quote
+   itself; if naming a competitor, mark it clearly as this channel's own inference, not Hart's.
+7. Cross-reference package 028 (Bird) explicitly as the channel's other SPAC-to-bankruptcy story, and
+   state the ~25-months-vs-~16-months contrast plainly.

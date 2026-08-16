@@ -1,0 +1,124 @@
+Sources Log — Package 035: Bench Accounting
+Filled in: 2026-08-15
+
+WHY THIS FILE EXISTS
+Bench Accounting is the anchor for this channel's "Money Mechanics" batch title #7: "The startup that
+got margin-called: venture debt's ugliest quarter." Pattern: MAC clauses and covenant breaches. This
+case is real, dated, and well-documented by BetaKit (a respected Canadian tech outlet, the deepest
+reporting found), though — same honest caveat as this channel's package 017 (Convoy) — the specific
+lender's identity and the exact covenant/MAC trigger were never publicly confirmed; Bench itself
+declined to confirm details. Present the general mechanism (a bank called in Bench's venture debt
+loan, forcing an immediate, unannounced shutdown) as real and sourced, while flagging the unconfirmed
+specifics clearly. Distinct from package 017 (Convoy): Convoy's lender (Hercules Capital) took control
+and wound the company down over time; Bench's lender calling the loan caused an immediate, overnight
+platform shutdown with zero customer warning — a sharper, faster version of the same underlying risk.
+
+---
+
+FOUNDING AND BUSINESS — precisely sourced
+- Bench was founded in 2012 as "10sheet Inc." by Ian Crosby and Adam Saint, accepted into the
+  TechStars NYC accelerator that year. The company rebranded to "Bench" in 2013 after relocating to
+  Vancouver, British Columbia, and launched its product publicly.
+- Business model: software-based bookkeeping-as-a-service for small and medium-sized businesses —
+  human bookkeepers supported by proprietary software, aimed at businesses too small for a full-time
+  accountant.
+Source: Wikipedia ("Bench Accounting"); BetaKit.
+
+FUNDING HISTORY — [VERIFY] total raised varies slightly by source ($100M+ vs. $113-115M)
+- 2013: $2 million seed round.
+- 2014: $1 million from VCs and angel investors.
+- 2015: $7 million Series A, led by Altos Ventures and Contour Venture Partners.
+- 2016: $16 million Series B, led by Bain Capital Ventures.
+- 2018: $18 million Series B-1, led by iNovia Capital.
+- 2021: $60 million Series C, led by Contour Venture Partners, with backing that included Shopify,
+  Bain Capital Ventures, and Sage. This round was reportedly structured as $37 million in equity plus
+  $23 million in debt — the debt component that ultimately mattered most to the company's ending.
+- Total lifetime funding by December 2024: reported as "over $100 million" (Wikipedia) or "$113-115
+  million" (other aggregator sources) — treat as "over $100 million" if a single round figure is
+  needed on screen, and flag the discrepancy if a precise total is required.
+- Post-money valuation after the 2021 Series C: approximately $232 million.
+Source: Wikipedia; Tracxn (aggregator); BetaKit (Series C debt/equity split).
+
+THE FOUNDER'S OUSTER — precisely dated, presented as his own account where attributed
+- November 2021 — within days of the Series C round closing — Bench's board removed co-founder Ian
+  Crosby from the CEO role. *** Per Crosby's own account (his own public statements, attributed as
+  such, not independently verified by this research pass): the board told him a "professional CEO"
+  was needed to "take the company to the next level," and he claims he had turned down what he
+  described as "a highly lucrative acquisition offer" before his removal. Present this explicitly as
+  Crosby's own claim, since this research pass found no independent corroboration of the specific
+  acquisition-offer detail. ***
+Source: BetaKit ("Bench had a crazier holiday break than your startup").
+
+THE POST-2021 STRUGGLE — precisely sourced
+- After the 2021 Series C and the CEO change, Bench reportedly closed two additional bridge financing
+  rounds, per BetaKit's sourcing, while struggling with scalability and customer retention, and
+  burning cash to the point of insolvency.
+Source: BetaKit.
+
+THE SHUTDOWN — precisely dated, the core "margin call" mechanism
+- December 27, 2024: Bench notified customers that its platform would become immediately
+  inaccessible — an abrupt shutdown with no advance warning, locking out an estimated 35,000+ U.S.
+  small-business customers from their own bookkeeping and tax records.
+- The same day, Bench laid off 450 employees.
+- Per BetaKit's sourcing, the shutdown was forced by a bank calling in Bench's venture debt loan —
+  i.e., the lender exercised its right to demand immediate repayment, a classic venture-debt "margin
+  call" / accelerated-repayment event. *** The identity of the specific lender, and the specific
+  covenant or Material Adverse Change (MAC) clause invoked to justify calling the loan, were never
+  publicly confirmed in any source found for this research pass — Bench itself declined to confirm
+  these details when asked by reporters. Present the general mechanism (a lender called in venture
+  debt, forcing immediate shutdown) as real and sourced; do not name a specific lender or cite a
+  specific covenant term as confirmed fact. ***
+Source: BetaKit; Yahoo Finance/Associated Press coverage (Dec 2024); multiple accounting-industry
+trade outlets (EisnerAmper, AccountingProse, EcomBalance — secondary coverage, consistent with
+BetaKit's core reporting).
+
+THE BANKRUPTCY FILING — precisely dated, exact figures
+- January 7, 2025: Bench filed for bankruptcy protection in Canada, disclosing $2.8 million in cash
+  against $65.4 million in total liabilities at the time of filing.
+Source: Multiple outlets citing the Canadian bankruptcy filing (Jan 2025).
+
+THE ACQUISITION — precisely dated
+- December 30, 2024 — three days after the shutdown — Employer.com, a California-based HR technology
+  company with no prior specialization in accounting, announced it would acquire Bench. Employer.com's
+  CEO, Jesse Tinsley, said he learned of Bench's shutdown from news reports, not directly from Bench.
+  Financial terms of the acquisition were not disclosed.
+- January 1, 2025: the acquisition closed; Bench resumed operations under the Bench Accounting brand
+  as an Employer.com subsidiary, and rehired more than half of the 450 employees laid off days
+  earlier.
+- Employer.com's own characterization of itself at the time: "bootstrapped, profitable, and on track
+  to hit $100 million in annual recurring revenue in 2025" — presented as the acquirer's own claim
+  about its own business, not independently audited.
+Source: GeekWire; CBC News; Banking Dive; BetaKit; Tech Startups.
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- Cross-reference package 017 (Convoy) explicitly as this channel's other venture-debt-lender-control
+  story — but state the mechanisms as distinct: Convoy's lender (Hercules Capital, named and
+  confirmed) took control and wound the company down over an extended period, eventually selling its
+  technology; Bench's lender (unnamed, unconfirmed) calling in the loan caused an immediate, overnight
+  platform shutdown with zero customer warning — a faster, more abrupt version of the same underlying
+  venture-debt risk.
+- Ian Crosby's November 2021 ouster — days after a major raise, before the company's later distress —
+  gives this package a natural, though less definitively documented, echo of this channel's other
+  founder-timing packages (e.g., 030/MoviePass's Spikes) — but do not force an exact parallel, since
+  Crosby's specific claims (the "acquisition offer" detail) are self-reported and not independently
+  corroborated in this research pass.
+- No fraud or criminal allegations apply to anyone in this story — this is a venture-debt mechanics
+  and distress-financing story, not a fraud story.
+
+---
+
+BEFORE RECORDING
+1. Never name a specific lender for Bench's venture debt — this research pass found no public
+   confirmation of the lender's identity, and Bench itself declined to confirm it to reporters.
+2. Never cite a specific covenant or MAC clause term as Bench's confirmed trigger — only the general
+   fact that a bank called in the loan is sourced (via BetaKit).
+3. Present Ian Crosby's account of his own 2021 ouster (the "professional CEO" quote, the declined
+   acquisition offer) as his own claims, attributed, not as independently verified fact.
+4. [VERIFY] Bench's total lifetime funding figure ("over $100 million" vs. "$113-115 million" across
+   sources) before stating a single precise number on screen.
+5. Cross-reference package 017 (Convoy) explicitly, keeping the two lender-driven mechanisms
+   distinct — named lender taking control over time (Convoy) vs. unnamed lender calling a loan for an
+   immediate shutdown (Bench).
+6. No fraud/criminal allegations apply to anyone in this story — keep the tone analytical throughout.

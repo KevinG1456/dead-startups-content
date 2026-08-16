@@ -1,0 +1,153 @@
+Sources Log — Package 034: The Bridge Round Death Spiral (Katerra, Veev, Plastiq, Enjoy Technology)
+Filled in: 2026-08-15
+
+WHY THIS FILE EXISTS
+This is the anchor for this channel's "Money Mechanics" batch title #2: "The bridge round death
+spiral: 4 companies, 4 'one last raise' stories." Pattern: bridge-to-nowhere financing — a company in
+distress takes (or tries to take) one more round of capital specifically framed as a bridge to
+survival or to a bigger raise, and that bridge either fails to close or fails to actually save the
+company. Four real, independently-verified companies anchor this package, chosen for having a clean,
+well-documented "one last raise" moment and for not having been used elsewhere on this channel:
+Katerra (construction tech), Veev (prefab home construction), Plastiq (B2B bill payment), and Enjoy
+Technology (mobile retail). Same multi-company comparator format as packages 007, 015, and 025 on this
+channel — each company gets its own sourced section below.
+
+---
+
+COMPANY 1: KATERRA — the clearest, most literal "one more bridge" story; TWO separate rescue
+infusions from the same investor before collapse
+- Founded 2015 by Michael Marks (former CEO of Flextronics, former interim CEO of Tesla). Business:
+  a vertically integrated construction company aiming to control design, manufacturing, and building
+  under one roof, reducing reliance on traditional contractors/subcontractors.
+- January 2018: an $865 million Series D round led by SoftBank Vision Fund valued Katerra just over
+  $3 billion.
+- SoftBank's cumulative investment in Katerra is widely reported at approximately $2 billion.
+- May 2020: SoftBank provided a $200 million emergency infusion — the first "bridge" — coinciding
+  with a new CEO, Paal Kibsgaard, brought in to fix the company's finances.
+- December 2020: SoftBank provided a SECOND $200 million infusion just seven months later — explicitly
+  reported by Bloomberg as SoftBank's "final cash infusion" to the company — and took a majority
+  stake as part of the deal. As part of the same restructuring, Greensill Capital (a SoftBank-backed
+  financial services firm that had been financing Katerra's working capital) canceled approximately
+  $435 million of Katerra's debt in exchange for a 5% equity stake.
+- Q1 2021: Greensill Capital itself collapsed in an unrelated, separate financial scandal — this
+  eliminated the working-capital financing lifeline Katerra had been relying on, and Katerra was
+  unable to raise further capital to replace it.
+- June 7, 2021: Katerra filed for Chapter 11 bankruptcy, explicitly citing both the COVID-19 pandemic
+  and its inability to raise new capital following Greensill's collapse.
+- After filing, SoftBank offered Katerra a $35 million debtor-in-possession (DIP) loan — a THIRD
+  "bridge," this one explicitly to fund a 60-day asset-sale process during bankruptcy, not to save
+  the company as a going concern.
+Source: Bloomberg (Jun 7, 2021, "SoftBank Throws Final Cash Infusion to Bankrupt Startup Katerra" —
+note: despite this headline referring to the Dec 2020 round as "final," a further DIP loan followed
+bankruptcy, so use "final infusion before bankruptcy" precisely, not "final money Katerra ever
+received"); Construction Dive (multiple 2020-2021 articles); TechCrunch (Jun 1, 2021); The Real Deal
+(Jun 7, 2021); Architect Magazine ("Katerra's $2 Billion Legacy").
+
+COMPANY 2: VEEV — a literal, named "bridge loan" attempt that failed
+- Founded 2008 (originally a real estate development company) by Amit Haller, Ami Avrahami, and Dafna
+  Akiva; pivoted toward prefabricated, tech-forward home construction starting around 2018.
+- March 2022: a $400 million Series D round — backed by LenX (formerly Lennar Ventures), Zeev
+  Ventures, Fifth Wall Climate Tech, JLL Spark Global Ventures, and led by Bond, with Khosla Ventures
+  also among its backers — pushed Veev to unicorn status at a reported valuation of approximately
+  $1-1.5 billion (sources vary on the exact figure; use "unicorn status, roughly $1 billion+" if a
+  single precise number is needed). Total funding by this point: approximately $600-650 million.
+- Late 2023: Veev attempted to raise a new financing round. When that failed, the company specifically
+  tried to secure a BRIDGE LOAN from investors as a fallback — and that bridge loan also failed to
+  materialize.
+- November 27, 2023: Veev informed staff it was shutting down, citing that "it was not possible to
+  secure additional funding" given market conditions. Approximately 250 employees were laid off.
+Source: TechCrunch (Nov 27, 2023, "Prefab home builder Veev reportedly shutting down after reaching
+unicorn status last year"); The Information (briefing, "Khosla-Backed Construction Tech Startup Veev
+to Shut Down"); GM Today/Business (citing AP/wire coverage); Builder Online ("Explainer: Why Did Veev
+Fail, and What Happens Next?").
+
+COMPANY 3: PLASTIQ — a failed SPAC deal as the "big last raise," compounded by SVB's collapse
+- Founded 2012 by Eliot Buchanan and Dan Choi. Business: a B2B bill-payment platform letting
+  businesses pay vendors, rent, taxes, and other bills by credit card for a flat fee, even when the
+  recipient didn't accept cards directly.
+- Total funding raised: approximately $141.8 million per Crunchbase (other figures cited around
+  $150M) — investors included Khosla Ventures, Atlas Venture, and Flybridge Capital Partners.
+- January 2022: a funding round valued Plastiq at $940 million.
+- August 2022: Plastiq announced plans to go public via a SPAC merger with Colonnade Acquisition Corp
+  II, at an implied $480 million valuation, expected to add more than $300 million to Plastiq's
+  balance sheet — this de-SPAC was effectively Plastiq's "big last raise."
+- September 2022: in the middle of pursuing the SPAC deal, Plastiq acquired Nearside, a digital
+  banking product for small businesses, for a reported $130 million.
+- Late 2022: Plastiq determined the de-SPAC transaction was no longer viable and moved to back out.
+- February 2023: Colonnade sent Plastiq a letter alleging breach of the merger agreement and
+  threatening litigation.
+- March 2023: Silicon Valley Bank — Plastiq's primary bank — collapsed, compounding Plastiq's cash
+  crisis at the worst possible moment.
+- May 24, 2023: Plastiq filed for Chapter 11 bankruptcy. Court filings showed the company had missed
+  $2 million in interest payments on a $43 million loan, despite receiving multiple due-date
+  extensions from its lender.
+- Plastiq secured $7.1 million in debtor-in-possession (DIP) financing to fund itself through the
+  bankruptcy process — its actual final "bridge."
+- A Delaware bankruptcy judge confirmed a plan to sell Plastiq's assets to stalking-horse bidder
+  Priority Technology Holdings Inc. for $27.5 million; the sale completed August 1, 2023.
+Source: Bloomberg Law (2023, "Payment Company Plastiq Goes Bankrupt in Wake of SVB's Collapse");
+Forbes (May 25, 2023, "Plastiq Files For Bankruptcy As Fintech Troubles Mount"); ION Analytics/Debtwire
+("Case Profile: Business payment platform Plastiq files for Chapter 11 following failed de-SPAC
+transaction"); Law360 (2023).
+
+COMPANY 4: ENJOY TECHNOLOGY — a bankruptcy-stage bridge loan from the company that ultimately bought
+it
+- Founded 2014 by Ron Johnson, formerly Apple's SVP of Retail and later CEO of JCPenney. Business:
+  "retail-as-a-service" — mobile stores (vans/staff) bringing a retail-store experience to customers
+  at their homes or offices, with AT&T as a major retail partner selling phones this way.
+- October 15, 2021: Enjoy completed a SPAC merger with Marquee Raine Acquisition Corp., at an implied
+  pro forma enterprise value of approximately $1.06-1.2 billion, delivering up to $454 million in
+  growth capital (approximately $374 million from the SPAC trust plus an $80 million PIPE). Began
+  trading on Nasdaq under ticker ENJY.
+- Early 2022: Enjoy experienced a rapid cash-flow crisis, driven substantially by a shortage of
+  Apple's latest iPhone products (Enjoy relied heavily on iPhone sales through its AT&T retail
+  partnership) alongside recent staffing and warehouse expansion undertaken in anticipation of
+  entering roughly 100 new markets.
+- June 30, 2022: Enjoy filed for Chapter 11 bankruptcy — just over eight months after going public —
+  with only $523,000 in cash on hand, not enough to make its next weekly payroll.
+- To fund itself through the bankruptcy process, Enjoy received a $2.5 million bridge loan and a $55
+  million financing commitment from Asurion, a technology-insurance/protection company, which became
+  the stalking-horse bidder for Enjoy's assets.
+- Enjoy's mobile retail business was ultimately sold to Asurion for $110 million, court-approved later
+  in 2022.
+Source: CNBC (Jun 30, 2022, "Former Apple, JC Penney exec Ron Johnson's Enjoy Technology files for
+bankruptcy months after it went public"); Bloomberg Law (2022, "Enjoy Technology $110 Million
+Bankruptcy Sale to Asurion Approved"); Retail Dive (2022, multiple articles); PR Newswire (2021 SPAC
+completion announcement); DealFlow's SPAC News (2021).
+
+---
+
+CATEGORY / CROSS-REFERENCE NOTES
+- All four companies here are companion segments in a single package, following the same multi-
+  company comparator format as packages 007 (YC batch audit), 015 (shutdown-letter corpus), and 025
+  (Sonder + Lyric + Zeus Living).
+- None of these four companies has been used as a full anchor elsewhere on this channel. Katerra
+  appeared only as a brief, one-line mention in package 015's 23-letter shutdown corpus (as one of
+  the "wind down" verb examples) — this package is the first full, sourced treatment of Katerra.
+- Distinct "bridge" mechanism per company, worth stating explicitly on screen: Katerra's bridges were
+  repeat emergency equity infusions from its single dominant investor; Veev's bridge was a specifically
+  named, failed bridge LOAN; Plastiq's "bridge" was effectively a failed SPAC merger (a public-market
+  bridge, not a private one) followed by real DIP financing in bankruptcy; Enjoy's bridge was DIP
+  financing supplied directly by its eventual acquirer.
+- Enjoy Technology and Katerra both involve companies that went through — or attempted — the SPAC
+  route, giving a natural, explicit cross-reference to package 031 (Virgin Orbit) and this channel's
+  other SPAC-era packages (026 WeWork, 027 23andMe, 028 Bird) — but the ANGLE here is the bridge-
+  financing mechanism, not the SPAC IPO itself; keep that distinction clear on screen.
+- No individual at any of the four companies was charged with fraud or any crime in connection with
+  these events — all four are financing-mechanism/distress stories, not fraud stories.
+
+---
+
+BEFORE RECORDING
+1. [VERIFY] Veev's exact peak valuation — sources range from ~$1 billion to $1.5 billion; use
+   "unicorn status" with a range rather than a single precise figure unless a firmer source is found.
+2. Bloomberg's own headline calls SoftBank's December 2020 Katerra infusion its "final cash
+   infusion," but SoftBank in fact provided a further $35 million DIP loan after the June 2021
+   bankruptcy filing — be precise on screen that the Dec 2020 round was SoftBank's final rescue
+   attempt BEFORE bankruptcy, not the literal last money Katerra ever received.
+3. Keep each company's distinct "bridge" mechanism clear and not conflated — see the cross-reference
+   notes above for the four different mechanisms.
+4. No fraud/criminal allegations apply to any founder or executive across all four companies — keep
+   the tone analytical, not accusatory, throughout.
+5. If cross-referencing package 031 (Virgin Orbit) or other SPAC-era packages, be explicit that the
+   angle here is bridge financing, not the SPAC IPO mechanism itself.
